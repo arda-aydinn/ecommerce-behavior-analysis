@@ -1,0 +1,42 @@
+SYNTHETIC DATASET NOTICE
+This file describes a synthetic (artificially generated) dataset created for learning, prototyping, and analysis.
+It is NOT real customer data and does not correspond to any identifiable individuals.
+
+DATA STORY
+The dataset represents order-level records from a Türkiye-based e-commerce platform between 2018 and 2024.
+Each row corresponds to a single shopping transaction (order) and contains customer demographics, shopping context,
+and order outcomes such as delivery time and satisfaction. The platform sells multiple product categories and supports
+common payment methods and acquisition channels.
+
+DATASET SHAPE
+- Rows (observations): 1725
+- Columns (variables): 16
+
+COLUMN INFORMATION (16 VARIABLES)
+1) year (integer): Calendar year of the order. Range: 2018–2024.
+2) order_id (string): Unique order identifier (synthetic).
+3) gender (categorical): Customer gender. Values: Female, Male.
+4) age (integer): Customer age in years. Range: 18–70.
+5) city (categorical): Customer city in Türkiye (synthetic assignment). Example values include İstanbul, Ankara, İzmir, etc.
+6) membership_tier (categorical): Loyalty/membership level. Values: Guest, Bronze, Silver, Gold.
+7) device_type (categorical): Device used during purchase. Values: Mobile, Desktop, Tablet.
+8) traffic_source (categorical): Main acquisition channel for the session. Values: Organic, Paid Search, Social, Email, Referral.
+9) payment_method (categorical): Payment type. Values: Credit Card, Debit Card, Cash on Delivery, Bank Transfer, Digital Wallet.
+10) product_category (categorical): Primary product category in the basket. Values: Electronics, Fashion, Home & Kitchen, Beauty, Sports, Books & Stationery, Groceries.
+11) items_in_cart (integer): Number of items purchased in the order. Range: 1–12.
+12) basket_value_try (numeric): Final basket value in Turkish Lira (TRY) after discounts.
+13) discount_rate (numeric): Discount rate applied to the order (0–0.45).
+14) delivery_days (integer): Delivery duration in days. Range: 1–10.
+15) satisfaction_score (numeric): Post-delivery customer satisfaction score on a 1.0–5.0 scale (one decimal).
+16) repeat_purchase_90d (binary target): Target variable indicating whether the customer made another purchase within 90 days.
+    Values: 1 = Yes, 0 = No.
+
+MEASUREMENT SCALES
+- Nominal (categorical): gender, city, membership_tier, device_type, traffic_source, payment_method, product_category
+- Ratio (numeric with true zero): basket_value_try, items_in_cart, delivery_days, age
+- Proportion: discount_rate
+- Ordinal/Rating scale: satisfaction_score
+- Binary: repeat_purchase_90d
+
+TARGET VARIABLE
+- repeat_purchase_90d is recommended for classification tasks (customer retention / repeat purchase prediction).

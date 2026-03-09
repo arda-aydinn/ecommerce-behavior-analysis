@@ -1,0 +1,1726 @@
+Year,OrderID ,GENDER,Age, City,membershipTier,Device_type,traffic Source,payment_method ,ProductCategory,Items_in_cart,BasketValueTRY,Discount Rate,delivery_days ,SatisfactionScore,Repeat_Purchase_90D
+2019,ORD2019000001,MALE,42,KAYSERI,bronze,desktop,Organic,Cr3dit Card,FASHION,5,345.3,0.116%,2,3.6,1
+2024,ORD2024000002, Male ,32, Bursa ,bronze,MOBILE,social,Cr3dit Card,Electronics*,1,275.39,0.104%,2,4.3,1
+2023,ORD2023000003,F3mal3,27,i̇stanbul,BRONZE,MOBILE,social, Credit Card , Fashion ,3,797.88,0.258%,2,5.0,1
+2018,ORD2018000004,MALE,44, Adana ,gold,desktop,organic,DEBIT CARD, Groceries ,4,275.08,0.13%,2,4.2,1
+2018,ORD2018000005, Male ,18, Antalya , Bronze ,Mobil3,email,Cr3dit Card,SPORTS,2,910.98,0.156%,3,3.3,0
+2021,ORD2021000006,male,18,ankara, Silver ,Mobil3,email, Digital Wallet ,HOME & KITCHEN,3,NA,0.309%,3,3.2,0
+2024,ORD2024000007, Male ,40,İSTANBUL,Silv3r,MOBILE, Organic ,cash on delivery,HOME & KITCHEN,1,640.46,0.137%,1,4.8,1
+2020,ORD2020000008,female,27,Ankara*, Silver ,tablet,Paid S3arch,credit card,FASHION,3,1474.01,0.194%,4,3.9,1
+2020,ORD2020000009,male,43, Trabzon ,NA,MOBILE,PAID SEARCH, Credit Card ,Home & Kitchen*,2,496.99,0.211%,4,4.2,0
+2023,ORD2023000010,male,42,Ankara,SILVER,Mobil3,organic, Bank Transfer ,Books & Station3ry,4,269.77,0.165%,3,3.7,0
+2018,ORD2018000011,MALE,44,ADANA,Silv3r,Mobile*, Email , Digital Wallet ,ELECTRONICS,1,662.96,0.198%,3,3.2,0
+2024,ORD2024000012,Female*,NA,i̇stanbul,GUEST,desktop,EMAIL, Credit Card ,fashion,3,362.91,0.072%,3,3.5,1
+2024,ORD2024000013,male,29,Ankara*,SILVER, Mobile ,email,Credit Card*,HOME & KITCHEN,2,1031.39,0.12%,3,4.4,1
+2023,ORD2023000014,male,30, Mersin ,Guest*,DESKTOP,email,Cr3dit Card,home & kitchen,1,195.65,0.16%,3,3.0,0
+2024,ORD2024000015,male,35,ankara,Silv3r,Mobil3, Organic , Digital Wallet ,Fashion,5,2929.2,0.008%,1,4.4,1
+2022,ORD2022000016,male,40,Konya*,BRONZE, Mobile , Paid Search ,CREDIT CARD, Electronics ,1,1009.89,0.141%,2,4.5,1
+2019,ORD2019000017,FEMALE,41, Mersin ,Bronze*, Desktop ,Paid S3arch,CREDIT CARD,HOME & KITCHEN,3,561.87,0.141%,4,3.9,1
+2023,ORD2023000018,Female*,26,i̇stanbul, Bronze ,Mobile*, Paid Search ,CREDIT CARD,beauty,1,172.15,0.026%,2,4.6,0
+2024,ORD2024000019,F3mal3,25,İstanbul*,NA,MOBILE, Paid Search ,Credit Card*,Groc3ri3s,5,291.55,0.178%,2,4.9,0
+2023,ORD2023000020, Male ,43,ANKARA,GUEST,Mobile*,EMAIL,BANK TRANSFER,SPORTS,5,945.91,0.27%,3,3.5,0
+2019,ORD2019000021, Male ,19,BURSA,Guest*,mobile,Social,CREDIT CARD,home & kitchen,1,609.68,0.183%,3,3.6,0
+2020,ORD2020000022,FEMALE,53, İstanbul ,Silv3r,mobile,organic,D3bit Card, Fashion ,4,417.59,0.119%,2,3.4,1
+2019,ORD2019000023,MALE,30,konya,GUEST,mobile,social, Credit Card ,Hom3 & Kitch3n,1,297.44,0.209%,3,3.6,1
+2023,ORD2023000024,FEMALE,44,ankara,BRONZE,Mobile*,ORGANIC,credit card, Beauty ,3,419.58,0.188%,3,3.7,0
+2019,ORD2019000025, Male ,32,antalya,silver,mobile,ORGANIC,Credit Card*, Beauty ,4,620.31,0.044%,4,4.5,1
+2018,ORD2018000026,Female*,43,KONYA,bronze,NA,PAID SEARCH,CREDIT CARD, Electronics ,1,1430.61,0.135%,3,4.1,1
+2021,ORD2021000027,female,29,İstanbul,GUEST,MOBILE,organic,DEBIT CARD,Fashion,2,250.63,0.023%,3,5.0,1
+2021,ORD2021000028, Male ,19, Kayseri , Bronze ,MOBILE,social,Bank Transf3r,B3auty,2,502.77,0.133%,3,3.8,0
+2021,ORD2021000029,male,32,Gaziantep*,silver,Desktop*,PAID SEARCH,CREDIT CARD,groceries,1,51.95,0.147%,3,4.0,1
+2022,ORD2022000030,Female*,51,İstanbul,bronze,Mobile*,Organic*,Cash on Delivery*,SPORTS,1,290.12,0.125%,3,3.3,0
+2023,ORD2023000031,MALE,26,i̇zmir, Bronze ,Mobile*,Organic,Cr3dit Card,electronics,1,824.15,0.009%,4,3.2,0
+2022,ORD2022000032,MALE,35,i̇stanbul,guest, Mobile ,Organic,debit card,FASHION,4,889.35,0.055%,3,4.6,0
+2021,ORD2021000033,FEMALE,50,ANTALYA,guest,DESKTOP,referral,Digital Wall3t,Fashion,4,527.89,0.084%,3,3.2,0
+2018,ORD2018000034,MALE,53, İzmir , Gold ,Desktop*,Organic,CREDIT CARD,Fashion,5,623.99,0.108%,3,3.6,1
+2023,ORD2023000035,MALE,26,konya,Gold,D3sktop,organic,credit card,home & kitchen,1,220.89,0.08%,3,NA,1
+2020,ORD2020000036,Female*,39, İstanbul ,bronze,Mobile*, Referral ,DEBIT CARD,Fashion*,2,367.96,0.12%,3,4.5,1
+2018,ORD2018000037,FEMALE,33,İSTANBUL,Guest*,mobile,Social*,credit card,Hom3 & Kitch3n,2,265.78,0.141%,2,4.1,0
+2023,ORD2023000038, Female ,35,Antalya,bronze,Mobil3, Social ,Bank Transf3r,Fashion*,3,538.17,0.105%,4,2.4,1
+2019,ORD2019000039,male,36,ankara, Bronze ,MOBILE,PAID SEARCH,Cr3dit Card,Books & Station3ry,7,630.97,0.123%,3,3.6,0
+2024,ORD2024000040,F3mal3,54,bursa,bronze,Mobile*,organic, Credit Card ,electronics,1,560.13,0.099%,2,4.1,0
+2021,NA,Female*,18,mersin,Silv3r,MOBILE,Organic,CREDIT CARD,SPORTS,1,178.96,0.103%,4,3.0,0
+2024,ORD2024000042,female,42,Ankara,GUEST,DESKTOP, Social ,DEBIT CARD,fashion,1,230.57,0.262%,4,3.8,0
+2024,ORD2024000043,F3mal3,30, İstanbul ,GUEST,mobile,ORGANIC,CREDIT CARD,HOME & KITCHEN,2,671.41,0.012%,1,4.6,0
+2024,ORD2024000044,FEMALE,18, Gaziantep ,Silver*,Mobile*, Social ,Credit Card*,BEAUTY,1,80.44,0.138%,4,3.8,0
+2023,ORD2023000045,female,18,Eskişehir*,Silver*,mobile,paid search, Credit Card ,Fashion*,2,293.06,0.122%,3,3.9,1
+2020,ORD2020000046,male,40,Ankara*, Silver ,DESKTOP,email, Credit Card ,fashion,4,1145.67,0.162%,2,3.5,1
+2023,ORD2023000047,Male*,23,i̇stanbul,guest,MOBILE,Paid S3arch,credit card,fashion,3,320.98,0.179%,2,4.4,1
+2022,ORD2022000048,NA,31,Trabzon,bronze, Desktop ,Social, Credit Card ,home & kitchen,2,366.13,0.114%,3,4.5,0
+2023,ORD2023000049,Female*,45,BURSA,Guest*, Desktop ,EMAIL,credit card,home & kitchen,5,1960.14,0.195%,3,3.6,0
+2021,ORD2021000050,Male*,33,ANKARA, Silver ,Desktop*, Social ,DEBIT CARD,HOME & KITCHEN,3,1796.94,0.215%,3,4.1,1
+2022,ORD2022000051, Female ,24,Adana,GUEST,Mobile*,PAID SEARCH,debit card,home & kitchen,2,498.18,0.219%,2,4.5,0
+2021,ORD2021000052, Female ,31,KONYA,silver,Mobile*,Email*,CREDIT CARD, Beauty ,2,290.69,0.252%,1,4.3,0
+2021,ORD2021000053, Female ,26,ankara,guest,desktop,REFERRAL,cash on delivery,electronics,3,930.15,0.002%,3,4.4,0
+2021,ORD2021000054,Female*,40,ANKARA,gold,Mobil3,Organic*,Credit Card*,ELECTRONICS,2,4855.73,0.052%,1,5.0,1
+2023,ORD2023000055,female,18,Trabzon*,GUEST,mobile,ORGANIC,credit card, Home & Kitchen ,2,723.06,0.035%,3,4.9,0
+2020,ORD2020000056,Mal3,37,Trabzon,guest, Mobile ,PAID SEARCH,credit card,Sports*,2,449.0,0.194%,4,4.1,1
+2021,ORD2021000057,female,24,Bursa*,silver, Mobile ,email,CREDIT CARD,Books & Stationery*,2,84.74,0.245%,2,3.5,0
+2022,ORD2022000058,F3mal3,34,antalya,Gu3st,Mobile*,EMAIL,CREDIT CARD,Electronics*,3,4543.85,0.162%,4,3.6,0
+2019,ORD2019000059,MALE,35, İzmir , Silver ,Mobile*,Organic*,Bank Transf3r, Home & Kitchen ,2,357.7,0.175%,2,3.9,0
+2023,ORD2023000060, Female ,51,İZMIR,Guest*,mobile, Organic ,CASH ON DELIVERY,Home & Kitchen*,1,212.12,0.035%,3,4.3,1
+2023,ORD2023000061,FEMALE,24,İSTANBUL,Guest*,TABLET,PAID SEARCH,credit card,Hom3 & Kitch3n,1,185.84,0.17%,1,4.1,1
+2023,ORD2023000062,male,30, Adana ,bronze,mobile,social,NA,BOOKS & STATIONERY,1,93.73,0.137%,5,3.7,1
+2022,ORD2022000063,F3mal3,38, Bursa ,GUEST,Desktop*,Paid S3arch,bank transfer,GROCERIES,4,161.09,0.238%,3,4.3,0
+2023,ORD2023000064,male,43,İstanbul, Gold ,MOBILE,Social,CREDIT CARD, Electronics ,2,1000.96,0.265%,3,5.0,1
+2022,ORD2022000065,female,24,İstanbul*,Silver*, Desktop ,organic,CREDIT CARD, Electronics ,1,576.52,0.152%,3,3.9,0
+2019,ORD2019000066, Male ,28, Kayseri ,guest,MOBILE,PAID SEARCH,Cr3dit Card,BEAUTY,4,444.6,0.049%,4,3.4,0
+2019,ORD2019000067,FEMALE,39,Konya*, Guest ,Tablet*, Referral ,Credit Card*,Electronics*,1,1187.61,0.078%,2,4.2,0
+2023,ORD2023000068,MALE,23, İzmir ,bronze,desktop,organic,CREDIT CARD,FASHION,3,473.71,0.046%,2,3.5,0
+2022,ORD2022000069,female,25,Bursa,BRONZE,D3sktop,SOCIAL,CREDIT CARD,home & kitchen,2,851.68,0.122%,3,3.2,0
+2024,ORD2024000070,FEMALE,32,ankara,bronze,Mobil3,paid search,Cr3dit Card,home & kitchen,1,857.91,0.2%,4,2.7,0
+2018,ORD2018000071,female,39,İstanbul, Bronze , Desktop ,paid search,Debit Card*,ELECTRONICS,1,387.46,0.122%,2,4.4,0
+2024,ORD2024000072,MALE,28,i̇stanbul,GOLD,Mobil3, Paid Search ,Credit Card*,Beauty*,2,496.59,0.062%,1,4.8,0
+2021,ORD2021000073,F3mal3,31,antalya,guest,DESKTOP,Email,Cr3dit Card,fashion,3,309.86,0.196%,4,4.4,1
+2018,ORD2018000074, Female ,18, İstanbul ,guest,Mobil3,paid search, Cash on Delivery ,HOME & KITCHEN,3,831.69,0.15%,3,5.0,NA
+2021,ORD2021000075,MALE,26,ADANA,GUEST, Mobile ,organic,CREDIT CARD,fashion,5,2328.02,0.025%,4,2.8,0
+2023,ORD2023000076,MALE,58, Mersin , Gold ,DESKTOP, Organic , Bank Transfer ,HOME & KITCHEN,1,536.95,0.071%,3,4.6,1
+2020,ORD2020000077,F3mal3,63,Ankara,bronze,mobile,ORGANIC,DEBIT CARD, Fashion ,1,337.13,0.141%,4,3.7,0
+2024,ORD2024000078,Male*,25,İZMIR,bronze,mobile,Organic*,CREDIT CARD,HOME & KITCHEN,1,472.65,0.084%,2,3.7,0
+2022,ORD2022000079, Male ,26,İstanbul,BRONZE,mobile,Paid Search*,CREDIT CARD,Fashion,3,291.75,0.216%,2,4.1,0
+2020,ORD2020000080, Male ,42,Konya*,BRONZE,D3sktop, Organic ,BANK TRANSFER,groceries,1,82.4,0.061%,3,3.9,0
+2024,ORD2024000081,Male*,29,İSTANBUL,Bronze*,MOBILE, Email ,credit card, Beauty ,3,556.07,0.196%,1,4.1,0
+2024,ORD2024000082,Male*,38,ANTALYA,GUEST, Desktop ,Organic*,CREDIT CARD,beauty,4,737.28,0.087%,4,4.4,0
+2020,ORD2020000083,Mal3,30,ESKIŞEHIR,BRONZE,Mobil3, Organic , Debit Card , Home & Kitchen ,2,724.77,0.098%,3,3.4,0
+2022,ORD2022000084, Female ,35, Konya ,Bronz3, Desktop ,ORGANIC, Credit Card ,GROCERIES,2,73.28,0.046%,3,3.7,0
+2019,ORD2019000085,Female*,39, İstanbul , Bronze ,MOBILE,SOCIAL, Credit Card , Electronics ,1,511.79,0.227%,1,4.9,0
+2022,ORD2022000086,female,29, İstanbul ,Silv3r,Mobil3, Paid Search , Debit Card ,books & stationery,5,307.34,0.146%,4,3.7,1
+2022,ORD2022000087,FEMALE,39,İstanbul, Guest ,DESKTOP,paid search, Credit Card ,El3ctronics,2,2320.13,0.02%,2,2.9,0
+2021,ORD2021000088,Female*,18,kayseri, Guest ,mobile,Social*,CASH ON DELIVERY,Home & Kitchen*,1,175.39,0.093%,1,3.9,0
+2020,ORD2020000089,NA,NA, Konya ,BRONZE,Desktop*,paid search, Credit Card ,Fashion*,2,709.09,0.208%,4,3.8,0
+2019,ORD2019000090,male,22,gaziantep,bronze,TABLET, Organic ,cash on delivery,sports,3,1021.81,0.095%,3,3.3,NA
+2018,ORD2018000091,FEMALE,41,KAYSERI, Gold ,Mobile*,SOCIAL,Credit Card*, Groceries ,2,95.96,0.166%,2,4.3,1
+2023,ORD2023000092,female,44, Kayseri ,silver,mobile,Social,credit card,ELECTRONICS,1,777.17,0.2%,3,3.3,0
+2022,ORD2022000093,female,18,Ankara*,SILVER,MOBILE, Social ,credit card,Fashion,3,843.75,0.124%,4,4.0,1
+2021,ORD2021000094,male,18,ankara, Gold ,Mobile*,PAID SEARCH,Digital Wall3t, Books & Stationery ,1,99.12,0.21%,3,3.7,0
+2020,ORD2020000095,F3mal3,44, İzmir ,silver, Mobile , Social ,CASH ON DELIVERY,Beauty*,1,174.27,0.21%,2,4.5,1
+2021,ORD2021000096, Female ,NA,i̇zmir,GUEST,Mobil3,ORGANIC,credit card,Electronics*,1,528.09,0.07%,4,4.4,0
+2023,ORD2023000097,F3mal3,29,M3rsin, Bronze ,MOBILE,Paid Search*,Digital Wall3t, Fashion ,4,864.72,0.169%,3,3.5,0
+2023,ORD2023000098,FEMALE,28,İstanbul, Guest ,Desktop*,ORGANIC,CREDIT CARD,fashion,4,856.71,0.063%,3,3.6,0
+2024,ORD2024000099, Male ,27,Kayseri*,GUEST, Mobile ,EMAIL,Bank Transfer*, Beauty ,2,204.99,0.206%,3,3.7,0
+2019,ORD2019000100,Male*,38,Gaziant3p,GOLD,mobile,PAID SEARCH, Cash on Delivery ,Fashion,1,79.78,0.174%,5,4.4,1
+2018,ORD2018000101,female,36, Adana ,SILVER,Desktop*,Email*,CREDIT CARD,B3auty,NA,846.06,0.26%,2,4.9,0
+2024,ORD2024000102,Female*,43,İstanbul*,bronze, Mobile ,Social,Cash on D3liv3ry,Home & Kitchen*,1,383.79,0.189%,4,4.3,0
+2022,ORD2022000103, Male ,22, İstanbul ,bronze,desktop,paid search,Credit Card*,Sports,2,609.44,0.316%,3,3.8,0
+2021,ORD2021000104,FEMALE,24,adana,Silver*, Mobile , Organic ,Cash on D3liv3ry,Hom3 & Kitch3n,1,277.35,0.148%,3,4.0,1
+2024,ORD2024000105,male,18, Adana ,bronze,mobile,PAID SEARCH,BANK TRANSFER,Books & Station3ry,3,169.18,0.07%,3,4.3,NA
+2023,ORD2023000106,FEMALE,19,ANTALYA, Guest ,Mobil3, Organic ,DIGITAL WALLET,HOME & KITCHEN,1,517.93,0.144%,4,3.4,0
+2023,ORD2023000107,Female*,18, Eskişehir ,GUEST, Mobile ,Organic*,credit card,FASHION,5,952.46,0.106%,4,3.8,1
+2020,ORD2020000108,Mal3,53,MERSIN,bronze,MOBILE,EMAIL,CASH ON DELIVERY,HOME & KITCHEN,1,384.96,0.152%,3,4.7,0
+2021,ORD2021000109,female,48,i̇stanbul, Guest ,Mobile*,ORGANIC,Cr3dit Card, Fashion ,2,320.44,0.064%,3,4.6,0
+2024,ORD2024000110,FEMALE,19,BURSA,guest, Desktop ,Paid Search*,debit card,HOME & KITCHEN,4,1544.05,NA,2,5.0,0
+2018,ORD2018000111,F3mal3,39,İSTANBUL,GUEST,mobile,paid search,Cr3dit Card,Fashion,4,1872.87,0.06%,2,4.4,0
+2023,ORD2023000112,F3mal3,22, İstanbul ,BRONZE, Tablet ,Organic*, Credit Card ,Fashion,1,255.14,0.043%,2,3.9,1
+2024,ORD2024000113,Mal3,43,Kays3ri,BRONZE,DESKTOP,social,Credit Card*,electronics,2,1358.19,0.144%,3,4.1,1
+2023,ORD2023000114,Mal3,37,antalya,GUEST,mobile,REFERRAL,Credit Card*, Home & Kitchen ,2,436.45,0.02%,4,3.9,0
+2023,ORD2023000115,male,29,NA,NA,DESKTOP,organic,Credit Card*,Hom3 & Kitch3n,1,391.71,0.0%,4,4.0,1
+2023,ORD2023000116,female,18, Antalya ,BRONZE,mobile,PAID SEARCH,debit card,electronics,1,975.38,0.134%,1,4.3,1
+2018,ORD2018000117, Male ,32, İzmir ,Bronze*,Mobile*,Paid S3arch,CREDIT CARD,electronics,3,2706.19,0.237%,3,4.5,1
+2020,ORD2020000118,female,45,ankara, Bronze ,mobile,SOCIAL,Bank Transf3r,groceries,1,39.46,0.141%,3,4.2,1
+2020,ORD2020000119,male,28,İstanbul*, Bronze ,Mobil3,ORGANIC,Cr3dit Card,books & stationery,3,188.62,0.228%,3,3.9,0
+2022,ORD2022000120,Male*,34,M3rsin,GOLD,MOBILE,PAID SEARCH,credit card,GROCERIES,3,168.87,0.116%,3,4.4,0
+2021,ORD2021000121,female,42,İSTANBUL,Bronze*,MOBILE,paid search,credit card,Sports,1,102.03,0.109%,2,3.8,0
+2023,ORD2023000122,FEMALE,35,BURSA, Guest , Mobile ,PAID SEARCH, Credit Card ,Hom3 & Kitch3n,1,424.39,0.107%,1,4.1,1
+2023,ORD2023000123,F3mal3,31,i̇zmir,Bronz3,mobile,paid search, Cash on Delivery ,FASHION,4,1458.93,0.249%,2,2.4,0
+2024,ORD2024000124,Mal3,31,İstanbul*,guest,MOBILE,Organic, Credit Card ,B3auty,2,278.49,0.019%,1,5.0,1
+2022,ORD2022000125,Female*,23,İstanbul*, Bronze ,Tabl3t,ORGANIC,digital wallet,HOME & KITCHEN,2,1467.2,0.106%,3,3.6,0
+2020,ORD2020000126,FEMALE,18, İstanbul ,BRONZE,D3sktop,PAID SEARCH,debit card,Fashion,1,112.25,0.19%,2,3.9,0
+2019,ORD2019000127, Male ,28,İSTANBUL, Guest ,NA,paid search,cash on delivery,sports,1,128.24,0.16%,2,3.7,0
+2018,ORD2018000128,female,34,İzmir*,Silver*,Mobile*,PAID SEARCH,Cr3dit Card,Home & Kitchen*,1,264.35,0.277%,4,3.8,0
+2021,ORD2021000129, Male ,53,adana, Bronze ,mobile,referral,credit card,GROCERIES,3,98.59,0.121%,3,3.9,0
+2021,ORD2021000130, Male ,36,Kayseri*,Gold*,mobile,Email*, Debit Card , Electronics ,1,566.05,0.326%,1,5.0,1
+2024,ORD2024000131,FEMALE,21, Mersin ,silver,Mobil3,Organic*,Debit Card*,NA,2,378.5,0.07%,3,4.1,1
+2023,ORD2023000132,F3mal3,26,bursa,BRONZE,Desktop*, Paid Search ,bank transfer,Groceries*,4,449.84,0.091%,2,3.9,0
+2023,ORD2023000133,Female*,25,Antalya, Silver ,tablet,social,Credit Card*,HOME & KITCHEN,2,449.25,0.159%,3,3.8,1
+2020,ORD2020000134,F3mal3,28,i̇stanbul, Bronze ,Mobile*,organic,credit card,Fashion,1,370.65,0.0%,2,4.0,0
+2021,ORD2021000135, Male ,23, Antalya , Guest ,Mobil3, Social ,Credit Card*,HOME & KITCHEN,1,358.66,0.177%,3,4.4,0
+2022,ORD2022000136, Male ,38,kayseri,Guest*,Mobil3,ORGANIC, Credit Card , Fashion ,2,235.78,0.146%,4,4.3,0
+2024,ORD2024000137,female,18, Antalya ,Gu3st, Mobile ,Social*, Credit Card , Home & Kitchen ,2,476.31,0.132%,2,4.2,0
+2020,ORD2020000138, Male ,26,İstanbul*, Silver ,DESKTOP,Email,Credit Card*,BOOKS & STATIONERY,2,237.94,0.132%,2,3.8,0
+2024,ORD2024000139,MALE,34,i̇stanbul,Gold,Mobile*,Social*,CREDIT CARD,BOOKS & STATIONERY,2,128.98,0.252%,3,4.3,1
+2020,ORD2020000140,male,25,Adana*,guest,desktop,Social,CREDIT CARD,El3ctronics,1,1257.98,0.092%,3,2.9,0
+2023,ORD2023000141,female,24,konya,guest, Tablet , Organic ,credit card, Fashion ,1,273.14,0.158%,3,3.0,0
+2023,ORD2023000142, Female ,46, İstanbul ,guest,DESKTOP, Organic , Credit Card ,Groc3ri3s,2,131.74,0.088%,3,3.7,0
+2022,ORD2022000143,MALE,30,i̇stanbul,Guest*,DESKTOP,Paid S3arch,credit card,groceries,6,300.94,0.242%,4,2.3,0
+2021,ORD2021000144,Female*,28, İstanbul ,Bronze*,NA,referral,Digital Wall3t,GROCERIES,3,115.22,0.134%,2,4.9,0
+2019,ORD2019000145,MALE,46,Ankara,Silver*,MOBILE, Organic ,Digital Wall3t,FASHION,1,282.58,0.029%,3,3.7,1
+2018,ORD2018000146,MALE,49,i̇zmir, Bronze ,Mobile*, Paid Search ,credit card, Home & Kitchen ,2,804.31,0.219%,1,5.0,1
+2023,ORD2023000147,MALE,37,trabzon,BRONZE,mobile,Paid S3arch,Cr3dit Card,B3auty,1,159.95,0.096%,4,3.7,1
+2018,ORD2018000148,FEMALE,38,İstanbul*,Bronz3,MOBILE, Organic ,Cr3dit Card,groceries,3,253.73,0.153%,2,3.9,0
+2023,ORD2023000149,Male*,40, Ankara ,Bronz3,Desktop*, Organic ,CREDIT CARD,Books & Station3ry,2,144.02,0.181%,4,3.3,NA
+2020,ORD2020000150,Mal3,33,Adana,silver, Mobile ,social,bank transfer,Groc3ri3s,5,230.33,0.184%,3,4.4,0
+2023,ORD2023000151,Male*,36,İSTANBUL,BRONZE,Mobile*,ORGANIC,CASH ON DELIVERY,BOOKS & STATIONERY,1,68.28,0.136%,2,3.8,0
+2020,ORD2020000152,female,18,İstanbul,SILVER,Mobil3, Organic , Debit Card ,ELECTRONICS,1,1268.39,0.091%,3,3.1,1
+2024,ORD2024000153, Female ,31,ADANA, Silver ,MOBILE,social, Credit Card , Beauty ,2,109.54,0.276%,2,4.3,1
+2021,ORD2021000154, Female ,34,ANKARA,Bronz3,mobile,Organic,cash on delivery,Sports*,1,367.63,0.146%,3,3.5,0
+2023,ORD2023000155,F3mal3,27,ESKIŞEHIR, Bronze ,DESKTOP, Organic , Credit Card ,FASHION,4,719.23,0.16%,2,4.2,0
+2020,ORD2020000156,MALE,20, Gaziantep ,guest,Mobile*,ORGANIC,CREDIT CARD,Fashion*,3,1326.46,0.217%,5,3.9,0
+2020,ORD2020000157,male,22,mersin, Bronze ,mobile, Paid Search ,credit card,groceries,4,473.23,0.136%,4,2.7,1
+2022,ORD2022000158,MALE,18,gaziantep, Guest ,Mobile*, Paid Search , Debit Card ,HOME & KITCHEN,2,231.48,0.157%,2,3.1,1
+2023,ORD2023000159,male,20,Ankara,GUEST, Mobile ,paid search,DIGITAL WALLET,SPORTS,NA,563.31,0.168%,3,3.9,1
+2021,ORD2021000160,F3mal3,28,konya,gold,desktop,Organic,CREDIT CARD,El3ctronics,1,1159.89,0.026%,2,4.6,0
+2019,ORD2019000161,Male*,18, Bursa ,Silver*,MOBILE, Paid Search ,NA,Books & Stationery*,2,207.81,0.092%,2,3.9,0
+2018,ORD2018000162,FEMALE,23, İstanbul ,gold,MOBILE,paid search,Cash on Delivery*,Electronics*,2,772.21,0.085%,4,2.9,0
+2023,NA,Female*,39,Ankara,BRONZE, Desktop , Social , Cash on Delivery ,Groceries*,5,194.18,0.097%,5,4.1,0
+2023,ORD2023000164,F3mal3,20, İstanbul ,GUEST,Mobile*,social,Debit Card*,electronics,1,1371.85,0.15%,3,4.0,0
+2022,ORD2022000165,male,30,i̇stanbul,Bronze*,desktop,Organic*,D3bit Card,sports,2,415.65,0.093%,2,4.5,1
+2021,ORD2021000166,Mal3,43,İSTANBUL,Bronze*,D3sktop,ORGANIC,credit card,Hom3 & Kitch3n,3,1632.86,0.107%,3,4.5,0
+2023,ORD2023000167,MALE,25, İstanbul ,GUEST, Mobile ,Organic, Credit Card ,electronics,1,1783.57,0.039%,3,4.1,1
+NA,ORD2018000168,MALE,41, İstanbul ,bronze,Desktop*,ORGANIC,Cr3dit Card, Home & Kitchen ,4,709.46,0.146%,2,3.5,0
+2020,ORD2020000169,F3mal3,32,ankara, Bronze , Mobile , Paid Search ,Cr3dit Card,FASHION,5,769.63,0.184%,3,3.5,1
+2019,ORD2019000170,MALE,38,İSTANBUL,Gu3st,MOBILE, Paid Search , Credit Card ,Fashion*,1,435.53,0.089%,1,5.0,0
+2020,ORD2020000171,F3mal3,40,İstanbul*,Silv3r, Desktop ,social,Cr3dit Card,Home & Kitchen*,5,1777.88,0.166%,2,4.5,1
+2021,ORD2021000172, Female ,20,i̇stanbul,bronze,desktop, Paid Search ,credit card, Groceries ,7,254.29,0.177%,4,3.4,1
+2022,ORD2022000173,female,40, İstanbul ,Bronze*,MOBILE,paid search,Cash on Delivery*,HOME & KITCHEN,1,1018.59,0.141%,3,3.7,0
+2022,ORD2022000174,FEMALE,49,Adana*, Bronze ,desktop,paid search,credit card,fashion,3,457.59,0.234%,4,3.6,0
+2023,ORD2023000175,Female*,22,Trabzon*,Bronz3,mobile,NA, Credit Card ,HOME & KITCHEN,1,625.66,0.11%,3,4.4,0
+2023,ORD2023000176,FEMALE,26,Konya,guest,mobile, Organic ,digital wallet,Home & Kitchen*,1,381.38,0.073%,4,4.5,0
+2023,ORD2023000177,FEMALE,30,i̇stanbul, Silver , Desktop ,Social*,Cash on D3liv3ry,FASHION,1,124.54,0.121%,3,3.7,0
+2024,ORD2024000178,FEMALE,44, Kayseri ,GUEST,Mobil3,Paid Search*, Bank Transfer ,Electronics*,1,220.28,0.167%,3,4.8,0
+2023,ORD2023000179, Female ,37,Antalya,Silv3r,mobile,email, Cash on Delivery ,Electronics*,7,2573.73,0.136%,3,4.1,0
+2021,ORD2021000180,Male*,18, Eskişehir ,Bronz3,MOBILE,Organic*,Credit Card*,Sports,1,118.88,0.044%,3,4.2,0
+2022,ORD2022000181, Male ,22,i̇stanbul,SILVER,MOBILE,ORGANIC,Cr3dit Card, Home & Kitchen ,2,463.32,0.065%,3,4.4,0
+2024,ORD2024000182,Female*,46,i̇zmir,GOLD, Mobile ,email,Credit Card*,Hom3 & Kitch3n,3,691.71,0.174%,3,4.6,0
+2019,ORD2019000183,FEMALE,32,KAYSERI,Bronze*,MOBILE,Organic*,Cr3dit Card,sports,1,167.79,0.241%,1,4.8,1
+2024,ORD2024000184,female,49,İstanbul,guest, Mobile ,Social*, Cash on Delivery ,BOOKS & STATIONERY,2,97.58,0.196%,1,4.4,1
+2018,ORD2018000185,F3mal3,69, İzmir ,Gold,Tablet*,Organic*,credit card, Electronics ,1,1035.12,0.08%,3,4.5,1
+2020,ORD2020000186, Male ,42,adana,Guest*, Mobile , Social ,CREDIT CARD,Beauty*,1,190.07,0.197%,4,3.1,0
+2019,ORD2019000187,Mal3,38,i̇stanbul,Guest*,DESKTOP, Email , Credit Card ,home & kitchen,1,218.51,0.131%,NA,4.3,0
+2020,ORD2020000188,Male*,29,İstanbul*,SILVER, Desktop , Social ,CREDIT CARD, Groceries ,3,154.86,0.135%,3,3.6,1
+2019,ORD2019000189,FEMALE,26,İZMIR,GOLD,D3sktop,Organic,CREDIT CARD,El3ctronics,1,927.79,0.0%,3,5.0,1
+2022,ORD2022000190,MALE,24, Bursa ,Bronze*,Mobile*,organic,Cr3dit Card,BOOKS & STATIONERY,2,170.69,0.076%,2,3.9,0
+2021,ORD2021000191,male,29,adana, Bronze ,MOBILE,PAID SEARCH,DIGITAL WALLET,GROCERIES,2,60.25,0.099%,3,3.4,0
+2020,ORD2020000192,female,27,İSTANBUL,Bronz3, Mobile ,EMAIL,Cr3dit Card, Fashion ,3,783.7,0.171%,2,3.8,0
+2019,ORD2019000193,Female*,34,İSTANBUL,SILVER,MOBILE,organic,CREDIT CARD,sports,4,634.88,NA,3,4.5,1
+2019,ORD2019000194,F3mal3,23,İZMIR,Gu3st,Mobil3,organic,credit card,NA,2,819.84,0.117%,3,4.2,0
+2021,ORD2021000195,male,45, Bursa , Bronze ,Mobil3,organic,Bank Transfer*,BEAUTY,1,147.99,0.108%,2,4.1,0
+2022,ORD2022000196,male,21,Adana,Guest*,MOBILE,PAID SEARCH,CREDIT CARD,Fashion*,3,602.92,0.171%,3,3.9,1
+2023,ORD2023000197,female,32,i̇stanbul,gold,MOBILE,Paid Search*,Credit Card*,Electronics*,3,4524.32,0.108%,3,4.4,0
+2024,ORD2024000198,MALE,39,i̇stanbul, Guest ,MOBILE, Organic ,credit card,ELECTRONICS,1,397.81,0.033%,2,3.5,0
+2024,ORD2024000199,F3mal3,47,İstanbul, Bronze ,mobile,Email*,Cr3dit Card,GROCERIES,3,171.8,0.24%,1,4.1,0
+2021,ORD2021000200, Male ,35,İstanbul*, Bronze ,Mobile*, Organic ,Debit Card*,beauty,1,88.48,0.011%,3,5.0,0
+2021,ORD2021000201,MALE,26,Kays3ri,bronze,Mobile*,ORGANIC,Credit Card*,home & kitchen,3,685.82,0.147%,4,4.2,0
+2020,ORD2020000202,Male*,46, Ankara ,gold,DESKTOP,email, Credit Card ,electronics,1,344.49,0.194%,3,3.6,1
+2024,ORD2024000203,FEMALE,27,MERSIN, Guest ,mobile,paid search,Cr3dit Card, Fashion ,3,720.69,0.263%,2,4.9,1
+2020,ORD2020000204, Male ,30,adana,Bronz3,Tablet*,ORGANIC,Credit Card*,B3auty,3,169.43,0.143%,4,3.5,0
+2020,ORD2020000205,Male*,38,Adana*,BRONZE,MOBILE,organic,Cr3dit Card,ELECTRONICS,2,785.13,0.065%,5,3.8,1
+2019,ORD2019000206,Male*,33,ESKIŞEHIR,Bronze*,Mobil3,ORGANIC,DEBIT CARD,NA,1,1347.05,0.159%,3,4.3,0
+2021,ORD2021000207, Female ,40,i̇zmir, Silver ,desktop,SOCIAL,credit card,fashion,2,238.35,0.28%,2,3.3,0
+2018,ORD2018000208, Male ,26, Konya ,Guest*,Mobil3, Organic ,debit card,Fashion,3,854.9,0.061%,3,4.2,0
+2022,ORD2022000209,NA,36, İstanbul ,bronze,MOBILE,ORGANIC,Credit Card*,sports,1,293.66,0.052%,2,4.1,0
+2022,ORD2022000210,male,25,İZMIR, Silver ,mobile,paid search,digital wallet,FASHION,3,508.79,0.229%,2,4.4,1
+2019,ORD2019000211,F3mal3,43,İstanbul*,Silver*, Desktop ,REFERRAL, Cash on Delivery ,ELECTRONICS,1,932.69,0.198%,2,4.1,0
+2024,ORD2024000212,F3mal3,40, Konya ,GUEST, Mobile , Organic ,digital wallet, Electronics ,1,1128.93,0.082%,3,4.6,1
+2023,ORD2023000213,Female*,27, Kayseri ,Guest*,Mobile*,Organic,Bank Transfer*,groceries,3,258.53,0.097%,2,4.7,0
+2021,ORD2021000214,Male*,29,i̇stanbul,Silv3r,MOBILE,Paid S3arch,Cash on Delivery*,fashion,1,160.46,0.04%,2,3.9,1
+NA,ORD2023000215,Mal3,25,mersin,Silver*,mobile,EMAIL,CASH ON DELIVERY,electronics,1,1460.11,0.16%,4,3.0,0
+2020,ORD2020000216,Male*,30,İstanbul*, Bronze ,Mobile*,Organic,CASH ON DELIVERY,Sports,2,867.54,0.133%,3,4.9,1
+2023,ORD2023000217, Female ,26,Konya,Silver*,mobile,paid search, Credit Card ,ELECTRONICS,1,1591.94,0.243%,3,4.2,1
+2021,ORD2021000218, Male ,18,i̇stanbul,guest,Mobile*,organic,CREDIT CARD,GROCERIES,3,120.46,0.101%,2,3.7,1
+2023,ORD2023000219,MALE,30,İstanbul, Silver ,Mobil3, Organic ,Digital Wallet*,groceries,3,296.37,0.098%,2,4.0,0
+2018,ORD2018000220,Male*,24,bursa,Silv3r,Mobile*,organic,CREDIT CARD,ELECTRONICS,1,426.11,0.028%,1,5.0,0
+2018,ORD2018000221,Mal3,41, Antalya ,GUEST,MOBILE,Organic*,credit card,Fashion*,5,411.76,0.079%,2,3.7,0
+2019,ORD2019000222,F3mal3,18,bursa,BRONZE,mobile,Email,credit card,BEAUTY,4,586.86,0.218%,1,5.0,1
+2019,ORD2019000223,female,18,mersin,Guest*,mobile,Organic,CASH ON DELIVERY, Electronics ,1,772.79,0.156%,3,3.1,0
+2021,ORD2021000224,female,39, Gaziantep , Silver , Mobile ,Organic*,CREDIT CARD,Home & Kitchen*,4,783.01,0.034%,3,4.1,0
+2020,ORD2020000225,Male*,27, Bursa , Bronze ,Mobil3,Paid Search*,Cr3dit Card,Hom3 & Kitch3n,2,629.67,0.12%,2,5.0,0
+2019,ORD2019000226,Mal3,44,bursa,Gold*,MOBILE,organic,cash on delivery,NA,1,248.58,0.104%,1,4.7,1
+2021,ORD2021000227,Female*,43,Antalya*,BRONZE,mobile,Paid Search*, Debit Card ,groceries,6,275.73,0.138%,3,4.0,0
+2018,ORD2018000228,F3mal3,NA,i̇stanbul,GUEST,TABLET,Referral*, Credit Card ,Fashion*,3,679.23,0.115%,1,4.8,0
+2022,ORD2022000229,FEMALE,36,İstanbul*,bronze,desktop, Paid Search ,Cash on Delivery*,BEAUTY,1,179.17,0.125%,2,3.3,0
+2021,ORD2021000230,Female*,35,Adana*,bronze,Mobil3,NA,Bank Transf3r,FASHION,2,650.1,0.118%,4,3.1,0
+2018,ORD2018000231,MALE,36, İstanbul , Gold ,mobile,social,Digital Wallet*,Home & Kitchen*,1,417.12,0.216%,2,3.8,1
+2022,ORD2022000232,male,33, Ankara ,Silver*,MOBILE,paid search,NA, Beauty ,2,414.64,0.106%,2,3.2,0
+2023,ORD2023000233,Male*,29,İzmir,silver,Mobil3,NA,Credit Card*, Books & Stationery ,4,393.93,0.105%,3,3.9,0
+2021,ORD2021000234,F3mal3,NA, İstanbul ,SILVER,Mobil3,organic, Credit Card , Electronics ,3,1621.2,0.134%,1,4.4,0
+2022,ORD2022000235, Female ,29,Kays3ri,Silver*,desktop, Organic ,Cr3dit Card,SPORTS,1,312.05,0.216%,4,3.8,0
+2023,ORD2023000236,Female*,40,KONYA,BRONZE,MOBILE, Organic ,Credit Card*,groceries,3,202.46,0.07%,3,4.2,0
+2018,ORD2018000237,MALE,49,bursa,bronze,MOBILE,Organic*, Credit Card ,GROCERIES,4,149.93,0.097%,1,4.8,1
+2019,ORD2019000238,MALE,47,BURSA, Guest , Mobile ,SOCIAL,D3bit Card,ELECTRONICS,3,1550.43,0.082%,1,4.2,1
+2024,ORD2024000239,male,48,bursa,SILVER,mobile, Paid Search ,NA,electronics,1,905.58,0.196%,3,4.2,1
+2023,ORD2023000240, Female ,30, İstanbul ,BRONZE,Mobil3,organic,Cr3dit Card, Fashion ,3,484.07,0.173%,2,4.3,0
+2022,ORD2022000241,Male*,31,Konya, Gold , Desktop ,ORGANIC,CREDIT CARD, Sports ,1,276.93,0.146%,2,4.3,1
+2021,ORD2021000242,male,20, Kayseri ,Silver*,MOBILE,ORGANIC,digital wallet, Sports ,4,946.61,0.128%,4,3.6,0
+2023,ORD2023000243,FEMALE,22,BURSA, Guest , Mobile , Organic ,Credit Card*,HOME & KITCHEN,2,446.1,0.023%,1,4.5,0
+2023,ORD2023000244, Male ,27,İstanbul,Bronz3,Mobile*,Social, Credit Card ,NA,3,169.14,0.259%,3,4.6,0
+NA,ORD2023000245,male,41,Antalya,GUEST,MOBILE,Organic*,credit card,sports,1,198.7,0.088%,3,4.0,0
+2022,ORD2022000246, Female ,35,İSTANBUL, Silver ,Desktop*,social, Credit Card , Sports ,2,832.49,0.288%,2,5.0,0
+2022,ORD2022000247, Male ,35,ANTALYA,GUEST,DESKTOP,social, Credit Card ,HOME & KITCHEN,2,386.13,0.227%,4,3.8,0
+2021,ORD2021000248,male,36,Mersin*,BRONZE,Mobil3,ORGANIC, Credit Card ,FASHION,1,109.58,0.093%,4,4.2,1
+2021,ORD2021000249, Female ,25,KAYSERI,guest,D3sktop,Organic*, Credit Card ,Fashion,5,548.47,0.1%,3,3.7,0
+2023,ORD2023000250,female,48,İstanbul,Guest*,D3sktop,PAID SEARCH,Cash on Delivery*,home & kitchen,1,306.07,0.177%,1,5.0,1
+2020,ORD2020000251,FEMALE,26,bursa,bronze, Mobile ,PAID SEARCH,credit card,BOOKS & STATIONERY,6,774.32,0.103%,2,3.7,0
+2024,ORD2024000252, Male ,28, Adana ,Bronze*,Mobile*,Referral*,Credit Card*,FASHION,1,189.29,0.202%,5,4.7,0
+2020,ORD2020000253, Female ,23,i̇stanbul,guest,Mobile*,Social*, Credit Card , Home & Kitchen ,7,1548.02,0.086%,1,5.0,0
+2019,ORD2019000254,male,38, İstanbul , Bronze ,Tabl3t,Organic*,cash on delivery,BEAUTY,4,420.83,0.025%,3,3.4,0
+2022,ORD2022000255,FEMALE,25,gaziantep,BRONZE,mobile,ORGANIC,Cr3dit Card,Fashion*,1,152.47,0.065%,5,3.5,0
+2020,ORD2020000256,FEMALE,64,İSTANBUL,Bronz3, Mobile , Organic ,CREDIT CARD,Books & Station3ry,4,429.43,0.009%,5,4.1,0
+2023,ORD2023000257,male,25,İstanbul*,guest,Mobil3, Email , Bank Transfer ,BOOKS & STATIONERY,3,215.73,0.166%,2,4.8,0
+2021,ORD2021000258,male,30,İSTANBUL,guest,mobile,Organic,Cash on D3liv3ry,home & kitchen,1,577.05,0.157%,2,3.2,0
+2021,ORD2021000259,Mal3,32, İstanbul ,silver,mobile, Email , Credit Card ,GROCERIES,9,580.02,0.206%,1,4.7,1
+2018,ORD2018000260,F3mal3,18,İstanbul, Bronze ,Mobile*,organic,Credit Card*, Fashion ,3,468.72,0.106%,2,4.7,0
+2023,ORD2023000261, Male ,43,İSTANBUL, Gold ,MOBILE,ORGANIC,CREDIT CARD,BOOKS & STATIONERY,2,168.41,0.105%,4,4.1,1
+2020,ORD2020000262,female,28,Adana*,BRONZE, Mobile , Organic ,Credit Card*,FASHION,1,395.37,0.067%,2,3.6,1
+2024,ORD2024000263,male,36,KAYSERI, Bronze ,MOBILE,Organic,credit card, Electronics ,1,476.03,0.097%,4,4.1,0
+2020,ORD2020000264,MALE,43,i̇stanbul,silver,DESKTOP,organic, Credit Card ,sports,1,303.29,0.163%,1,4.2,1
+2019,ORD2019000265,female,45,Adana,Guest*, Mobile ,ORGANIC,credit card, Beauty ,1,205.66,0.133%,4,4.0,1
+2022,ORD2022000266,FEMALE,29,ANTALYA,NA,mobile,Organic*,CASH ON DELIVERY,FASHION,5,539.62,0.15%,3,3.6,0
+2024,ORD2024000267,male,31,İstanbul,SILVER,desktop,Paid S3arch,cash on delivery,Electronics*,1,610.58,0.076%,2,3.8,0
+2024,ORD2024000268,F3mal3,27, Gaziantep ,Bronze*,Mobil3,PAID SEARCH,credit card,books & stationery,3,162.7,0.186%,4,3.4,0
+2024,ORD2024000269, Male ,43,i̇stanbul,GUEST,desktop,Organic*,Cash on Delivery*,Fashion,7,1658.04,0.079%,2,3.2,0
+2021,ORD2021000270, Male ,23,antalya,GUEST,DESKTOP,social,Credit Card*, Home & Kitchen ,7,3070.61,0.195%,5,3.2,0
+2019,ORD2019000271,female,26, Gaziantep ,Gold*,Mobile*,Organic*,credit card, Electronics ,1,692.76,0.048%,2,4.9,1
+NA,ORD2020000272, Female ,18,İSTANBUL,Bronze*,Mobile*,Organic*,Cr3dit Card,BEAUTY,2,580.51,0.099%,3,4.1,1
+2022,ORD2022000273,female,25, Antalya ,SILVER,MOBILE, Social ,cash on delivery,Fashion,5,1925.02,0.175%,2,3.9,0
+2019,ORD2019000274,Female*,18,konya,BRONZE,Desktop*,PAID SEARCH, Credit Card ,Sports,1,379.25,0.232%,3,3.1,1
+2022,ORD2022000275,Mal3,38,ankara,Bronz3,Mobil3,paid search,credit card,SPORTS,4,1075.41,0.11%,1,4.6,0
+2024,ORD2024000276,FEMALE,22,Ankara,bronze,mobile,Paid Search*,Cr3dit Card,SPORTS,1,264.1,0.183%,3,5.0,1
+2023,ORD2023000277,Mal3,47,i̇stanbul,GUEST,Desktop*,PAID SEARCH,bank transfer,ELECTRONICS,3,4423.68,0.097%,2,3.2,0
+2019,ORD2019000278,Mal3,18,KONYA,BRONZE,Mobile*,PAID SEARCH,DIGITAL WALLET,books & stationery,1,86.71,0.114%,3,4.0,1
+2020,ORD2020000279, Female ,25,İstanbul*,Bronze*,desktop, Organic ,credit card,FASHION,1,238.44,0.08%,1,4.6,1
+2019,ORD2019000280, Male ,27,MERSIN,Gold,desktop,social,CREDIT CARD,Fashion*,5,1360.32,0.165%,3,3.6,0
+2021,ORD2021000281,MALE,35,KAYSERI,Bronz3,DESKTOP, Social ,Debit Card*,Home & Kitchen*,2,1778.64,0.131%,3,3.5,1
+2024,ORD2024000282, Female ,30,İstanbul*,Bronz3,Mobil3,Organic*,Debit Card*,home & kitchen,4,2160.3,0.064%,3,4.2,1
+2018,ORD2018000283,MALE,40,GAZIANTEP,bronze,mobile,Paid S3arch,CREDIT CARD,fashion,1,156.88,0.146%,2,4.8,1
+2019,ORD2019000284,Male*,38, İstanbul ,Bronze*,mobile,ORGANIC,DIGITAL WALLET,NA,2,542.31,0.165%,4,3.9,1
+2022,ORD2022000285,Female*,37,M3rsin, Bronze ,Tablet*,PAID SEARCH,Debit Card*,NA,5,203.26,0.211%,3,4.4,0
+2023,ORD2023000286,FEMALE,21,i̇stanbul,silver,desktop,organic, Credit Card , Beauty ,4,403.02,0.021%,3,4.2,0
+2020,ORD2020000287,MALE,48,BURSA,silver,DESKTOP, Paid Search ,Bank Transf3r,sports,2,539.86,0.134%,4,4.8,0
+2021,ORD2021000288,Female*,26,Ankara,GUEST,Mobile*,SOCIAL,Debit Card*,ELECTRONICS,2,902.8,0.148%,4,4.2,0
+2022,ORD2022000289,female,27,İZMIR,GUEST,DESKTOP,Paid Search*,credit card, Fashion ,1,106.42,0.114%,2,3.5,1
+2023,ORD2023000290,MALE,25, İstanbul ,guest,NA,organic, Credit Card ,books & stationery,1,66.06,0.0%,3,4.7,1
+2018,ORD2018000291, Male ,18,Mersin*,Guest*,Mobil3,ORGANIC,CREDIT CARD, Electronics ,1,735.69,0.085%,5,3.3,1
+2023,ORD2023000292, Male ,39,i̇stanbul,bronze, Mobile , Organic ,credit card,ELECTRONICS,3,3664.29,0.048%,2,4.5,1
+2024,ORD2024000293,FEMALE,18,Antalya, Guest ,D3sktop, Social ,Cash on D3liv3ry, Fashion ,3,793.56,0.097%,3,3.9,0
+2020,ORD2020000294,female,32,i̇stanbul, Guest ,Mobile*,social,CREDIT CARD, Fashion ,1,83.8,0.142%,3,5.0,0
+2023,ORD2023000295,Mal3,31,İSTANBUL,GUEST,Mobil3,PAID SEARCH,DIGITAL WALLET, Beauty ,3,543.9,0.222%,1,4.1,0
+2024,ORD2024000296,FEMALE,35, Ankara ,gold,MOBILE,Email*, Credit Card ,HOME & KITCHEN,4,955.9,0.096%,3,3.9,0
+2024,ORD2024000297,MALE,35,ankara,Gu3st, Mobile ,SOCIAL,Credit Card*,Home & Kitchen*,2,859.41,0.132%,4,3.7,1
+2019,ORD2019000298,male,47, Kayseri ,Bronz3, Desktop ,ORGANIC,credit card,Fashion*,1,149.92,0.104%,3,3.8,0
+2021,ORD2021000299,Male*,26,İSTANBUL,BRONZE, Desktop ,Organic*,CREDIT CARD,ELECTRONICS,1,907.98,0.072%,3,3.7,1
+2020,ORD2020000300,F3mal3,37,gaziantep,guest,mobile, Paid Search , Credit Card ,Electronics*,2,1422.55,0.154%,3,3.0,1
+2018,ORD2018000301,male,20, İzmir ,SILVER,MOBILE,SOCIAL, Credit Card , Fashion ,2,443.82,0.102%,4,4.3,1
+2024,ORD2024000302,MALE,30,İSTANBUL,Silv3r,desktop,email,CREDIT CARD, Sports ,2,529.4,0.278%,2,4.8,1
+2023,ORD2023000303,male,33,KAYSERI,bronze,MOBILE,ORGANIC,Credit Card*,electronics,1,334.06,0.077%,3,3.5,0
+2018,ORD2018000304,MALE,27,İstanbul*,GUEST,desktop,paid search,credit card,El3ctronics,1,562.03,0.195%,1,3.8,0
+2020,ORD2020000305,female,26,İstanbul,Gu3st,MOBILE,organic, Bank Transfer ,Electronics*,1,855.68,0.05%,3,3.7,0
+2019,ORD2019000306,Mal3,18,İZMIR, Guest , Mobile ,PAID SEARCH,credit card, Books & Stationery ,1,47.67,0.044%,3,3.7,0
+2023,ORD2023000307,Mal3,48, Gaziantep , Gold , Mobile ,Email,bank transfer,Beauty*,6,1010.42,0.303%,4,3.9,1
+2022,ORD2022000308,female,18,i̇stanbul,bronze,mobile, Organic ,digital wallet,electronics,NA,1634.22,0.065%,2,3.8,1
+2022,ORD2022000309, Male ,NA,İZMIR,Bronz3,Mobile*,organic,Debit Card*,home & kitchen,2,753.31,0.095%,2,4.6,1
+2023,ORD2023000310,female,49,i̇stanbul,SILVER, Mobile ,PAID SEARCH, Cash on Delivery ,El3ctronics,1,2943.91,0.216%,3,3.6,0
+2023,ORD2023000311,female,35, İstanbul ,SILVER,mobile,paid search,Cr3dit Card,Fashion*,1,356.69,0.048%,3,4.8,0
+2024,ORD2024000312, Male ,35,i̇stanbul,Gu3st,mobile, Email ,Cash on D3liv3ry,electronics,1,297.65,0.211%,2,4.2,0
+2022,ORD2022000313,female,22,Ankara*,Guest*, Mobile ,ORGANIC,CREDIT CARD,beauty,4,452.08,0.158%,3,3.9,0
+2018,ORD2018000314,female,49,İstanbul,SILVER,D3sktop,Email*,debit card,Books & Stationery*,2,155.31,0.187%,1,5.0,1
+2024,ORD2024000315,male,37,İstanbul,gold,MOBILE,PAID SEARCH,digital wallet,books & stationery,1,55.14,0.184%,3,4.3,0
+2020,ORD2020000316,Female*,25,İSTANBUL,BRONZE,desktop,Paid Search*,Cash on Delivery*,Electronics*,1,1148.5,0.151%,3,4.7,1
+2020,ORD2020000317, Male ,23, İstanbul ,SILVER, Desktop ,ORGANIC,cash on delivery,Fashion*,3,808.59,0.076%,4,3.8,1
+2024,ORD2024000318,female,39,Ankara,SILVER,mobile, Paid Search ,credit card,home & kitchen,6,1000.77,0.33%,3,3.2,0
+2019,ORD2019000319,female,44,ankara,bronze,TABLET, Paid Search ,DIGITAL WALLET,BOOKS & STATIONERY,1,92.58,0.211%,3,3.8,0
+2019,ORD2019000320, Male ,34, İzmir ,Guest*,Mobile*,paid search,credit card,Sports*,2,549.34,0.134%,3,4.4,0
+2022,ORD2022000321,FEMALE,56,i̇stanbul,GUEST,mobile,Organic*,CREDIT CARD,El3ctronics,3,3311.86,0.056%,2,4.4,0
+2024,ORD2024000322,female,22,İstanbul,BRONZE,mobile,organic,credit card,Groc3ri3s,9,593.85,0.038%,NA,4.2,1
+2018,ORD2018000323,MALE,29, Adana , Guest ,MOBILE,Social,bank transfer, Books & Stationery ,3,366.68,0.101%,4,4.2,0
+2018,ORD2018000324,MALE,22,Konya*,SILVER, Mobile ,Social*,cash on delivery,HOME & KITCHEN,2,1011.17,0.154%,4,4.1,0
+2023,ORD2023000325,Female*,30,Mersin*,NA,Mobil3,ORGANIC,CASH ON DELIVERY,fashion,5,1296.99,0.048%,2,4.1,0
+2024,ORD2024000326,female,19,İstanbul*,BRONZE,Tablet*,email, Credit Card , Books & Stationery ,1,93.19,0.301%,3,4.0,0
+2021,ORD2021000327,MALE,47,trabzon,guest,D3sktop,Social*,CREDIT CARD,sports,1,141.75,0.221%,5,3.4,0
+2020,ORD2020000328,MALE,40,İzmir,NA,MOBILE,R3f3rral,Credit Card*,Groc3ri3s,3,179.41,0.196%,3,3.6,0
+2023,ORD2023000329,female,46,İzmir*,gold,DESKTOP, Paid Search ,credit card, Home & Kitchen ,3,3774.37,0.098%,2,3.8,1
+2022,ORD2022000330,MALE,33,Kayseri*,gold,mobile,Paid S3arch, Credit Card ,ELECTRONICS,1,279.94,0.111%,3,4.8,0
+2023,ORD2023000331, Male ,30,İstanbul,silver,mobile, Referral ,Digital Wallet*,El3ctronics,1,994.48,0.082%,2,4.4,0
+2024,ORD2024000332,female,54,i̇stanbul,BRONZE,Mobil3,R3f3rral,BANK TRANSFER,home & kitchen,1,506.23,0.13%,3,3.2,0
+2019,ORD2019000333,female,36,İSTANBUL,GOLD,Mobil3,organic,Cr3dit Card,sports,3,1377.98,0.113%,4,4.1,1
+2019,ORD2019000334,Female*,37, Eskişehir ,Gold*, Mobile ,Social*,Cash on D3liv3ry,Fashion*,4,559.84,0.293%,4,4.5,1
+2022,ORD2022000335,Male*,39, Ankara ,Silv3r, Mobile ,ORGANIC,credit card,SPORTS,1,198.2,0.128%,4,4.5,1
+2024,ORD2024000336,Female*,18,i̇stanbul,GOLD,mobile,Organic*,Digital Wall3t, Groceries ,8,678.55,0.147%,1,4.3,NA
+2022,ORD2022000337, Female ,18,konya,BRONZE,Mobile*, Paid Search , Credit Card ,home & kitchen,3,481.39,0.128%,3,4.2,0
+2022,ORD2022000338, Female ,30,Konya,guest,Mobile*,ORGANIC, Credit Card ,fashion,2,877.89,0.0%,3,3.6,0
+2022,ORD2022000339, Male ,46,i̇stanbul,silver, Mobile ,ORGANIC,Cr3dit Card,BEAUTY,3,511.46,0.17%,4,4.1,0
+2022,ORD2022000340,FEMALE,36,Ankara,Bronze*,desktop, Organic ,credit card, Sports ,1,278.44,0.107%,3,4.3,0
+2018,ORD2018000341,female,35,gaziantep,GUEST, Mobile ,Social,CREDIT CARD,Fashion*,4,646.8,0.171%,4,4.0,1
+2023,ORD2023000342,Female*,34, İstanbul , Bronze ,MOBILE,organic,credit card,Books & Stationery*,3,454.27,0.051%,2,4.9,0
+2021,ORD2021000343,Mal3,25,konya,Gold*,MOBILE,organic,CREDIT CARD,home & kitchen,3,527.52,0.087%,4,4.2,1
+2024,ORD2024000344,Mal3,25,M3rsin,Gu3st,Mobile*, Paid Search ,Digital Wall3t, Beauty ,5,554.91,0.111%,3,3.7,0
+2022,ORD2022000345,FEMALE,36, Bursa ,Gu3st, Mobile ,paid search,BANK TRANSFER,groceries,6,301.89,0.18%,2,4.6,0
+2024,ORD2024000346, Male ,18,Bursa, Bronze ,MOBILE,PAID SEARCH,CREDIT CARD, Fashion ,3,978.58,0.155%,2,3.8,0
+2023,ORD2023000347, Male ,35,i̇stanbul,Bronz3,mobile,email, Credit Card ,NA,2,1146.73,0.244%,2,4.5,1
+2021,ORD2021000348,female,28,Trabzon*,SILVER,tablet,NA,CREDIT CARD,Fashion*,1,169.75,0.05%,4,3.7,0
+2019,ORD2019000349,MALE,28, Konya ,GUEST, Desktop ,organic,credit card,electronics,2,1539.1,0.059%,4,4.1,0
+2021,ORD2021000350,male,29,Eskişehir*, Guest ,MOBILE,social,NA,beauty,4,767.88,0.159%,2,3.2,NA
+2019,ORD2019000351,female,45,İZMIR,GUEST, Mobile ,SOCIAL, Digital Wallet ,GROCERIES,3,183.68,0.282%,3,3.6,0
+2018,ORD2018000352, Female ,26,GAZIANTEP,GUEST,mobile,Social*,Cr3dit Card,Beauty*,1,172.67,0.202%,4,3.4,0
+2024,ORD2024000353,FEMALE,49,İstanbul,bronze,MOBILE,Email*,Credit Card*,NA,1,268.23,0.172%,2,4.8,1
+2018,ORD2018000354,FEMALE,30,İstanbul*,BRONZE,MOBILE, Organic ,Cr3dit Card,Fashion*,4,965.17,0.01%,3,4.1,0
+2024,ORD2024000355,FEMALE,47,bursa,BRONZE,MOBILE,email,CREDIT CARD, Electronics ,1,2857.45,0.178%,3,4.1,0
+2018,ORD2018000356,female,33, İzmir ,Bronze*,MOBILE,Paid S3arch,credit card, Electronics ,1,366.01,0.235%,4,3.1,0
+2023,ORD2023000357,male,18,ankara,silver,mobile,organic,credit card,sports,1,239.47,0.125%,3,4.2,1
+2020,ORD2020000358, Female ,28, İstanbul ,SILVER,MOBILE,organic,Cash on Delivery*, Fashion ,3,776.84,0.069%,4,3.4,0
+2022,ORD2022000359, Male ,32,İSTANBUL,Silver*,Desktop*,Paid S3arch,credit card,fashion,2,342.58,0.105%,2,3.6,0
+2018,ORD2018000360, Male ,40,antalya,GUEST,Mobile*,PAID SEARCH,CASH ON DELIVERY,BEAUTY,2,387.8,0.034%,4,3.6,0
+2022,ORD2022000361,male,19,Antalya*,SILVER,MOBILE,Paid S3arch,Cash on D3liv3ry, Groceries ,4,279.8,0.257%,3,3.6,0
+2024,ORD2024000362,MALE,26,İSTANBUL,GUEST,MOBILE,NA, Credit Card , Electronics ,2,2793.03,0.075%,2,5.0,0
+2023,ORD2023000363, Male ,39,i̇stanbul,BRONZE,desktop, Paid Search ,Cr3dit Card,fashion,1,183.54,0.24%,2,4.3,0
+2023,ORD2023000364,FEMALE,35,İSTANBUL,Guest*,Mobile*,Organic,Cash on D3liv3ry,Books & Station3ry,3,202.85,0.144%,2,5.0,0
+2022,ORD2022000365,FEMALE,33,Gaziant3p,Silv3r,D3sktop,PAID SEARCH,D3bit Card,FASHION,5,542.69,0.204%,3,3.0,1
+2020,ORD2020000366,F3mal3,18, İstanbul ,BRONZE, Mobile ,Paid S3arch,Digital Wallet*, Electronics ,1,831.61,0.056%,3,3.2,0
+2021,ORD2021000367,MALE,18,Konya,gold,MOBILE,ORGANIC,DIGITAL WALLET,fashion,4,525.28,0.084%,3,4.2,1
+2021,ORD2021000368,Male*,30,Ankara*, Silver ,Mobile*,PAID SEARCH, Credit Card ,electronics,3,1544.08,0.108%,3,4.6,1
+2023,ORD2023000369,MALE,NA,GAZIANTEP,BRONZE,D3sktop,organic, Credit Card ,ELECTRONICS,3,1572.52,0.0%,3,4.1,1
+2023,ORD2023000370,Female*,21,Kayseri*,guest,MOBILE,PAID SEARCH,credit card,SPORTS,2,335.49,0.24%,1,5.0,0
+2022,ORD2022000371,male,33,ANKARA,bronze,Mobile*,PAID SEARCH, Credit Card , Beauty ,4,476.72,0.227%,2,3.9,0
+2024,ORD2024000372,male,21,İSTANBUL, Silver ,TABLET,organic,DEBIT CARD,BEAUTY,3,848.22,0.061%,2,4.2,1
+2021,ORD2021000373,FEMALE,21,İZMIR,bronze,mobile, Organic ,credit card,Electronics*,1,210.31,0.09%,3,2.8,1
+2023,NA,Female*,30,İSTANBUL,gold,TABLET, Organic ,Debit Card*,HOME & KITCHEN,4,605.61,0.092%,2,4.1,0
+2021,ORD2021000375, Male ,45,ANKARA,Guest*,Mobil3, Organic ,CASH ON DELIVERY,electronics,1,458.03,0.149%,4,2.9,0
+2022,ORD2022000376,FEMALE,43,İSTANBUL,silver,Desktop*,Organic*,CREDIT CARD,Fashion,4,1034.28,0.001%,2,4.4,1
+2024,ORD2024000377,Mal3,33,ANKARA, Guest ,tablet, Email ,Credit Card*,BOOKS & STATIONERY,2,439.57,0.2%,4,3.1,0
+2021,ORD2021000378,FEMALE,32, İstanbul ,GUEST, Desktop ,organic, Debit Card , Sports ,1,198.26,0.122%,3,4.0,0
+2024,ORD2024000379,Female*,18, Ankara ,Gu3st,D3sktop, Paid Search ,DIGITAL WALLET,Books & Stationery*,1,173.27,0.142%,2,3.5,0
+2021,ORD2021000380,female,32,i̇stanbul, Guest ,D3sktop,paid search,Debit Card*,fashion,3,506.5,0.2%,3,4.1,1
+2020,ORD2020000381,Female*,34, Konya , Gold , Mobile ,ORGANIC,CREDIT CARD,fashion,1,180.11,0.005%,3,3.0,0
+2022,ORD2022000382,female,29,i̇stanbul,Silver*,MOBILE, Paid Search ,Cr3dit Card,HOME & KITCHEN,3,1296.32,0.141%,1,4.2,0
+2022,ORD2022000383,FEMALE,30, Adana ,guest,MOBILE,paid search,credit card,El3ctronics,1,833.87,0.024%,4,3.6,0
+2020,ORD2020000384,Male*,33, İstanbul , Bronze ,mobile,SOCIAL,CREDIT CARD,BEAUTY,2,216.39,0.12%,3,4.7,1
+2021,ORD2021000385,FEMALE,28,GAZIANTEP,silver, Mobile ,PAID SEARCH,Credit Card*, Beauty ,2,290.58,0.185%,5,3.5,0
+2024,ORD2024000386,female,48,İstanbul*, Silver ,Mobil3, Social ,CREDIT CARD,Sports*,1,263.44,0.236%,2,5.0,0
+2024,ORD2024000387,MALE,18,ANKARA,SILVER,DESKTOP,paid search,Cr3dit Card,fashion,5,2322.67,0.229%,3,4.7,1
+2020,ORD2020000388,Male*,30,İZMIR, Silver , Mobile ,email,Credit Card*,SPORTS,1,309.97,0.213%,3,3.3,0
+2018,ORD2018000389, Female ,18,NA,SILVER,MOBILE, Paid Search ,DIGITAL WALLET,Fashion,3,718.96,0.174%,3,3.3,0
+2021,ORD2021000390,MALE,45,İstanbul,Gu3st,DESKTOP, Organic , Digital Wallet ,Fashion,1,236.88,0.101%,2,4.0,0
+2024,ORD2024000391,F3mal3,23,İstanbul*,silver,Mobile*,Paid Search*,Cr3dit Card,groceries,5,317.23,0.095%,1,4.2,0
+2024,ORD2024000392, Female ,56,Antalya,BRONZE,Mobil3,Organic*,Cr3dit Card,fashion,1,138.42,0.022%,3,4.1,1
+2023,ORD2023000393,FEMALE,18,TRABZON,SILVER, Mobile , Email ,bank transfer,GROCERIES,3,404.2,0.127%,3,3.5,0
+2024,ORD2024000394,Male*,18,i̇stanbul,Silver*,mobile, Organic ,cash on delivery,HOME & KITCHEN,3,1113.8,0.062%,1,4.8,1
+2020,ORD2020000395,Male*,25,ANKARA,Silver*,MOBILE,social, Credit Card , Fashion ,5,1339.81,0.223%,3,4.3,1
+2019,ORD2019000396,MALE,37,ANKARA,Gu3st,mobile,organic,debit card,Electronics*,1,1317.84,0.05%,3,3.9,0
+2019,ORD2019000397, Female ,43, Gaziantep ,Silver*,Mobile*,organic,CASH ON DELIVERY,NA,1,340.3,0.0%,3,3.8,1
+2020,ORD2020000398,Male*,27,ANKARA,Bronze*,Desktop*, Paid Search ,Cr3dit Card,BEAUTY,3,217.3,0.075%,3,4.3,0
+2021,ORD2021000399, Female ,21,Bursa,Guest*,Mobil3,email, Cash on Delivery ,books & stationery,1,72.58,0.142%,4,4.2,1
+2022,ORD2022000400, Male ,28,Kays3ri, Bronze , Mobile ,social,credit card,groceries,5,434.02,0.226%,3,3.6,1
+2023,NA,F3mal3,19,antalya,GUEST, Desktop ,ORGANIC,CREDIT CARD, Home & Kitchen ,2,486.45,0.098%,3,3.4,0
+2020,ORD2020000402, Male ,42,M3rsin,SILVER, Tablet ,ORGANIC,Cr3dit Card,Home & Kitchen*,4,1259.47,0.017%,4,4.9,1
+2023,ORD2023000403,Mal3,18,İZMIR, Silver ,Mobil3,PAID SEARCH,CREDIT CARD,Fashion,2,294.63,0.118%,3,4.5,1
+2020,ORD2020000404,Female*,29,İSTANBUL,Bronz3,MOBILE,social,CASH ON DELIVERY,B3auty,1,87.87,0.167%,2,3.9,1
+2022,ORD2022000405,Female*,52,İSTANBUL,Bronz3,Mobil3,PAID SEARCH, Debit Card ,Fashion*,4,523.86,0.167%,3,4.1,0
+2023,ORD2023000406,Female*,36,i̇stanbul, Bronze ,Mobile*,Organic,CREDIT CARD, Fashion ,1,334.22,0.055%,3,4.1,1
+2018,ORD2018000407,FEMALE,39,İSTANBUL,Bronz3,MOBILE, Social ,Credit Card*,HOME & KITCHEN,2,768.86,0.228%,2,4.9,1
+2019,ORD2019000408,Male*,30,İzmir,bronze,MOBILE,social,credit card, Electronics ,1,594.38,0.202%,2,4.6,1
+NA,ORD2020000409,MALE,35, Kayseri ,silver,Mobil3,SOCIAL,credit card,El3ctronics,3,2364.43,0.147%,3,4.4,0
+2021,NA, Female ,22,Ankara*,Guest*,D3sktop,social,credit card,electronics,2,2691.52,0.154%,2,4.4,1
+2024,ORD2024000411,male,49,BURSA,Gu3st,Mobile*, Social ,Cr3dit Card, Fashion ,1,147.54,0.225%,2,3.9,0
+2018,ORD2018000412,MALE,28,Adana*,silver,Mobil3,social, Cash on Delivery ,beauty,1,75.35,0.129%,5,3.9,1
+2021,ORD2021000413,Female*,43, Ankara , Bronze ,Mobil3,Organic,credit card,electronics,2,1084.17,0.238%,2,4.4,0
+2021,ORD2021000414,Male*,42,Kays3ri,SILVER, Desktop , Organic , Credit Card , Electronics ,1,270.23,0.173%,3,4.4,0
+2024,ORD2024000415, Female ,45,ankara,guest,MOBILE,Social,Cr3dit Card, Electronics ,1,999.59,0.128%,1,4.8,0
+2023,ORD2023000416,Mal3,18,Konya,Gu3st,mobile,ORGANIC,CREDIT CARD, Books & Stationery ,3,212.55,0.069%,4,3.3,0
+2020,ORD2020000417, Male ,22,i̇zmir,guest,Mobile*, Organic ,CREDIT CARD,BOOKS & STATIONERY,2,108.03,0.079%,1,4.2,0
+2024,ORD2024000418,female,18, İzmir ,bronze,Mobile*,SOCIAL, Credit Card ,Fashion,3,689.86,0.23%,2,3.9,0
+2019,ORD2019000419,Mal3,25,Gaziantep*,Bronz3,MOBILE,Organic*,CREDIT CARD,beauty,2,582.07,0.125%,3,4.6,1
+2023,ORD2023000420,MALE,33,Bursa,Gold,Mobile*,Email*, Bank Transfer , Electronics ,1,707.86,0.167%,2,4.1,0
+2019,ORD2019000421,Female*,34,KAYSERI,NA,Mobil3,ORGANIC,credit card,El3ctronics,2,842.58,0.147%,4,3.0,0
+2023,ORD2023000422,female,23, Konya ,Silv3r,mobile,SOCIAL,CREDIT CARD,El3ctronics,1,1552.82,0.296%,2,4.0,0
+2024,ORD2024000423, Male ,44,ankara,guest,Desktop*, Social ,CREDIT CARD, Home & Kitchen ,2,858.94,0.24%,3,4.2,1
+2024,ORD2024000424,FEMALE,32,Bursa*,Bronze*,mobile,ORGANIC,CASH ON DELIVERY, Groceries ,1,63.96,0.187%,2,3.0,0
+2024,ORD2024000425,female,19,ADANA,guest,mobile,organic,credit card,ELECTRONICS,1,322.97,0.057%,4,4.4,0
+2023,ORD2023000426,MALE,47,ANTALYA,bronze,D3sktop, Paid Search ,Bank Transfer*,FASHION,3,1220.28,0.179%,3,2.3,0
+2020,ORD2020000427,MALE,35,Antalya*,guest,MOBILE, Paid Search ,credit card,fashion,2,296.65,0.195%,4,2.6,0
+2018,ORD2018000428, Male ,33,İSTANBUL,Guest*,MOBILE,NA,cash on delivery,home & kitchen,2,218.76,0.099%,2,4.2,0
+2019,ORD2019000429,MALE,49, Kayseri ,GOLD,Mobil3,organic, Credit Card ,El3ctronics,1,1001.48,0.084%,4,3.0,1
+2024,ORD2024000430,female,40,İSTANBUL,Silv3r,Mobil3,Paid S3arch,credit card,FASHION,1,148.86,0.134%,3,3.5,1
+2020,ORD2020000431, Female ,32,KAYSERI,bronze,mobile,paid search,Digital Wallet*,HOME & KITCHEN,2,1038.53,0.254%,2,4.7,1
+2018,ORD2018000432,Male*,18,İzmir*,GUEST,mobile, Social ,credit card,FASHION,3,250.86,0.159%,3,3.7,0
+2019,ORD2019000433,male,18,İzmir,bronze,Mobile*,Paid S3arch,D3bit Card,FASHION,3,297.3,0.173%,2,4.3,0
+2024,ORD2024000434,male,38, İstanbul ,Guest*,tablet,R3f3rral, Credit Card ,BOOKS & STATIONERY,3,583.6,0.083%,3,3.7,0
+2023,ORD2023000435, Male ,46,İSTANBUL,silver,Tablet*,Organic*,D3bit Card, Fashion ,4,932.13,0.132%,2,4.7,0
+2023,ORD2023000436,MALE,44,ANKARA,GUEST,Desktop*,referral,debit card,Home & Kitchen*,2,552.07,0.059%,4,3.5,0
+2024,ORD2024000437,Mal3,41,Ankara*,Bronz3,mobile,Social,Cr3dit Card, Home & Kitchen ,4,732.61,0.034%,2,4.2,0
+2019,ORD2019000438, Male ,46,İstanbul*,GOLD,NA,Organic, Digital Wallet , Sports ,5,1324.88,0.21%,2,4.1,0
+2020,ORD2020000439, Female ,43,i̇zmir,Gold*,mobile, Social ,DIGITAL WALLET,Fashion,2,511.32,0.241%,3,3.9,1
+2023,ORD2023000440,male,45,gaziantep,Gu3st, Mobile ,PAID SEARCH,CREDIT CARD,sports,1,190.27,0.157%,4,3.3,1
+2023,ORD2023000441,female,33,İzmir,guest,Mobil3,ORGANIC,DIGITAL WALLET,El3ctronics,1,843.56,0.128%,3,4.2,0
+2024,ORD2024000442, Male ,29, İzmir ,guest,TABLET,organic,DEBIT CARD,Electronics*,1,458.4,0.106%,2,3.5,0
+2018,ORD2018000443,FEMALE,32,İstanbul,bronze,D3sktop,Organic,CREDIT CARD,HOME & KITCHEN,1,247.96,0.125%,3,4.5,0
+2021,ORD2021000444,MALE,20, İstanbul ,Guest*,MOBILE,organic, Credit Card ,groceries,3,208.11,0.097%,2,4.6,0
+2018,ORD2018000445, Female ,45,i̇zmir,BRONZE, Desktop ,Organic*,credit card,fashion,4,483.72,0.06%,3,3.9,0
+2023,ORD2023000446, Male ,18,Trabzon*,Guest*,MOBILE,PAID SEARCH,credit card,sports,4,621.03,0.082%,5,NA,0
+2024,ORD2024000447,Male*,35,İSTANBUL,Bronze*,TABLET,referral,CREDIT CARD,Fashion,2,369.47,0.122%,3,3.7,0
+2021,ORD2021000448,FEMALE,44, Konya ,GUEST,mobile, Organic ,Cr3dit Card,home & kitchen,3,599.99,0.039%,3,3.9,1
+2022,ORD2022000449,MALE,21,Konya,Silver*,Mobil3, Organic ,cash on delivery,books & stationery,1,61.65,0.105%,3,4.3,0
+2019,ORD2019000450, Male ,43,Konya,Gold,MOBILE,Organic,DEBIT CARD,BOOKS & STATIONERY,1,73.09,0.105%,2,3.9,1
+2022,ORD2022000451, Female ,25,İzmir*,SILVER,mobile,Organic*,credit card,HOME & KITCHEN,5,678.16,0.141%,4,4.4,0
+2024,ORD2024000452,MALE,44, İstanbul ,BRONZE,Mobil3, Paid Search ,Credit Card*,ELECTRONICS,1,801.53,0.129%,3,5.0,0
+2024,ORD2024000453,MALE,28,Ankara, Bronze ,MOBILE,SOCIAL,credit card,SPORTS,1,178.6,0.141%,4,3.7,1
+2023,ORD2023000454,Male*,23,i̇stanbul,silver,Mobil3,social,credit card,home & kitchen,5,NA,0.149%,1,4.6,1
+2019,ORD2019000455,female,18,M3rsin, Gold ,MOBILE,Email,Credit Card*,books & stationery,1,113.15,0.241%,3,4.4,0
+2021,ORD2021000456,female,24,Eskiş3hir, Gold ,MOBILE,R3f3rral,D3bit Card,GROCERIES,5,283.67,0.066%,2,3.6,0
+2023,ORD2023000457, Female ,42,ankara,silver,mobile,social, Credit Card , Fashion ,1,181.94,0.2%,2,4.7,1
+2020,ORD2020000458,Male*,28,ANKARA,Bronze*,MOBILE,EMAIL,Cash on Delivery*,home & kitchen,1,442.38,0.178%,3,4.0,1
+2019,ORD2019000459,MALE,26,İstanbul,Silver*,TABLET, Organic ,Debit Card*,HOME & KITCHEN,3,570.68,0.119%,2,5.0,1
+2021,ORD2021000460,male,29,NA,guest, Mobile ,Paid S3arch, Credit Card ,BEAUTY,1,104.37,0.185%,2,4.3,0
+2024,ORD2024000461, Male ,29, Konya ,BRONZE,mobile,ORGANIC,DEBIT CARD,Fashion*,2,385.48,0.132%,4,3.2,0
+2019,ORD2019000462,male,32, İstanbul ,guest,mobile,Organic*,BANK TRANSFER,BOOKS & STATIONERY,1,61.37,0.121%,3,3.7,0
+2020,ORD2020000463,male,45, İstanbul ,Guest*,Mobile*,paid search,Digital Wallet*,SPORTS,3,419.81,0.103%,2,3.6,0
+2019,ORD2019000464,female,33, İzmir ,Silv3r,Mobile*,Organic*, Credit Card , Fashion ,1,311.91,0.021%,2,4.7,1
+2023,ORD2023000465,female,44,Antalya*,Bronze*, Mobile ,Paid S3arch, Credit Card ,FASHION,2,429.48,0.065%,4,3.8,0
+2024,ORD2024000466,male,NA,İSTANBUL,Silver*,Mobile*,organic,CASH ON DELIVERY,Sports*,1,607.05,0.0%,2,4.6,1
+2018,ORD2018000467,Male*,25,ADANA,GUEST,Mobile*, Organic , Credit Card ,FASHION,3,1337.48,0.09%,3,4.0,0
+2020,ORD2020000468,female,40,kayseri,NA,DESKTOP, Organic ,Credit Card*,Fashion,4,597.18,0.018%,3,3.3,0
+2021,ORD2021000469,Female*,18,kayseri,SILVER, Mobile ,Paid Search*,Cr3dit Card,Sports*,1,219.95,0.08%,2,4.3,1
+2018,ORD2018000470,male,41,ankara, Bronze ,desktop,Email*, Cash on Delivery ,groceries,5,242.72,0.089%,2,3.5,0
+2022,ORD2022000471,MALE,37,Antalya*, Bronze ,Mobil3,NA,CREDIT CARD, Fashion ,3,839.27,0.04%,3,2.8,1
+2023,ORD2023000472, Male ,42,bursa,SILVER,NA, Social ,Cr3dit Card,groceries,3,83.92,0.289%,3,3.5,0
+2022,ORD2022000473,male,52,Ankara, Silver ,Mobile*,organic,cash on delivery,BOOKS & STATIONERY,2,118.43,0.07%,4,4.0,1
+2023,ORD2023000474, Female ,38,İSTANBUL,bronze,Mobil3, Social ,Cash on D3liv3ry,fashion,1,163.72,0.151%,2,4.1,1
+2019,ORD2019000475,Mal3,18,Adana*,Silver*,MOBILE, Organic ,credit card, Sports ,2,470.97,0.047%,3,4.4,0
+2019,ORD2019000476,Mal3,27,Kayseri*,bronze,desktop,ORGANIC,CASH ON DELIVERY,El3ctronics,1,462.36,0.126%,3,2.9,1
+2024,ORD2024000477,F3mal3,46,İSTANBUL,BRONZE,Mobile*,email, Digital Wallet ,El3ctronics,3,2917.96,0.179%,3,5.0,1
+2020,ORD2020000478,male,50,i̇stanbul,bronze,MOBILE,Paid S3arch,digital wallet,FASHION,1,77.94,0.127%,2,3.5,0
+2018,ORD2018000479,male,18,İSTANBUL,bronze,mobile, Social ,CREDIT CARD,ELECTRONICS,2,1156.75,0.179%,1,4.7,1
+2018,ORD2018000480,Male*,27,KAYSERI,gold, Mobile ,ORGANIC,NA, Home & Kitchen ,2,197.16,0.11%,3,2.7,0
+2018,ORD2018000481,male,18, Ankara ,SILVER, Mobile , Organic ,credit card, Groceries ,3,88.81,0.137%,3,4.2,1
+2020,ORD2020000482, Male ,29,i̇stanbul,NA,Mobile*, Organic , Credit Card ,Electronics*,1,849.53,0.116%,2,4.1,0
+2021,ORD2021000483,Male*,22, Bursa ,silver,Mobil3,ORGANIC,digital wallet,NA,1,435.56,0.091%,2,3.9,1
+2024,ORD2024000484,male,25,konya, Bronze ,mobile,NA,credit card,books & stationery,1,65.11,0.124%,3,3.7,0
+2019,ORD2019000485,male,25,Ankara*, Gold ,DESKTOP, Paid Search , Credit Card ,HOME & KITCHEN,3,1121.89,0.134%,5,3.3,0
+2020,ORD2020000486, Male ,32,i̇stanbul,Silv3r,D3sktop,referral,CREDIT CARD,Sports*,2,410.82,0.151%,3,4.2,1
+2019,ORD2019000487,Mal3,31,i̇stanbul,Bronze*,MOBILE,ORGANIC,CREDIT CARD, Fashion ,2,970.68,0.04%,3,3.1,0
+2020,ORD2020000488,F3mal3,25,MERSIN,guest,MOBILE,SOCIAL,DEBIT CARD,FASHION,2,205.0,0.134%,3,5.0,0
+2022,ORD2022000489,female,25, Ankara ,SILVER, Mobile ,Paid Search*,credit card,El3ctronics,1,566.86,0.268%,3,4.9,1
+2022,ORD2022000490,female,18,İSTANBUL,guest,Mobile*,Organic,NA,B3auty,3,595.63,0.125%,2,4.0,NA
+2018,ORD2018000491,female,43,i̇zmir, Silver , Mobile , Paid Search ,credit card, Home & Kitchen ,1,196.65,0.204%,3,3.3,0
+2023,ORD2023000492,F3mal3,32,eskişehir,Guest*,D3sktop,ORGANIC, Credit Card ,ELECTRONICS,3,6547.74,0.088%,3,3.9,1
+2024,ORD2024000493, Male ,44, İstanbul ,Bronz3, Desktop , Referral ,cash on delivery,FASHION,3,257.87,0.111%,3,3.9,1
+2023,ORD2023000494,male,18,İZMIR,SILVER,mobile,SOCIAL,Digital Wallet*,Electronics*,2,714.73,0.218%,3,4.1,0
+2024,ORD2024000495,F3mal3,52,İstanbul*,GUEST, Desktop ,PAID SEARCH,CREDIT CARD,BOOKS & STATIONERY,2,176.44,0.223%,3,3.9,0
+2019,ORD2019000496,Mal3,33,kayseri,SILVER,desktop, Organic ,Credit Card*,sports,2,573.29,0.0%,2,4.7,1
+2024,ORD2024000497,Male*,36, Kayseri ,Gold*, Mobile ,SOCIAL,cash on delivery,books & stationery,2,132.37,0.269%,3,4.8,1
+2019,ORD2019000498,Male*,23,gaziantep, Bronze , Mobile ,Organic, Bank Transfer ,ELECTRONICS,3,2629.68,0.075%,3,4.2,1
+2019,ORD2019000499,male,28,Antalya,Guest*,Mobil3,PAID SEARCH, Credit Card ,BEAUTY,2,743.26,0.117%,2,4.9,0
+2024,ORD2024000500,FEMALE,38,ANKARA,Bronze*,mobile,organic,credit card,electronics,2,2132.71,0.0%,3,4.2,0
+2020,ORD2020000501,Female*,21, İzmir ,Silv3r,Desktop*,paid search,digital wallet,Electronics*,2,1141.59,0.085%,3,4.1,0
+2020,ORD2020000502,Mal3,40,Konya*, Silver , Mobile ,organic,CASH ON DELIVERY, Groceries ,4,149.48,0.033%,2,4.0,1
+2018,ORD2018000503, Male ,41,Bursa*, Bronze , Desktop , Paid Search ,Credit Card*,ELECTRONICS,2,1106.29,0.164%,3,3.6,0
+2020,ORD2020000504, Male ,40,mersin, Gold ,MOBILE, Organic ,credit card,Fashion,5,453.82,0.0%,4,3.9,0
+2024,ORD2024000505, Male ,31,Ankara*,guest,MOBILE,ORGANIC,CREDIT CARD, Sports ,2,244.63,0.139%,3,3.4,0
+2022,ORD2022000506,F3mal3,29, İzmir , Silver ,DESKTOP,NA,Credit Card*,Books & Stationery*,2,123.49,0.227%,3,4.3,1
+2020,ORD2020000507,Mal3,42,Kayseri*,bronze,D3sktop, Organic , Debit Card , Home & Kitchen ,1,NA,0.14%,2,4.7,1
+2024,ORD2024000508,MALE,34,İZMIR,Gu3st,Mobil3,PAID SEARCH,BANK TRANSFER, Fashion ,3,921.01,0.157%,1,4.4,0
+2023,ORD2023000509,FEMALE,34,İSTANBUL,Guest*,Mobil3,referral, Credit Card ,Sports,3,430.83,0.132%,2,3.8,1
+2021,ORD2021000510, Male ,33, Antalya ,GUEST,MOBILE,REFERRAL, Credit Card ,ELECTRONICS,1,1927.83,0.082%,3,3.9,0
+2023,ORD2023000511,MALE,44,ADANA, Silver , Desktop ,Social*, Cash on Delivery ,Fashion*,1,158.74,0.192%,2,3.0,0
+2023,ORD2023000512,FEMALE,25,i̇stanbul,SILVER,Mobile*,organic, Bank Transfer ,BOOKS & STATIONERY,2,223.7,0.049%,3,4.3,0
+2021,ORD2021000513,male,42,Gaziantep*,Gold,MOBILE,R3f3rral,CREDIT CARD,groceries,3,169.04,0.183%,5,3.6,0
+2024,ORD2024000514,F3mal3,36, İstanbul ,BRONZE,MOBILE,social,CREDIT CARD, Groceries ,6,341.05,0.218%,2,4.5,0
+2021,ORD2021000515,F3mal3,20,GAZIANTEP,Bronze*,MOBILE, Organic ,Credit Card*, Groceries ,6,595.42,0.108%,4,4.0,1
+2020,ORD2020000516,Male*,49,antalya,SILVER,desktop, Organic , Credit Card ,FASHION,1,258.87,0.168%,3,4.2,1
+2019,ORD2019000517,F3mal3,32,Ankara, Bronze ,Mobile*,organic,Cr3dit Card,groceries,4,398.9,0.009%,3,3.7,0
+2021,ORD2021000518,Female*,18,İZMIR,Guest*,Mobil3,Social*,CASH ON DELIVERY,BEAUTY,2,372.6,0.149%,3,3.3,0
+2023,ORD2023000519,FEMALE,50,NA,GOLD,desktop,paid search,credit card,Fashion*,2,556.56,0.168%,2,4.1,0
+2018,ORD2018000520,MALE,37, İstanbul ,SILVER,Mobile*,EMAIL, Credit Card ,BEAUTY,1,252.36,0.183%,2,4.9,0
+2023,ORD2023000521,FEMALE,29,gaziantep,SILVER,mobile,organic,debit card,fashion,2,398.69,0.091%,5,4.2,0
+2024,ORD2024000522,FEMALE,37,Ankara*,Silver*,MOBILE, Social ,Cr3dit Card, Sports ,2,349.1,0.102%,3,3.8,0
+2021,ORD2021000523,male,48,NA,silver,Mobil3,R3f3rral,Debit Card*,FASHION,2,280.71,0.085%,2,3.9,1
+2021,ORD2021000524,MALE,31,adana,GOLD,mobile,NA,CREDIT CARD,Groc3ri3s,8,863.25,0.027%,2,4.6,0
+2024,ORD2024000525, Female ,27, İzmir ,SILVER,Mobil3,ORGANIC,Cr3dit Card,Fashion*,2,205.19,NA,3,3.5,1
+2019,ORD2019000526,FEMALE,22,i̇stanbul,SILVER,tablet,Paid S3arch, Cash on Delivery ,electronics,1,609.22,0.232%,2,4.0,1
+2024,ORD2024000527,female,18, İzmir ,BRONZE,MOBILE,email,credit card,BOOKS & STATIONERY,3,321.86,0.211%,3,4.0,1
+2023,ORD2023000528,Male*,44,TRABZON,bronze,MOBILE,paid search, Digital Wallet ,books & stationery,1,35.85,0.276%,3,5.0,0
+2024,ORD2024000529, Male ,29,bursa,Bronz3,MOBILE,paid search,CREDIT CARD,Beauty*,2,279.11,0.106%,2,4.4,1
+2024,ORD2024000530,female,44,İSTANBUL,Bronze*,Mobil3, Organic , Credit Card ,HOME & KITCHEN,2,1636.25,0.016%,3,3.6,1
+2023,ORD2023000531,F3mal3,18, Ankara ,Gu3st,MOBILE, Email ,Digital Wallet*, Fashion ,1,509.1,0.227%,3,4.1,1
+2019,ORD2019000532,Female*,20,antalya,Bronz3,MOBILE,Email*,bank transfer,Sports*,1,179.66,0.222%,3,3.3,1
+2018,ORD2018000533,male,20,mersin,BRONZE, Mobile ,Paid S3arch,CREDIT CARD,ELECTRONICS,1,474.87,0.218%,3,3.7,0
+2024,ORD2024000534,male,38,BURSA,GUEST,mobile, Social ,D3bit Card,ELECTRONICS,2,NA,0.087%,2,4.8,1
+2018,ORD2018000535,female,32, İzmir ,Silv3r,mobile,Social*,CASH ON DELIVERY,Hom3 & Kitch3n,1,497.8,0.161%,1,5.0,1
+2024,ORD2024000536,Female*,50,Bursa,Gu3st, Mobile ,organic, Credit Card ,Hom3 & Kitch3n,1,486.6,0.039%,2,4.9,1
+2021,ORD2021000537,female,44,KONYA,guest, Mobile ,social,Credit Card*,home & kitchen,1,512.85,0.126%,2,3.3,0
+2019,ORD2019000538,FEMALE,22,Bursa*,SILVER,MOBILE, Organic ,Cr3dit Card,Fashion,2,194.33,0.049%,3,3.7,1
+2024,ORD2024000539,female,34,İstanbul,Silver*,Tabl3t,social,debit card, Sports ,1,239.08,0.181%,2,3.7,0
+2022,ORD2022000540,female,39,kayseri,GUEST,Mobil3, Organic ,BANK TRANSFER,home & kitchen,1,513.8,0.075%,4,2.6,0
+2022,ORD2022000541,MALE,25,NA,silver,Mobile*, Social ,CREDIT CARD,Books & Stationery*,1,57.7,0.206%,2,3.6,0
+2020,ORD2020000542,female,34,İSTANBUL, Gold ,Mobile*,paid search,credit card, Sports ,3,259.41,0.144%,3,4.2,0
+2022,ORD2022000543, Male ,49,Bursa, Guest , Mobile , Organic ,CREDIT CARD,Fashion,2,505.08,0.0%,3,4.1,0
+2020,ORD2020000544,FEMALE,23,Ankara*, Guest ,Mobile*, Organic , Credit Card ,BEAUTY,2,286.61,0.014%,4,4.1,0
+2024,ORD2024000545,female,31, İstanbul ,BRONZE,Mobil3,Organic,Credit Card*,ELECTRONICS,1,1880.35,0.122%,2,4.7,1
+2019,ORD2019000546,FEMALE,54,antalya,silver,mobile, Referral ,CREDIT CARD,Fashion,2,494.05,0.072%,3,3.0,0
+2022,ORD2022000547,male,28,Ankara*,Silver*,D3sktop,Social,Cr3dit Card,Home & Kitchen*,3,1131.59,0.107%,4,3.5,0
+2021,ORD2021000548,FEMALE,61,i̇zmir,bronze,Mobile*,NA,credit card,Groceries*,5,212.4,0.157%,2,5.0,1
+2021,ORD2021000549, Male ,37, Eskişehir ,Silv3r,desktop, Email ,CASH ON DELIVERY, Electronics ,1,309.03,0.178%,2,4.1,0
+2018,ORD2018000550,Mal3,38,i̇zmir,Silv3r,desktop, Organic ,CASH ON DELIVERY,fashion,2,178.15,0.075%,2,4.4,0
+2021,ORD2021000551,male,48,BURSA,Bronz3,D3sktop,organic,CREDIT CARD, Electronics ,1,389.57,0.0%,2,4.1,0
+2020,ORD2020000552, Female ,34,İSTANBUL,bronze, Mobile ,PAID SEARCH,Cr3dit Card, Fashion ,2,214.61,0.2%,4,2.7,0
+2019,ORD2019000553,F3mal3,44, Adana , Silver ,MOBILE,SOCIAL,Credit Card*, Electronics ,4,4826.3,0.216%,3,3.7,0
+2020,ORD2020000554, Male ,24,İSTANBUL,Gu3st,mobile,organic, Debit Card ,electronics,1,447.32,0.111%,2,4.3,1
+2024,ORD2024000555,MALE,38,Kayseri*,BRONZE,DESKTOP,ORGANIC,cash on delivery, Electronics ,2,3086.17,0.018%,2,4.6,0
+2020,ORD2020000556,male,42,İSTANBUL,bronze, Mobile ,Referral*,CASH ON DELIVERY,Books & Station3ry,3,275.64,0.179%,3,3.5,0
+2024,ORD2024000557,Male*,40,bursa, Bronze ,MOBILE,social,Cash on D3liv3ry,HOME & KITCHEN,3,854.75,0.279%,2,4.6,0
+2020,ORD2020000558,Male*,18,Ankara,Guest*, Mobile ,social,CREDIT CARD,books & stationery,2,104.0,0.263%,3,4.1,1
+2021,ORD2021000559,male,25, Ankara ,Bronz3,DESKTOP,ORGANIC,debit card,ELECTRONICS,2,1928.66,0.157%,4,3.8,1
+2024,ORD2024000560,Female*,48,adana,guest, Mobile ,Social*,credit card,BOOKS & STATIONERY,NA,215.57,0.18%,3,4.4,0
+2024,ORD2024000561, Female ,42,BURSA,GUEST,desktop,ORGANIC,credit card,Fashion,6,752.6,0.041%,2,3.9,0
+2018,ORD2018000562,Mal3,36, Bursa ,Guest*,mobile,organic,CASH ON DELIVERY,fashion,2,616.7,0.078%,2,2.7,1
+2022,ORD2022000563,F3mal3,27,İstanbul,BRONZE,Mobile*,email,Cash on Delivery*,books & stationery,1,75.55,0.188%,2,3.9,0
+2021,ORD2021000564, Female ,39,KAYSERI,SILVER, Mobile ,Organic, Credit Card ,GROCERIES,3,146.35,0.207%,4,4.3,0
+2021,ORD2021000565,female,25,TRABZON,Guest*, Mobile ,Paid Search*,CREDIT CARD,HOME & KITCHEN,1,278.64,0.218%,3,3.9,1
+2020,ORD2020000566,Mal3,19,Kayseri*,SILVER,desktop,PAID SEARCH,NA,home & kitchen,4,1775.44,0.085%,3,5.0,1
+2020,ORD2020000567,Female*,40,BURSA,bronze,Desktop*,ORGANIC,Credit Card*,HOME & KITCHEN,4,1278.11,0.115%,3,4.2,0
+2018,ORD2018000568,F3mal3,26,İstanbul,Bronz3,Desktop*,social,Debit Card*,fashion,1,526.31,0.0%,1,4.5,0
+2022,ORD2022000569,male,36, Antalya , Gold ,Tabl3t,PAID SEARCH,CASH ON DELIVERY,Hom3 & Kitch3n,3,854.95,0.101%,2,3.6,0
+2021,ORD2021000570,Female*,18,Antalya*,bronze,Mobile*,PAID SEARCH,DIGITAL WALLET,electronics,1,672.32,0.108%,4,4.3,1
+2019,ORD2019000571,Mal3,49, İstanbul ,BRONZE,DESKTOP,ORGANIC,CREDIT CARD,Fashion*,3,1078.19,0.136%,3,3.5,0
+2023,ORD2023000572, Male ,26, Adana ,SILVER,mobile, Organic ,Cash on Delivery*, Beauty ,4,556.54,0.15%,5,4.3,1
+2021,ORD2021000573, Female ,18,i̇stanbul,BRONZE,Mobile*,ORGANIC,credit card,Home & Kitchen*,3,607.69,0.192%,2,4.1,0
+2021,ORD2021000574,F3mal3,33, İstanbul ,Silver*,MOBILE,paid search,credit card,BEAUTY,1,299.55,0.219%,3,4.5,1
+2023,ORD2023000575,MALE,46, Ankara ,guest,MOBILE,paid search, Debit Card ,books & stationery,2,262.29,0.089%,3,3.8,0
+2021,ORD2021000576,MALE,26, İstanbul , Bronze ,Mobil3,Organic*, Bank Transfer , Home & Kitchen ,5,1052.43,0.11%,3,3.4,0
+2020,ORD2020000577, Male ,46, İzmir , Guest , Mobile , Organic ,Credit Card*,home & kitchen,4,1103.52,0.082%,4,4.3,1
+2019,ORD2019000578,female,37,NA,silver,DESKTOP,social, Cash on Delivery ,groceries,6,201.92,0.156%,3,3.8,0
+2023,ORD2023000579,male,25,ADANA,gold,Mobil3, Paid Search ,Cr3dit Card,Beauty*,2,443.93,0.224%,3,4.2,0
+2019,ORD2019000580,FEMALE,35,Gaziantep*,BRONZE,desktop,EMAIL,Bank Transf3r,beauty,5,311.74,0.166%,5,3.8,1
+2020,ORD2020000581,Mal3,36,İZMIR,BRONZE,DESKTOP, Paid Search ,Credit Card*,home & kitchen,1,212.45,0.053%,2,4.5,1
+2023,ORD2023000582,male,31,i̇stanbul,Gold,MOBILE,ORGANIC,CREDIT CARD, Beauty ,2,692.78,0.0%,2,4.2,1
+2022,ORD2022000583, Male ,53,KONYA,BRONZE,desktop,organic,CREDIT CARD,B3auty,2,545.43,0.127%,3,2.7,0
+2018,ORD2018000584,F3mal3,30,BURSA,GUEST,Tablet*,REFERRAL,DEBIT CARD,fashion,1,566.95,0.081%,3,5.0,0
+2023,ORD2023000585,MALE,39,İstanbul*,bronze, Desktop ,Paid S3arch,cash on delivery,ELECTRONICS,1,490.67,0.285%,3,4.1,0
+2023,ORD2023000586, Male ,39,İstanbul,bronze,DESKTOP, Organic ,Cash on Delivery*,El3ctronics,1,411.42,0.086%,2,4.9,0
+2024,ORD2024000587,MALE,42,İSTANBUL,Bronz3, Mobile , Paid Search ,DIGITAL WALLET, Fashion ,7,1530.78,NA,2,5.0,0
+2019,ORD2019000588,MALE,18,Konya,Bronze*, Mobile ,PAID SEARCH,BANK TRANSFER,Groceries*,8,607.58,0.134%,3,4.4,0
+2018,ORD2018000589,male,28,ANTALYA,Bronz3,mobile,Email*,debit card,SPORTS,3,607.2,0.212%,5,4.3,1
+2019,ORD2019000590, Male ,38,BURSA,bronze,MOBILE,Referral*,DEBIT CARD,FASHION,1,277.08,0.043%,1,5.0,0
+2018,ORD2018000591,female,45,ankara,Gu3st,mobile,Organic*,credit card,fashion,4,784.94,0.049%,4,3.2,0
+2023,ORD2023000592,female,36,BURSA, Bronze ,mobile,social,CREDIT CARD, Beauty ,2,444.89,0.136%,3,4.2,NA
+2024,ORD2024000593,female,18,Gaziantep*, Guest ,Mobil3,SOCIAL,Credit Card*,Beauty*,3,750.81,0.172%,4,3.5,0
+2020,ORD2020000594, Male ,18, Ankara ,NA,mobile, Referral ,Cash on D3liv3ry, Fashion ,7,2936.09,0.131%,3,4.6,1
+2022,ORD2022000595,Female*,29,Bursa,silver,DESKTOP,Organic, Credit Card ,Groceries*,4,229.94,0.129%,2,3.7,1
+2020,ORD2020000596,male,36,İzmir,bronze, Mobile ,Email*,cash on delivery,GROCERIES,5,217.62,0.206%,2,5.0,1
+2020,ORD2020000597,female,33,antalya,Silv3r,D3sktop, Paid Search ,DEBIT CARD, Beauty ,2,281.91,0.145%,3,4.5,1
+2021,ORD2021000598, Female ,20, Bursa ,guest,Mobile*, Social , Credit Card ,Fashion,1,257.85,0.097%,3,4.8,1
+2021,ORD2021000599,MALE,35, Konya ,SILVER,Mobil3, Organic ,credit card, Fashion ,1,234.63,0.071%,3,3.7,0
+2019,ORD2019000600,female,31, İstanbul ,silver, Mobile ,SOCIAL, Debit Card , Home & Kitchen ,1,145.81,0.169%,1,4.8,NA
+2024,ORD2024000601, Female ,41,BURSA,GOLD,tablet,PAID SEARCH,credit card,FASHION,2,343.74,0.138%,1,5.0,1
+2020,ORD2020000602,male,18,İzmir*,guest,Mobile*,paid search, Credit Card , Groceries ,NA,200.01,0.175%,3,3.2,1
+2019,ORD2019000603,FEMALE,24, Bursa , Guest ,MOBILE,email,debit card,NA,2,278.72,0.174%,1,5.0,0
+2024,ORD2024000604,MALE,27,Gaziant3p,GUEST,Mobile*,ORGANIC,credit card,Groceries*,2,159.76,0.158%,3,3.9,0
+2021,ORD2021000605,F3mal3,38,İSTANBUL,Bronze*,Mobile*,Organic*,credit card,sports,1,145.77,0.126%,3,4.3,1
+2019,ORD2019000606,MALE,26,Konya,silver,Mobil3,ORGANIC,CREDIT CARD, Home & Kitchen ,1,509.97,0.131%,4,4.9,1
+2021,ORD2021000607,male,33, İstanbul ,Silver*, Mobile , Organic ,DEBIT CARD,electronics,1,1252.51,0.096%,2,4.0,1
+2024,ORD2024000608,MALE,20,İstanbul*,GUEST,Mobile*,ORGANIC,Credit Card*,home & kitchen,5,3460.98,0.168%,3,4.1,1
+2021,ORD2021000609,FEMALE,41,KAYSERI, Silver ,Mobil3,Organic, Credit Card ,groceries,3,93.56,0.159%,3,4.1,0
+2020,ORD2020000610, Female ,34,İstanbul,guest,mobile,social,credit card,HOME & KITCHEN,1,198.36,0.164%,2,4.0,0
+2024,ORD2024000611, Male ,47,İstanbul*,Gu3st,MOBILE,PAID SEARCH,CASH ON DELIVERY,electronics,1,873.84,0.151%,2,3.6,0
+2024,ORD2024000612,male,30,İstanbul*,guest,mobile,Email*,CREDIT CARD,Home & Kitchen*,3,951.92,0.118%,2,4.6,0
+2023,ORD2023000613, Male ,18, İzmir ,gold,MOBILE,ORGANIC,credit card,beauty,3,582.27,0.159%,4,3.9,0
+2020,ORD2020000614, Female ,24,BURSA,BRONZE,MOBILE,organic,Debit Card*,Books & Station3ry,3,NA,0.097%,1,4.7,0
+2024,ORD2024000615,male,28,ankara, Gold ,mobile, Referral , Cash on Delivery , Home & Kitchen ,1,258.65,0.211%,3,4.9,1
+2022,ORD2022000616,FEMALE,32,i̇stanbul,GOLD, Mobile ,ORGANIC,Digital Wall3t,Electronics*,1,867.52,0.23%,2,4.3,0
+2020,ORD2020000617,Male*,18, Konya , Silver ,DESKTOP,SOCIAL,CREDIT CARD,FASHION,7,1327.27,0.159%,3,4.0,1
+2019,ORD2019000618,Male*,25,bursa,SILVER,MOBILE,NA,Credit Card*,FASHION,3,369.97,0.158%,2,4.7,0
+2020,ORD2020000619,male,31,GAZIANTEP,bronze,desktop,PAID SEARCH,CASH ON DELIVERY,groceries,5,537.27,0.064%,3,3.8,0
+2021,ORD2021000620,male,31, Konya , Bronze , Mobile ,organic,CREDIT CARD,ELECTRONICS,1,396.17,0.035%,3,4.6,0
+2023,ORD2023000621,male,39,kayseri, Guest ,Mobile*,Paid S3arch,CREDIT CARD,ELECTRONICS,1,3235.63,0.144%,4,4.0,0
+2022,ORD2022000622,FEMALE,55,i̇stanbul,Bronze*,DESKTOP, Organic ,CASH ON DELIVERY,Groceries*,4,207.73,0.05%,3,4.8,0
+2020,ORD2020000623,Mal3,24, Bursa ,bronze,mobile,Paid Search*,CASH ON DELIVERY,SPORTS,1,234.52,0.192%,2,3.4,1
+2023,ORD2023000624,MALE,23,İzmir*,GUEST,Desktop*,email,D3bit Card, Electronics ,1,764.58,0.208%,3,5.0,1
+2024,ORD2024000625,Female*,26,Gaziantep*,guest,mobile, Email ,credit card,FASHION,NA,1686.16,0.144%,2,5.0,1
+2022,ORD2022000626,F3mal3,36,Kayseri*,Bronze*,Mobil3,REFERRAL,Credit Card*,fashion,1,332.14,0.044%,2,3.8,0
+2020,ORD2020000627,male,53,konya,silver, Mobile , Organic , Credit Card ,HOME & KITCHEN,1,81.19,0.227%,3,3.8,0
+2023,ORD2023000628, Female ,28,konya, Guest ,Mobil3,Social,CASH ON DELIVERY,electronics,3,3254.26,0.287%,3,3.9,NA
+2023,ORD2023000629,male,35,Bursa*,bronze, Mobile ,social,Digital Wall3t,fashion,6,738.45,0.212%,2,4.9,0
+2024,ORD2024000630, Male ,24, İstanbul ,GUEST,MOBILE, Email ,Credit Card*,Groceries*,5,315.0,0.23%,2,4.3,1
+2023,ORD2023000631,FEMALE,23,ankara,Guest*,Mobile*,Social,CREDIT CARD,sports,1,113.72,0.169%,4,4.1,0
+2022,ORD2022000632,female,28,ANKARA,BRONZE, Mobile ,Organic*,Cash on D3liv3ry,Electronics*,5,10552.29,0.15%,3,3.2,1
+2021,ORD2021000633,male,27,ankara,Gu3st,mobile,Paid Search*,CREDIT CARD,home & kitchen,1,278.03,0.169%,4,4.1,0
+2021,ORD2021000634, Female ,19,adana,Bronze*, Mobile ,Organic*, Credit Card , Fashion ,3,273.16,0.089%,4,3.4,0
+2021,ORD2021000635,Mal3,25, Ankara ,Gu3st,MOBILE,REFERRAL,Cr3dit Card,FASHION,1,297.69,0.047%,3,3.2,0
+2020,ORD2020000636,FEMALE,31,İZMIR,GOLD,mobile, Paid Search ,Credit Card*,Hom3 & Kitch3n,3,858.99,0.111%,2,4.2,1
+2021,ORD2021000637,FEMALE,42,GAZIANTEP,SILVER,Mobil3,Social, Credit Card ,NA,6,NA,0.111%,3,4.1,0
+2024,ORD2024000638,Mal3,43,TRABZON,Gold,mobile,ORGANIC,Cr3dit Card,fashion,3,700.41,0.155%,3,4.1,1
+2024,ORD2024000639, Female ,18,İSTANBUL,BRONZE, Mobile ,Paid Search*, Debit Card , Electronics ,1,874.55,0.116%,2,4.8,0
+2024,ORD2024000640,Mal3,24, İstanbul , Bronze ,MOBILE,Social*,Credit Card*, Electronics ,2,1139.82,0.098%,2,4.7,1
+2018,ORD2018000641,Female*,35,İstanbul,bronze,Mobil3, Organic ,cash on delivery,electronics,2,1125.52,0.106%,3,3.7,0
+2021,ORD2021000642,male,61,İstanbul,GOLD,Mobil3,PAID SEARCH,credit card,HOME & KITCHEN,3,611.58,0.117%,3,4.1,0
+2019,ORD2019000643,male,31,Antalya,bronze,MOBILE,organic,CREDIT CARD,electronics,1,614.27,0.114%,3,3.5,0
+2020,ORD2020000644,FEMALE,44,İstanbul,Guest*,mobile,Paid S3arch,Debit Card*,Sports*,1,104.03,0.196%,3,3.0,0
+2018,ORD2018000645,Female*,39,İSTANBUL,BRONZE,D3sktop,Organic*,CASH ON DELIVERY,FASHION,3,568.42,0.071%,2,5.0,1
+2023,ORD2023000646,F3mal3,40, İstanbul ,Bronze*,Mobil3,social,CREDIT CARD,Home & Kitchen*,4,749.39,0.134%,4,3.7,1
+2018,ORD2018000647,Mal3,33, İzmir ,bronze,DESKTOP,Social*,credit card,fashion,1,148.7,0.126%,3,3.9,0
+2019,ORD2019000648,FEMALE,31, Adana , Silver ,D3sktop,organic, Debit Card ,FASHION,4,456.52,0.158%,4,2.9,0
+2024,ORD2024000649,male,46,i̇stanbul,NA,MOBILE,social,BANK TRANSFER,ELECTRONICS,4,3864.11,0.19%,2,4.2,0
+2018,ORD2018000650,NA,40,ADANA,Silv3r,MOBILE,PAID SEARCH, Debit Card ,home & kitchen,2,677.1,0.205%,2,5.0,0
+2022,ORD2022000651,Female*,39,antalya,BRONZE,desktop,organic,credit card,home & kitchen,2,970.13,0.058%,2,5.0,1
+2021,ORD2021000652,Male*,18,i̇stanbul, Bronze ,mobile,social,Credit Card*,ELECTRONICS,4,3433.37,0.356%,3,4.0,1
+2021,ORD2021000653,Female*,26,İZMIR,guest, Mobile ,PAID SEARCH,Credit Card*,books & stationery,2,176.43,0.141%,3,3.7,0
+2021,ORD2021000654,Female*,36,Gaziantep*,BRONZE, Desktop ,Organic,Cr3dit Card,B3auty,1,216.78,0.115%,4,4.2,0
+2019,ORD2019000655,male,41,BURSA,SILVER,mobile,PAID SEARCH,Credit Card*, Home & Kitchen ,3,883.85,0.072%,2,3.9,1
+2024,ORD2024000656,FEMALE,32, Trabzon ,BRONZE,Mobil3,organic,Credit Card*,FASHION,4,763.06,0.139%,3,3.6,1
+2024,NA, Male ,19, İstanbul ,bronze,desktop,PAID SEARCH,credit card,ELECTRONICS,1,290.42,0.155%,3,4.3,1
+2020,ORD2020000658,FEMALE,29, İzmir ,silver, Mobile , Organic , Debit Card ,HOME & KITCHEN,3,811.09,0.062%,3,3.3,0
+2019,ORD2019000659,Female*,40, Antalya ,Guest*,mobile,PAID SEARCH,Debit Card*,ELECTRONICS,3,999.32,0.236%,3,4.1,0
+2022,ORD2022000660, Male ,25,Eskişehir*,BRONZE, Mobile ,referral,Cr3dit Card, Fashion ,1,243.14,0.048%,3,4.6,0
+2024,ORD2024000661,FEMALE,31, Mersin , Guest , Mobile ,Social*,Credit Card*,beauty,2,201.37,0.148%,2,4.0,0
+2021,ORD2021000662,male,28,antalya, Gold , Mobile ,Social,Credit Card*, Fashion ,4,1066.37,0.126%,3,3.1,1
+2020,ORD2020000663,male,26,Antalya*,bronze,DESKTOP,ORGANIC,Credit Card*,BEAUTY,2,409.17,0.0%,3,4.4,NA
+2022,ORD2022000664,male,32,Antalya*,bronze,MOBILE,ORGANIC, Debit Card , Sports ,2,273.09,0.124%,2,4.2,0
+2023,ORD2023000665, Female ,24,MERSIN,Gold,Mobil3, Social ,Cr3dit Card,beauty,3,393.25,0.271%,2,4.3,1
+2022,ORD2022000666, Male ,45,ANTALYA,Gu3st,MOBILE,ORGANIC,Debit Card*, Groceries ,6,476.65,0.11%,2,3.9,0
+2019,ORD2019000667,FEMALE,31, Ankara ,bronze,MOBILE,ORGANIC,Credit Card*,BEAUTY,1,128.27,0.0%,3,5.0,1
+2019,ORD2019000668,FEMALE,37,mersin,guest,MOBILE,ORGANIC, Bank Transfer ,Fashion*,3,492.01,0.056%,4,3.6,0
+2019,ORD2019000669,F3mal3,40,İSTANBUL,GUEST,Tabl3t,organic,DEBIT CARD,Fashion*,1,239.67,0.152%,4,4.0,1
+2022,ORD2022000670,FEMALE,35,ankara,guest,Mobil3,REFERRAL,credit card, Fashion ,4,1501.89,0.139%,3,4.6,0
+2024,ORD2024000671,MALE,22,İSTANBUL, Guest ,D3sktop,email,Cr3dit Card,Fashion*,2,264.2,0.176%,2,5.0,1
+2019,ORD2019000672,female,50, İstanbul , Silver ,mobile, Organic , Credit Card ,FASHION,1,154.05,0.128%,1,4.1,0
+2022,ORD2022000673, Female ,37,İzmir*, Guest , Tablet ,social, Credit Card ,fashion,3,296.59,0.267%,4,4.4,0
+2023,ORD2023000674,Male*,39,i̇stanbul,SILVER,mobile,paid search,credit card,Electronics*,1,530.54,0.201%,2,4.9,1
+2020,ORD2020000675,Male*,28,İSTANBUL,Silv3r, Desktop ,Organic*,CREDIT CARD, Fashion ,4,1633.68,0.087%,2,3.5,1
+2022,ORD2022000676,male,39,İzmir*,bronze,DESKTOP,Social,digital wallet,SPORTS,1,217.86,0.066%,3,4.2,0
+2024,ORD2024000677,Male*,34,i̇stanbul,NA,MOBILE,organic,credit card,Fashion*,5,706.25,0.16%,1,4.5,0
+2019,ORD2019000678,MALE,44,Kays3ri,GUEST,DESKTOP,ORGANIC,CREDIT CARD,groceries,3,101.39,0.138%,2,3.5,0
+2023,ORD2023000679,female,32,Bursa,GOLD,MOBILE,PAID SEARCH,CREDIT CARD, Beauty ,3,460.05,0.191%,1,4.7,1
+2020,ORD2020000680,Male*,36,konya,Gold,TABLET,Organic*,CREDIT CARD,Groc3ri3s,3,100.37,0.168%,3,4.9,1
+2018,ORD2018000681,NA,NA,Trabzon,Bronz3, Mobile ,Social*,Digital Wallet*,groceries,3,114.81,0.308%,4,4.2,1
+2024,ORD2024000682, Female ,33,Bursa,SILVER,mobile,SOCIAL,bank transfer,fashion,3,392.53,0.154%,2,4.3,0
+2024,ORD2024000683,male,42, İstanbul ,Silver*,MOBILE,PAID SEARCH, Credit Card ,books & stationery,2,87.51,0.256%,3,3.7,0
+2021,ORD2021000684,male,27,ankara,guest,Mobil3,Social*,credit card, Sports ,1,312.84,0.191%,2,NA,0
+2023,ORD2023000685,MALE,38, Ankara ,Silv3r, Desktop ,ORGANIC, Credit Card ,ELECTRONICS,1,1504.24,0.162%,3,4.1,1
+2021,ORD2021000686,FEMALE,33,ANTALYA,Silver*,mobile,paid search,CREDIT CARD, Fashion ,3,494.25,0.211%,4,4.0,0
+2021,ORD2021000687,Mal3,19,Mersin*,guest,Mobil3,ORGANIC,CASH ON DELIVERY, Home & Kitchen ,2,388.45,0.085%,3,3.3,0
+2023,ORD2023000688, Male ,36,NA,bronze,Mobile*, Email , Cash on Delivery ,groceries,4,270.05,0.127%,4,4.1,0
+2020,ORD2020000689,Male*,41,İzmir*,Bronze*, Mobile ,SOCIAL,credit card,Beauty*,1,186.71,0.252%,3,3.2,1
+2019,ORD2019000690,MALE,37,eskişehir,Silver*, Mobile , Social ,credit card,FASHION,1,191.82,0.145%,4,4.3,0
+2022,ORD2022000691,Male*,39,ANTALYA,Gu3st,MOBILE,Organic*,cash on delivery,electronics,1,717.36,0.0%,2,3.7,0
+2023,ORD2023000692, Male ,NA,bursa,BRONZE,DESKTOP,Paid Search*,debit card,Sports*,1,218.61,0.176%,2,4.2,1
+2021,ORD2021000693, Male ,34,ANKARA,Bronze*,MOBILE, Paid Search ,Credit Card*,FASHION,2,401.49,0.197%,4,4.2,0
+2018,ORD2018000694,male,30,BURSA,SILVER,Mobil3, Organic ,CASH ON DELIVERY,Books & Station3ry,3,329.07,0.072%,1,4.4,1
+2021,ORD2021000695,F3mal3,38,i̇stanbul,SILVER,mobile,Organic*,Digital Wallet*,HOME & KITCHEN,2,378.64,0.098%,1,4.4,1
+2024,ORD2024000696,Female*,24,Ankara,Guest*,DESKTOP,Organic*,CREDIT CARD,groceries,3,150.51,0.165%,3,3.2,0
+2022,ORD2022000697,female,41,BURSA,SILVER,Mobile*,Organic*,debit card, Home & Kitchen ,2,495.37,0.132%,3,3.7,1
+2022,ORD2022000698, Male ,41,İstanbul*,GUEST,Mobile*,paid search,digital wallet,books & stationery,1,95.63,0.11%,2,4.9,1
+2021,ORD2021000699,MALE,24,İstanbul,guest,Mobil3,referral,credit card, Groceries ,2,71.76,0.005%,3,4.6,0
+2021,ORD2021000700, Male ,34,İstanbul,silver,D3sktop, Organic ,credit card,GROCERIES,6,567.92,0.132%,3,3.6,0
+2019,ORD2019000701,Male*,24,İstanbul*,Bronze*,MOBILE, Referral , Credit Card ,Beauty*,2,243.8,0.216%,1,5.0,1
+2024,ORD2024000702,male,29,İSTANBUL,Silv3r,MOBILE,Organic*,CREDIT CARD, Home & Kitchen ,5,2175.79,0.107%,2,4.8,1
+2023,ORD2023000703,MALE,18, Mersin ,GUEST,DESKTOP,Paid S3arch,bank transfer,SPORTS,1,312.49,0.084%,2,4.2,0
+2021,ORD2021000704, Female ,NA,İSTANBUL, Bronze , Mobile , Organic ,D3bit Card,BOOKS & STATIONERY,4,379.91,0.127%,2,5.0,0
+2024,ORD2024000705,FEMALE,18,mersin,BRONZE,mobile,Organic*,Credit Card*, Books & Stationery ,5,474.48,0.11%,3,4.2,0
+2018,ORD2018000706,FEMALE,18,i̇stanbul,guest,Tabl3t,ORGANIC,cash on delivery,fashion,3,362.21,0.262%,4,3.5,0
+2020,ORD2020000707,F3mal3,18,mersin,Bronze*,mobile,PAID SEARCH, Credit Card ,Home & Kitchen*,2,329.25,0.217%,3,4.6,1
+2023,ORD2023000708,F3mal3,32,kayseri,silver,Mobil3,SOCIAL,Credit Card*,Books & Stationery*,1,89.35,0.133%,2,5.0,0
+2019,ORD2019000709, Male ,36,İstanbul*,Guest*,mobile,Social*, Digital Wallet ,Home & Kitchen*,1,401.78,0.148%,3,4.5,0
+2018,ORD2018000710,Mal3,30,Ankara,Bronz3,mobile,ORGANIC, Digital Wallet , Electronics ,1,300.21,0.064%,3,3.9,0
+2023,ORD2023000711, Male ,18, Ankara ,GUEST,Mobil3,organic, Credit Card ,GROCERIES,5,438.62,0.039%,3,4.7,1
+2023,ORD2023000712, Male ,43,Adana,Bronze*, Mobile ,organic,D3bit Card, Sports ,2,485.66,0.0%,4,4.3,0
+2020,ORD2020000713,MALE,27, Eskişehir ,GUEST,DESKTOP,organic, Digital Wallet ,groceries,8,536.03,0.146%,4,3.5,0
+2021,ORD2021000714,MALE,26, Adana , Guest ,mobile,Paid S3arch, Credit Card ,Hom3 & Kitch3n,3,872.84,0.129%,4,3.8,1
+2024,ORD2024000715, Male ,45,KAYSERI,Guest*,TABLET,Organic,cash on delivery, Fashion ,4,769.3,0.15%,3,4.4,0
+2022,ORD2022000716,FEMALE,35,Bursa,silver,Mobile*,Organic*,Credit Card*,fashion,4,683.13,0.089%,3,4.7,0
+2019,ORD2019000717, Male ,25,Kays3ri,Silv3r,tablet,Paid S3arch,CREDIT CARD,FASHION,1,134.7,0.242%,2,4.8,0
+2021,ORD2021000718,Female*,38,Konya*,Gold*, Desktop , Paid Search ,DIGITAL WALLET,ELECTRONICS,1,509.85,0.134%,4,3.1,1
+2021,ORD2021000719,Mal3,57, İzmir ,silver,DESKTOP,Organic*,Digital Wall3t,Fashion,4,1383.83,0.037%,3,3.7,1
+2020,ORD2020000720, Male ,18,mersin,Silv3r,Mobile*,paid search,DIGITAL WALLET,El3ctronics,1,521.96,0.143%,4,2.8,0
+2020,ORD2020000721,male,25,ANTALYA,guest,Mobil3,paid search,CASH ON DELIVERY,ELECTRONICS,1,1051.34,0.219%,3,4.4,0
+2022,ORD2022000722,FEMALE,18,bursa,Gu3st,mobile,Social*, Credit Card , Books & Stationery ,5,498.23,0.138%,3,4.7,0
+2019,ORD2019000723,female,32, Bursa , Silver ,D3sktop, Paid Search ,CREDIT CARD,ELECTRONICS,1,854.93,0.169%,1,5.0,0
+2024,ORD2024000724,Female*,20,İSTANBUL,Guest*, Mobile ,organic,CASH ON DELIVERY,electronics,5,3571.28,0.029%,2,4.7,1
+2022,ORD2022000725,female,41,Gaziant3p,Bronze*,DESKTOP,social,credit card,SPORTS,2,178.27,0.129%,4,3.4,0
+2022,ORD2022000726,male,33, Eskişehir ,BRONZE,Mobile*,EMAIL, Credit Card ,Electronics*,1,222.18,0.226%,2,3.8,0
+2023,ORD2023000727,female,38,i̇stanbul, Bronze ,Mobile*,Referral*,cash on delivery,HOME & KITCHEN,2,632.91,0.072%,3,4.5,0
+2018,ORD2018000728,F3mal3,24,BURSA,Silv3r, Desktop ,social,CREDIT CARD,electronics,1,678.43,0.234%,3,4.1,0
+2020,ORD2020000729,FEMALE,30, Antalya , Gold ,MOBILE,Social,Credit Card*,FASHION,2,442.55,0.2%,2,3.8,0
+2023,ORD2023000730,MALE,35,İSTANBUL,BRONZE,MOBILE,Social*,Cr3dit Card,electronics,1,470.81,0.16%,4,3.8,0
+2023,ORD2023000731,MALE,18, Konya ,bronze,Mobil3,referral,cash on delivery,BEAUTY,3,864.37,0.153%,3,3.8,0
+2019,ORD2019000732,male,44,BURSA,BRONZE,mobile,PAID SEARCH,Cash on Delivery*,groceries,3,157.5,0.087%,1,4.9,0
+2019,ORD2019000733,female,21, İstanbul ,GUEST,Mobil3, Email ,digital wallet,HOME & KITCHEN,NA,1575.62,0.228%,2,3.9,0
+2020,ORD2020000734,F3mal3,34,mersin, Bronze ,Mobil3,REFERRAL,debit card, Fashion ,1,300.38,0.086%,2,3.8,0
+2022,ORD2022000735,MALE,28,TRABZON,Gold*,desktop,ORGANIC,CREDIT CARD,GROCERIES,6,345.27,0.14%,4,3.4,0
+2020,ORD2020000736,F3mal3,53,Bursa*, Guest , Desktop , Social ,cash on delivery,Electronics*,1,692.03,0.161%,3,4.2,1
+2024,ORD2024000737,FEMALE,41, Adana ,silver,mobile,SOCIAL, Debit Card , Electronics ,2,650.54,0.306%,2,4.8,0
+2024,ORD2024000738,male,18, Gaziantep ,Bronz3, Mobile ,Organic*,DIGITAL WALLET,Hom3 & Kitch3n,1,280.02,0.014%,3,3.3,1
+2019,ORD2019000739,male,46,ANKARA,SILVER,MOBILE,Social*,debit card,electronics,4,4567.81,0.161%,3,4.2,0
+2024,ORD2024000740,female,31,ADANA, Guest ,Mobil3,Organic*,bank transfer, Beauty ,2,375.68,0.052%,3,4.7,0
+2020,ORD2020000741,Mal3,28, Konya ,Gold*,MOBILE,ORGANIC, Credit Card ,Fashion*,2,342.19,0.074%,3,3.8,1
+2019,ORD2019000742,MALE,33,KAYSERI,Guest*,mobile,Organic*, Credit Card ,HOME & KITCHEN,1,126.25,0.064%,2,4.2,1
+2021,ORD2021000743,Mal3,22,İstanbul*,bronze,D3sktop,SOCIAL,D3bit Card,Home & Kitchen*,2,539.4,0.19%,4,4.4,0
+2019,ORD2019000744,FEMALE,31,İstanbul*,guest,mobile,organic,DIGITAL WALLET,El3ctronics,1,380.75,0.034%,3,3.3,0
+2023,ORD2023000745,female,33,antalya,Gu3st,NA, Organic ,Credit Card*,Groc3ri3s,3,52.78,0.136%,3,4.0,0
+2023,ORD2023000746,FEMALE,34,bursa,gold, Desktop ,organic,Credit Card*,sports,1,158.11,0.163%,3,3.1,0
+2022,ORD2022000747,male,43,Antalya*,silver,Desktop*, Paid Search ,Credit Card*, Electronics ,1,868.77,0.179%,2,4.3,1
+2022,ORD2022000748, Male ,40,Ankara*, Gold ,mobile,PAID SEARCH,Credit Card*,Electronics*,1,193.16,0.173%,2,5.0,0
+2021,ORD2021000749,F3mal3,41,adana,SILVER,Mobile*,organic,DIGITAL WALLET, Electronics ,2,3233.47,0.066%,4,4.5,1
+2020,ORD2020000750,Female*,33,İSTANBUL,GOLD,Mobile*, Organic ,credit card,HOME & KITCHEN,2,353.19,0.105%,2,4.5,1
+2018,ORD2018000751,Male*,NA, Ankara ,Guest*,Mobil3,ORGANIC,digital wallet,SPORTS,2,406.67,0.187%,4,3.4,0
+2023,ORD2023000752,MALE,21, Ankara ,Gold, Mobile ,EMAIL,debit card,Groc3ri3s,7,267.86,0.251%,3,3.7,1
+2018,ORD2018000753,Female*,22,i̇stanbul,Silv3r,MOBILE,EMAIL,Cash on D3liv3ry,groceries,4,305.93,0.277%,1,4.2,1
+2019,ORD2019000754,female,18,bursa,bronze, Mobile , Organic ,Credit Card*, Home & Kitchen ,1,746.63,0.066%,2,3.7,0
+2021,ORD2021000755,MALE,35,i̇stanbul, Bronze ,mobile,Organic*,Cr3dit Card,FASHION,2,750.49,0.214%,1,5.0,1
+2022,ORD2022000756,female,22,İzmir*, Bronze ,Mobile*, Paid Search ,Credit Card*, Sports ,1,87.93,0.237%,2,5.0,0
+2023,ORD2023000757,male,46,İstanbul,GUEST,D3sktop,Paid Search*,Debit Card*,fashion,2,1260.63,0.145%,2,4.4,0
+2023,NA,Female*,18,İstanbul*,bronze,MOBILE,paid search,BANK TRANSFER,Groc3ri3s,6,333.89,0.168%,2,3.7,1
+2020,ORD2020000759, Male ,23,Bursa*,gold,mobile,Organic,DIGITAL WALLET,Groceries*,6,197.05,0.132%,1,4.1,NA
+2024,ORD2024000760, Male ,46,İSTANBUL,Guest*,Mobile*,email,CREDIT CARD,GROCERIES,3,244.14,0.225%,2,4.3,0
+2023,ORD2023000761,Female*,23,ANKARA,Bronze*,MOBILE,Paid Search*,CREDIT CARD, Books & Stationery ,1,104.56,0.107%,2,4.2,NA
+2023,ORD2023000762, Male ,55, Gaziantep ,Bronze*,MOBILE, Social ,CREDIT CARD,books & stationery,1,120.93,0.21%,4,3.0,0
+2022,ORD2022000763,female,21,ankara, Bronze , Mobile ,SOCIAL, Credit Card ,SPORTS,1,346.87,0.315%,4,3.7,0
+2022,ORD2022000764, Female ,36,İSTANBUL,Gold*,tablet,PAID SEARCH,debit card,Electronics*,3,2657.98,0.216%,3,4.2,0
+2023,ORD2023000765,FEMALE,41,mersin,GUEST, Mobile ,organic,CASH ON DELIVERY,Home & Kitchen*,3,1143.66,0.012%,4,3.9,0
+2019,ORD2019000766,FEMALE,27,İZMIR,Bronz3, Mobile ,PAID SEARCH, Credit Card ,HOME & KITCHEN,4,746.59,0.1%,3,3.4,0
+2022,ORD2022000767, Male ,37,gaziantep,Guest*,desktop, Social ,Cash on D3liv3ry, Groceries ,5,237.28,0.155%,4,4.3,0
+2022,ORD2022000768,MALE,20, İstanbul ,guest, Mobile ,Organic*,CREDIT CARD,El3ctronics,3,2469.36,0.055%,2,3.6,0
+2020,ORD2020000769,Male*,37, Ankara , Bronze ,mobile,Organic*,Credit Card*,Home & Kitchen*,5,819.61,0.049%,2,4.2,0
+2022,ORD2022000770,FEMALE,44,Ankara, Bronze , Mobile ,Paid Search*,digital wallet,Books & Station3ry,5,549.15,0.143%,2,3.7,1
+2020,ORD2020000771,Female*,24,Eskişehir*, Guest , Mobile , Social ,CREDIT CARD, Books & Stationery ,NA,831.87,0.168%,4,3.8,0
+2022,ORD2022000772,MALE,18,ANTALYA,bronze,Mobile*, Organic , Credit Card ,Groc3ri3s,2,102.29,0.106%,4,3.4,0
+2019,ORD2019000773,FEMALE,NA,Ankara*,bronze, Mobile ,Paid Search*,DIGITAL WALLET, Electronics ,1,795.33,0.212%,2,4.7,0
+2022,ORD2022000774,MALE,25,Konya*,NA,MOBILE,organic,Cr3dit Card, Electronics ,2,3061.03,0.004%,2,4.6,0
+2019,ORD2019000775,FEMALE,18, Antalya ,Silv3r,Mobile*,organic,CREDIT CARD,Fashion*,3,430.71,0.069%,2,4.4,0
+2024,ORD2024000776, Male ,30,İstanbul,Guest*,mobile,Social*, Credit Card ,books & stationery,4,326.84,0.186%,3,4.8,0
+NA,ORD2021000777,MALE,27,i̇stanbul,Bronze*,Mobile*,SOCIAL,debit card,ELECTRONICS,1,743.06,NA,2,4.0,0
+2018,ORD2018000778,FEMALE,30,i̇stanbul, Bronze ,Mobile*,ORGANIC,credit card,Home & Kitchen*,2,367.5,0.0%,3,3.8,0
+2023,ORD2023000779,Female*,28,İzmir*,Silv3r,MOBILE, Social ,credit card,ELECTRONICS,2,1139.83,0.057%,2,3.4,0
+2020,ORD2020000780,Female*,45,ankara,Bronz3, Desktop ,EMAIL,Credit Card*, Home & Kitchen ,5,1618.26,0.199%,3,4.4,0
+2021,ORD2021000781,female,36,İstanbul,Gu3st,Mobile*,EMAIL, Credit Card ,Groc3ri3s,5,342.04,0.3%,1,4.5,0
+2024,ORD2024000782,FEMALE,29, Antalya ,GUEST,Mobile*,organic,Cr3dit Card,Home & Kitchen*,1,487.02,0.019%,3,4.3,0
+2019,ORD2019000783,Female*,36,İSTANBUL,BRONZE,Mobil3, Organic , Credit Card ,groceries,3,72.38,NA,1,3.4,1
+2024,ORD2024000784,Male*,24,İSTANBUL,BRONZE,Mobile*,R3f3rral,cash on delivery,FASHION,5,682.66,0.158%,3,4.1,0
+2024,ORD2024000785,male,33, Eskişehir ,BRONZE,DESKTOP,SOCIAL,D3bit Card,BEAUTY,3,264.96,NA,3,3.7,1
+2024,ORD2024000786,F3mal3,32, İstanbul ,BRONZE, Mobile , Organic ,Credit Card*, Books & Stationery ,3,377.93,0.067%,3,3.2,0
+2023,ORD2023000787,FEMALE,27,M3rsin,NA,DESKTOP,paid search,digital wallet,HOME & KITCHEN,1,271.73,0.111%,3,3.8,0
+2022,ORD2022000788,female,27,NA,GOLD, Mobile ,Paid Search*, Credit Card , Groceries ,1,45.36,0.166%,3,3.7,1
+2024,ORD2024000789,male,35,ANTALYA, Bronze ,MOBILE,Paid Search*,CREDIT CARD,El3ctronics,2,2161.54,0.15%,3,4.1,1
+2024,ORD2024000790,female,20,MERSIN, Bronze ,TABLET, Organic ,Credit Card*, Electronics ,1,512.85,0.146%,4,3.2,NA
+2022,ORD2022000791,male,33,Bursa*,GUEST,MOBILE,email, Credit Card ,Sports*,1,372.28,0.214%,2,3.7,0
+2022,ORD2022000792,Female*,41, Ankara ,silver, Desktop ,organic,Cr3dit Card,beauty,4,744.92,0.04%,4,4.5,0
+2022,ORD2022000793,FEMALE,37,i̇stanbul,Guest*,mobile, Organic ,Cr3dit Card,GROCERIES,3,123.42,0.143%,3,3.8,0
+2023,NA,male,23,antalya,Bronz3,desktop,organic,Cr3dit Card, Sports ,1,446.38,0.0%,3,4.1,1
+2018,ORD2018000795,Mal3,18, Konya ,gold, Desktop ,social,credit card,Hom3 & Kitch3n,2,341.65,0.16%,3,3.8,0
+2024,ORD2024000796, Male ,26,İzmir*,BRONZE,Mobil3,Organic,credit card, Sports ,2,598.36,0.045%,2,3.3,1
+2024,ORD2024000797, Male ,26,ANKARA,SILVER,mobile,paid search,DIGITAL WALLET,FASHION,7,890.97,0.143%,3,3.7,0
+2020,ORD2020000798, Female ,31, Bursa ,guest,mobile, Email ,CREDIT CARD, Home & Kitchen ,2,848.02,0.204%,2,4.3,0
+2020,ORD2020000799,FEMALE,18, İstanbul , Silver , Mobile ,organic, Digital Wallet , Home & Kitchen ,1,130.51,0.069%,1,4.5,0
+2019,ORD2019000800,FEMALE,37, Adana ,SILVER,Mobil3,Organic,Digital Wall3t, Beauty ,1,101.05,0.098%,NA,4.3,0
+2023,ORD2023000801,Male*,29,adana, Guest , Mobile ,organic,credit card,El3ctronics,2,1006.07,0.092%,3,3.6,0
+2018,ORD2018000802,FEMALE,43,İSTANBUL,guest, Mobile ,EMAIL, Credit Card ,BOOKS & STATIONERY,1,109.51,0.077%,2,4.3,1
+2020,ORD2020000803,F3mal3,29,İstanbul,SILVER,desktop,Organic*,CREDIT CARD,Sports*,1,181.19,0.105%,2,4.7,1
+2020,ORD2020000804,female,34,İzmir,guest,Mobile*, Social ,Credit Card*,Fashion,3,130.09,0.217%,3,5.0,0
+2023,ORD2023000805,FEMALE,26,mersin,GUEST, Mobile ,Social*, Credit Card ,El3ctronics,1,820.03,0.169%,3,4.1,1
+2020,ORD2020000806,Female*,22, İstanbul ,Silv3r,mobile,SOCIAL,Credit Card*, Electronics ,1,769.99,0.22%,3,3.3,1
+2024,ORD2024000807,Male*,25,ESKIŞEHIR,bronze,Desktop*, Referral ,CREDIT CARD,Sports,1,332.67,0.155%,3,4.6,0
+2022,ORD2022000808,male,41, Adana ,guest,MOBILE,paid search, Credit Card ,groceries,4,170.67,0.123%,3,4.0,0
+2023,ORD2023000809,FEMALE,33,İstanbul,Silver*, Mobile , Paid Search ,credit card,groceries,1,46.11,0.235%,2,4.0,0
+2024,ORD2024000810,FEMALE,44,ANKARA,GUEST,Mobil3, Paid Search ,CREDIT CARD,Home & Kitchen*,1,163.62,0.129%,4,4.3,0
+2023,ORD2023000811,FEMALE,29,Trabzon,BRONZE,MOBILE, Social ,credit card,home & kitchen,2,306.05,0.116%,3,NA,1
+2021,ORD2021000812,FEMALE,18,i̇stanbul,bronze,mobile,paid search,DEBIT CARD, Fashion ,5,1694.58,0.15%,1,4.4,0
+2019,ORD2019000813,MALE,40,bursa,BRONZE,Mobile*, Social ,cash on delivery,GROCERIES,4,272.63,0.21%,2,4.3,0
+2024,ORD2024000814,FEMALE,26,bursa,Silv3r,Mobil3,organic,CASH ON DELIVERY,El3ctronics,2,1828.05,0.126%,2,4.2,1
+2023,ORD2023000815, Female ,39,İzmir*,GUEST,DESKTOP,Paid Search*,CREDIT CARD,ELECTRONICS,3,1016.48,0.238%,4,4.5,0
+2020,ORD2020000816,NA,45,İzmir*,Gold*, Mobile ,Organic*,credit card,beauty,3,516.88,0.1%,3,4.5,0
+2020,ORD2020000817,female,30,Konya,Silver*,MOBILE,PAID SEARCH, Debit Card ,electronics,1,375.5,0.184%,4,3.2,1
+2020,ORD2020000818,male,40,İSTANBUL,bronze,DESKTOP,Paid S3arch, Credit Card ,electronics,2,908.05,0.098%,3,4.3,0
+2019,ORD2019000819,female,40,i̇stanbul,Silver*,Desktop*,EMAIL,DEBIT CARD, Books & Stationery ,1,74.91,0.302%,2,4.6,1
+2018,NA,Mal3,18,Konya*,Silver*,Mobil3, Organic ,bank transfer,Home & Kitchen*,1,183.45,0.025%,3,4.2,0
+2020,ORD2020000821,female,51,i̇stanbul,guest,MOBILE,organic,CREDIT CARD,fashion,3,646.35,0.232%,2,4.5,1
+2018,ORD2018000822,FEMALE,23, Ankara ,guest,MOBILE,NA,Credit Card*,ELECTRONICS,5,3510.58,0.061%,2,4.6,1
+2018,ORD2018000823,female,35,MERSIN, Bronze , Tablet ,NA,DIGITAL WALLET,groceries,2,51.89,0.209%,3,3.8,0
+2020,ORD2020000824,Male*,20,ANTALYA,guest, Desktop ,organic,Cr3dit Card,FASHION,1,235.3,0.0%,3,3.1,0
+2023,ORD2023000825,male,18,kayseri, Bronze ,MOBILE,ORGANIC,Bank Transfer*,fashion,2,232.14,0.0%,3,3.4,0
+2024,ORD2024000826,female,50, İstanbul ,guest,Mobile*,Organic*, Credit Card ,Hom3 & Kitch3n,3,1004.01,0.166%,2,5.0,0
+2019,ORD2019000827,Male*,45,İSTANBUL,gold,Desktop*, Social ,digital wallet,electronics,2,1254.83,0.22%,3,4.4,1
+2020,ORD2020000828,male,30,i̇stanbul,BRONZE,Mobile*,social,credit card,Hom3 & Kitch3n,1,264.09,0.197%,3,4.0,0
+2019,ORD2019000829,Female*,34,i̇stanbul,GUEST, Mobile , Email ,Credit Card*,Hom3 & Kitch3n,1,181.06,0.122%,2,NA,1
+2020,ORD2020000830,Female*,29,Ankara*,GUEST,Mobile*,SOCIAL,cash on delivery,FASHION,2,744.04,0.174%,3,4.1,0
+2023,ORD2023000831,Male*,58, Ankara ,guest,MOBILE, Paid Search ,CASH ON DELIVERY, Home & Kitchen ,1,288.9,0.134%,3,3.4,0
+2024,ORD2024000832,Male*,31,Konya*,GUEST,mobile,Social,cash on delivery,ELECTRONICS,1,864.42,0.164%,2,4.2,0
+2018,ORD2018000833,MALE,39,İstanbul,guest,desktop,ORGANIC, Digital Wallet ,B3auty,1,357.61,0.157%,3,2.5,0
+2020,ORD2020000834,male,34,Bursa,Bronz3,Mobil3,Organic*,CASH ON DELIVERY,Home & Kitchen*,4,1307.2,0.076%,1,3.6,0
+2020,ORD2020000835, Male ,31, Ankara ,Gold*, Mobile ,Social*,credit card,ELECTRONICS,2,762.02,0.115%,3,3.8,0
+2020,NA,male,25, Bursa ,Bronz3,Mobile*,EMAIL,credit card,Home & Kitchen*,2,541.87,0.144%,2,4.6,0
+2021,ORD2021000837,NA,18,NA,bronze,Mobil3,Paid S3arch,credit card,electronics,1,822.89,0.166%,5,4.5,1
+2018,ORD2018000838,Mal3,39,ANKARA,Gold*,mobile,PAID SEARCH, Debit Card ,HOME & KITCHEN,7,1797.05,0.225%,4,4.5,1
+2024,ORD2024000839,male,49, İzmir ,GUEST,mobile,Organic*,CREDIT CARD,Fashion,2,571.43,0.125%,2,4.5,NA
+2022,ORD2022000840,F3mal3,21,i̇stanbul,Guest*, Desktop ,EMAIL,Digital Wallet*,electronics,2,1757.36,0.202%,2,4.2,1
+2018,ORD2018000841,female,38,ADANA,NA,MOBILE, Organic ,Cr3dit Card, Fashion ,1,264.57,0.132%,3,4.0,0
+2023,ORD2023000842,Female*,25,İstanbul*, Silver ,mobile,referral,D3bit Card,FASHION,5,1016.95,0.117%,2,3.6,0
+2020,ORD2020000843,Female*,46,İstanbul,Silv3r,desktop,referral,BANK TRANSFER, Sports ,1,193.39,0.013%,3,4.1,1
+2022,ORD2022000844,MALE,38, Gaziantep ,GUEST,MOBILE, Referral ,Credit Card*,NA,1,41.38,0.194%,4,3.9,0
+2023,ORD2023000845,FEMALE,24,Kays3ri,bronze,Mobil3,social,credit card,home & kitchen,1,264.81,0.131%,2,4.7,1
+2022,ORD2022000846,MALE,52,i̇zmir,GUEST,Mobile*,PAID SEARCH,Credit Card*,home & kitchen,2,1362.61,0.051%,4,3.7,0
+2021,ORD2021000847,FEMALE,20,konya,GUEST,mobile,PAID SEARCH,CREDIT CARD, Beauty ,3,399.91,0.184%,3,4.4,1
+2018,ORD2018000848, Female ,18,Adana*,GUEST,MOBILE, Paid Search ,credit card,sports,2,687.15,0.174%,5,3.2,0
+2018,ORD2018000849,F3mal3,31,Kayseri*,BRONZE, Mobile ,EMAIL,debit card,electronics,1,345.53,0.269%,3,3.8,1
+2024,ORD2024000850,F3mal3,32,ankara,Silver*,DESKTOP,paid search,debit card,SPORTS,6,1086.92,0.105%,3,4.0,1
+2019,ORD2019000851,MALE,32,Bursa*,Gold,mobile,Organic*,CREDIT CARD,Fashion,1,129.02,0.103%,3,4.4,0
+2018,ORD2018000852, Male ,25,Gaziantep*,GOLD, Mobile ,Paid S3arch,DEBIT CARD,FASHION,8,1034.15,0.159%,3,4.9,1
+2021,ORD2021000853, Male ,26,Gaziantep*, Guest ,mobile,Organic,DEBIT CARD,BEAUTY,1,238.23,0.144%,4,3.9,0
+2022,ORD2022000854, Male ,29,i̇stanbul, Silver ,MOBILE,ORGANIC, Debit Card , Fashion ,4,700.7,0.131%,2,3.6,0
+2021,ORD2021000855,MALE,36, İstanbul ,GOLD,Mobil3,paid search,CREDIT CARD,Fashion*,2,432.88,0.277%,3,3.5,1
+2022,ORD2022000856,female,40,İstanbul,GOLD,MOBILE, Paid Search ,D3bit Card,BEAUTY,1,155.41,0.235%,3,5.0,0
+2024,ORD2024000857, Female ,18, Kayseri , Guest ,MOBILE,organic,credit card,Books & Station3ry,2,166.96,0.18%,3,4.8,0
+2022,ORD2022000858, Female ,27,Konya*,guest,D3sktop,email, Credit Card ,electronics,1,689.57,0.193%,3,2.3,0
+2023,ORD2023000859,Male*,31,i̇stanbul,silver, Mobile , Organic ,Cash on D3liv3ry, Fashion ,1,234.24,0.067%,2,4.3,0
+2022,ORD2022000860,MALE,32,İSTANBUL,silver,MOBILE,organic,Cr3dit Card,Sports,3,630.68,0.018%,2,4.1,0
+2022,ORD2022000861,Female*,32,İSTANBUL,Guest*,mobile,PAID SEARCH,credit card,ELECTRONICS,1,258.5,0.218%,2,4.6,1
+2023,ORD2023000862,MALE,45,ESKIŞEHIR, Guest ,D3sktop, Paid Search ,digital wallet,Fashion,3,337.5,0.19%,4,4.0,0
+2019,ORD2019000863,F3mal3,25, İzmir , Guest ,mobile,ORGANIC, Cash on Delivery ,Books & Stationery*,2,167.15,0.076%,3,2.7,0
+2021,ORD2021000864,Mal3,18,Bursa,Bronz3,Mobile*,email, Digital Wallet ,HOME & KITCHEN,2,309.16,0.3%,2,5.0,0
+2022,ORD2022000865, Female ,18,Trabzon*,guest,Mobil3,SOCIAL,D3bit Card,FASHION,4,701.94,0.217%,4,3.8,1
+2021,ORD2021000866,MALE,38,Bursa*,bronze,desktop,SOCIAL,CREDIT CARD,books & stationery,2,115.88,0.128%,2,4.9,1
+2021,ORD2021000867,F3mal3,23, İzmir ,BRONZE,mobile,Social*,CASH ON DELIVERY, Books & Stationery ,1,147.05,0.081%,3,3.7,0
+2020,ORD2020000868, Female ,23,i̇stanbul,BRONZE, Mobile ,Paid Search*,CASH ON DELIVERY,home & kitchen,1,179.95,0.047%,1,4.1,0
+2023,ORD2023000869,male,39,i̇stanbul,BRONZE,desktop, Organic , Credit Card ,books & stationery,2,338.17,0.047%,3,4.8,1
+2021,ORD2021000870,MALE,33,i̇zmir,GUEST,D3sktop,PAID SEARCH,CREDIT CARD,sports,3,469.28,0.151%,2,3.9,1
+2019,ORD2019000871,Female*,53,ANTALYA, Bronze ,MOBILE, Social , Credit Card ,SPORTS,1,236.8,0.237%,3,3.7,0
+2021,ORD2021000872,MALE,29,Antalya,bronze, Mobile ,organic,cash on delivery, Electronics ,2,6857.81,0.064%,3,4.3,0
+2021,ORD2021000873,MALE,37,ANKARA,BRONZE,desktop,paid search,Credit Card*,home & kitchen,1,311.86,0.245%,5,3.9,1
+2024,ORD2024000874, Female ,22, Bursa ,GUEST,Mobil3,Social*,Cr3dit Card,beauty,4,2106.65,0.12%,3,4.0,1
+2020,ORD2020000875, Male ,34,antalya,GUEST,mobile,organic,cash on delivery,Fashion,3,331.06,0.233%,2,3.6,0
+2019,ORD2019000876,Male*,42,NA,Silver*,DESKTOP,referral,credit card, Electronics ,1,533.15,0.126%,4,3.9,1
+2020,ORD2020000877, Female ,47,bursa,gold,mobile,Organic,DIGITAL WALLET, Books & Stationery ,4,141.71,0.145%,3,3.4,1
+2020,ORD2020000878,FEMALE,44,İSTANBUL,NA,desktop,Organic,Cash on D3liv3ry,sports,1,191.78,0.0%,1,4.8,1
+2024,ORD2024000879, Male ,33,ankara, Silver ,Desktop*,organic, Bank Transfer ,beauty,1,65.16,0.123%,4,3.7,0
+2023,ORD2023000880,MALE,38,KONYA,Bronz3,MOBILE,organic, Credit Card ,electronics,1,695.29,0.226%,3,5.0,1
+2020,ORD2020000881, Male ,27,İSTANBUL,silver,MOBILE,Organic*,CREDIT CARD,home & kitchen,2,294.99,0.12%,2,4.9,1
+2023,ORD2023000882,female,18,i̇stanbul,Bronze*,mobile,PAID SEARCH,credit card,Sports*,2,488.4,0.184%,1,3.9,0
+2023,ORD2023000883, Female ,32,i̇stanbul,Bronze*, Mobile ,Organic*, Credit Card , Beauty ,1,114.06,0.154%,4,3.7,1
+2023,ORD2023000884, Male ,28,İzmir,GUEST,MOBILE,SOCIAL,credit card,Sports,1,154.81,0.077%,4,3.3,0
+2018,ORD2018000885,MALE,33,ankara,Silv3r,mobile, Organic ,cash on delivery,Electronics*,3,3093.56,0.089%,4,3.8,1
+2022,ORD2022000886,female,32, İstanbul ,Silv3r,Mobile*,Paid Search*,debit card, Home & Kitchen ,2,940.1,0.091%,3,3.8,0
+2023,ORD2023000887, Male ,27,i̇stanbul,GUEST, Desktop ,Paid Search*,Credit Card*, Beauty ,3,221.43,0.096%,1,3.6,0
+2021,ORD2021000888,male,50,İstanbul*, Silver ,mobile,ORGANIC,Credit Card*,Groc3ri3s,7,363.18,0.122%,2,4.5,0
+2021,ORD2021000889,FEMALE,25,İzmir*,BRONZE,mobile,Organic*, Credit Card ,books & stationery,3,261.17,0.053%,3,4.7,1
+2020,ORD2020000890,FEMALE,34, İstanbul , Bronze ,mobile,SOCIAL,debit card,beauty,3,593.59,0.185%,2,4.4,1
+2023,ORD2023000891,male,35, Antalya , Guest , Mobile ,organic,Credit Card*,Groc3ri3s,6,338.07,0.136%,3,4.4,0
+2019,ORD2019000892, Male ,25,Konya,gold,Mobile*, Organic ,CASH ON DELIVERY,FASHION,3,462.51,0.096%,3,4.4,1
+2024,ORD2024000893,FEMALE,22,İstanbul,Guest*,mobile,ORGANIC,Credit Card*,SPORTS,6,1387.66,0.053%,2,3.7,1
+2024,ORD2024000894,female,30, Gaziantep ,bronze,mobile,paid search,Digital Wall3t,Sports*,4,1086.08,0.141%,4,3.4,1
+2021,ORD2021000895, Female ,33,ankara,Bronz3,Desktop*,Paid S3arch,CREDIT CARD,electronics,2,4433.08,0.169%,3,4.0,0
+2023,ORD2023000896,MALE,23,ankara,Bronze*, Desktop ,PAID SEARCH,CASH ON DELIVERY,FASHION,2,268.82,0.175%,4,4.4,1
+2021,ORD2021000897, Female ,23,ADANA,Bronz3,mobile,email,Cr3dit Card,El3ctronics,1,3089.85,0.182%,2,3.4,1
+2021,ORD2021000898,Mal3,32,bursa,bronze,Mobile*,organic, Credit Card ,fashion,4,1563.02,0.045%,3,4.4,1
+2021,ORD2021000899,female,35,İstanbul,Bronze*,Desktop*,PAID SEARCH,CREDIT CARD, Fashion ,2,196.71,0.192%,4,2.9,0
+2023,ORD2023000900,Male*,40,İstanbul,guest,Mobile*, Social ,credit card,home & kitchen,4,720.07,0.178%,2,4.7,1
+2021,ORD2021000901,Mal3,22,ANKARA,Gu3st,NA,Organic, Credit Card ,SPORTS,1,208.55,0.037%,3,4.0,0
+2023,ORD2023000902,F3mal3,56,Ankara,silver,mobile,EMAIL,Credit Card*, Home & Kitchen ,2,429.63,0.234%,3,4.4,0
+2024,ORD2024000903, Female ,43,i̇stanbul, Silver ,mobile, Organic ,CREDIT CARD,GROCERIES,6,223.66,0.114%,4,3.3,0
+2019,ORD2019000904, Male ,42,i̇stanbul,guest,desktop,organic,bank transfer,GROCERIES,4,203.26,0.086%,5,3.9,0
+2022,ORD2022000905,Female*,39,İSTANBUL,Guest*,MOBILE,Organic*, Credit Card , Home & Kitchen ,1,173.08,0.092%,2,3.2,0
+2023,ORD2023000906,male,32,İSTANBUL,BRONZE,mobile,organic,Cash on Delivery*,electronics,1,1642.29,0.083%,2,4.0,0
+2018,ORD2018000907,female,23,Ankara, Bronze ,MOBILE,Organic,CREDIT CARD, Fashion ,2,688.22,0.069%,4,4.0,0
+2020,ORD2020000908, Male ,29,ADANA,Guest*,MOBILE,PAID SEARCH, Cash on Delivery ,home & kitchen,3,546.74,0.162%,3,3.7,0
+2023,ORD2023000909, Male ,47,ANKARA,Silver*,MOBILE,referral,CREDIT CARD,FASHION,1,197.01,0.165%,3,5.0,0
+2024,ORD2024000910,male,41,i̇stanbul, Silver ,MOBILE,paid search,DEBIT CARD,ELECTRONICS,1,761.69,0.136%,4,3.9,0
+2024,ORD2024000911,MALE,30, İstanbul , Bronze ,Mobil3, Paid Search ,Digital Wallet*,Sports,2,403.93,0.164%,3,3.8,1
+2020,ORD2020000912, Female ,26,ADANA,BRONZE,MOBILE,EMAIL, Digital Wallet , Fashion ,1,205.24,0.042%,4,3.7,0
+2022,ORD2022000913,Female*,23,İzmir*,BRONZE,MOBILE,paid search, Bank Transfer ,home & kitchen,4,528.63,0.155%,3,3.1,0
+2024,ORD2024000914,Male*,31,Bursa*,Gu3st,D3sktop,organic,credit card,beauty,2,465.96,0.036%,3,4.2,1
+2022,ORD2022000915,male,28,İSTANBUL,Guest*,Mobil3,paid search,Bank Transf3r,groceries,5,365.88,0.057%,1,2.8,1
+2019,ORD2019000916,FEMALE,20,İzmir, Guest ,Mobile*,Paid Search*,CREDIT CARD,El3ctronics,1,1404.5,0.072%,2,4.3,0
+2024,ORD2024000917, Male ,27,ankara,Guest*,Mobile*,ORGANIC, Digital Wallet ,Home & Kitchen*,4,898.61,0.043%,3,3.6,0
+2024,ORD2024000918, Female ,21,Ankara, Bronze ,DESKTOP,referral, Credit Card ,HOME & KITCHEN,1,207.5,0.074%,3,4.0,1
+2020,ORD2020000919, Female ,18, Gaziantep ,guest,mobile,ORGANIC,CASH ON DELIVERY,books & stationery,1,78.72,0.077%,4,3.8,0
+2019,ORD2019000920,MALE,36,ANTALYA,GOLD,mobile,ORGANIC,CREDIT CARD, Groceries ,6,262.6,0.042%,3,4.3,1
+2024,ORD2024000921,Mal3,34,İstanbul*, Bronze ,mobile,PAID SEARCH, Credit Card ,Fashion,6,1400.58,0.156%,2,4.2,0
+2023,ORD2023000922,female,25, Bursa , Guest ,Mobile*,social,Credit Card*,groceries,6,922.72,0.124%,2,4.9,0
+2020,ORD2020000923, Female ,20, Antalya ,Bronze*,Mobil3,Organic*,Credit Card*,Groceries*,7,595.44,0.141%,3,3.6,0
+2020,ORD2020000924,FEMALE,41,ankara,GOLD,MOBILE,Social*,digital wallet, Electronics ,1,NA,0.153%,2,4.2,0
+2018,ORD2018000925,Male*,31,Ankara*,guest,MOBILE,Paid Search*,credit card,ELECTRONICS,2,982.03,0.175%,4,3.9,0
+2024,ORD2024000926,MALE,32,İSTANBUL,Gold,Mobile*,ORGANIC,Cr3dit Card,Fashion,9,NA,0.03%,2,3.6,1
+2022,ORD2022000927,FEMALE,54,MERSIN,gold,MOBILE,organic,credit card, Electronics ,1,708.21,0.077%,2,4.7,1
+2018,ORD2018000928,female,22,İSTANBUL,bronze,Mobile*,Organic*,BANK TRANSFER,FASHION,6,601.89,0.052%,1,4.1,0
+2022,ORD2022000929,male,37,kayseri, Silver ,MOBILE,PAID SEARCH,Cr3dit Card,ELECTRONICS,1,1309.64,0.255%,4,3.6,0
+2018,ORD2018000930,male,45,Antalya*, Guest ,Mobile*,organic,CASH ON DELIVERY, Beauty ,1,108.75,0.105%,5,2.6,0
+2018,ORD2018000931,male,39,Kays3ri,NA,mobile, Paid Search ,Digital Wall3t,ELECTRONICS,2,2495.78,0.111%,3,5.0,1
+2023,ORD2023000932, Male ,37, İstanbul ,Guest*,DESKTOP,social,CREDIT CARD,Beauty*,7,986.96,0.137%,3,5.0,0
+2023,NA,FEMALE,45,Bursa*, Silver , Mobile ,Organic*,CREDIT CARD,Groc3ri3s,2,107.29,0.114%,1,4.5,1
+2024,ORD2024000934,MALE,25,ANTALYA,SILVER,MOBILE,Social*,digital wallet,BOOKS & STATIONERY,2,202.3,0.259%,3,5.0,0
+2019,ORD2019000935,female,40,İSTANBUL,Guest*,Mobile*,Paid Search*, Credit Card ,Fashion*,4,492.95,0.055%,2,3.5,0
+2021,ORD2021000936,F3mal3,33, Mersin ,bronze,MOBILE,EMAIL,Cr3dit Card,electronics,3,4495.25,0.206%,2,4.8,1
+2021,ORD2021000937,Male*,30,İSTANBUL,Bronz3,Mobil3,Paid Search*,Cr3dit Card,BEAUTY,2,201.45,0.176%,2,2.7,0
+2019,ORD2019000938,male,18,i̇stanbul,Silv3r,mobile,Organic*,CREDIT CARD, Fashion ,5,1256.59,0.049%,3,4.2,1
+2018,ORD2018000939,male,38,ANKARA,Bronze*, Mobile , Paid Search ,Credit Card*,FASHION,5,1332.79,0.156%,3,3.4,0
+2022,ORD2022000940,FEMALE,34,Bursa, Guest ,mobile,paid search,Debit Card*,FASHION,3,945.08,0.158%,2,4.1,0
+2019,ORD2019000941,FEMALE,49, Ankara , Silver ,mobile,Organic*,CREDIT CARD,BEAUTY,1,261.46,0.124%,3,4.9,1
+2020,ORD2020000942, Female ,27,GAZIANTEP,Silver*, Mobile ,Email,CASH ON DELIVERY,Home & Kitchen*,1,431.91,0.115%,NA,3.7,0
+2020,ORD2020000943, Female ,41,i̇stanbul,Silver*,MOBILE,paid search, Credit Card ,fashion,6,883.05,0.125%,1,4.4,0
+2022,ORD2022000944,Mal3,38,i̇stanbul, Silver ,mobile,Organic,CREDIT CARD,Sports,2,246.7,0.147%,3,4.4,1
+NA,ORD2020000945, Female ,35,i̇stanbul,guest, Mobile ,Paid S3arch,credit card,Sports*,2,287.55,0.203%,2,4.4,0
+NA,ORD2024000946,female,33,BURSA, Gold ,DESKTOP,Email*,Bank Transfer*, Electronics ,1,524.62,0.195%,3,3.6,1
+2024,ORD2024000947,MALE,18, Eskişehir ,bronze,mobile,social,Credit Card*,beauty,3,690.93,0.145%,4,3.1,NA
+2019,ORD2019000948,FEMALE,30, İzmir , Guest ,TABLET,ORGANIC,Cr3dit Card,FASHION,6,387.17,0.097%,1,5.0,0
+NA,ORD2018000949, Female ,28,ankara, Bronze ,mobile,Organic*,CASH ON DELIVERY, Fashion ,1,778.47,0.0%,2,4.2,0
+2022,ORD2022000950,female,33,İstanbul*,silver,Desktop*,Organic,credit card,Hom3 & Kitch3n,2,335.41,0.163%,2,4.0,1
+2023,ORD2023000951,female,34,ankara,Silv3r,Mobil3, Paid Search , Credit Card ,fashion,4,1022.47,0.153%,4,4.0,1
+2021,ORD2021000952, Male ,24,İZMIR,BRONZE,mobile, Organic ,CREDIT CARD, Groceries ,4,122.35,0.173%,3,NA,0
+2018,ORD2018000953,FEMALE,37,Antalya, Bronze , Mobile ,Paid Search*,CREDIT CARD, Sports ,2,289.84,0.132%,2,4.4,1
+2021,ORD2021000954, Male ,36,KAYSERI,Bronz3,Desktop*, Referral ,credit card, Electronics ,2,1656.31,0.042%,3,4.7,0
+2022,ORD2022000955,Female*,28,Ankara,GUEST,mobile,social,BANK TRANSFER, Fashion ,2,899.93,0.192%,1,4.8,0
+2023,ORD2023000956,MALE,30, Ankara , Gold ,Tablet*,Paid Search*,credit card, Books & Stationery ,1,71.55,0.253%,3,4.2,0
+2021,ORD2021000957,F3mal3,36,GAZIANTEP,GUEST,mobile,paid search,Cr3dit Card,Books & Station3ry,1,71.67,0.119%,2,3.8,0
+2020,ORD2020000958,Mal3,39,BURSA,SILVER,Mobil3,paid search, Credit Card ,fashion,6,1439.25,0.152%,2,4.3,0
+2021,ORD2021000959, Female ,27, Konya ,Bronze*, Tablet ,Organic,Digital Wall3t,Groc3ri3s,5,298.45,0.16%,4,4.2,1
+2023,ORD2023000960, Male ,44,BURSA,bronze,mobile, Social ,NA,home & kitchen,1,135.55,0.222%,3,3.8,0
+2024,ORD2024000961, Male ,30,ANTALYA,guest, Mobile ,referral, Credit Card ,BEAUTY,1,230.73,0.0%,3,3.8,0
+2019,ORD2019000962,male,18,i̇stanbul, Silver ,Mobile*,organic,Cr3dit Card,BOOKS & STATIONERY,1,56.59,0.077%,2,3.7,1
+2022,ORD2022000963,Mal3,34,M3rsin,GUEST,mobile, Organic ,CREDIT CARD,fashion,1,109.54,0.162%,5,3.3,0
+2021,ORD2021000964, Male ,37,i̇zmir,GUEST,Mobile*,referral, Digital Wallet ,HOME & KITCHEN,2,431.25,0.067%,2,5.0,1
+2018,ORD2018000965,FEMALE,30, İzmir ,GUEST, Mobile ,EMAIL,CREDIT CARD, Sports ,1,167.25,0.17%,3,3.9,0
+2024,ORD2024000966, Male ,40,ankara,BRONZE,mobile,SOCIAL,Cash on D3liv3ry,ELECTRONICS,1,572.39,0.127%,3,3.7,0
+2023,ORD2023000967,F3mal3,35,KONYA, Bronze ,mobile,Organic*, Credit Card ,Home & Kitchen*,3,1666.17,0.1%,2,4.5,0
+2024,ORD2024000968, Female ,32,M3rsin,bronze,DESKTOP, Social , Debit Card ,Home & Kitchen*,4,1336.28,0.094%,2,4.4,1
+2019,ORD2019000969, Female ,44,gaziantep,BRONZE,tablet,organic,cash on delivery, Fashion ,2,95.55,0.162%,4,2.7,0
+2020,ORD2020000970,Male*,39,İSTANBUL,bronze,mobile,organic,Debit Card*,FASHION,4,1283.2,0.159%,2,5.0,0
+2020,ORD2020000971,female,36, İzmir ,Gold,MOBILE,PAID SEARCH,digital wallet, Fashion ,2,555.75,0.044%,3,NA,0
+2018,ORD2018000972,Mal3,32,Ankara*,SILVER,TABLET,ORGANIC,CREDIT CARD, Groceries ,6,165.72,0.016%,2,5.0,1
+2023,ORD2023000973,Male*,18,Mersin*, Bronze ,Mobil3,ORGANIC,Bank Transf3r,El3ctronics,1,1504.21,0.139%,3,4.1,1
+2023,ORD2023000974,F3mal3,18,eskişehir, Guest ,Mobil3,paid search,digital wallet,fashion,1,509.43,0.212%,4,4.0,0
+2024,ORD2024000975, Male ,36, İstanbul ,guest,Mobile*, Paid Search ,credit card,FASHION,4,673.68,0.156%,2,4.5,0
+2022,ORD2022000976,Female*,36, Trabzon ,GUEST,D3sktop,ORGANIC,cash on delivery,beauty,1,113.27,0.128%,4,3.1,1
+2020,ORD2020000977, Female ,29,Ankara*, Silver ,mobile,EMAIL,cash on delivery,groceries,8,543.05,0.197%,1,3.8,0
+2024,ORD2024000978,Mal3,25, Ankara ,GUEST,desktop,PAID SEARCH, Credit Card ,groceries,5,266.43,0.175%,3,3.2,0
+2021,ORD2021000979, Male ,37,Bursa*,silver,desktop,PAID SEARCH,CREDIT CARD,Electronics*,1,306.7,0.183%,4,3.9,0
+2023,ORD2023000980,MALE,33,bursa, Guest ,tablet,organic,bank transfer,GROCERIES,2,99.36,0.004%,3,4.1,1
+2024,ORD2024000981,Female*,35,Bursa*,GUEST,Mobile*,PAID SEARCH,credit card, Home & Kitchen ,2,471.21,0.138%,3,4.1,0
+2021,ORD2021000982,Male*,46, İstanbul ,Bronz3,DESKTOP,organic,Digital Wall3t,FASHION,3,473.25,0.019%,3,4.0,0
+2019,ORD2019000983,FEMALE,29,İstanbul,Guest*,mobile,Social,cash on delivery, Books & Stationery ,3,232.37,0.123%,2,4.6,1
+2021,ORD2021000984,Female*,18,mersin, Guest ,MOBILE,SOCIAL,CREDIT CARD,fashion,2,929.69,0.117%,2,3.9,0
+2018,ORD2018000985,Male*,45,İstanbul*,silver,DESKTOP,PAID SEARCH,credit card,SPORTS,1,261.7,0.151%,1,4.0,0
+2024,ORD2024000986,Female*,27,İstanbul, Silver ,MOBILE,ORGANIC,digital wallet,sports,1,177.09,0.121%,2,4.1,0
+2021,ORD2021000987, Female ,25, İzmir ,GOLD,Mobile*, Paid Search ,D3bit Card,Home & Kitchen*,3,797.02,0.204%,2,3.6,1
+2020,ORD2020000988,FEMALE,42,i̇stanbul,SILVER,DESKTOP,PAID SEARCH,Cr3dit Card,BEAUTY,1,258.54,0.117%,3,4.2,1
+2023,ORD2023000989,Mal3,26, Ankara , Silver ,Mobil3,EMAIL, Credit Card , Electronics ,1,1814.08,0.13%,2,3.9,1
+2024,ORD2024000990,Male*,56,ESKIŞEHIR,bronze,Mobil3, Organic ,credit card,beauty,1,298.41,0.124%,4,3.6,1
+2024,ORD2024000991,Mal3,36,İzmir*,GOLD,TABLET,ORGANIC,credit card,Home & Kitchen*,1,122.75,0.179%,2,4.2,0
+2022,ORD2022000992, Female ,38,İSTANBUL,silver,D3sktop,SOCIAL,Cr3dit Card,Fashion*,3,715.47,0.088%,4,4.2,0
+2019,ORD2019000993,MALE,18,İSTANBUL,GUEST,MOBILE,paid search,Credit Card*, Sports ,2,596.1,0.198%,2,3.6,0
+2023,ORD2023000994, Male ,23,Kays3ri, Bronze , Mobile ,Social,credit card,Hom3 & Kitch3n,1,556.17,0.161%,3,4.7,0
+2021,ORD2021000995, Female ,31,MERSIN, Bronze ,mobile,REFERRAL, Credit Card ,Books & Stationery*,1,34.86,0.044%,3,3.0,0
+2023,ORD2023000996,female,44, İzmir ,bronze,D3sktop,Organic,Cr3dit Card,ELECTRONICS,1,664.99,0.071%,4,3.8,0
+2024,ORD2024000997,MALE,38,İstanbul,silver,MOBILE,ORGANIC,Credit Card*,sports,1,522.9,0.075%,3,3.8,1
+2020,ORD2020000998,male,40,İstanbul,silver,tablet, Email , Debit Card ,ELECTRONICS,1,867.16,0.266%,1,4.3,0
+2021,ORD2021000999,F3mal3,27,MERSIN,Bronze*,MOBILE,organic, Cash on Delivery ,electronics,1,347.52,0.124%,3,4.0,0
+2018,ORD2018001000,Mal3,23,İSTANBUL,guest, Mobile ,Social,cash on delivery,FASHION,5,611.17,0.219%,3,3.8,NA
+2022,ORD2022001001, Female ,33,NA, Bronze ,DESKTOP,ORGANIC, Credit Card ,HOME & KITCHEN,3,844.34,0.105%,3,3.9,0
+2023,ORD2023001002,Male*,34,Antalya*,bronze,MOBILE, Paid Search ,credit card, Electronics ,1,706.24,0.226%,1,3.5,1
+2020,ORD2020001003,Mal3,27,BURSA,silver,Mobile*,PAID SEARCH, Cash on Delivery ,Electronics*,1,584.96,0.163%,2,4.0,0
+2018,ORD2018001004,male,21,Konya,BRONZE,mobile,paid search, Digital Wallet ,sports,2,445.35,0.15%,4,3.6,0
+2019,ORD2019001005,female,50,İSTANBUL,GUEST,MOBILE,Social*, Cash on Delivery ,FASHION,1,169.31,0.089%,3,4.0,0
+2018,ORD2018001006,FEMALE,18,İstanbul*,bronze,mobile,social,CREDIT CARD,ELECTRONICS,1,359.38,0.191%,3,4.1,0
+2022,ORD2022001007,female,31,İstanbul,Gu3st,DESKTOP,Organic,credit card,FASHION,1,289.45,0.0%,3,3.8,0
+2021,ORD2021001008, Male ,19,ANTALYA,GUEST,mobile,Referral*,Cash on D3liv3ry, Fashion ,1,401.82,0.127%,3,2.9,0
+2021,ORD2021001009,F3mal3,41,İstanbul,bronze,Mobil3,organic,CREDIT CARD,electronics,1,841.45,0.123%,1,4.5,0
+2021,ORD2021001010,male,19,Gaziantep*,GUEST,MOBILE,ORGANIC, Credit Card , Groceries ,3,112.4,0.22%,4,3.9,1
+2019,ORD2019001011,female,18,i̇stanbul,Silver*,tablet,REFERRAL,debit card,BOOKS & STATIONERY,2,184.59,0.051%,2,3.6,0
+2019,ORD2019001012,MALE,25,gaziantep, Bronze ,DESKTOP,EMAIL,credit card,Groc3ri3s,3,93.48,0.2%,6,3.1,0
+2020,ORD2020001013,female,25,İstanbul*,bronze,MOBILE,Organic*,CREDIT CARD,Fashion*,7,1385.32,0.082%,4,4.3,0
+2024,ORD2024001014, Male ,41,İstanbul*,Gu3st,mobile,referral,credit card, Electronics ,1,779.95,0.121%,1,4.6,1
+2019,ORD2019001015,F3mal3,32,bursa,GUEST, Mobile ,Organic,bank transfer,HOME & KITCHEN,1,150.12,0.104%,2,3.4,0
+2024,ORD2024001016,Female*,37,antalya,silver,MOBILE, Paid Search ,CREDIT CARD,Hom3 & Kitch3n,1,300.34,0.032%,3,4.1,1
+2023,ORD2023001017, Male ,34,ANTALYA,bronze, Tablet ,ORGANIC,Cash on Delivery*,Fashion*,3,608.08,0.0%,3,4.3,0
+2018,ORD2018001018,Mal3,34,i̇zmir, Bronze ,MOBILE,ORGANIC, Credit Card ,FASHION,1,520.29,0.099%,3,3.9,0
+2022,ORD2022001019,MALE,29,Adana*,Gold, Desktop ,social, Cash on Delivery ,FASHION,1,283.16,0.167%,2,3.6,1
+2023,ORD2023001020, Male ,30,İstanbul*,guest,mobile,Social*,Credit Card*,GROCERIES,11,611.0,0.167%,2,3.5,0
+2020,ORD2020001021,FEMALE,26,antalya,Silv3r, Mobile ,paid search,CREDIT CARD,home & kitchen,2,439.23,0.065%,2,4.7,1
+2019,ORD2019001022,FEMALE,42, İstanbul ,SILVER,mobile,EMAIL,Cash on D3liv3ry,Groc3ri3s,3,70.14,0.327%,2,4.4,0
+2023,ORD2023001023,Male*,40, Konya ,guest,Tablet*,PAID SEARCH,Credit Card*,Electronics*,2,917.93,0.198%,2,4.0,0
+2019,ORD2019001024,FEMALE,25,Gaziantep*, Guest ,DESKTOP,SOCIAL,DEBIT CARD,Sports,1,146.32,0.154%,3,2.8,0
+2020,ORD2020001025,MALE,32,Kayseri*,SILVER, Mobile ,ORGANIC,credit card,SPORTS,1,99.05,0.104%,3,4.5,0
+2022,ORD2022001026,Male*,29,İSTANBUL,guest,Mobile*,paid search,cash on delivery,Groc3ri3s,1,83.24,0.085%,2,3.9,0
+2024,ORD2024001027, Female ,21,i̇zmir,Gu3st,mobile,PAID SEARCH, Credit Card ,SPORTS,1,221.86,0.069%,3,3.8,1
+2020,ORD2020001028,MALE,19,TRABZON,GUEST,Mobile*,ORGANIC, Credit Card ,beauty,2,263.81,0.015%,3,3.9,0
+2020,ORD2020001029,male,40,ANTALYA, Guest ,DESKTOP, Organic ,credit card,Groc3ri3s,4,210.17,0.053%,2,4.5,0
+2023,ORD2023001030,MALE,26, İstanbul ,Gold,Tablet*, Paid Search ,CREDIT CARD,FASHION,2,386.38,0.282%,3,3.8,1
+2024,ORD2024001031,Male*,53,İstanbul*,Silver*,MOBILE,Organic,credit card,Groceries*,5,372.18,0.09%,1,4.1,0
+2019,ORD2019001032,Female*,21,ADANA,Silv3r,Mobile*,organic, Credit Card ,Hom3 & Kitch3n,1,182.64,0.161%,3,3.7,0
+2023,ORD2023001033,FEMALE,45,İstanbul*,gold,Mobile*,ORGANIC, Cash on Delivery ,HOME & KITCHEN,4,1081.55,0.039%,3,4.6,0
+2023,ORD2023001034,FEMALE,19,Bursa, Bronze ,desktop, Organic ,Digital Wallet*,fashion,4,1056.14,0.064%,3,3.8,0
+2021,ORD2021001035,MALE,21,ankara, Silver ,MOBILE,ORGANIC,cash on delivery,GROCERIES,4,198.28,0.096%,3,3.7,0
+2023,ORD2023001036,FEMALE,38,İstanbul,BRONZE,TABLET,Organic,Digital Wallet*,Hom3 & Kitch3n,4,871.81,0.106%,3,4.7,1
+2018,ORD2018001037, Male ,31, Bursa ,bronze,Desktop*,SOCIAL,credit card, Home & Kitchen ,1,314.14,0.239%,1,3.5,0
+2023,ORD2023001038, Male ,22, Kayseri ,BRONZE,MOBILE,PAID SEARCH,Cr3dit Card, Sports ,2,604.77,0.212%,2,4.1,0
+2018,ORD2018001039,F3mal3,37, Antalya , Gold , Mobile ,Organic,credit card,SPORTS,1,213.04,0.095%,4,3.6,1
+2019,ORD2019001040,MALE,32,i̇stanbul,Gu3st, Mobile ,organic,CREDIT CARD, Electronics ,4,2703.44,0.081%,1,4.8,0
+2023,ORD2023001041,Mal3,46,gaziantep,bronze, Mobile ,paid search, Credit Card ,home & kitchen,2,293.58,0.176%,4,3.7,1
+2023,ORD2023001042,male,27,Adana,Bronze*, Mobile ,organic, Bank Transfer ,Groc3ri3s,4,479.99,0.09%,3,4.7,NA
+2022,ORD2022001043,MALE,35, Mersin ,BRONZE,MOBILE,paid search, Credit Card ,Fashion,2,892.63,0.135%,2,4.5,0
+2023,ORD2023001044, Female ,23,İZMIR, Guest ,DESKTOP,referral,CREDIT CARD,ELECTRONICS,1,332.96,0.144%,2,3.9,0
+2022,ORD2022001045,male,50,i̇stanbul, Silver ,MOBILE,social,Cr3dit Card,sports,1,424.08,0.222%,3,4.9,1
+2024,ORD2024001046,FEMALE,26,i̇stanbul, Guest , Mobile ,Email*,CREDIT CARD,Fashion*,1,75.75,0.297%,1,3.2,1
+2024,ORD2024001047, Male ,23,İSTANBUL,Gold*,mobile,Organic*,DEBIT CARD,Beauty*,2,726.83,0.078%,1,5.0,1
+2020,ORD2020001048,MALE,52, İzmir ,silver,Mobil3,NA,CREDIT CARD,FASHION,3,341.48,0.179%,2,3.6,0
+2022,ORD2022001049, Female ,26,Bursa, Guest ,Tablet*,Organic,DEBIT CARD,HOME & KITCHEN,1,546.26,0.063%,2,3.7,0
+2023,ORD2023001050,FEMALE,40, İstanbul ,Silv3r, Mobile ,Organic*,Credit Card*,home & kitchen,1,225.93,0.148%,2,2.8,0
+2021,ORD2021001051,NA,21,Trabzon*,bronze, Desktop ,organic,CREDIT CARD,beauty,2,496.12,0.157%,3,3.1,0
+2019,ORD2019001052,FEMALE,49,trabzon,guest,mobile,organic, Credit Card ,FASHION,5,1236.9,0.0%,4,3.8,0
+2023,ORD2023001053,MALE,39,ANKARA,BRONZE,MOBILE,organic,bank transfer,FASHION,2,320.64,0.065%,4,3.1,0
+2024,ORD2024001054,male,18,i̇stanbul,Bronze*,MOBILE,ORGANIC,Cr3dit Card,books & stationery,2,247.42,0.147%,1,5.0,1
+2023,ORD2023001055,female,29,ANKARA,Silv3r, Mobile ,Organic,Cash on D3liv3ry,HOME & KITCHEN,4,996.87,0.1%,3,3.8,0
+2023,ORD2023001056,male,24,KONYA,bronze, Mobile ,ORGANIC,CASH ON DELIVERY,books & stationery,3,165.38,0.035%,4,4.2,0
+2021,ORD2021001057,MALE,33,İstanbul*, Guest ,DESKTOP, Referral ,CREDIT CARD,HOME & KITCHEN,5,1306.93,0.034%,1,4.5,1
+2019,ORD2019001058,Male*,25,Mersin*,GUEST,desktop,Organic,Credit Card*,groceries,NA,160.32,0.118%,4,2.9,1
+2019,ORD2019001059,Male*,64,ANKARA,BRONZE,Mobile*, Referral ,credit card, Fashion ,2,381.35,0.103%,4,3.3,1
+2023,ORD2023001060,male,18,İSTANBUL,Gu3st,Mobil3,SOCIAL,digital wallet,FASHION,5,609.67,0.264%,2,3.2,1
+2020,ORD2020001061,female,29,GAZIANTEP,silver,DESKTOP, Social ,credit card,Groceries*,5,147.39,0.084%,5,3.8,1
+2023,ORD2023001062,Mal3,35,NA,GUEST,MOBILE,referral, Credit Card ,electronics,1,730.56,0.043%,4,3.7,0
+2024,ORD2024001063,Male*,29,Bursa,GUEST,D3sktop,Paid Search*,credit card,groceries,6,326.85,0.11%,2,4.7,0
+2021,ORD2021001064,FEMALE,31,İSTANBUL,bronze,MOBILE,Paid Search*, Bank Transfer ,home & kitchen,2,790.14,0.132%,3,4.8,1
+2022,ORD2022001065,female,22, İstanbul ,Bronze*,desktop,organic,Digital Wallet*,electronics,2,1146.64,0.021%,NA,3.8,NA
+2021,ORD2021001066,FEMALE,27,i̇stanbul, Gold ,desktop,Paid Search*,Cr3dit Card,Home & Kitchen*,2,367.09,0.257%,2,4.4,1
+2018,ORD2018001067,FEMALE,26,Kays3ri,Gu3st, Tablet ,social,Credit Card*,home & kitchen,2,1207.32,0.161%,3,4.4,1
+2023,ORD2023001068,Male*,45,İstanbul*,Silver*, Mobile ,Social,debit card, Fashion ,3,268.47,0.17%,4,4.3,1
+2018,ORD2018001069,Mal3,32,İSTANBUL, Silver ,mobile, Organic ,Credit Card*,Books & Station3ry,1,67.97,0.02%,2,4.2,0
+2023,ORD2023001070,MALE,33,ANTALYA,SILVER,mobile,Organic*,CREDIT CARD, Electronics ,1,1003.74,0.067%,3,5.0,0
+2020,ORD2020001071,Male*,25,ADANA,guest,MOBILE,organic,Bank Transf3r,B3auty,1,185.05,0.055%,3,3.5,1
+2023,ORD2023001072, Female ,30,İstanbul,GUEST, Mobile ,Social*,credit card,Sports,1,202.26,NA,3,3.1,0
+2020,ORD2020001073,MALE,43,İzmir,Guest*,Mobile*,paid search,credit card,sports,1,160.1,0.002%,3,3.1,0
+2023,ORD2023001074,male,18,Bursa,silver,Mobil3, Organic , Credit Card ,electronics,1,1649.3,0.066%,3,3.6,0
+2023,ORD2023001075,Female*,33,İzmir,Gu3st,MOBILE,social,CREDIT CARD, Electronics ,1,466.79,0.236%,3,3.9,1
+2021,ORD2021001076,F3mal3,33,trabzon,GUEST,DESKTOP,referral, Credit Card ,Home & Kitchen*,1,184.14,0.112%,4,3.4,0
+2022,ORD2022001077,NA,40,kayseri,guest,Mobile*,organic, Credit Card , Fashion ,2,771.97,0.063%,3,4.4,0
+2024,ORD2024001078,Male*,39, İstanbul ,Silv3r,mobile,Organic*,CREDIT CARD,fashion,4,1737.02,0.103%,3,4.5,1
+2023,ORD2023001079,FEMALE,42,İSTANBUL,Gu3st,Desktop*,email,DIGITAL WALLET,Groceries*,1,71.62,0.187%,2,4.5,1
+2024,ORD2024001080,female,27,konya,Bronz3,D3sktop,organic,Digital Wallet*,ELECTRONICS,2,404.3,0.002%,3,3.8,0
+2022,ORD2022001081, Female ,18,NA,bronze,MOBILE,EMAIL,CREDIT CARD,Home & Kitchen*,3,1153.78,0.211%,3,3.9,0
+2018,ORD2018001082,MALE,34,BURSA, Bronze ,MOBILE,social,CASH ON DELIVERY,fashion,4,362.02,0.175%,3,3.2,0
+2022,ORD2022001083,Male*,18, İstanbul ,Guest*,Mobil3, Organic ,CREDIT CARD,electronics,3,1352.75,0.157%,3,4.8,0
+2019,ORD2019001084, Male ,50,i̇stanbul,Bronz3,Mobil3, Organic ,CASH ON DELIVERY,SPORTS,1,193.63,0.18%,3,3.6,1
+2022,ORD2022001085,Mal3,22, Konya ,SILVER, Desktop ,Organic*,Cr3dit Card,home & kitchen,3,340.67,0.047%,3,3.6,0
+2018,ORD2018001086,Male*,41,İSTANBUL, Bronze ,MOBILE, Email ,debit card,Books & Station3ry,1,69.53,0.121%,2,4.9,1
+2019,ORD2019001087,Female*,26, Gaziantep ,NA,mobile,ORGANIC,digital wallet, Beauty ,5,530.82,0.025%,2,4.3,1
+2020,ORD2020001088,Female*,46,MERSIN,gold,tablet,Paid S3arch,BANK TRANSFER,ELECTRONICS,1,335.39,0.145%,NA,3.8,NA
+2023,ORD2023001089,male,42, Konya ,bronze,MOBILE, Referral ,credit card, Beauty ,NA,122.5,0.07%,4,4.1,0
+2022,ORD2022001090,female,26,antalya, Guest , Mobile ,Paid S3arch,credit card,electronics,2,1115.21,0.217%,3,4.8,0
+2024,ORD2024001091,FEMALE,18,bursa,Silv3r,mobile, Social ,credit card,home & kitchen,2,223.26,0.168%,2,4.3,0
+2018,ORD2018001092, Male ,45,İSTANBUL,Bronze*,mobile,social,digital wallet,home & kitchen,3,525.83,0.107%,2,5.0,1
+2024,ORD2024001093,Female*,19,İSTANBUL,SILVER,D3sktop,paid search, Credit Card , Fashion ,6,3497.67,0.206%,2,4.0,1
+2024,ORD2024001094,MALE,23,KAYSERI,SILVER,MOBILE,paid search,digital wallet,beauty,1,171.48,0.14%,2,5.0,1
+2021,ORD2021001095,male,42, Bursa ,GUEST,mobile,ORGANIC,Credit Card*, Fashion ,5,870.96,0.102%,3,4.0,0
+2021,ORD2021001096,male,32,BURSA,Silv3r,desktop, Paid Search ,Bank Transf3r,El3ctronics,3,1958.58,0.283%,1,5.0,1
+2021,ORD2021001097,Male*,42,kayseri,bronze,DESKTOP,paid search,credit card,Electronics*,2,1541.57,0.211%,3,3.5,0
+2020,ORD2020001098,MALE,24,Ankara*,Bronz3,DESKTOP,Organic*, Credit Card ,fashion,5,874.93,0.051%,3,4.1,0
+2021,ORD2021001099,Mal3,18, Konya ,guest, Mobile ,Organic,Cash on Delivery*,El3ctronics,2,1502.82,0.074%,3,3.2,0
+2019,ORD2019001100,female,49,İstanbul,gold,Tablet*, Organic , Credit Card ,fashion,5,887.5,0.111%,3,3.7,0
+2019,ORD2019001101, Female ,18, Eskişehir ,GUEST,mobile,Paid S3arch, Credit Card , Fashion ,1,266.47,0.173%,3,4.2,0
+2018,ORD2018001102,male,23, Gaziantep ,Bronze*,MOBILE, Email , Bank Transfer ,NA,3,731.75,0.16%,3,3.6,0
+2023,ORD2023001103,MALE,33, Trabzon , Guest ,Desktop*, Organic ,digital wallet,GROCERIES,10,681.12,0.024%,3,4.3,1
+2024,ORD2024001104,male,36,Ankara*,BRONZE,MOBILE, Social ,CREDIT CARD, Groceries ,5,486.54,0.15%,3,4.3,1
+2022,ORD2022001105,Male*,28,İstanbul*,Gu3st,desktop,Paid Search*,CREDIT CARD,Groc3ri3s,4,336.12,0.083%,2,5.0,0
+2022,ORD2022001106,FEMALE,40,i̇stanbul,Silv3r,mobile,paid search,credit card,El3ctronics,3,3233.17,0.156%,2,3.4,1
+2018,ORD2018001107,F3mal3,30,MERSIN, Bronze ,desktop, Organic ,credit card,FASHION,3,252.22,0.054%,4,4.3,1
+2021,ORD2021001108,FEMALE,48,Kayseri*,BRONZE,mobile,EMAIL,Cr3dit Card,HOME & KITCHEN,1,319.32,0.22%,4,3.2,1
+2019,ORD2019001109,female,22,ADANA, Guest ,Mobil3,referral, Credit Card ,ELECTRONICS,2,2670.14,0.032%,3,4.7,1
+2022,ORD2022001110,male,18,mersin,gold,mobile, Social , Cash on Delivery ,Fashion,2,358.15,0.22%,4,3.5,1
+2018,ORD2018001111, Male ,26,İstanbul,bronze,MOBILE,Social*,Cr3dit Card,electronics,1,2126.61,0.137%,1,3.8,0
+2022,ORD2022001112,FEMALE,30,i̇stanbul,GUEST, Mobile ,PAID SEARCH,digital wallet,sports,1,307.74,0.038%,3,3.6,0
+2023,ORD2023001113,Mal3,20,antalya,Silver*,desktop,ORGANIC,digital wallet,electronics,1,582.75,0.067%,4,2.9,0
+2022,ORD2022001114,FEMALE,36,mersin,silver, Tablet ,PAID SEARCH,digital wallet,Fashion,3,1072.84,NA,4,2.9,1
+2020,ORD2020001115,FEMALE,18,ANKARA,bronze,Mobile*,Social,Credit Card*,NA,2,216.41,0.189%,3,3.5,0
+2019,ORD2019001116,female,48,İstanbul*,Bronz3,D3sktop, Organic ,Credit Card*,beauty,1,86.15,0.112%,2,4.2,0
+2023,ORD2023001117,Female*,25,Ankara*,GUEST,DESKTOP,ORGANIC,credit card, Beauty ,1,199.56,0.141%,3,3.1,0
+2020,ORD2020001118,MALE,34,ankara,NA,mobile,Referral*, Cash on Delivery , Sports ,4,1024.01,0.068%,2,4.2,0
+2020,ORD2020001119,F3mal3,18,İstanbul*, Silver ,MOBILE, Organic ,NA,Groceries*,1,42.34,0.039%,2,4.7,0
+2019,ORD2019001120,F3mal3,32,MERSIN,SILVER,MOBILE,organic,credit card,HOME & KITCHEN,4,1164.95,0.118%,2,4.4,0
+2023,ORD2023001121,FEMALE,40,Kays3ri,SILVER,Mobile*,Paid Search*,Credit Card*,Electronics*,3,1947.36,0.13%,2,4.1,1
+2021,ORD2021001122, Female ,33,ANKARA,bronze, Mobile ,Paid Search*,credit card, Books & Stationery ,7,356.38,0.149%,3,3.6,1
+2022,ORD2022001123,MALE,26, Adana ,Bronz3,mobile,organic,credit card,electronics,2,864.18,0.105%,4,3.4,1
+2020,ORD2020001124,MALE,36,i̇stanbul,SILVER,MOBILE,Social*, Cash on Delivery ,FASHION,5,520.78,0.215%,3,3.6,0
+2020,ORD2020001125,Male*,36, Trabzon ,BRONZE,MOBILE, Social ,credit card,electronics,2,3419.47,NA,3,3.4,0
+2021,ORD2021001126,MALE,37,ANTALYA, Bronze ,MOBILE,R3f3rral,Digital Wallet*, Groceries ,4,159.08,0.052%,3,3.9,0
+2022,ORD2022001127,Female*,29,İSTANBUL, Gold ,Mobil3,Paid Search*,bank transfer,home & kitchen,4,408.28,0.141%,2,4.5,1
+2023,ORD2023001128,Male*,28,İstanbul*,Guest*,mobile,social,Cr3dit Card,Fashion*,2,269.12,0.221%,3,3.0,0
+2020,ORD2020001129,Male*,34,İZMIR,GUEST,MOBILE, Organic ,CASH ON DELIVERY,ELECTRONICS,1,710.37,0.055%,2,3.2,0
+2018,ORD2018001130,FEMALE,29,Antalya*,Silv3r,desktop,Organic*,debit card, Books & Stationery ,2,127.78,0.058%,3,3.9,0
+NA,ORD2018001131,male,29,GAZIANTEP, Silver , Mobile , Social , Credit Card ,SPORTS,1,123.2,0.256%,5,3.4,0
+2024,ORD2024001132,female,38,KONYA,GUEST,mobile,paid search,Cash on D3liv3ry, Electronics ,2,597.11,0.175%,4,2.7,0
+2022,ORD2022001133,Female*,26,i̇stanbul,Bronz3,MOBILE, Organic ,credit card, Fashion ,2,480.79,0.018%,2,5.0,0
+2022,ORD2022001134, Male ,25,Antalya*, Silver ,MOBILE,SOCIAL,DIGITAL WALLET,sports,2,543.03,0.165%,3,3.9,0
+2022,ORD2022001135,NA,18, Konya ,BRONZE,Tabl3t, Social ,Cr3dit Card,fashion,4,428.2,0.126%,2,4.1,0
+2023,ORD2023001136,FEMALE,42,adana,Silv3r,DESKTOP,PAID SEARCH, Credit Card ,Electronics*,1,314.66,0.238%,2,4.3,0
+2020,ORD2020001137,FEMALE,34, Ankara ,silver,NA,SOCIAL,credit card,Electronics*,1,499.57,0.16%,3,3.7,0
+2023,ORD2023001138,Mal3,25,MERSIN,bronze,NA,Email*,DEBIT CARD,Fashion*,3,633.23,0.238%,3,4.2,1
+2018,ORD2018001139,F3mal3,40,İstanbul*,silver,D3sktop, Organic ,Credit Card*,fashion,1,116.76,0.152%,3,3.3,1
+2018,ORD2018001140,female,29,Kays3ri,guest,DESKTOP,organic,Credit Card*,fashion,2,195.08,0.029%,4,3.6,0
+2024,ORD2024001141,Mal3,44,İSTANBUL,guest,mobile,R3f3rral,bank transfer,home & kitchen,2,389.38,0.143%,1,3.4,1
+2020,ORD2020001142,MALE,46,kayseri, Guest ,mobile,Paid S3arch,credit card,BOOKS & STATIONERY,2,117.71,0.145%,2,3.8,1
+2022,ORD2022001143,female,36,i̇stanbul,BRONZE, Mobile ,ORGANIC,CREDIT CARD, Fashion ,2,214.54,0.119%,1,4.8,1
+2023,ORD2023001144, Female ,36,adana,BRONZE, Mobile ,PAID SEARCH,cash on delivery,groceries,3,125.78,0.235%,1,4.0,0
+2024,ORD2024001145,male,42,İstanbul,bronze,D3sktop,referral,Cash on Delivery*, Electronics ,1,2129.27,0.059%,2,4.7,1
+2020,ORD2020001146,Male*,18,İSTANBUL,Guest*,mobile,paid search,debit card,GROCERIES,4,219.99,0.168%,2,4.3,0
+2022,ORD2022001147,F3mal3,40,ANKARA,silver,MOBILE,Email,Cr3dit Card,ELECTRONICS,3,2102.68,0.101%,3,4.0,1
+2021,ORD2021001148, Male ,30,trabzon,Bronz3,mobile,PAID SEARCH,Cr3dit Card,Electronics*,2,1288.12,0.168%,3,3.2,0
+2018,ORD2018001149,male,34,Konya,Bronze*, Desktop ,referral,bank transfer,Home & Kitchen*,2,610.74,0.136%,2,4.4,1
+2019,ORD2019001150,MALE,37,İSTANBUL,guest,MOBILE,ORGANIC,CREDIT CARD, Electronics ,2,1532.53,0.186%,2,4.4,0
+2022,ORD2022001151, Female ,43,ankara,guest,Mobile*, Organic ,Credit Card*,ELECTRONICS,2,851.09,0.016%,3,3.3,1
+2020,ORD2020001152,male,43,Ankara, Guest ,Mobil3,Email*, Debit Card ,ELECTRONICS,3,1708.45,0.13%,3,4.4,0
+2024,ORD2024001153, Male ,23, İstanbul ,silver,MOBILE,social,digital wallet,FASHION,1,112.0,0.226%,1,5.0,1
+2023,ORD2023001154,Mal3,34,BURSA,Gu3st, Mobile ,Social*,Debit Card*,GROCERIES,9,480.34,0.236%,2,4.8,0
+2020,ORD2020001155,female,27,antalya,Guest*, Mobile ,EMAIL,CREDIT CARD,Fashion*,3,819.16,0.149%,3,3.8,1
+2021,ORD2021001156,MALE,44,ANTALYA,gold,Mobile*,paid search,NA,ELECTRONICS,1,511.17,0.233%,4,2.9,0
+2018,ORD2018001157,Female*,42, İstanbul , Silver ,Tabl3t,organic,CREDIT CARD,HOME & KITCHEN,1,134.5,0.256%,2,4.4,0
+2020,ORD2020001158,female,37,i̇zmir,bronze, Mobile ,ORGANIC,credit card,sports,2,518.39,0.119%,3,4.1,0
+2021,ORD2021001159,F3mal3,35,KAYSERI,bronze,desktop,referral,Bank Transf3r,Home & Kitchen*,1,582.22,0.117%,2,4.2,0
+2024,ORD2024001160,Mal3,20,i̇stanbul,Gold,Mobil3,EMAIL,CREDIT CARD,Home & Kitchen*,2,370.73,0.227%,3,4.2,1
+2019,ORD2019001161,Mal3,29,Adana,Bronze*,mobile, Paid Search ,cash on delivery,groceries,7,256.48,0.188%,4,4.5,0
+2019,ORD2019001162,FEMALE,35, İstanbul ,GUEST, Mobile ,social,D3bit Card,home & kitchen,2,412.35,0.102%,3,2.6,0
+2024,ORD2024001163,FEMALE,23,Trabzon*,BRONZE,Desktop*,EMAIL,Digital Wall3t,Groceries*,4,181.82,0.18%,NA,4.5,0
+2021,ORD2021001164,Mal3,38,konya,Guest*,mobile,Referral*,Cr3dit Card, Home & Kitchen ,2,1753.15,0.0%,3,4.5,0
+2021,ORD2021001165,female,26,Bursa, Guest ,MOBILE, Organic , Credit Card ,HOME & KITCHEN,4,1217.9,0.073%,2,4.1,0
+2020,NA,F3mal3,29, İstanbul ,GUEST,Desktop*,Organic*,credit card,ELECTRONICS,1,1324.99,0.081%,1,4.2,1
+2023,ORD2023001167, Female ,42,ANKARA,gold,mobile, Social ,credit card,FASHION,2,239.65,0.253%,3,4.5,1
+2022,ORD2022001168,Male*,18, Eskişehir ,Bronz3,MOBILE,Organic,CREDIT CARD, Fashion ,2,352.61,0.081%,3,3.8,0
+2023,ORD2023001169,female,18, Ankara ,GUEST,MOBILE, Social ,CREDIT CARD,FASHION,3,598.06,0.061%,2,4.1,0
+2018,ORD2018001170,male,28, Adana ,GUEST,Desktop*,PAID SEARCH,credit card,B3auty,4,781.6,0.085%,2,5.0,0
+2019,ORD2019001171,MALE,50,Konya*,guest,mobile,paid search,Credit Card*,electronics,1,500.4,0.201%,3,4.1,0
+2023,ORD2023001172,F3mal3,48,Ankara,Bronz3,NA,Paid Search*,CREDIT CARD,Fashion*,2,419.39,0.137%,2,4.1,1
+2022,ORD2022001173,MALE,26,antalya, Bronze , Mobile ,paid search,NA,Books & Stationery*,1,69.69,0.076%,2,4.9,0
+2022,ORD2022001174,female,32,İSTANBUL,GUEST,Mobile*,ORGANIC, Digital Wallet , Home & Kitchen ,1,317.35,0.099%,3,4.0,1
+2022,ORD2022001175,MALE,19,antalya,Bronz3,Mobil3,Paid S3arch,CASH ON DELIVERY,groceries,10,1005.73,0.034%,2,4.0,1
+2022,ORD2022001176,NA,21,ankara,Guest*,mobile,Social,BANK TRANSFER,BEAUTY,1,160.46,0.155%,2,4.7,0
+2020,ORD2020001177,FEMALE,47,i̇zmir,BRONZE,DESKTOP,Organic,CASH ON DELIVERY,beauty,1,158.18,0.0%,4,2.9,0
+2023,ORD2023001178,Male*,37,i̇stanbul,Bronz3,Mobil3,Organic, Credit Card ,GROCERIES,4,410.3,0.173%,2,4.7,0
+2021,ORD2021001179,Female*,33,İstanbul, Guest ,mobile,R3f3rral,CASH ON DELIVERY, Groceries ,2,209.58,0.178%,2,4.5,1
+2024,ORD2024001180,F3mal3,52,kayseri, Bronze ,Mobile*,ORGANIC, Credit Card ,HOME & KITCHEN,1,199.18,0.067%,3,4.3,0
+2023,ORD2023001181,Male*,49,trabzon, Gold ,Mobil3,Social, Digital Wallet ,Hom3 & Kitch3n,1,169.85,0.132%,5,4.0,0
+2024,ORD2024001182,FEMALE,34, Ankara ,SILVER,MOBILE,SOCIAL, Credit Card ,books & stationery,8,775.97,0.105%,2,4.8,1
+2021,ORD2021001183, Male ,44,i̇zmir,silver,Tabl3t,SOCIAL,credit card,Sports,1,191.42,0.266%,2,3.9,0
+2019,ORD2019001184,male,43,kayseri, Bronze , Mobile ,SOCIAL,credit card,home & kitchen,2,362.33,0.148%,2,2.9,1
+2024,ORD2024001185,FEMALE,19,KONYA,Bronz3,MOBILE,Paid Search*,Cash on Delivery*, Beauty ,2,293.45,0.126%,3,3.3,0
+2024,ORD2024001186, Female ,44,İSTANBUL,Gold,Mobile*,Paid Search*, Cash on Delivery ,FASHION,4,589.23,0.181%,2,4.0,1
+2018,ORD2018001187,MALE,18,Gaziant3p, Guest , Mobile ,PAID SEARCH, Credit Card ,fashion,1,108.12,0.23%,5,2.6,0
+2018,ORD2018001188,Male*,56,ANTALYA,SILVER,Mobil3,Social, Credit Card , Sports ,3,755.89,0.172%,3,3.7,1
+2021,ORD2021001189,FEMALE,49,İSTANBUL,GOLD,D3sktop,organic,CREDIT CARD,FASHION,3,660.8,0.231%,3,4.2,1
+2019,ORD2019001190,Mal3,33,i̇stanbul, Guest ,Mobile*,organic, Bank Transfer ,FASHION,3,268.1,0.113%,3,3.6,0
+2022,ORD2022001191,MALE,23,Antalya,Bronz3,MOBILE,Organic*,digital wallet,fashion,5,1642.16,0.13%,4,3.5,0
+NA,ORD2023001192,MALE,19,Bursa*,gold,mobile, Social ,CREDIT CARD,Home & Kitchen*,3,541.04,0.198%,2,3.7,1
+2022,ORD2022001193,male,27, Ankara ,guest,mobile, Organic , Cash on Delivery ,Electronics*,1,671.94,0.111%,2,4.7,0
+2020,ORD2020001194, Male ,62, Antalya ,bronze,Mobil3,organic,CREDIT CARD,SPORTS,5,650.55,0.176%,4,3.5,0
+2020,ORD2020001195,MALE,18,Antalya*,Guest*,DESKTOP,Paid Search*,D3bit Card,Fashion*,1,147.23,0.127%,4,3.5,1
+2021,ORD2021001196,female,50,Eskiş3hir,Gu3st,DESKTOP,Organic*,CREDIT CARD,home & kitchen,2,1450.95,0.071%,3,3.4,0
+2020,ORD2020001197,Female*,53,ankara,Gold*,desktop,SOCIAL,Digital Wallet*,Home & Kitchen*,4,705.11,0.09%,2,4.3,0
+2019,ORD2019001198,F3mal3,33,İstanbul*,silver,MOBILE,Social*, Credit Card ,electronics,1,729.79,0.109%,3,3.8,0
+2023,ORD2023001199,female,34,Ankara,silver,Mobile*,organic,Cr3dit Card,Sports,1,468.83,0.108%,3,3.2,0
+2023,ORD2023001200, Female ,28,BURSA,SILVER,Desktop*, Social ,cash on delivery,Home & Kitchen*,3,1165.79,0.241%,2,4.3,1
+2021,ORD2021001201,Mal3,23,KAYSERI, Silver ,DESKTOP, Paid Search ,Cash on Delivery*,fashion,9,2842.41,0.152%,2,5.0,1
+2023,ORD2023001202,MALE,32,bursa,guest,Mobile*, Organic , Credit Card ,BEAUTY,3,511.04,0.004%,2,4.1,1
+2020,ORD2020001203,male,38,İZMIR,silver, Mobile ,ORGANIC,Cr3dit Card,Electronics*,1,1744.32,0.105%,3,3.8,1
+2019,ORD2019001204,Mal3,34,Bursa, Guest ,Mobile*, Paid Search ,Bank Transf3r,Sports*,2,487.97,0.184%,3,4.8,0
+2018,ORD2018001205,FEMALE,40, İstanbul ,GUEST, Mobile ,paid search,Bank Transf3r, Fashion ,1,94.74,0.136%,2,4.1,1
+2020,ORD2020001206,Female*,42, Ankara , Bronze ,Mobile*,ORGANIC,credit card,Fashion*,1,63.12,0.132%,3,4.9,1
+2020,ORD2020001207, Female ,47,İstanbul*,bronze,mobile,ORGANIC,CREDIT CARD,Fashion,4,3926.42,0.065%,2,4.0,0
+2021,ORD2021001208,MALE,45,ANKARA,GUEST, Mobile ,EMAIL,Cr3dit Card,fashion,1,358.29,0.264%,3,2.9,0
+2020,ORD2020001209,male,34,gaziantep,BRONZE,Tabl3t, Paid Search ,Cr3dit Card,Groc3ri3s,6,476.49,0.229%,3,NA,1
+2022,ORD2022001210,female,36,ANKARA, Gold ,Mobil3, Organic ,CASH ON DELIVERY,groceries,1,47.72,0.104%,3,5.0,1
+2023,ORD2023001211,F3mal3,55,İSTANBUL,BRONZE,Desktop*,organic,DEBIT CARD,groceries,7,249.84,0.132%,1,4.8,0
+2022,ORD2022001212,MALE,32,İSTANBUL, Bronze , Mobile ,Paid Search*, Digital Wallet ,Electronics*,4,2706.95,0.307%,3,3.8,1
+2023,ORD2023001213, Female ,23,Mersin*,BRONZE,mobile,paid search,CREDIT CARD,SPORTS,1,369.43,0.13%,4,3.7,0
+2019,ORD2019001214,female,38,İZMIR, Gold , Mobile ,Paid Search*,Cr3dit Card, Groceries ,2,58.19,0.175%,2,4.1,1
+2021,ORD2021001215,male,35,ANKARA,SILVER,mobile,Organic,CASH ON DELIVERY,fashion,1,234.36,0.098%,3,4.6,1
+2019,ORD2019001216,male,31,İSTANBUL,Gold,MOBILE,Social,Cr3dit Card,Sports,1,137.5,0.135%,2,3.7,0
+2021,ORD2021001217,FEMALE,32,i̇zmir, Silver , Mobile ,social, Credit Card ,electronics,1,1307.45,0.116%,3,3.1,0
+2018,ORD2018001218,MALE,32,Adana*,bronze, Desktop , Email ,digital wallet,HOME & KITCHEN,2,481.02,0.204%,1,3.5,1
+2023,ORD2023001219, Male ,18,NA,Bronze*,Mobile*,ORGANIC,Bank Transfer*,HOME & KITCHEN,3,1224.23,0.039%,5,3.0,0
+2020,ORD2020001220,FEMALE,29, Konya ,guest, Mobile ,Organic*,Cr3dit Card,books & stationery,3,308.88,0.0%,2,3.8,1
+2022,ORD2022001221,FEMALE,36, İstanbul , Bronze ,mobile,ORGANIC,DIGITAL WALLET,sports,3,654.11,0.015%,3,3.5,1
+2020,ORD2020001222,Mal3,30,ANKARA, Silver , Mobile , Organic , Credit Card ,home & kitchen,3,279.43,0.107%,4,2.9,0
+2020,ORD2020001223,male,21, Kayseri , Bronze ,MOBILE,Paid S3arch,debit card,Sports,3,1968.54,0.271%,2,4.0,0
+2024,ORD2024001224,FEMALE,24,kayseri,Gu3st, Mobile ,social,Digital Wall3t,BEAUTY,2,367.42,0.256%,3,3.6,0
+2023,ORD2023001225,Mal3,32,İSTANBUL, Guest ,Tabl3t,social,cash on delivery,fashion,6,512.45,0.161%,3,3.4,0
+2023,ORD2023001226,MALE,34,BURSA,Bronze*, Mobile ,Organic,CREDIT CARD,GROCERIES,1,69.88,0.0%,1,4.1,0
+2020,ORD2020001227,MALE,28,i̇stanbul,Silv3r,MOBILE,ORGANIC,CREDIT CARD,ELECTRONICS,1,2530.23,0.049%,2,3.8,0
+2024,ORD2024001228,MALE,18,Eskiş3hir,bronze,MOBILE,Organic*,Cash on D3liv3ry, Electronics ,2,4705.04,0.096%,3,3.8,0
+2023,ORD2023001229, Male ,43,gaziantep,bronze,MOBILE,Social,DIGITAL WALLET,ELECTRONICS,4,7892.52,0.035%,3,3.5,1
+2022,ORD2022001230,male,35,antalya,SILVER, Mobile , Paid Search ,NA,El3ctronics,2,859.3,0.155%,2,4.1,0
+2022,ORD2022001231,Female*,32, Kayseri ,GUEST,MOBILE, Social ,CREDIT CARD, Groceries ,6,241.68,0.111%,3,3.1,0
+2021,ORD2021001232,Male*,18,i̇stanbul,silver,Mobil3,organic,Bank Transf3r,Home & Kitchen*,2,1719.52,0.054%,4,3.9,0
+2024,ORD2024001233, Male ,NA,İSTANBUL,GUEST,desktop, Organic ,credit card, Fashion ,3,552.09,0.077%,2,4.5,1
+2021,ORD2021001234,Mal3,33, İstanbul , Silver ,MOBILE,organic,credit card,books & stationery,3,307.62,0.0%,3,3.3,1
+2020,ORD2020001235,F3mal3,21,ANKARA,guest,desktop,organic,digital wallet,FASHION,1,540.99,0.0%,3,4.1,0
+2024,ORD2024001236,male,30,Ankara*,Gu3st,mobile,organic,Debit Card*,home & kitchen,2,902.07,0.089%,1,4.4,NA
+2019,ORD2019001237,Mal3,35,ANKARA,Gold*,Mobil3,paid search,Credit Card*,books & stationery,1,66.66,0.179%,3,4.7,1
+2024,ORD2024001238,Mal3,18,ankara,Bronz3,mobile,Organic*, Debit Card ,ELECTRONICS,4,4092.1,0.0%,2,4.7,1
+2024,ORD2024001239,FEMALE,26,ankara,bronze,MOBILE,PAID SEARCH,Credit Card*, Fashion ,5,486.45,0.058%,4,4.2,0
+2024,ORD2024001240, Female ,22,Ankara,silver, Mobile ,social,credit card,fashion,1,832.05,0.136%,4,3.2,0
+2019,ORD2019001241,Mal3,35,Bursa*,BRONZE, Desktop ,Social*,Bank Transf3r,Books & Stationery*,2,145.24,0.182%,2,3.9,1
+2023,ORD2023001242, Male ,43,adana,silver,Mobile*,referral, Credit Card ,BOOKS & STATIONERY,2,164.74,0.031%,3,3.1,1
+2021,ORD2021001243,MALE,19,İZMIR,Guest*, Mobile ,ORGANIC,CREDIT CARD,BEAUTY,4,723.95,0.02%,2,3.7,0
+2019,ORD2019001244,FEMALE,24,Bursa,BRONZE,MOBILE, Organic , Credit Card ,Groceries*,7,311.3,0.05%,3,3.5,1
+2021,ORD2021001245, Male ,30,Eskiş3hir,guest,DESKTOP,PAID SEARCH,Cr3dit Card,ELECTRONICS,1,1035.23,0.126%,3,4.6,0
+2019,ORD2019001246,F3mal3,29,İzmir*,GUEST,Mobile*,PAID SEARCH,credit card,BOOKS & STATIONERY,1,115.63,0.28%,3,4.2,0
+2020,ORD2020001247,FEMALE,46,İSTANBUL,Gold,mobile,paid search,credit card,Groceries*,4,91.27,0.314%,2,3.7,0
+2020,ORD2020001248,FEMALE,20,ESKIŞEHIR,BRONZE,mobile,organic,DIGITAL WALLET,BEAUTY,1,254.72,0.165%,3,4.4,0
+2023,ORD2023001249,MALE,18,İstanbul*,Guest*,mobile,ORGANIC,CREDIT CARD, Home & Kitchen ,1,366.56,0.036%,3,4.0,0
+2021,ORD2021001250, Male ,26,İzmir,Bronz3,mobile,PAID SEARCH,CASH ON DELIVERY,beauty,3,415.63,0.233%,4,3.5,0
+2019,ORD2019001251, Male ,44,Ankara,Guest*,D3sktop,organic, Credit Card ,electronics,1,1839.54,0.037%,4,4.5,1
+2020,ORD2020001252,MALE,24,İSTANBUL,Bronze*,MOBILE,Social, Credit Card ,Electronics*,2,763.85,0.148%,4,4.0,0
+2023,ORD2023001253,Mal3,18,İZMIR, Bronze ,MOBILE, Organic ,DEBIT CARD,beauty,1,72.05,0.138%,2,3.9,1
+2024,ORD2024001254, Male ,24,ankara,silver,mobile, Paid Search , Digital Wallet ,FASHION,5,1095.33,0.169%,4,4.2,0
+2020,ORD2020001255,male,41,İstanbul*, Bronze ,MOBILE,organic,credit card,sports,1,114.63,0.061%,4,3.5,0
+2019,ORD2019001256,FEMALE,22, İzmir , Bronze ,MOBILE,Social, Credit Card ,SPORTS,3,889.54,0.094%,3,4.1,0
+2022,ORD2022001257,MALE,40,Ankara*,silver,mobile,Email*, Credit Card ,Home & Kitchen*,4,1821.4,0.087%,3,4.1,0
+2023,ORD2023001258,F3mal3,30,İSTANBUL, Bronze ,mobile,ORGANIC, Debit Card ,HOME & KITCHEN,4,2619.84,0.073%,4,3.8,0
+2021,ORD2021001259, Female ,46,i̇stanbul,Silver*,TABLET,Organic*,DEBIT CARD,HOME & KITCHEN,1,236.95,0.126%,2,3.6,0
+2018,ORD2018001260,F3mal3,49,İstanbul,SILVER, Mobile ,REFERRAL,BANK TRANSFER,BEAUTY,1,73.03,0.028%,3,4.4,0
+2024,ORD2024001261,female,27,İstanbul, Gold ,Mobile*, Organic ,CREDIT CARD, Fashion ,2,240.66,0.149%,2,4.2,1
+2022,ORD2022001262, Male ,18,ANKARA,Gu3st, Desktop ,paid search, Cash on Delivery ,Hom3 & Kitch3n,1,493.85,0.245%,3,4.1,0
+2022,ORD2022001263, Male ,18, İstanbul , Silver ,MOBILE, Referral ,DEBIT CARD,Electronics*,1,1213.97,0.093%,1,3.7,1
+2021,ORD2021001264,F3mal3,18,İSTANBUL, Silver ,Mobile*,SOCIAL,Digital Wall3t,home & kitchen,2,452.42,0.147%,1,3.3,1
+2018,ORD2018001265,Mal3,24,İSTANBUL,Gu3st,Mobile*, Email ,debit card,El3ctronics,1,327.42,0.118%,2,5.0,0
+2018,ORD2018001266,Male*,42,Adana*,GUEST,desktop,referral,CREDIT CARD,El3ctronics,1,530.36,0.066%,3,3.5,0
+2018,ORD2018001267,female,44,i̇stanbul,GUEST, Mobile , Social , Credit Card ,HOME & KITCHEN,3,963.57,0.151%,1,4.9,1
+2019,ORD2019001268,MALE,NA, Antalya , Bronze ,D3sktop,Organic, Credit Card ,books & stationery,1,116.01,0.131%,2,4.3,0
+2023,ORD2023001269,FEMALE,26,BURSA,Gold,Mobil3,ORGANIC,bank transfer, Electronics ,3,2953.08,0.18%,2,4.5,1
+2024,ORD2024001270,Male*,20,eskişehir,GUEST,mobile,ORGANIC,CASH ON DELIVERY,Hom3 & Kitch3n,1,182.29,0.095%,3,3.8,1
+2021,ORD2021001271,Male*,45,İstanbul*, Silver ,Mobil3,ORGANIC,CREDIT CARD,BEAUTY,3,423.72,0.012%,2,4.5,1
+2020,ORD2020001272,female,41,ANTALYA,Silv3r, Mobile ,organic,CREDIT CARD, Fashion ,2,324.57,0.044%,3,3.0,0
+2022,ORD2022001273,F3mal3,18,konya,Silv3r,MOBILE,Organic,Cr3dit Card,GROCERIES,5,255.94,0.214%,4,3.1,0
+2023,ORD2023001274,Mal3,34,Antalya,BRONZE,desktop,Social*,CREDIT CARD,fashion,4,1683.9,0.208%,3,4.6,0
+2023,ORD2023001275,FEMALE,29,ANKARA,Guest*,mobile,paid search,Credit Card*,Home & Kitchen*,1,236.5,0.168%,2,3.8,1
+2019,ORD2019001276,male,36,M3rsin,Guest*, Desktop ,Organic*, Credit Card ,electronics,1,2171.97,0.0%,2,4.2,0
+2022,ORD2022001277,FEMALE,38,Bursa*,Guest*,MOBILE, Organic ,credit card,Fashion,5,1062.12,0.103%,4,3.9,0
+2019,ORD2019001278,FEMALE,36, Ankara , Bronze , Mobile ,Organic,Cr3dit Card,groceries,4,166.49,0.097%,3,3.5,1
+2019,ORD2019001279, Male ,26,Gaziant3p,guest,MOBILE,paid search,DIGITAL WALLET,home & kitchen,1,239.62,0.112%,3,3.8,0
+2022,ORD2022001280,male,39,i̇zmir,Gold*,Mobil3,SOCIAL,Cr3dit Card, Home & Kitchen ,1,235.37,0.159%,2,4.0,0
+2020,ORD2020001281,FEMALE,42,İstanbul*,SILVER,mobile, Social ,CREDIT CARD,Hom3 & Kitch3n,1,138.94,0.258%,1,3.8,0
+2019,ORD2019001282,FEMALE,18,İzmir*,guest, Mobile ,Organic*,CASH ON DELIVERY,HOME & KITCHEN,2,431.37,0.092%,4,4.5,1
+2022,ORD2022001283,FEMALE,39,TRABZON, Gold , Mobile ,Email, Credit Card ,FASHION,1,130.13,0.251%,3,3.9,0
+2018,ORD2018001284,FEMALE,35,İstanbul,GUEST,desktop,ORGANIC,Bank Transfer*,GROCERIES,3,235.35,0.106%,2,4.5,1
+2022,ORD2022001285,F3mal3,47,İstanbul*, Silver ,Mobil3,organic,Cash on Delivery*,home & kitchen,2,1053.19,0.104%,2,4.0,1
+2024,ORD2024001286,FEMALE,38,Ankara*,Silv3r,MOBILE, Social ,credit card,Groceries*,2,61.61,0.214%,3,4.3,0
+2021,ORD2021001287,Male*,33,ANKARA,SILVER,DESKTOP,Organic,credit card, Electronics ,1,1276.35,0.135%,1,NA,0
+2024,ORD2024001288,MALE,38, Gaziantep , Bronze ,D3sktop, Social ,credit card, Home & Kitchen ,NA,718.81,0.205%,4,NA,1
+2019,ORD2019001289, Female ,31,Antalya,Bronze*, Mobile ,Social,credit card,Home & Kitchen*,2,557.32,0.178%,2,3.1,1
+2019,ORD2019001290,male,41,İSTANBUL,Gold*,MOBILE,paid search,CREDIT CARD,ELECTRONICS,2,1108.07,0.185%,2,4.2,0
+2023,ORD2023001291, Male ,30,Ankara*,GUEST, Mobile ,social,credit card, Groceries ,1,74.85,0.149%,3,4.6,1
+2022,ORD2022001292,male,21, Ankara ,guest,Mobil3,Organic,credit card, Fashion ,4,488.51,0.001%,3,3.7,0
+2018,ORD2018001293, Male ,28,MERSIN,silver,DESKTOP,REFERRAL, Credit Card ,Electronics*,1,543.34,0.115%,2,4.2,0
+2024,ORD2024001294,F3mal3,18, İstanbul ,Guest*,DESKTOP,social,credit card,Sports,2,275.82,0.145%,3,4.3,0
+2024,ORD2024001295,FEMALE,36,Gaziantep*,BRONZE, Mobile ,PAID SEARCH,Cr3dit Card,Electronics*,1,608.14,0.124%,5,3.1,0
+2019,ORD2019001296,Male*,45,Ankara,gold,mobile,social,CREDIT CARD,home & kitchen,1,128.82,0.2%,4,3.4,0
+2024,ORD2024001297,male,47,İzmir*,bronze, Desktop , Organic ,Digital Wall3t,sports,1,199.74,0.167%,NA,4.5,1
+2022,ORD2022001298,Female*,18,İSTANBUL,GUEST,Mobile*, Referral ,Cash on Delivery*,fashion,3,840.32,0.166%,2,3.6,0
+2024,ORD2024001299,FEMALE,32,kayseri,gold,Mobil3, Email , Cash on Delivery ,ELECTRONICS,1,906.36,0.21%,4,3.9,0
+2020,ORD2020001300,male,29,KONYA,BRONZE,mobile,Organic*,Debit Card*, Books & Stationery ,3,440.67,0.1%,2,3.3,0
+2021,ORD2021001301,F3mal3,37,İzmir,Bronze*,MOBILE,Organic*,credit card,sports,5,835.4,0.188%,2,3.7,0
+2018,ORD2018001302,Female*,20,ANKARA,bronze,MOBILE,Social*, Credit Card ,GROCERIES,4,330.41,0.097%,2,4.2,0
+2018,ORD2018001303,male,42,MERSIN,Gold*,mobile,referral,Credit Card*,El3ctronics,1,249.35,0.123%,4,4.1,NA
+2023,ORD2023001304,female,31,ADANA,BRONZE,DESKTOP, Organic ,CREDIT CARD,B3auty,1,148.5,0.096%,4,3.4,0
+2022,ORD2022001305,Female*,43,İstanbul,Bronz3,desktop,organic,Cr3dit Card, Home & Kitchen ,1,491.16,0.061%,2,4.5,0
+2024,ORD2024001306,FEMALE,26,İZMIR,BRONZE,tablet,Social*,DEBIT CARD, Electronics ,1,2294.83,0.105%,3,4.6,1
+2019,ORD2019001307,FEMALE,32,konya,bronze, Mobile ,Email*, Debit Card ,BEAUTY,1,98.43,0.192%,3,4.0,1
+2021,ORD2021001308, Female ,34, Trabzon ,Bronz3,MOBILE,social,CREDIT CARD,beauty,2,174.45,0.311%,3,3.0,0
+2022,ORD2022001309,Mal3,47,MERSIN,Silv3r,desktop, Organic ,Cash on Delivery*,HOME & KITCHEN,2,1092.48,0.047%,2,4.3,1
+2019,ORD2019001310, Male ,34, Ankara , Guest ,desktop,PAID SEARCH,BANK TRANSFER,Fashion,2,658.1,0.193%,4,2.7,0
+2023,ORD2023001311,FEMALE,58, İzmir ,SILVER,desktop,Organic,cash on delivery,fashion,2,503.23,0.022%,2,4.9,1
+2023,ORD2023001312,MALE,48,i̇stanbul,bronze,DESKTOP,Social,Cash on D3liv3ry,Hom3 & Kitch3n,3,977.4,0.147%,2,3.8,0
+2019,ORD2019001313,female,28, Gaziantep , Guest ,Mobil3,ORGANIC,CREDIT CARD,Sports,4,1933.4,0.107%,2,4.5,0
+2023,ORD2023001314,Mal3,44,i̇stanbul,Bronz3,MOBILE,organic,credit card,Fashion*,3,650.89,0.123%,3,3.6,0
+2019,ORD2019001315,Male*,20, Ankara ,BRONZE,Mobil3, Organic , Credit Card ,BOOKS & STATIONERY,6,678.89,0.041%,4,4.1,0
+2019,ORD2019001316,MALE,47,Konya,Bronz3,Mobil3,EMAIL,CREDIT CARD,BEAUTY,2,415.37,0.118%,4,4.2,1
+2023,ORD2023001317,Female*,30,BURSA,Gold,mobile,Paid S3arch,Digital Wall3t, Fashion ,1,115.32,0.184%,2,3.6,1
+2023,ORD2023001318,Male*,27,antalya, Guest , Mobile ,ORGANIC,credit card,HOME & KITCHEN,1,428.64,0.055%,2,4.7,1
+2021,ORD2021001319, Female ,18,ankara,silver,Mobil3,Organic,credit card,sports,3,796.72,0.157%,2,3.2,1
+2023,ORD2023001320,FEMALE,36,ADANA,Gu3st,mobile,social,credit card,GROCERIES,3,131.22,0.228%,3,3.5,0
+2024,ORD2024001321,F3mal3,18,İZMIR,GUEST, Mobile ,ORGANIC,CASH ON DELIVERY,Electronics*,1,726.37,0.14%,3,4.6,1
+2024,ORD2024001322, Male ,22, İstanbul ,bronze, Mobile ,organic, Credit Card , Groceries ,7,525.15,0.109%,1,3.6,1
+2021,ORD2021001323,FEMALE,27,i̇zmir,SILVER,Mobile*,organic,Bank Transf3r,BEAUTY,1,221.9,0.149%,4,3.7,0
+2022,ORD2022001324,male,39,gaziantep,Silver*,Mobile*,Organic*, Credit Card ,Home & Kitchen*,1,359.9,0.086%,5,4.3,0
+2020,ORD2020001325,Female*,42,i̇zmir, Silver ,DESKTOP,Email*,NA,home & kitchen,3,867.32,0.251%,2,3.4,1
+2019,ORD2019001326,FEMALE,30,Mersin*,Silver*,Mobil3,Organic*, Credit Card ,fashion,2,420.48,0.0%,1,4.0,0
+2020,ORD2020001327, Male ,33,İstanbul*, Guest , Mobile ,ORGANIC,CREDIT CARD,Fashion*,2,372.46,0.085%,3,3.8,1
+2020,ORD2020001328,MALE,20, Adana ,Bronze*, Desktop ,Paid Search*,Cash on Delivery*,groceries,3,146.1,0.134%,2,4.9,0
+2021,ORD2021001329, Female ,18,i̇stanbul,GOLD,MOBILE,Paid Search*, Credit Card , Fashion ,5,4157.97,0.152%,3,3.8,1
+2023,ORD2023001330,F3mal3,29, Ankara ,guest,DESKTOP,Organic*,DEBIT CARD, Books & Stationery ,4,342.6,0.116%,2,5.0,0
+2023,ORD2023001331, Male ,38,İSTANBUL,Guest*,desktop,paid search,credit card,sports,1,196.07,0.184%,3,3.8,0
+2022,ORD2022001332, Female ,24,İSTANBUL,bronze,D3sktop,NA,Cash on D3liv3ry,home & kitchen,NA,1034.79,0.092%,2,3.8,0
+2023,ORD2023001333,Female*,25,Ankara,BRONZE,Mobile*,Organic*,debit card,Home & Kitchen*,2,1303.79,0.116%,4,4.0,1
+2020,ORD2020001334,Male*,34,ankara,SILVER, Mobile ,paid search,cash on delivery,Fashion*,3,339.34,0.171%,3,4.1,1
+2018,ORD2018001335, Male ,21,Ankara,silver,MOBILE,organic, Debit Card ,electronics,1,278.23,0.063%,2,5.0,1
+2023,ORD2023001336,female,18,İSTANBUL, Gold ,mobile, Social , Credit Card ,HOME & KITCHEN,1,186.82,0.215%,2,3.5,0
+2018,ORD2018001337,FEMALE,44,Konya*,Gu3st, Desktop ,Organic,debit card,FASHION,2,292.23,0.0%,3,3.8,0
+2021,ORD2021001338,Mal3,28,BURSA,silver,MOBILE,Paid S3arch,credit card,FASHION,1,149.11,0.213%,2,2.9,1
+2024,ORD2024001339,F3mal3,33, Bursa ,Bronze*,MOBILE,PAID SEARCH,Digital Wallet*,El3ctronics,3,893.58,0.16%,4,4.1,0
+2020,ORD2020001340,MALE,18,İstanbul, Gold ,Tablet*,Organic,D3bit Card,fashion,2,509.22,0.088%,3,4.1,1
+2019,ORD2019001341,male,23,i̇stanbul,guest,MOBILE,SOCIAL,Bank Transfer*,BEAUTY,5,393.43,0.291%,1,4.6,1
+2022,ORD2022001342,Mal3,18,Adana*, Guest , Mobile , Organic ,CREDIT CARD,Hom3 & Kitch3n,1,317.42,0.181%,2,3.7,0
+2021,ORD2021001343,male,54,Mersin*,GUEST, Mobile ,Email,digital wallet,fashion,1,336.01,0.105%,3,3.9,0
+2019,ORD2019001344, Female ,30,ADANA,GOLD,Mobile*,email,Cr3dit Card,Fashion,2,642.77,0.232%,2,4.3,1
+2019,ORD2019001345,female,27,bursa,bronze,Mobile*, Paid Search ,CASH ON DELIVERY, Sports ,1,147.68,0.044%,2,3.5,0
+2021,ORD2021001346, Male ,30,İZMIR,silver, Desktop , Paid Search ,Cr3dit Card,beauty,1,203.69,0.119%,2,4.6,0
+2020,ORD2020001347,MALE,19,İstanbul,GOLD, Mobile ,organic, Credit Card ,Fashion,2,321.42,0.148%,2,4.2,1
+2021,ORD2021001348,MALE,60,İzmir*,Gold, Mobile ,Organic,Credit Card*, Home & Kitchen ,2,838.64,0.093%,3,4.5,1
+2024,ORD2024001349,NA,39,i̇zmir,Bronz3,desktop,social, Credit Card ,BEAUTY,3,368.63,0.114%,3,3.7,0
+2022,ORD2022001350,F3mal3,23,i̇stanbul,Gold*,DESKTOP,paid search,cash on delivery, Sports ,3,522.6,0.207%,3,4.4,1
+2020,ORD2020001351,Mal3,18,antalya, Bronze ,mobile, Paid Search ,cash on delivery,GROCERIES,2,68.61,0.193%,3,4.8,1
+2022,ORD2022001352,NA,32,bursa,silver,TABLET, Paid Search ,credit card, Fashion ,3,806.84,NA,2,3.6,0
+2023,ORD2023001353,female,35,İZMIR,GOLD,MOBILE,Social,Cr3dit Card, Electronics ,1,576.55,0.249%,2,4.4,NA
+2021,ORD2021001354,female,28,i̇zmir, Guest , Mobile ,SOCIAL,credit card,home & kitchen,3,1603.47,0.233%,2,4.1,1
+2024,ORD2024001355, Female ,37,i̇zmir,BRONZE, Desktop ,ORGANIC,Credit Card*, Electronics ,5,5536.16,0.13%,4,4.3,1
+2019,ORD2019001356,female,34,KONYA,NA,MOBILE,ORGANIC,CREDIT CARD, Groceries ,3,160.04,0.0%,2,3.0,0
+2020,ORD2020001357,FEMALE,35, İzmir ,Silv3r, Mobile , Organic ,CASH ON DELIVERY,fashion,2,294.47,0.028%,3,4.1,1
+2024,ORD2024001358, Male ,31,ankara, Silver , Mobile ,EMAIL,D3bit Card,B3auty,3,355.14,0.168%,3,3.8,0
+2019,ORD2019001359,F3mal3,23,İstanbul,Silv3r,mobile,SOCIAL, Credit Card ,Fashion,1,169.62,0.14%,1,4.0,0
+2023,ORD2023001360,male,37,BURSA, Bronze ,MOBILE, Paid Search ,CREDIT CARD,sports,2,NA,0.159%,2,5.0,0
+2020,ORD2020001361,male,25,ANKARA,Gu3st,Mobil3,PAID SEARCH,Bank Transf3r,beauty,2,222.46,0.1%,2,3.6,0
+2023,ORD2023001362,F3mal3,32, Konya ,GUEST,MOBILE,Organic,CASH ON DELIVERY,sports,2,762.08,0.1%,1,5.0,0
+2023,ORD2023001363,F3mal3,47,i̇zmir, Guest ,MOBILE, Organic ,debit card,fashion,5,1338.95,0.138%,3,4.3,0
+2023,ORD2023001364, Male ,25,ANKARA,Bronz3, Desktop ,Social,cash on delivery, Sports ,1,108.92,0.165%,3,4.2,1
+2024,ORD2024001365,F3mal3,18,İstanbul,bronze,MOBILE,SOCIAL,CREDIT CARD,FASHION,1,137.89,0.174%,2,3.7,0
+2019,ORD2019001366,F3mal3,43,ankara,silver,Desktop*, Organic ,DIGITAL WALLET,B3auty,3,448.69,0.162%,3,3.9,0
+2020,ORD2020001367, Female ,33,İSTANBUL,guest,Mobile*, Organic ,cash on delivery,ELECTRONICS,2,NA,0.167%,2,4.2,0
+2018,ORD2018001368,female,29,Gaziant3p,SILVER, Mobile , Paid Search ,Cash on Delivery*,fashion,1,262.69,0.106%,3,3.8,0
+2022,ORD2022001369,Male*,27, İstanbul ,Bronz3,Mobile*,organic,CASH ON DELIVERY, Fashion ,6,1038.91,0.071%,2,4.7,0
+2024,ORD2024001370,Female*,27,İSTANBUL,GUEST,DESKTOP, Organic ,D3bit Card,SPORTS,2,297.26,0.176%,2,4.9,0
+2024,ORD2024001371, Male ,24,Antalya,silver,Mobile*,EMAIL,Credit Card*,HOME & KITCHEN,3,907.8,0.264%,3,4.3,0
+2024,ORD2024001372,F3mal3,31,Antalya*,Gu3st,D3sktop,referral,Credit Card*,ELECTRONICS,1,586.26,0.189%,3,4.4,1
+2021,ORD2021001373,Female*,33,KAYSERI,Silv3r,MOBILE,EMAIL, Credit Card , Electronics ,1,1043.05,0.202%,4,4.0,0
+2021,ORD2021001374,Male*,22,İstanbul,BRONZE, Mobile ,Paid Search*,Cr3dit Card,FASHION,5,1948.65,0.308%,2,5.0,1
+2018,ORD2018001375,FEMALE,28,İstanbul*,SILVER,Mobil3,ORGANIC,NA, Books & Stationery ,3,221.77,0.151%,2,3.9,0
+2023,ORD2023001376, Male ,28,ANKARA,SILVER,DESKTOP,Paid S3arch,Credit Card*,BOOKS & STATIONERY,2,98.98,0.275%,3,3.6,0
+2018,ORD2018001377,female,42,BURSA, Guest ,Mobil3,Social*, Credit Card , Electronics ,1,535.24,0.219%,3,4.7,0
+2019,ORD2019001378,male,29,Adana,SILVER,MOBILE,Organic,DEBIT CARD,sports,2,544.96,0.082%,2,4.2,0
+2021,ORD2021001379,female,35, İzmir ,bronze,Tablet*,social,Cr3dit Card, Books & Stationery ,2,331.03,0.107%,1,5.0,0
+2020,ORD2020001380,male,41, Eskişehir , Guest ,Desktop*,social,CREDIT CARD, Fashion ,3,483.99,0.108%,3,4.8,0
+2019,ORD2019001381,male,33,İSTANBUL,silver, Mobile ,PAID SEARCH,cash on delivery,home & kitchen,4,657.87,0.056%,1,3.3,1
+2022,ORD2022001382,F3mal3,27,Eskişehir*,Guest*, Tablet ,Social*,Cash on D3liv3ry,Fashion*,6,800.05,0.214%,4,3.6,0
+2021,ORD2021001383, Male ,38,Antalya*,Guest*,Desktop*,SOCIAL, Credit Card , Beauty ,1,81.11,0.204%,4,4.6,0
+2021,ORD2021001384,FEMALE,40,İzmir*,Gu3st, Mobile ,EMAIL,Credit Card*,Hom3 & Kitch3n,1,280.69,0.18%,3,4.1,0
+2024,ORD2024001385,female,21,MERSIN, Gold , Mobile , Email , Digital Wallet ,electronics,1,840.59,0.212%,2,4.6,1
+2022,ORD2022001386,Mal3,34,Ankara,Guest*,MOBILE,Email*,bank transfer, Home & Kitchen ,2,808.43,0.16%,2,4.5,1
+2024,ORD2024001387,F3mal3,37, Antalya ,GUEST,MOBILE,EMAIL, Credit Card , Electronics ,NA,3266.02,0.199%,3,4.4,0
+2021,ORD2021001388,Male*,18,i̇stanbul,GUEST,MOBILE,email,cash on delivery,Electronics*,1,1833.96,0.146%,3,3.9,1
+2019,ORD2019001389,Male*,28,ESKIŞEHIR,guest, Mobile ,social,Credit Card*,Groc3ri3s,3,152.86,0.128%,4,4.2,0
+2019,ORD2019001390,F3mal3,31, Adana ,Gu3st,DESKTOP, Email ,Cash on D3liv3ry,HOME & KITCHEN,1,328.69,0.294%,3,4.1,0
+2021,ORD2021001391,FEMALE,51,İzmir, Guest ,mobile, Paid Search ,D3bit Card,electronics,2,1254.06,0.185%,2,4.5,0
+2022,ORD2022001392,MALE,30, İstanbul ,SILVER, Mobile ,Organic,debit card,Books & Stationery*,7,938.17,0.149%,1,5.0,1
+2019,ORD2019001393,Mal3,33, İzmir ,Silver*,Mobil3,R3f3rral,credit card,BOOKS & STATIONERY,3,153.13,0.176%,4,2.6,0
+2018,ORD2018001394,Male*,31,Ankara*,Gu3st,Tablet*, Organic ,credit card,books & stationery,7,343.62,0.129%,3,3.6,0
+2024,ORD2024001395,MALE,38,BURSA,GOLD,mobile,Email*,CREDIT CARD,Beauty*,2,126.54,0.163%,2,4.0,0
+2024,ORD2024001396,FEMALE,22,Trabzon*,Silv3r,MOBILE,Paid S3arch,Cr3dit Card,electronics,2,617.55,0.165%,5,3.7,1
+2024,ORD2024001397, Female ,32,İstanbul*,Guest*,Mobil3,paid search,Credit Card*,Hom3 & Kitch3n,1,446.23,0.084%,1,4.3,1
+2024,ORD2024001398, Male ,28,i̇stanbul,Silver*, Mobile ,Organic,Cash on D3liv3ry,home & kitchen,4,979.2,0.149%,2,4.5,1
+2020,ORD2020001399,FEMALE,30,İstanbul, Bronze ,MOBILE, Organic ,CREDIT CARD,El3ctronics,1,467.54,0.067%,3,3.9,0
+2019,ORD2019001400,FEMALE,18,bursa,silver,desktop,paid search,cash on delivery,fashion,4,655.16,0.121%,2,5.0,0
+2018,ORD2018001401,Female*,35,İSTANBUL,BRONZE,MOBILE,email,credit card, Sports ,3,770.83,0.219%,2,4.8,0
+2024,ORD2024001402,Female*,29,i̇stanbul,bronze,Mobile*,ORGANIC,Cr3dit Card,groceries,5,328.63,0.127%,2,4.2,1
+2022,ORD2022001403, Female ,28,ADANA,SILVER, Tablet ,PAID SEARCH, Credit Card ,electronics,1,1141.97,0.113%,3,3.5,0
+2019,ORD2019001404, Female ,26, Bursa ,silver,mobile,EMAIL,Cash on D3liv3ry,Fashion,2,420.16,0.154%,3,4.2,0
+NA,ORD2018001405,female,45,bursa,Bronze*,DESKTOP,SOCIAL, Credit Card ,home & kitchen,NA,332.17,0.084%,3,3.3,0
+2019,ORD2019001406,male,33,antalya,Bronze*,MOBILE,Paid Search*,D3bit Card, Electronics ,2,771.72,0.145%,3,3.8,0
+2024,ORD2024001407,F3mal3,26,konya,GUEST,MOBILE,organic, Cash on Delivery , Books & Stationery ,3,540.46,0.0%,3,3.2,0
+2023,ORD2023001408, Male ,41, İstanbul , Silver ,mobile, Organic ,cash on delivery,Hom3 & Kitch3n,1,443.8,0.2%,4,3.2,0
+2018,ORD2018001409,MALE,29,GAZIANTEP,silver,MOBILE,R3f3rral,CREDIT CARD, Home & Kitchen ,4,637.84,0.244%,5,3.2,1
+2020,ORD2020001410,male,23,antalya,BRONZE,mobile, Organic ,CASH ON DELIVERY,fashion,6,489.54,0.089%,3,3.2,0
+2022,ORD2022001411,female,43,Ankara,guest, Mobile ,REFERRAL,credit card, Beauty ,2,207.96,0.182%,2,4.7,0
+2018,ORD2018001412, Female ,18,Mersin*,SILVER,mobile,Organic,credit card, Groceries ,5,593.04,0.05%,3,3.6,1
+2019,ORD2019001413,Male*,35,İSTANBUL,GUEST,mobile,Organic, Credit Card ,B3auty,4,296.08,0.19%,2,4.9,1
+2021,ORD2021001414,F3mal3,18,bursa,Bronz3,mobile,ORGANIC,digital wallet,BOOKS & STATIONERY,10,756.29,0.118%,3,3.8,0
+2019,ORD2019001415,Female*,39,ANKARA,Bronze*,Mobil3,Social, Credit Card ,El3ctronics,1,1465.63,0.203%,2,4.5,0
+2023,ORD2023001416,Male*,30,Adana,Gold,tablet, Social ,bank transfer,Groceries*,3,188.06,0.195%,4,3.0,0
+2024,ORD2024001417,female,28,ANKARA,Silv3r,Mobil3,ORGANIC,Digital Wallet*, Sports ,1,456.61,0.068%,3,4.0,0
+2020,ORD2020001418,MALE,34, Mersin ,Silv3r,D3sktop,Organic*,DIGITAL WALLET,beauty,1,80.97,0.146%,4,3.3,0
+2019,ORD2019001419,Male*,18,İSTANBUL,Bronze*,Mobile*,PAID SEARCH,CREDIT CARD,home & kitchen,3,618.5,0.147%,2,3.8,0
+2018,ORD2018001420,F3mal3,18,antalya,Bronz3,D3sktop,ORGANIC,CREDIT CARD,beauty,1,97.29,0.074%,3,3.4,0
+2024,ORD2024001421,FEMALE,27,İSTANBUL, Guest ,MOBILE,Paid Search*,Cr3dit Card,Fashion,5,759.62,0.242%,2,3.9,0
+2020,ORD2020001422,FEMALE,50, İzmir , Bronze ,DESKTOP,social,Credit Card*, Groceries ,1,59.45,0.181%,4,3.9,1
+2020,ORD2020001423, Male ,50,İSTANBUL, Gold ,mobile, Paid Search ,Cash on Delivery*,fashion,6,1169.08,0.233%,2,3.7,1
+2018,ORD2018001424,Female*,26,İstanbul,Bronze*, Mobile ,paid search,D3bit Card, Groceries ,3,222.72,0.155%,2,4.7,0
+2020,ORD2020001425,Male*,34,İZMIR,Silver*,desktop,SOCIAL,Credit Card*,home & kitchen,3,1067.1,0.185%,2,4.6,1
+2021,ORD2021001426,Male*,39,ESKIŞEHIR,Bronz3, Mobile ,PAID SEARCH,Credit Card*,fashion,2,498.1,0.096%,4,3.5,NA
+2024,ORD2024001427, Male ,35,i̇zmir, Bronze , Mobile ,organic,debit card,Fashion*,1,157.91,0.07%,2,4.3,0
+2019,ORD2019001428,MALE,32,Bursa,guest,Mobil3,organic,credit card,electronics,2,1742.14,0.135%,3,4.0,0
+2023,ORD2023001429,Mal3,46,ANKARA,Gold*,DESKTOP,Paid S3arch,CREDIT CARD, Groceries ,6,487.77,0.253%,3,4.2,0
+2024,ORD2024001430, Female ,28,İSTANBUL, Gold ,mobile,PAID SEARCH,Credit Card*,fashion,1,263.57,0.136%,2,3.5,1
+2019,ORD2019001431, Male ,40,bursa,bronze,DESKTOP,PAID SEARCH, Cash on Delivery ,electronics,1,722.56,0.153%,2,4.1,1
+2023,ORD2023001432,MALE,25,Konya*,silver,mobile,ORGANIC,Credit Card*, Home & Kitchen ,1,202.03,0.075%,3,3.2,1
+2023,ORD2023001433,Male*,37,Kayseri*, Silver ,MOBILE, Paid Search ,credit card,ELECTRONICS,2,1646.31,0.146%,2,4.7,0
+2018,ORD2018001434,FEMALE,35,ankara,Silver*, Desktop ,Paid S3arch,Cr3dit Card,HOME & KITCHEN,2,243.42,0.193%,3,4.0,0
+2023,ORD2023001435,male,21, İzmir ,BRONZE, Mobile ,organic, Credit Card ,ELECTRONICS,1,888.19,0.132%,3,3.6,1
+2023,ORD2023001436,Mal3,NA, Ankara ,GUEST,D3sktop,Organic*,Credit Card*,Hom3 & Kitch3n,1,346.04,0.084%,2,4.8,0
+2023,ORD2023001437, Female ,18,ankara,Bronz3,tablet,SOCIAL,credit card, Fashion ,2,899.36,0.207%,3,4.9,1
+2021,ORD2021001438,FEMALE,39,Kayseri*,Silver*,Tabl3t,EMAIL,DEBIT CARD,fashion,4,1002.91,0.077%,3,5.0,1
+2024,ORD2024001439,FEMALE,28, Ankara ,Silv3r,desktop,organic,credit card,SPORTS,3,552.93,0.12%,4,4.1,0
+2024,ORD2024001440,male,20,İstanbul*,Bronze*,DESKTOP,organic,cash on delivery,Books & Stationery*,3,589.07,0.152%,2,3.5,0
+2021,ORD2021001441,Mal3,35,ANKARA, Silver ,Mobile*,Paid Search*,DIGITAL WALLET,Fashion*,3,707.06,0.131%,3,4.3,0
+2023,ORD2023001442,male,37,i̇stanbul, Silver ,Mobile*, Email , Debit Card ,SPORTS,3,600.81,0.328%,3,3.8,0
+2020,ORD2020001443,Mal3,35,Bursa,Bronz3,mobile,SOCIAL,Cash on D3liv3ry, Groceries ,2,124.74,0.156%,2,4.2,1
+2022,ORD2022001444,Mal3,36,İstanbul,Gu3st, Mobile ,Social,credit card,sports,NA,256.84,0.137%,3,3.3,0
+2024,ORD2024001445,Female*,35,İstanbul, Guest ,DESKTOP,Email*,credit card,Fashion,2,237.75,0.167%,2,3.5,1
+2024,ORD2024001446,female,25, İzmir ,bronze,Mobil3,paid search,Debit Card*,HOME & KITCHEN,3,1262.39,0.052%,1,3.0,0
+2024,ORD2024001447,male,48, İstanbul ,bronze, Desktop ,email,CASH ON DELIVERY,Fashion,2,595.58,0.155%,1,5.0,0
+2021,ORD2021001448,MALE,31,Mersin*,Silver*,Mobil3,ORGANIC,NA,Books & Station3ry,1,83.12,0.199%,3,4.5,0
+2018,ORD2018001449,MALE,21,i̇stanbul,BRONZE,mobile, Social ,credit card,B3auty,2,633.79,0.144%,2,5.0,0
+NA,ORD2024001450,Male*,29,NA,bronze, Desktop ,paid search, Cash on Delivery ,beauty,2,725.21,0.135%,3,3.4,1
+2018,ORD2018001451,Female*,27,Konya*,SILVER,Mobile*,email,BANK TRANSFER,B3auty,1,140.82,0.158%,3,3.3,1
+2018,ORD2018001452, Female ,30,Bursa,Bronz3, Desktop ,Organic*,CREDIT CARD,Fashion,1,117.17,0.113%,2,4.0,1
+2024,ORD2024001453,Male*,32,ankara,bronze,mobile,organic,CREDIT CARD,beauty,2,417.07,0.158%,3,3.1,1
+2024,ORD2024001454,MALE,31,Ankara,BRONZE,Mobil3,Organic*,Bank Transf3r,Fashion,5,1160.35,0.158%,2,4.5,1
+2024,ORD2024001455,male,29,İstanbul*, Bronze ,MOBILE,paid search, Credit Card ,books & stationery,3,328.02,0.272%,2,4.3,1
+2019,ORD2019001456,FEMALE,38,MERSIN, Guest ,desktop,paid search,Credit Card*,SPORTS,1,240.43,0.118%,3,4.2,0
+2023,ORD2023001457,F3mal3,33,i̇stanbul,Silv3r, Mobile ,Organic,credit card,electronics,4,1756.11,0.067%,3,4.2,1
+2020,ORD2020001458,Male*,39,Ankara*,SILVER,Desktop*,Organic*,credit card,Home & Kitchen*,2,370.2,0.023%,2,4.8,1
+2021,ORD2021001459, Female ,18,Ankara*, Bronze ,Mobil3,EMAIL,bank transfer,Fashion*,3,447.53,0.149%,2,4.6,1
+2023,ORD2023001460,MALE,35,Kays3ri,bronze,mobile,referral,bank transfer,BOOKS & STATIONERY,4,246.09,0.175%,3,2.8,0
+2024,ORD2024001461,MALE,21,mersin,BRONZE,Mobile*,EMAIL,credit card,Fashion,3,475.5,0.233%,3,2.8,1
+2021,ORD2021001462, Male ,18,İstanbul*,Silv3r,Mobile*,EMAIL, Debit Card ,groceries,7,247.83,0.153%,3,3.2,0
+2020,ORD2020001463,female,24,ANTALYA,Silv3r,MOBILE,EMAIL, Credit Card ,Fashion*,3,593.38,0.302%,3,3.3,1
+2024,ORD2024001464,Female*,52,ANKARA,Bronz3,D3sktop,paid search,DEBIT CARD,sports,1,132.54,0.165%,1,4.7,1
+2019,ORD2019001465, Female ,26,ANKARA,Gu3st,MOBILE,Paid Search*, Credit Card , Beauty ,4,487.64,0.22%,2,4.0,0
+2019,ORD2019001466,MALE,46,ANTALYA, Bronze ,DESKTOP,Social,CREDIT CARD,Hom3 & Kitch3n,2,432.95,NA,4,3.9,1
+2019,ORD2019001467,MALE,35,İZMIR,bronze,Desktop*,paid search,CREDIT CARD,Hom3 & Kitch3n,1,143.02,0.15%,3,4.1,0
+2021,ORD2021001468,male,34,İZMIR,Bronz3,mobile, Paid Search ,BANK TRANSFER,home & kitchen,2,549.78,0.173%,4,3.3,0
+2019,ORD2019001469,Mal3,34,İstanbul*, Bronze ,MOBILE,ORGANIC,Cash on D3liv3ry,electronics,1,1242.28,0.121%,3,4.1,0
+2024,ORD2024001470, Female ,18,İSTANBUL,Guest*,Mobil3, Organic ,Cr3dit Card, Beauty ,1,244.77,NA,1,4.9,NA
+2022,ORD2022001471,Mal3,18,İstanbul,Gu3st,D3sktop,EMAIL,DIGITAL WALLET,electronics,2,717.8,0.219%,3,3.8,0
+2018,ORD2018001472,Male*,47,İZMIR,Bronze*,Desktop*, Referral ,credit card, Fashion ,3,544.57,0.058%,2,3.2,0
+2018,ORD2018001473,MALE,34,GAZIANTEP,Bronze*, Mobile ,Organic,debit card,beauty,1,143.47,0.061%,3,4.1,1
+2024,ORD2024001474,male,41,i̇stanbul,Gold, Mobile ,Email*,CREDIT CARD,Books & Stationery*,2,246.77,0.149%,2,5.0,0
+2024,ORD2024001475,MALE,23,İstanbul*,GUEST,Mobil3,Email*,CREDIT CARD,fashion,9,3283.96,0.079%,2,5.0,0
+2018,ORD2018001476, Female ,18,İSTANBUL,silver,MOBILE,ORGANIC, Credit Card , Home & Kitchen ,1,828.33,0.146%,2,4.7,1
+2024,ORD2024001477, Female ,18,konya,Bronz3,DESKTOP,Email,credit card,NA,1,1395.01,0.103%,1,5.0,1
+2020,ORD2020001478,MALE,30,Konya*,guest,DESKTOP, Email ,CASH ON DELIVERY,books & stationery,1,79.84,0.166%,3,4.3,1
+2023,ORD2023001479,Male*,24,İSTANBUL,Gu3st,Mobile*,Email,NA,BOOKS & STATIONERY,3,573.95,0.207%,3,3.9,0
+2021,ORD2021001480,female,32,bursa,guest,Mobil3, Paid Search , Credit Card ,Fashion*,2,346.27,0.125%,2,4.5,0
+2022,ORD2022001481,MALE,33,kayseri,BRONZE,D3sktop,SOCIAL,CREDIT CARD, Home & Kitchen ,1,137.96,0.131%,5,2.9,1
+2018,ORD2018001482,FEMALE,34,Konya,BRONZE,Mobil3, Paid Search ,Credit Card*,Sports,2,573.37,NA,2,4.5,1
+2024,ORD2024001483, Male ,51,antalya, Silver ,MOBILE,Organic*,Bank Transfer*,groceries,4,225.66,0.06%,3,3.0,1
+2023,ORD2023001484,FEMALE,32,ADANA, Silver , Mobile ,referral, Credit Card ,FASHION,4,692.25,0.059%,3,4.5,1
+2018,ORD2018001485,Female*,25,Gaziantep*,Silv3r, Mobile ,Organic*,D3bit Card,ELECTRONICS,1,353.2,0.073%,4,3.2,1
+2023,ORD2023001486,Female*,34,İZMIR, Bronze ,DESKTOP,social,credit card,Fashion,2,657.0,0.216%,3,4.0,0
+2022,ORD2022001487,FEMALE,34,i̇stanbul, Bronze ,Mobil3,ORGANIC,DEBIT CARD,HOME & KITCHEN,6,723.9,0.091%,3,3.7,1
+2019,ORD2019001488,male,21,adana,SILVER,MOBILE, Social ,Credit Card*,SPORTS,3,342.97,0.14%,3,4.1,0
+2020,ORD2020001489,Male*,42, İstanbul ,bronze,desktop, Organic ,Credit Card*,electronics,2,1009.37,0.065%,1,4.4,0
+2023,ORD2023001490,Mal3,24,i̇stanbul,Bronz3,mobile,Paid S3arch,Debit Card*,HOME & KITCHEN,1,400.27,0.202%,2,4.0,1
+2024,ORD2024001491,Male*,21,İSTANBUL,Bronze*,desktop,ORGANIC, Credit Card ,Home & Kitchen*,3,737.2,0.069%,1,3.9,0
+2023,ORD2023001492,FEMALE,34,bursa,GUEST,Mobil3,NA,DEBIT CARD,GROCERIES,3,176.67,0.232%,3,NA,1
+2023,ORD2023001493,FEMALE,18,İSTANBUL,Gu3st,mobile,organic,Credit Card*,HOME & KITCHEN,2,236.09,0.081%,2,4.8,0
+2024,ORD2024001494,Mal3,40,i̇stanbul,silver,MOBILE, Organic ,credit card,HOME & KITCHEN,2,789.0,0.015%,4,2.3,0
+2019,ORD2019001495,Male*,28,i̇zmir, Bronze ,mobile, Organic ,Debit Card*, Beauty ,6,1121.26,0.158%,3,4.1,0
+2024,ORD2024001496,Female*,26,İSTANBUL, Guest ,mobile,PAID SEARCH,CREDIT CARD,home & kitchen,1,120.35,0.115%,2,4.0,0
+2022,ORD2022001497,female,40,KONYA,Bronz3,Desktop*,organic,cash on delivery,ELECTRONICS,1,818.12,0.11%,3,3.1,1
+2020,ORD2020001498,FEMALE,32,konya,Silver*,Mobile*,Paid S3arch,credit card, Home & Kitchen ,1,240.88,0.185%,4,3.6,1
+2020,ORD2020001499,MALE,19,İstanbul,gold,MOBILE,NA,D3bit Card,groceries,8,310.95,0.106%,3,4.2,0
+2022,ORD2022001500,FEMALE,18,Trabzon,BRONZE,Mobile*, Social ,cash on delivery,groceries,4,232.39,0.206%,2,4.3,1
+2018,ORD2018001501,MALE,33,Antalya*,SILVER,mobile,Organic*,CREDIT CARD,GROCERIES,5,412.24,0.179%,2,4.4,0
+2021,ORD2021001502,MALE,35,ANKARA,BRONZE,mobile,Referral*,CREDIT CARD,HOME & KITCHEN,2,930.79,0.142%,3,4.1,0
+2023,ORD2023001503,FEMALE,22,i̇zmir,GUEST,mobile,PAID SEARCH,CREDIT CARD,SPORTS,1,346.24,0.054%,3,4.0,0
+2024,ORD2024001504,F3mal3,21,ANKARA,Guest*,MOBILE,organic,Cr3dit Card,fashion,5,1447.25,0.177%,4,4.1,0
+2021,ORD2021001505,F3mal3,20, Bursa ,guest,mobile,Organic*,Bank Transfer*,Books & Station3ry,1,103.91,0.066%,2,4.1,1
+2023,ORD2023001506,male,38, Konya ,GUEST, Mobile ,paid search,Cr3dit Card,GROCERIES,6,482.02,0.186%,4,3.4,0
+2022,ORD2022001507, Female ,43, İstanbul ,Bronze*,mobile,organic,debit card,Hom3 & Kitch3n,3,579.13,0.164%,2,2.4,0
+2023,ORD2023001508, Male ,31,TRABZON, Guest ,Desktop*,Social,Credit Card*,SPORTS,2,175.22,0.146%,2,3.5,0
+2022,ORD2022001509,female,32, Adana ,GUEST, Mobile ,ORGANIC,DIGITAL WALLET,Electronics*,1,565.69,0.0%,3,3.9,0
+2023,ORD2023001510, Male ,32,İSTANBUL, Bronze ,mobile,Organic, Credit Card ,sports,2,725.71,0.089%,1,3.6,1
+2021,ORD2021001511,female,19,İstanbul,GUEST,DESKTOP,organic, Credit Card ,groceries,4,140.33,0.137%,1,3.8,0
+2020,ORD2020001512,F3mal3,33,ANTALYA,BRONZE,Mobile*,EMAIL,CREDIT CARD,sports,2,322.1,0.207%,2,NA,0
+2020,ORD2020001513,male,40, Mersin ,silver, Mobile ,email,DEBIT CARD,BEAUTY,3,203.46,0.215%,3,3.6,0
+2021,ORD2021001514,female,32,Trabzon*,Silver*, Desktop , Organic ,CREDIT CARD,electronics,1,1401.71,0.046%,4,4.1,0
+2022,NA,Mal3,54,Bursa,BRONZE,mobile,Paid Search*,CREDIT CARD, Home & Kitchen ,1,159.31,0.099%,2,4.9,0
+2023,ORD2023001516,Female*,19,MERSIN, Guest ,DESKTOP, Paid Search , Credit Card ,SPORTS,2,322.34,0.176%,5,2.7,0
+2020,ORD2020001517, Female ,20, Antalya ,Bronz3,Mobile*, Referral ,credit card, Groceries ,2,64.14,0.168%,4,2.3,1
+2022,ORD2022001518,male,50, Konya ,Bronze*,mobile,paid search,credit card,groceries,4,232.94,0.206%,2,3.9,0
+2019,ORD2019001519,male,23,İstanbul,Gu3st,Mobil3,social,CREDIT CARD, Groceries ,3,178.9,0.193%,1,4.0,0
+2024,ORD2024001520,Female*,39,i̇zmir,Bronz3,desktop,Paid S3arch,CREDIT CARD,Beauty*,1,232.53,0.07%,3,4.4,0
+2023,ORD2023001521,Female*,20,İstanbul, Guest ,mobile,ORGANIC,CREDIT CARD, Home & Kitchen ,2,1494.93,0.0%,5,4.3,1
+2022,ORD2022001522,Female*,18, İstanbul ,BRONZE, Mobile ,ORGANIC, Cash on Delivery ,ELECTRONICS,1,486.04,0.058%,4,3.3,0
+2024,ORD2024001523,MALE,46, İstanbul ,bronze, Mobile ,SOCIAL,bank transfer,electronics,1,280.07,0.209%,4,3.6,0
+2024,ORD2024001524, Male ,27,İSTANBUL,gold,Mobile*,SOCIAL,Cr3dit Card,BEAUTY,2,352.69,0.083%,3,4.5,0
+2021,ORD2021001525,MALE,32, İstanbul ,silver,DESKTOP,paid search,CREDIT CARD,groceries,NA,62.77,0.211%,1,4.0,0
+2023,ORD2023001526, Female ,27,ANKARA,Gu3st,MOBILE,organic,Cash on D3liv3ry,BEAUTY,2,346.59,0.041%,2,3.9,0
+2023,ORD2023001527, Male ,56,MERSIN,bronze, Mobile ,PAID SEARCH,debit card, Sports ,4,526.79,0.113%,4,4.1,1
+2022,ORD2022001528, Male ,43,mersin, Silver ,D3sktop,Social*,credit card,ELECTRONICS,1,368.29,0.244%,4,3.0,0
+2019,NA,F3mal3,33,Ankara*,BRONZE,mobile,Paid Search*,CREDIT CARD,Fashion,1,170.61,0.129%,3,4.2,0
+2023,ORD2023001530,Female*,34, Bursa ,Silver*,DESKTOP, Social ,Digital Wall3t,FASHION,4,404.0,0.224%,1,4.2,0
+2021,ORD2021001531, Male ,24,İZMIR,silver, Tablet ,Email*,Credit Card*,FASHION,4,518.27,0.219%,2,4.7,NA
+2022,ORD2022001532, Female ,19,Antalya,BRONZE,mobile, Social ,BANK TRANSFER, Electronics ,1,422.76,0.172%,3,3.5,0
+2024,ORD2024001533,Male*,37,ANKARA,Guest*,MOBILE,SOCIAL, Credit Card ,Groceries*,4,156.52,0.222%,3,4.0,0
+2023,ORD2023001534, Female ,52, Adana ,gold,TABLET,paid search,credit card,El3ctronics,1,287.69,0.207%,3,4.0,1
+2021,NA,female,50,MERSIN,Bronz3,Tablet*, Email ,digital wallet, Home & Kitchen ,2,266.49,0.173%,3,4.0,0
+2024,ORD2024001536,MALE,46,mersin, Bronze ,Mobil3, Email ,digital wallet, Electronics ,2,NA,0.188%,3,3.6,0
+2024,ORD2024001537,Female*,40,İstanbul*,silver,mobile,Paid S3arch,Credit Card*,beauty,2,165.22,0.233%,3,4.9,1
+2023,ORD2023001538, Male ,18,Ankara,BRONZE,Mobil3,Paid Search*,Cash on Delivery*,ELECTRONICS,1,200.37,0.124%,5,3.9,0
+2024,ORD2024001539,female,38,İSTANBUL,Bronze*, Tablet ,Email,credit card,fashion,6,1404.81,0.139%,1,4.6,0
+2019,ORD2019001540,Mal3,30,ANTALYA, Silver , Mobile ,social, Cash on Delivery ,Fashion*,3,499.62,0.199%,3,5.0,1
+2021,ORD2021001541,MALE,41,ankara,BRONZE,mobile,Organic*,DEBIT CARD,B3auty,4,207.59,NA,3,4.2,0
+2020,ORD2020001542,Male*,23,Konya*,Silver*, Mobile , Referral ,CREDIT CARD,sports,3,344.21,0.046%,3,4.0,0
+2022,ORD2022001543,MALE,39,antalya,Silv3r,Mobil3,paid search,CREDIT CARD, Home & Kitchen ,1,192.44,0.323%,3,4.0,1
+2022,ORD2022001544,F3mal3,28, Gaziantep ,Gu3st,DESKTOP,social,DIGITAL WALLET,BOOKS & STATIONERY,2,251.0,0.075%,3,4.1,1
+2018,ORD2018001545,F3mal3,39,ankara, Gold , Desktop ,EMAIL,Digital Wallet*, Groceries ,6,208.41,0.21%,3,3.0,0
+2018,ORD2018001546, Male ,18,Ankara*, Silver ,Mobile*,ORGANIC,CREDIT CARD, Fashion ,3,368.74,0.101%,3,3.9,1
+2018,ORD2018001547,Female*,40, Antalya ,Gold,MOBILE,PAID SEARCH, Credit Card ,ELECTRONICS,1,775.78,0.268%,3,3.8,0
+2022,ORD2022001548,Male*,25,konya,Bronz3,desktop, Paid Search , Cash on Delivery ,electronics,1,1192.76,0.128%,4,3.3,1
+2018,ORD2018001549, Female ,31,mersin, Guest ,mobile,Organic*,Cash on Delivery*,ELECTRONICS,2,3989.68,0.181%,3,3.4,0
+2022,ORD2022001550,Female*,20,GAZIANTEP,BRONZE,MOBILE,Organic*,Digital Wall3t,Groc3ri3s,5,213.53,0.164%,4,3.9,0
+2022,ORD2022001551,male,18,i̇stanbul,guest,MOBILE,PAID SEARCH, Credit Card ,B3auty,3,634.85,0.194%,2,3.0,1
+2021,ORD2021001552, Male ,24,İSTANBUL,gold, Tablet ,Social,cash on delivery,fashion,6,488.89,0.195%,3,3.4,1
+2024,ORD2024001553, Female ,32,İSTANBUL, Guest , Desktop ,Paid Search*, Digital Wallet ,Fashion*,5,443.81,0.212%,3,4.2,0
+2020,ORD2020001554,Mal3,27,antalya, Silver , Mobile , Paid Search ,Cash on D3liv3ry,Hom3 & Kitch3n,2,270.37,0.0%,2,5.0,1
+2018,ORD2018001555, Female ,25, Konya ,Gu3st,mobile,organic,cash on delivery,HOME & KITCHEN,NA,310.11,0.096%,2,3.9,0
+2019,ORD2019001556,male,41,TRABZON,BRONZE,Desktop*,paid search,credit card,Books & Stationery*,2,114.15,0.171%,4,4.1,1
+2022,ORD2022001557,male,33,ADANA,guest,Mobil3,ORGANIC,credit card,Books & Stationery*,1,95.73,0.141%,3,2.3,0
+2023,ORD2023001558,Male*,42,İstanbul*,SILVER,MOBILE, Organic ,Bank Transf3r,sports,5,1639.37,0.0%,2,3.4,0
+2021,ORD2021001559, Male ,36,İSTANBUL,bronze,desktop,Email, Cash on Delivery , Beauty ,5,2075.93,0.195%,2,5.0,0
+2024,ORD2024001560, Female ,38,eskişehir,Guest*,mobile,Paid S3arch,Digital Wallet*,fashion,2,1107.87,0.122%,3,4.7,1
+2024,ORD2024001561,MALE,33,konya,silver,mobile, Social ,CREDIT CARD,books & stationery,3,136.39,0.231%,4,4.0,0
+2020,ORD2020001562,female,22,mersin, Bronze ,MOBILE,Social,CREDIT CARD, Electronics ,1,255.8,0.219%,3,4.3,0
+2024,ORD2024001563, Male ,60,İstanbul,BRONZE,D3sktop,ORGANIC,CREDIT CARD,SPORTS,1,266.85,0.155%,2,4.4,1
+2023,ORD2023001564,MALE,37,ankara,guest,MOBILE,Organic,credit card,FASHION,3,585.29,0.021%,2,4.2,1
+2020,ORD2020001565,Female*,39,Antalya*,Bronz3,mobile,ORGANIC, Digital Wallet ,El3ctronics,1,921.17,0.068%,4,4.2,1
+2019,ORD2019001566, Male ,68, İstanbul ,bronze, Desktop , Referral ,Cash on D3liv3ry,HOME & KITCHEN,1,413.48,0.001%,NA,4.3,0
+2024,ORD2024001567,MALE,23,İZMIR,bronze, Mobile ,ORGANIC,Digital Wall3t,home & kitchen,3,471.85,0.11%,3,2.9,1
+2023,NA,Male*,29,Ankara*,bronze,DESKTOP,ORGANIC,CREDIT CARD, Beauty ,3,631.14,0.041%,2,4.4,0
+2023,ORD2023001569,female,33,kayseri,Gold,Mobile*,paid search, Credit Card , Home & Kitchen ,3,1147.01,0.098%,2,4.0,0
+2024,ORD2024001570, Male ,45,Mersin*,silver,Mobil3,Email,DEBIT CARD, Beauty ,2,406.96,0.26%,3,4.0,0
+2020,ORD2020001571,male,23,Ankara*,BRONZE,MOBILE,Email,Cash on D3liv3ry,SPORTS,3,467.52,0.245%,3,4.0,0
+2018,ORD2018001572,MALE,38, Gaziantep ,BRONZE,MOBILE,Organic,Cash on D3liv3ry, Home & Kitchen ,2,946.75,0.0%,3,4.0,0
+2019,ORD2019001573, Female ,38, Gaziantep ,Bronze*,Mobil3, Paid Search , Credit Card , Home & Kitchen ,1,416.87,0.095%,2,3.5,0
+2019,ORD2019001574,female,18, İzmir ,Gu3st,NA,SOCIAL,digital wallet, Sports ,1,218.9,0.218%,3,3.4,1
+2018,ORD2018001575,FEMALE,31,İstanbul,GUEST, Desktop ,paid search,CREDIT CARD, Home & Kitchen ,3,473.3,0.204%,2,3.5,1
+2023,ORD2023001576,male,18, Eskişehir ,bronze,Desktop*, Organic , Digital Wallet ,FASHION,5,723.16,NA,2,4.7,1
+2018,ORD2018001577,MALE,32,Ankara*, Silver ,desktop,social,Cash on D3liv3ry,GROCERIES,3,85.61,0.191%,1,4.5,1
+2022,ORD2022001578,Mal3,38,ANTALYA, Bronze ,desktop,Organic,CASH ON DELIVERY, Electronics ,1,593.14,0.188%,3,3.7,0
+2024,ORD2024001579,Female*,18, Konya ,GUEST,MOBILE,organic,digital wallet,BEAUTY,2,512.43,0.039%,4,3.0,0
+2020,ORD2020001580, Male ,45,konya,SILVER,MOBILE,social,cash on delivery,Electronics*,3,2249.73,0.193%,3,5.0,1
+2018,ORD2018001581,MALE,32,i̇stanbul,Gold*,MOBILE,Organic,BANK TRANSFER, Electronics ,2,4840.88,0.0%,1,4.6,1
+2024,ORD2024001582,MALE,33,ankara,GOLD,mobile,Paid S3arch,cash on delivery,Beauty*,1,209.35,0.2%,3,4.3,0
+2022,ORD2022001583, Female ,43, Gaziantep ,BRONZE,MOBILE, Paid Search ,digital wallet,beauty,2,260.03,0.251%,4,3.9,1
+2023,NA,FEMALE,27,Gaziant3p,gold,mobile,ORGANIC,Cr3dit Card,groceries,11,773.99,0.172%,4,4.2,1
+2020,ORD2020001585,Female*,42, İstanbul ,silver, Mobile ,Paid S3arch,CASH ON DELIVERY,groceries,2,76.2,0.142%,3,3.8,0
+2023,ORD2023001586,Male*,51,bursa,silver,MOBILE,Email,CREDIT CARD,Hom3 & Kitch3n,1,228.88,0.177%,3,4.1,0
+2023,ORD2023001587,FEMALE,31,İSTANBUL,Gold, Desktop ,organic, Debit Card ,HOME & KITCHEN,1,262.95,0.072%,3,4.7,0
+2021,ORD2021001588, Male ,36, İstanbul ,bronze,desktop,Organic*, Credit Card ,home & kitchen,4,1273.46,0.138%,2,3.5,1
+2020,ORD2020001589,F3mal3,23,ANKARA,Bronze*, Mobile ,EMAIL,credit card,fashion,1,124.31,0.245%,4,3.9,1
+2020,ORD2020001590,Female*,42,ANKARA,Guest*,Mobil3,EMAIL, Credit Card ,ELECTRONICS,1,427.86,0.236%,4,2.9,0
+2021,ORD2021001591,Mal3,32,Antalya,bronze,MOBILE,NA, Cash on Delivery ,fashion,2,313.02,0.058%,2,3.7,0
+2018,ORD2018001592,Female*,28,i̇zmir,Bronze*,Desktop*,ORGANIC,credit card,fashion,1,107.38,0.17%,1,3.4,0
+2024,ORD2024001593,male,49,Konya, Bronze ,MOBILE,Paid Search*, Credit Card ,fashion,4,961.41,0.131%,2,4.5,0
+2019,ORD2019001594,Female*,45,Konya*, Bronze , Mobile ,social,CREDIT CARD, Fashion ,1,169.51,0.234%,3,3.4,1
+2022,ORD2022001595,F3mal3,31,İSTANBUL,bronze,mobile, Paid Search , Credit Card ,BEAUTY,2,231.52,0.117%,3,3.5,0
+2020,ORD2020001596,female,43,i̇stanbul,guest,Mobile*, Organic ,Cr3dit Card, Electronics ,1,419.85,0.091%,2,4.6,0
+2023,ORD2023001597, Female ,40,Adana,Guest*,Mobile*,Organic,CREDIT CARD,HOME & KITCHEN,3,350.01,0.091%,2,4.8,0
+2024,ORD2024001598,MALE,21,i̇stanbul,gold,Mobil3,Social,credit card,Fashion,7,1797.78,0.072%,2,4.0,1
+2024,ORD2024001599,MALE,21,ANKARA,Guest*,mobile, Social ,credit card,Hom3 & Kitch3n,3,1428.45,0.115%,3,4.1,0
+2022,ORD2022001600, Male ,49, İstanbul ,Bronz3, Mobile ,Email*,CREDIT CARD,FASHION,2,332.16,0.036%,2,4.3,1
+2021,ORD2021001601,Female*,53,KONYA, Gold ,MOBILE,referral,NA, Home & Kitchen ,2,786.19,0.091%,4,4.2,0
+2024,ORD2024001602,FEMALE,43,i̇stanbul,Silv3r,Mobile*,organic, Debit Card ,Electronics*,1,805.59,0.13%,3,5.0,1
+2024,ORD2024001603,female,30,Ankara,Gu3st,MOBILE,ORGANIC,Credit Card*,fashion,2,379.35,0.044%,NA,5.0,1
+2019,ORD2019001604, Male ,42,ANKARA,Gu3st,mobile,ORGANIC, Credit Card ,NA,2,205.07,0.0%,2,3.9,0
+2023,ORD2023001605, Male ,21,Eskişehir*,SILVER,Mobil3,EMAIL, Credit Card , Electronics ,2,1106.12,0.232%,2,4.5,0
+2022,ORD2022001606,male,28,NA, Silver ,MOBILE,Paid S3arch,DIGITAL WALLET, Books & Stationery ,1,330.32,0.154%,5,3.3,1
+2021,ORD2021001607,MALE,35,Antalya, Guest ,Mobil3,email, Credit Card ,Fashion*,1,249.91,0.123%,2,4.4,1
+2018,ORD2018001608,Mal3,25,İstanbul,NA, Mobile ,NA,credit card,GROCERIES,5,290.86,0.147%,1,3.7,0
+2023,ORD2023001609,FEMALE,27,kayseri,Gu3st, Mobile , Organic ,Cash on D3liv3ry, Electronics ,3,1622.48,0.051%,2,4.6,0
+2021,ORD2021001610,Mal3,33, İzmir ,BRONZE,Mobil3,SOCIAL,credit card,Fashion*,3,213.48,0.185%,3,3.8,0
+2020,ORD2020001611,Mal3,27,İSTANBUL,SILVER,NA,referral,DIGITAL WALLET, Home & Kitchen ,1,NA,0.104%,3,3.9,1
+2021,ORD2021001612,male,25,İSTANBUL,BRONZE,Mobil3,Organic,CREDIT CARD,beauty,2,191.9,0.145%,3,3.4,1
+2019,ORD2019001613,NA,29,i̇stanbul,Gold*,Mobil3,ORGANIC,CREDIT CARD,ELECTRONICS,1,1165.89,0.102%,4,3.1,1
+2024,ORD2024001614,Male*,18,İSTANBUL,Silv3r, Mobile ,email,BANK TRANSFER,HOME & KITCHEN,3,979.65,0.229%,1,4.8,1
+2020,ORD2020001615,FEMALE,39,Mersin*,GUEST,Desktop*,EMAIL, Credit Card , Electronics ,1,975.5,0.218%,4,4.1,0
+2023,ORD2023001616, Male ,53,İstanbul,SILVER,desktop,Organic*,credit card,Books & Stationery*,3,238.55,0.137%,1,3.8,1
+2020,ORD2020001617,FEMALE,18,Bursa,bronze,MOBILE,Social*,credit card, Groceries ,4,186.7,0.089%,2,4.5,0
+2024,ORD2024001618,female,29,İstanbul*, Guest ,Mobil3,organic,DEBIT CARD, Fashion ,4,2205.79,0.098%,4,3.9,0
+2024,ORD2024001619,MALE,28,ANTALYA,BRONZE,D3sktop,social, Credit Card ,fashion,4,2116.65,0.086%,4,4.6,0
+2021,ORD2021001620,Female*,27,Ankara,GUEST,mobile,paid search,credit card,FASHION,1,192.76,0.098%,3,3.2,0
+2022,ORD2022001621,MALE,22,KAYSERI,SILVER,Mobil3,PAID SEARCH,CASH ON DELIVERY,BOOKS & STATIONERY,1,41.99,0.209%,3,3.6,0
+2024,ORD2024001622,female,23,ANKARA,Bronz3, Mobile ,SOCIAL,CASH ON DELIVERY,B3auty,3,510.64,0.193%,NA,3.2,1
+2022,ORD2022001623,MALE,33,ANTALYA,Bronze*,Mobile*,Organic,credit card,FASHION,3,161.92,0.283%,3,4.0,1
+2019,ORD2019001624,Male*,40,İZMIR,SILVER,desktop,EMAIL, Digital Wallet ,B3auty,2,519.76,0.19%,1,4.5,0
+2023,ORD2023001625,FEMALE,31,Ankara*,Bronze*,DESKTOP,Social,CASH ON DELIVERY,ELECTRONICS,1,854.1,0.213%,4,4.0,1
+2020,ORD2020001626,FEMALE,32,İSTANBUL,silver,Tabl3t,Organic,credit card,HOME & KITCHEN,4,1222.81,0.061%,3,3.7,0
+2019,ORD2019001627,MALE,18,İstanbul,guest,desktop, Organic ,Credit Card*, Fashion ,1,235.07,0.009%,1,4.3,0
+2019,ORD2019001628, Male ,33,İZMIR,SILVER,Mobile*,Paid Search*,digital wallet, Fashion ,3,183.29,0.118%,3,4.1,0
+2023,ORD2023001629, Female ,18, Mersin ,NA, Mobile ,organic, Cash on Delivery ,El3ctronics,1,1132.21,0.234%,2,3.7,0
+2024,ORD2024001630,F3mal3,21, Bursa ,Gu3st,mobile,Organic, Credit Card ,fashion,4,544.95,0.068%,3,3.9,0
+2023,ORD2023001631,female,37,Eskişehir*,GOLD,desktop,SOCIAL,credit card,groceries,5,169.49,0.016%,2,3.7,0
+2023,ORD2023001632, Male ,27,ANTALYA, Bronze ,mobile,PAID SEARCH,DEBIT CARD,GROCERIES,5,112.79,0.23%,4,3.3,0
+2021,ORD2021001633,FEMALE,42, Eskişehir ,Guest*,DESKTOP,paid search,Credit Card*,GROCERIES,1,52.79,0.141%,3,5.0,0
+2020,ORD2020001634,female,27,Ankara,Silver*,MOBILE,paid search,DEBIT CARD,Beauty*,3,342.51,0.19%,4,3.6,0
+2020,ORD2020001635,FEMALE,40,İZMIR, Gold , Mobile ,Organic, Credit Card ,SPORTS,2,545.0,0.118%,2,3.8,0
+2023,ORD2023001636,F3mal3,18,ESKIŞEHIR,BRONZE,mobile,Social*,Cash on Delivery*,HOME & KITCHEN,2,361.78,0.142%,3,4.0,0
+2020,ORD2020001637,Mal3,21,i̇zmir,GUEST, Mobile ,SOCIAL,credit card,Sports*,2,408.33,0.159%,3,4.1,1
+2023,ORD2023001638, Male ,35,ankara,bronze,mobile,ORGANIC,CREDIT CARD, Fashion ,4,903.54,0.038%,2,5.0,0
+2024,ORD2024001639,female,34,İstanbul*,Silv3r,Mobile*,ORGANIC,CREDIT CARD, Electronics ,1,558.71,0.172%,3,4.3,1
+2024,ORD2024001640,Female*,51, Antalya ,bronze, Desktop ,email,Cr3dit Card,Fashion,5,1672.21,0.3%,3,3.2,0
+2022,ORD2022001641,Mal3,33, Ankara ,bronze,mobile,paid search,credit card,Home & Kitchen*,1,164.48,0.102%,3,3.9,0
+2022,ORD2022001642, Male ,22, Antalya ,SILVER,Desktop*,Social,Cr3dit Card,Sports*,NA,636.97,0.203%,3,3.9,0
+2023,ORD2023001643, Female ,39,i̇stanbul,Gold,Mobil3,EMAIL,credit card,BOOKS & STATIONERY,2,130.0,0.099%,1,4.8,1
+2023,ORD2023001644, Female ,18,GAZIANTEP,Bronz3,Mobil3,organic, Bank Transfer , Books & Stationery ,2,107.83,0.079%,5,4.8,0
+2024,ORD2024001645,female,44, Trabzon , Gold ,Desktop*,Email,CASH ON DELIVERY,SPORTS,3,470.26,0.268%,4,4.2,0
+2019,ORD2019001646,Male*,26,İZMIR,guest, Tablet ,ORGANIC,Cr3dit Card,Fashion,4,1094.64,0.087%,2,4.1,0
+2022,ORD2022001647, Male ,NA, Antalya ,SILVER,NA, Social ,Bank Transf3r,Fashion*,5,1459.51,0.23%,4,5.0,1
+2019,ORD2019001648,FEMALE,47,İSTANBUL,Silv3r, Mobile ,R3f3rral,credit card,sports,1,260.69,0.076%,2,4.3,0
+2020,ORD2020001649, Male ,38,i̇zmir, Silver ,MOBILE,ORGANIC,CREDIT CARD,fashion,3,635.52,0.06%,3,3.6,0
+2019,ORD2019001650,male,21, Bursa ,GUEST,Mobile*, Referral ,digital wallet,sports,1,248.75,0.13%,2,4.3,0
+2022,ORD2022001651,F3mal3,44,GAZIANTEP,BRONZE,Tablet*,ORGANIC,CASH ON DELIVERY,ELECTRONICS,2,1337.99,0.14%,3,3.6,1
+2019,ORD2019001652,female,21,i̇stanbul,BRONZE,mobile, Organic ,Debit Card*,El3ctronics,2,2901.8,0.024%,3,3.8,1
+2021,ORD2021001653,Male*,27,NA,Guest*,Mobile*,SOCIAL,Digital Wall3t,SPORTS,1,314.75,0.056%,2,4.6,0
+2019,ORD2019001654,Mal3,30,mersin,Silver*,Mobile*, Organic , Credit Card ,BOOKS & STATIONERY,1,123.23,0.058%,4,4.1,0
+2023,ORD2023001655,MALE,25,BURSA,guest,Mobile*,ORGANIC,Cr3dit Card,Groceries*,7,474.48,0.076%,3,3.5,1
+2021,ORD2021001656, Male ,37,İSTANBUL,Bronz3,MOBILE,Organic*,CREDIT CARD,GROCERIES,4,175.23,0.0%,2,4.6,0
+2024,ORD2024001657,Mal3,33,Ankara*,Silv3r,Mobile*, Organic , Credit Card ,Books & Stationery*,4,333.14,0.086%,3,4.0,0
+2022,ORD2022001658,MALE,34,konya,Bronz3, Mobile , Organic ,DIGITAL WALLET,GROCERIES,5,243.13,0.077%,4,3.9,0
+2021,ORD2021001659, Male ,56,İstanbul*,SILVER,MOBILE,Organic,CREDIT CARD,Home & Kitchen*,4,1555.24,0.093%,1,4.8,0
+2020,ORD2020001660,Mal3,45,İSTANBUL, Bronze ,Mobil3,organic,CREDIT CARD,B3auty,2,265.54,0.06%,2,4.8,0
+2022,ORD2022001661,MALE,39,i̇zmir,guest,Mobil3,PAID SEARCH, Credit Card ,books & stationery,2,167.88,0.179%,3,4.2,0
+2022,ORD2022001662, Female ,55, Kayseri , Guest ,DESKTOP,PAID SEARCH,CREDIT CARD,fashion,1,300.76,0.148%,3,3.9,0
+2024,ORD2024001663,MALE,33,GAZIANTEP,BRONZE,Mobil3,paid search, Debit Card ,fashion,5,1336.61,0.182%,3,4.0,0
+2022,ORD2022001664,MALE,49,ANKARA,GOLD,DESKTOP, Referral ,Credit Card*,B3auty,1,74.03,0.128%,3,3.3,0
+2022,ORD2022001665,Female*,43, Trabzon , Bronze ,MOBILE,Paid Search*, Credit Card ,Fashion*,3,204.61,0.202%,2,4.0,1
+2023,ORD2023001666,female,31,Ankara, Guest ,mobile,organic,CASH ON DELIVERY,FASHION,4,285.83,0.041%,1,2.8,1
+2024,ORD2024001667,FEMALE,32,ADANA,BRONZE, Desktop ,ORGANIC,Cr3dit Card,fashion,3,788.38,0.086%,2,3.4,0
+2024,ORD2024001668,MALE,18,Mersin*,SILVER,Mobil3,Social,Cash on Delivery*, Fashion ,7,1208.75,0.041%,3,4.4,1
+2020,ORD2020001669,male,21,İzmir*,bronze,MOBILE,social,D3bit Card,El3ctronics,1,462.79,0.19%,4,3.2,0
+2021,ORD2021001670, Female ,41, Eskişehir ,silver,MOBILE, Organic ,Credit Card*,home & kitchen,1,853.01,0.092%,1,4.7,0
+2023,ORD2023001671,female,33,i̇stanbul,Bronze*, Mobile ,SOCIAL,CASH ON DELIVERY,BEAUTY,1,146.59,0.049%,4,3.9,0
+2019,ORD2019001672,female,29,mersin,silver,mobile,ORGANIC,credit card, Home & Kitchen ,1,396.23,0.083%,3,3.9,0
+2021,ORD2021001673,MALE,35, İzmir ,guest,Mobil3,referral,Credit Card*,BEAUTY,2,160.98,0.035%,2,4.1,0
+2023,ORD2023001674,FEMALE,48, Kayseri ,Bronze*,mobile,Organic,credit card,sports,3,1113.28,0.101%,4,3.4,0
+2023,ORD2023001675,Mal3,44,Konya,Gu3st,MOBILE,Organic*, Debit Card ,electronics,1,342.38,0.011%,3,4.5,0
+2019,ORD2019001676,Male*,18,Bursa*, Guest ,D3sktop,ORGANIC, Credit Card , Fashion ,2,255.33,0.177%,2,5.0,0
+2021,ORD2021001677, Male ,40,adana,Gold*,mobile,PAID SEARCH, Credit Card ,Beauty*,1,256.72,0.085%,3,3.7,0
+2021,ORD2021001678,Male*,26,GAZIANTEP, Guest , Mobile , Social ,DIGITAL WALLET,SPORTS,1,176.14,0.164%,4,3.4,0
+2020,ORD2020001679,female,34,ADANA,Bronze*,Tabl3t, Email ,Credit Card*, Home & Kitchen ,1,160.61,0.314%,4,3.6,0
+2019,ORD2019001680,NA,28,ANTALYA,silver,MOBILE,Organic*, Credit Card ,Beauty*,2,243.3,0.075%,2,4.2,1
+2021,ORD2021001681,MALE,28,ANKARA,SILVER,mobile, Organic ,Digital Wallet*,FASHION,3,489.21,0.078%,4,3.2,1
+2023,ORD2023001682, Female ,39,i̇stanbul,BRONZE,MOBILE,PAID SEARCH,Cr3dit Card,Fashion,3,737.67,0.214%,2,4.5,1
+2020,ORD2020001683,F3mal3,24,İzmir*,Guest*,DESKTOP,ORGANIC,credit card,fashion,2,971.36,0.022%,4,3.1,0
+2023,ORD2023001684,female,42,MERSIN,Silver*,D3sktop,PAID SEARCH, Credit Card ,Groc3ri3s,7,368.93,0.159%,4,2.4,1
+2024,ORD2024001685,Female*,42,İzmir,GOLD,Desktop*,ORGANIC,credit card,HOME & KITCHEN,5,1743.54,0.177%,2,4.8,0
+2019,ORD2019001686,FEMALE,18,ANTALYA,Bronze*,DESKTOP,referral,debit card,NA,1,330.38,0.082%,3,3.0,1
+2022,ORD2022001687,male,28,antalya,Gu3st,desktop,SOCIAL,credit card, Groceries ,6,398.39,0.141%,3,3.3,0
+2020,ORD2020001688,Male*,32,ADANA,Bronze*,NA,social, Cash on Delivery ,GROCERIES,2,77.75,0.181%,1,4.4,1
+2021,ORD2021001689,female,33,Antalya*,Gold,mobile,Organic*, Credit Card ,SPORTS,5,1834.12,0.115%,4,3.1,0
+2023,ORD2023001690,female,27,İSTANBUL,SILVER,mobile,EMAIL,debit card, Books & Stationery ,2,138.16,0.169%,3,4.2,1
+2019,ORD2019001691, Male ,30, İstanbul ,SILVER,tablet,email,Digital Wallet*, Beauty ,1,159.8,0.282%,1,4.7,1
+2022,ORD2022001692,MALE,36, İzmir ,silver,mobile, Social ,Cr3dit Card,Fashion,3,1114.0,0.112%,3,3.7,0
+2023,ORD2023001693,FEMALE,23,ANTALYA, Bronze ,mobile,Organic,credit card, Home & Kitchen ,1,293.28,0.078%,3,3.5,0
+2023,ORD2023001694, Female ,37, Adana ,silver,Mobil3,Paid S3arch, Credit Card ,books & stationery,3,249.31,NA,4,3.2,0
+2019,ORD2019001695,MALE,29,Bursa*,BRONZE,desktop, Organic , Credit Card , Electronics ,1,423.37,0.033%,2,4.1,0
+2021,ORD2021001696,female,33,mersin, Bronze ,MOBILE, Social ,credit card, Groceries ,2,46.11,0.165%,4,4.1,0
+2024,ORD2024001697,female,38,ADANA,gold,Mobil3,organic,Cash on Delivery*,groceries,6,339.73,0.109%,3,3.3,0
+2022,ORD2022001698,male,33,İstanbul*,Bronz3, Mobile ,organic,CREDIT CARD,fashion,4,1597.55,0.046%,2,4.1,0
+2021,ORD2021001699,F3mal3,44,İZMIR,SILVER,Desktop*, Organic ,Credit Card*,Groceries*,7,445.98,0.074%,4,4.0,0
+2018,ORD2018001700, Male ,40,İstanbul*,gold,MOBILE,Paid Search*,credit card,HOME & KITCHEN,1,229.13,0.195%,2,3.8,1
+2023,ORD2023001493,Female,18,İstanbul,Guest,Mobile,Organic,Credit Card,Home & Kitchen,2,236.09,0.081%,2,4.8,0
+2023,ORD2023000116,Female,18,Antalya,Bronze,Mobile,Paid Search,Debit Card,Electronics,1,975.38,0.134%,1,4.3,1
+2022,ORD2022000136,Male,38,Kayseri,Guest,Mobile,Organic,Credit Card,Fashion,2,235.78,0.146%,4,4.3,0
+2024,ORD2024000353,Female,49,İstanbul,Bronze,Mobile,Email,Credit Card,Fashion,1,268.23,0.172%,2,4.8,1
+2018,ORD2018001303,Male,42,Mersin,Gold,Mobile,Referral,Credit Card,Electronics,1,249.35,0.123%,4,4.1,1
+2022,ORD2022001332,Female,24,İstanbul,Bronze,Desktop,Organic,Cash on Delivery,Home & Kitchen,3,1034.79,0.092%,2,3.8,0
+2019,ORD2019001393,Male,33,İzmir,Silver,Mobile,Referral,Credit Card,Books & Stationery,3,153.13,0.176%,4,2.6,0
+2019,ORD2019000333,Female,36,İstanbul,Gold,Mobile,Organic,Credit Card,Sports,3,1377.98,0.113%,4,4.1,1
+2020,ORD2020001227,Male,28,İstanbul,Silver,Mobile,Organic,Credit Card,Electronics,1,2530.23,0.049%,2,3.8,0
+2020,ORD2020000317,Male,23,İstanbul,Silver,Desktop,Organic,Cash on Delivery,Fashion,3,808.59,0.076%,4,3.8,1
+2019,ORD2019001646,Male,26,İzmir,Guest,Tablet,Organic,Credit Card,Fashion,4,1094.64,0.087%,2,4.1,0
+2023,ORD2023001202,Male,32,Bursa,Guest,Mobile,Organic,Credit Card,Beauty,3,511.04,0.004%,2,4.1,1
+2023,ORD2023000290,Male,25,İstanbul,Guest,Mobile,Organic,Credit Card,Books & Stationery,1,66.06,0.0%,3,4.7,1
+2019,ORD2019000904,Male,42,İstanbul,Guest,Desktop,Organic,Bank Transfer,Groceries,4,203.26,0.086%,5,3.9,0
+2018,ORD2018000260,Female,18,İstanbul,Bronze,Mobile,Organic,Credit Card,Fashion,3,468.72,0.106%,2,4.7,0
+2023,ORD2023001432,Male,25,Konya,Silver,Mobile,Organic,Credit Card,Home & Kitchen,1,202.03,0.075%,3,3.2,1
+2023,ORD2023000213,Female,27,Kayseri,Guest,Mobile,Organic,Bank Transfer,Groceries,3,258.53,0.097%,2,4.7,0
+2024,ORD2024001321,Female,18,İzmir,Guest,Mobile,Organic,Cash on Delivery,Electronics,1,726.37,0.14%,3,4.6,1
+2024,ORD2024001145,Male,42,İstanbul,Bronze,Desktop,Referral,Cash on Delivery,Electronics,1,2129.27,0.059%,2,4.7,1
+2022,ORD2022000963,Male,34,Mersin,Guest,Mobile,Organic,Credit Card,Fashion,1,109.54,0.162%,5,3.3,0
+2019,ORD2019001359,Female,23,İstanbul,Silver,Mobile,Social,Credit Card,Fashion,1,169.62,0.14%,1,4.0,0
+2023,ORD2023000024,Female,44,Ankara,Bronze,Mobile,Organic,Credit Card,Beauty,3,419.58,0.188%,3,3.7,0
+2022,ORD2022000716,Female,35,Bursa,Silver,Mobile,Organic,Credit Card,Fashion,4,683.13,0.089%,3,4.7,0
+2022,ORD2022000079,Male,26,İstanbul,Bronze,Mobile,Paid Search,Credit Card,Fashion,3,291.75,0.216%,2,4.1,0
+2020,ORD2020001281,Female,42,İstanbul,Silver,Mobile,Social,Credit Card,Home & Kitchen,1,138.94,0.258%,1,3.8,0

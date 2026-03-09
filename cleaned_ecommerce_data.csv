@@ -1,0 +1,1726 @@
+year,gender,age,city,membership_tier,device_type,traffic_source,payment_method,product_category,items_in_cart,basket_value_try,discount_rate,delivery_days,satisfaction_score,repeat_purchase_90d
+2019,male,42,kayseri,bronze,desktop,organic,credit card,fashion,5,345.3,0.116,2.0,3.6,True
+2024,male,32,bursa,bronze,mobile,social,credit card,electronics,1,275.39,0.104,2.0,4.3,True
+2023,female,27,i̇stanbul,bronze,mobile,social,credit card,fashion,3,797.88,0.258,2.0,5.0,True
+2018,male,44,adana,gold,desktop,organic,debit card,groceries,4,275.08,0.13,2.0,4.2,True
+2018,male,18,antalya,bronze,mobile,email,credit card,sports,2,910.98,0.156,3.0,3.3,False
+2021,male,18,ankara,silver,mobile,email,digital wallet,home & kitchen,3,513.64,0.309,3.0,3.2,False
+2024,male,40,i̇stanbul,silver,mobile,organic,cash on delivery,home & kitchen,1,640.46,0.137,1.0,4.8,True
+2020,female,27,ankara,silver,tablet,paid search,credit card,fashion,3,1474.01,0.194,4.0,3.9,True
+2020,male,43,trabzon,bronze,mobile,paid search,credit card,home & kitchen,2,496.99,0.211,4.0,4.2,False
+2023,male,42,ankara,silver,mobile,organic,bank transfer,books & stationery,4,269.77,0.165,3.0,3.7,False
+2018,male,44,adana,silver,mobile,email,digital wallet,electronics,1,662.96,0.198,3.0,3.2,False
+2024,female,32,i̇stanbul,guest,desktop,email,credit card,fashion,3,362.91,0.072,3.0,3.5,True
+2024,male,29,ankara,silver,mobile,email,credit card,home & kitchen,2,1031.39,0.12,3.0,4.4,True
+2023,male,30,mersin,guest,desktop,email,credit card,home & kitchen,1,195.65,0.16,3.0,3.0,False
+2024,male,35,ankara,silver,mobile,organic,digital wallet,fashion,5,665.71,0.008,1.0,4.4,True
+2022,male,40,konya,bronze,mobile,paid search,credit card,electronics,1,1009.89,0.141,2.0,4.5,True
+2019,female,41,mersin,bronze,desktop,paid search,credit card,home & kitchen,3,561.87,0.141,4.0,3.9,True
+2023,female,26,i̇stanbul,bronze,mobile,paid search,credit card,beauty,1,172.15,0.026,2.0,4.6,False
+2024,female,25,i̇stanbul,bronze,mobile,paid search,credit card,groceries,5,291.55,0.178,2.0,4.9,False
+2023,male,43,ankara,guest,mobile,email,bank transfer,sports,5,945.91,0.27,3.0,3.5,False
+2019,male,19,bursa,guest,mobile,social,credit card,home & kitchen,1,609.68,0.183,3.0,3.6,False
+2020,female,53,i̇stanbul,silver,mobile,organic,debit card,fashion,4,417.59,0.119,2.0,3.4,True
+2019,male,30,konya,guest,mobile,social,credit card,home & kitchen,1,297.44,0.209,3.0,3.6,True
+2023,female,44,ankara,bronze,mobile,organic,credit card,beauty,3,419.58,0.188,3.0,3.7,False
+2019,male,32,antalya,silver,mobile,organic,credit card,beauty,4,620.31,0.044,4.0,4.5,True
+2018,female,43,konya,bronze,mobile,paid search,credit card,electronics,1,1430.61,0.135,3.0,4.1,True
+2021,female,29,i̇stanbul,guest,mobile,organic,debit card,fashion,2,250.63,0.023,3.0,5.0,True
+2021,male,19,kayseri,bronze,mobile,social,bank transfer,beauty,2,502.77,0.133,3.0,3.8,False
+2021,male,32,gaziantep,silver,desktop,paid search,credit card,groceries,1,51.95,0.147,3.0,4.0,True
+2022,female,51,i̇stanbul,bronze,mobile,organic,cash on delivery,sports,1,290.12,0.125,3.0,3.3,False
+2023,male,26,i̇zmir,bronze,mobile,organic,credit card,electronics,1,824.15,0.009,4.0,3.2,False
+2022,male,35,i̇stanbul,guest,mobile,organic,debit card,fashion,4,889.35,0.055,3.0,4.6,False
+2021,female,50,antalya,guest,desktop,referral,digital wallet,fashion,4,527.89,0.084,3.0,3.2,False
+2018,male,53,i̇zmir,gold,desktop,organic,credit card,fashion,5,623.99,0.108,3.0,3.6,True
+2023,male,26,konya,gold,desktop,organic,credit card,home & kitchen,1,220.89,0.08,3.0,4.02,True
+2020,female,39,i̇stanbul,bronze,mobile,referral,debit card,fashion,2,367.96,0.12,3.0,4.5,True
+2018,female,33,i̇stanbul,guest,mobile,social,credit card,home & kitchen,2,265.78,0.141,2.0,4.1,False
+2023,female,35,antalya,bronze,mobile,social,bank transfer,fashion,3,538.17,0.105,4.0,2.4,True
+2019,male,36,ankara,bronze,mobile,paid search,credit card,books & stationery,2,630.97,0.123,3.0,3.6,False
+2024,female,54,bursa,bronze,mobile,organic,credit card,electronics,1,560.13,0.099,2.0,4.1,False
+2021,female,18,mersin,silver,mobile,organic,credit card,sports,1,178.96,0.103,4.0,3.0,False
+2024,female,42,ankara,guest,desktop,social,debit card,fashion,1,230.57,0.262,4.0,3.8,False
+2024,female,30,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,2,671.41,0.012,1.0,4.6,False
+2024,female,18,gaziantep,silver,mobile,social,credit card,beauty,1,80.44,0.138,4.0,3.8,False
+2023,female,18,eskişehir,silver,mobile,paid search,credit card,fashion,2,293.06,0.122,3.0,3.9,True
+2020,male,40,ankara,silver,desktop,email,credit card,fashion,4,1145.67,0.162,2.0,3.5,True
+2023,male,23,i̇stanbul,guest,mobile,paid search,credit card,fashion,3,320.98,0.179,2.0,4.4,True
+2022,male,31,trabzon,bronze,desktop,social,credit card,home & kitchen,2,366.13,0.114,3.0,4.5,False
+2023,female,45,bursa,guest,desktop,email,credit card,home & kitchen,5,665.71,0.195,3.0,3.6,False
+2021,male,33,ankara,silver,desktop,social,debit card,home & kitchen,3,665.71,0.215,3.0,4.1,True
+2022,female,24,adana,guest,mobile,paid search,debit card,home & kitchen,2,498.18,0.219,2.0,4.5,False
+2021,female,31,konya,silver,mobile,email,credit card,beauty,2,290.69,0.252,1.0,4.3,False
+2021,female,26,ankara,guest,desktop,referral,cash on delivery,electronics,3,930.15,0.002,3.0,4.4,False
+2021,female,40,ankara,gold,mobile,organic,credit card,electronics,2,665.71,0.052,1.0,5.0,True
+2023,female,18,trabzon,guest,mobile,organic,credit card,home & kitchen,2,723.06,0.035,3.0,4.9,False
+2020,male,37,trabzon,guest,mobile,paid search,credit card,sports,2,449.0,0.194,4.0,4.1,True
+2021,female,24,bursa,silver,mobile,email,credit card,books & stationery,2,84.74,0.245,2.0,3.5,False
+2022,female,34,antalya,guest,mobile,email,credit card,electronics,3,665.71,0.162,4.0,3.6,False
+2019,male,35,i̇zmir,silver,mobile,organic,bank transfer,home & kitchen,2,357.7,0.175,2.0,3.9,False
+2023,female,51,i̇zmir,guest,mobile,organic,cash on delivery,home & kitchen,1,212.12,0.035,3.0,4.3,True
+2023,female,24,i̇stanbul,guest,tablet,paid search,credit card,home & kitchen,1,185.84,0.17,1.0,4.1,True
+2023,male,30,adana,bronze,mobile,social,credit card,books & stationery,1,93.73,0.137,2.74,3.7,True
+2022,female,38,bursa,guest,desktop,paid search,bank transfer,groceries,4,161.09,0.238,3.0,4.3,False
+2023,male,43,i̇stanbul,gold,mobile,social,credit card,electronics,2,1000.96,0.265,3.0,5.0,True
+2022,female,24,i̇stanbul,silver,desktop,organic,credit card,electronics,1,576.52,0.152,3.0,3.9,False
+2019,male,28,kayseri,guest,mobile,paid search,credit card,beauty,4,444.6,0.049,4.0,3.4,False
+2019,female,39,konya,guest,tablet,referral,credit card,electronics,1,1187.61,0.078,2.0,4.2,False
+2023,male,23,i̇zmir,bronze,desktop,organic,credit card,fashion,3,473.71,0.046,2.0,3.5,False
+2022,female,25,bursa,bronze,desktop,social,credit card,home & kitchen,2,851.68,0.122,3.0,3.2,False
+2024,female,32,ankara,bronze,mobile,paid search,credit card,home & kitchen,1,857.91,0.2,4.0,2.7,False
+2018,female,39,i̇stanbul,bronze,desktop,paid search,debit card,electronics,1,387.46,0.122,2.0,4.4,False
+2024,male,28,i̇stanbul,gold,mobile,paid search,credit card,beauty,2,496.59,0.062,1.0,4.8,False
+2021,female,31,antalya,guest,desktop,email,credit card,fashion,3,309.86,0.196,4.0,4.4,True
+2018,female,18,i̇stanbul,guest,mobile,paid search,cash on delivery,home & kitchen,3,831.69,0.15,3.0,5.0,True
+2021,male,26,adana,guest,mobile,organic,credit card,fashion,5,665.71,0.025,4.0,2.8,False
+2023,male,58,mersin,gold,desktop,organic,bank transfer,home & kitchen,1,536.95,0.071,3.0,4.6,True
+2020,female,32,ankara,bronze,mobile,organic,debit card,fashion,1,337.13,0.141,4.0,3.7,False
+2024,male,25,i̇zmir,bronze,mobile,organic,credit card,home & kitchen,1,472.65,0.084,2.0,3.7,False
+2022,male,26,i̇stanbul,bronze,mobile,paid search,credit card,fashion,3,291.75,0.216,2.0,4.1,False
+2020,male,42,konya,bronze,desktop,organic,bank transfer,groceries,1,82.4,0.061,3.0,3.9,False
+2024,male,29,i̇stanbul,bronze,mobile,email,credit card,beauty,3,556.07,0.196,1.0,4.1,False
+2024,male,38,antalya,guest,desktop,organic,credit card,beauty,4,737.28,0.087,4.0,4.4,False
+2020,male,30,eskişehir,bronze,mobile,organic,debit card,home & kitchen,2,724.77,0.098,3.0,3.4,False
+2022,female,35,konya,bronze,desktop,organic,credit card,groceries,2,73.28,0.046,3.0,3.7,False
+2019,female,39,i̇stanbul,bronze,mobile,social,credit card,electronics,1,511.79,0.227,1.0,4.9,False
+2022,female,29,i̇stanbul,silver,mobile,paid search,debit card,books & stationery,5,307.34,0.146,4.0,3.7,True
+2022,female,39,i̇stanbul,guest,desktop,paid search,credit card,electronics,2,665.71,0.02,2.0,2.9,False
+2021,female,18,kayseri,guest,mobile,social,cash on delivery,home & kitchen,1,175.39,0.093,1.0,3.9,False
+2020,male,32,konya,bronze,desktop,paid search,credit card,fashion,2,709.09,0.208,4.0,3.8,False
+2019,male,22,gaziantep,bronze,tablet,organic,cash on delivery,sports,3,1021.81,0.095,3.0,3.3,True
+2018,female,41,kayseri,gold,mobile,social,credit card,groceries,2,95.96,0.166,2.0,4.3,True
+2023,female,44,kayseri,silver,mobile,social,credit card,electronics,1,777.17,0.2,3.0,3.3,False
+2022,female,18,ankara,silver,mobile,social,credit card,fashion,3,843.75,0.124,4.0,4.0,True
+2021,male,18,ankara,gold,mobile,paid search,digital wallet,books & stationery,1,99.12,0.21,3.0,3.7,False
+2020,female,44,i̇zmir,silver,mobile,social,cash on delivery,beauty,1,174.27,0.21,2.0,4.5,True
+2021,female,32,i̇zmir,guest,mobile,organic,credit card,electronics,1,528.09,0.07,4.0,4.4,False
+2023,female,29,mersin,bronze,mobile,paid search,digital wallet,fashion,4,864.72,0.169,3.0,3.5,False
+2023,female,28,i̇stanbul,guest,desktop,organic,credit card,fashion,4,856.71,0.063,3.0,3.6,False
+2024,male,27,kayseri,guest,mobile,email,bank transfer,beauty,2,204.99,0.206,3.0,3.7,False
+2019,male,38,gaziantep,gold,mobile,paid search,cash on delivery,fashion,1,79.78,0.174,2.74,4.4,True
+2018,female,36,adana,silver,desktop,email,credit card,beauty,2,846.06,0.26,2.0,4.9,False
+2024,female,43,i̇stanbul,bronze,mobile,social,cash on delivery,home & kitchen,1,383.79,0.189,4.0,4.3,False
+2022,male,22,i̇stanbul,bronze,desktop,paid search,credit card,sports,2,609.44,0.316,3.0,3.8,False
+2021,female,24,adana,silver,mobile,organic,cash on delivery,home & kitchen,1,277.35,0.148,3.0,4.0,True
+2024,male,18,adana,bronze,mobile,paid search,bank transfer,books & stationery,3,169.18,0.07,3.0,4.3,True
+2023,female,19,antalya,guest,mobile,organic,digital wallet,home & kitchen,1,517.93,0.144,4.0,3.4,False
+2023,female,18,eskişehir,guest,mobile,organic,credit card,fashion,5,952.46,0.106,4.0,3.8,True
+2020,male,53,mersin,bronze,mobile,email,cash on delivery,home & kitchen,1,384.96,0.152,3.0,4.7,False
+2021,female,48,i̇stanbul,guest,mobile,organic,credit card,fashion,2,320.44,0.064,3.0,4.6,False
+2024,female,19,bursa,guest,desktop,paid search,debit card,home & kitchen,4,1544.05,0.13,2.0,5.0,False
+2018,female,39,i̇stanbul,guest,mobile,paid search,credit card,fashion,4,665.71,0.06,2.0,4.4,False
+2023,female,22,i̇stanbul,bronze,tablet,organic,credit card,fashion,1,255.14,0.043,2.0,3.9,True
+2024,male,43,kayseri,bronze,desktop,social,credit card,electronics,2,1358.19,0.144,3.0,4.1,True
+2023,male,37,antalya,guest,mobile,referral,credit card,home & kitchen,2,436.45,0.02,4.0,3.9,False
+2023,male,29,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,1,391.71,0.0,4.0,4.0,True
+2023,female,18,antalya,bronze,mobile,paid search,debit card,electronics,1,975.38,0.134,1.0,4.3,True
+2018,male,32,i̇zmir,bronze,mobile,paid search,credit card,electronics,3,665.71,0.237,3.0,4.5,True
+2020,female,45,ankara,bronze,mobile,social,bank transfer,groceries,1,39.46,0.141,3.0,4.2,True
+2020,male,28,i̇stanbul,bronze,mobile,organic,credit card,books & stationery,3,188.62,0.228,3.0,3.9,False
+2022,male,34,mersin,gold,mobile,paid search,credit card,groceries,3,168.87,0.116,3.0,4.4,False
+2021,female,42,i̇stanbul,bronze,mobile,paid search,credit card,sports,1,102.03,0.109,2.0,3.8,False
+2023,female,35,bursa,guest,mobile,paid search,credit card,home & kitchen,1,424.39,0.107,1.0,4.1,True
+2023,female,31,i̇zmir,bronze,mobile,paid search,cash on delivery,fashion,4,1458.93,0.249,2.0,2.4,False
+2024,male,31,i̇stanbul,guest,mobile,organic,credit card,beauty,2,278.49,0.019,1.0,5.0,True
+2022,female,23,i̇stanbul,bronze,tablet,organic,digital wallet,home & kitchen,2,1467.2,0.106,3.0,3.6,False
+2020,female,18,i̇stanbul,bronze,desktop,paid search,debit card,fashion,1,112.25,0.19,2.0,3.9,False
+2019,male,28,i̇stanbul,guest,mobile,paid search,cash on delivery,sports,1,128.24,0.16,2.0,3.7,False
+2018,female,34,i̇zmir,silver,mobile,paid search,credit card,home & kitchen,1,264.35,0.277,4.0,3.8,False
+2021,male,53,adana,bronze,mobile,referral,credit card,groceries,3,98.59,0.121,3.0,3.9,False
+2021,male,36,kayseri,gold,mobile,email,debit card,electronics,1,566.05,0.326,1.0,5.0,True
+2024,female,21,mersin,silver,mobile,organic,debit card,fashion,2,378.5,0.07,3.0,4.1,True
+2023,female,26,bursa,bronze,desktop,paid search,bank transfer,groceries,4,449.84,0.091,2.0,3.9,False
+2023,female,25,antalya,silver,tablet,social,credit card,home & kitchen,2,449.25,0.159,3.0,3.8,True
+2020,female,28,i̇stanbul,bronze,mobile,organic,credit card,fashion,1,370.65,0.0,2.0,4.0,False
+2021,male,23,antalya,guest,mobile,social,credit card,home & kitchen,1,358.66,0.177,3.0,4.4,False
+2022,male,38,kayseri,guest,mobile,organic,credit card,fashion,2,235.78,0.146,4.0,4.3,False
+2024,female,18,antalya,guest,mobile,social,credit card,home & kitchen,2,476.31,0.132,2.0,4.2,False
+2020,male,26,i̇stanbul,silver,desktop,email,credit card,books & stationery,2,237.94,0.132,2.0,3.8,False
+2024,male,34,i̇stanbul,gold,mobile,social,credit card,books & stationery,2,128.98,0.252,3.0,4.3,True
+2020,male,25,adana,guest,desktop,social,credit card,electronics,1,1257.98,0.092,3.0,2.9,False
+2023,female,24,konya,guest,tablet,organic,credit card,fashion,1,273.14,0.158,3.0,3.0,False
+2023,female,46,i̇stanbul,guest,desktop,organic,credit card,groceries,2,131.74,0.088,3.0,3.7,False
+2022,male,30,i̇stanbul,guest,desktop,paid search,credit card,groceries,6,300.94,0.242,4.0,4.02,False
+2021,female,28,i̇stanbul,bronze,mobile,referral,digital wallet,groceries,3,115.22,0.134,2.0,4.9,False
+2019,male,46,ankara,silver,mobile,organic,digital wallet,fashion,1,282.58,0.029,3.0,3.7,True
+2018,male,49,i̇zmir,bronze,mobile,paid search,credit card,home & kitchen,2,804.31,0.219,1.0,5.0,True
+2023,male,37,trabzon,bronze,mobile,paid search,credit card,beauty,1,159.95,0.096,4.0,3.7,True
+2018,female,38,i̇stanbul,bronze,mobile,organic,credit card,groceries,3,253.73,0.153,2.0,3.9,False
+2023,male,40,ankara,bronze,desktop,organic,credit card,books & stationery,2,144.02,0.181,4.0,3.3,True
+2020,male,33,adana,silver,mobile,social,bank transfer,groceries,5,230.33,0.184,3.0,4.4,False
+2023,male,36,i̇stanbul,bronze,mobile,organic,cash on delivery,books & stationery,1,68.28,0.136,2.0,3.8,False
+2020,female,18,i̇stanbul,silver,mobile,organic,debit card,electronics,1,1268.39,0.091,3.0,3.1,True
+2024,female,31,adana,silver,mobile,social,credit card,beauty,2,109.54,0.276,2.0,4.3,True
+2021,female,34,ankara,bronze,mobile,organic,cash on delivery,sports,1,367.63,0.146,3.0,3.5,False
+2023,female,27,eskişehir,bronze,desktop,organic,credit card,fashion,4,719.23,0.16,2.0,4.2,False
+2020,male,20,gaziantep,guest,mobile,organic,credit card,fashion,3,1326.46,0.217,2.74,3.9,False
+2020,male,22,mersin,bronze,mobile,paid search,credit card,groceries,4,473.23,0.136,4.0,2.7,True
+2022,male,18,gaziantep,guest,mobile,paid search,debit card,home & kitchen,2,231.48,0.157,2.0,3.1,True
+2023,male,20,ankara,guest,mobile,paid search,digital wallet,sports,2,563.31,0.168,3.0,3.9,True
+2021,female,28,konya,gold,desktop,organic,credit card,electronics,1,1159.89,0.026,2.0,4.6,False
+2019,male,18,bursa,silver,mobile,paid search,credit card,books & stationery,2,207.81,0.092,2.0,3.9,False
+2018,female,23,i̇stanbul,gold,mobile,paid search,cash on delivery,electronics,2,772.21,0.085,4.0,2.9,False
+2023,female,39,ankara,bronze,desktop,social,cash on delivery,groceries,5,194.18,0.097,2.74,4.1,False
+2023,female,20,i̇stanbul,guest,mobile,social,debit card,electronics,1,1371.85,0.15,3.0,4.0,False
+2022,male,30,i̇stanbul,bronze,desktop,organic,debit card,sports,2,415.65,0.093,2.0,4.5,True
+2021,male,43,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,3,1632.86,0.107,3.0,4.5,False
+2023,male,25,i̇stanbul,guest,mobile,organic,credit card,electronics,1,665.71,0.039,3.0,4.1,True
+2021,male,41,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,4,709.46,0.146,2.0,3.5,False
+2020,female,32,ankara,bronze,mobile,paid search,credit card,fashion,5,769.63,0.184,3.0,3.5,True
+2019,male,38,i̇stanbul,guest,mobile,paid search,credit card,fashion,1,435.53,0.089,1.0,5.0,False
+2020,female,40,i̇stanbul,silver,desktop,social,credit card,home & kitchen,5,665.71,0.166,2.0,4.5,True
+2021,female,20,i̇stanbul,bronze,desktop,paid search,credit card,groceries,2,254.29,0.177,4.0,3.4,True
+2022,female,40,i̇stanbul,bronze,mobile,paid search,cash on delivery,home & kitchen,1,1018.59,0.141,3.0,3.7,False
+2022,female,49,adana,bronze,desktop,paid search,credit card,fashion,3,457.59,0.234,4.0,3.6,False
+2023,female,22,trabzon,bronze,mobile,organic,credit card,home & kitchen,1,625.66,0.11,3.0,4.4,False
+2023,female,26,konya,guest,mobile,organic,digital wallet,home & kitchen,1,381.38,0.073,4.0,4.5,False
+2023,female,30,i̇stanbul,silver,desktop,social,cash on delivery,fashion,1,124.54,0.121,3.0,3.7,False
+2024,female,44,kayseri,guest,mobile,paid search,bank transfer,electronics,1,220.28,0.167,3.0,4.8,False
+2023,female,37,antalya,silver,mobile,email,cash on delivery,electronics,2,665.71,0.136,3.0,4.1,False
+2021,male,18,eskişehir,bronze,mobile,organic,credit card,sports,1,118.88,0.044,3.0,4.2,False
+2022,male,22,i̇stanbul,silver,mobile,organic,credit card,home & kitchen,2,463.32,0.065,3.0,4.4,False
+2024,female,46,i̇zmir,gold,mobile,email,credit card,home & kitchen,3,691.71,0.174,3.0,4.6,False
+2019,female,32,kayseri,bronze,mobile,organic,credit card,sports,1,167.79,0.241,1.0,4.8,True
+2024,female,49,i̇stanbul,guest,mobile,social,cash on delivery,books & stationery,2,97.58,0.196,1.0,4.4,True
+2018,female,32,i̇zmir,gold,tablet,organic,credit card,electronics,1,1035.12,0.08,3.0,4.5,True
+2020,male,42,adana,guest,mobile,social,credit card,beauty,1,190.07,0.197,4.0,3.1,False
+2019,male,38,i̇stanbul,guest,desktop,email,credit card,home & kitchen,1,218.51,0.131,2.68,4.3,False
+2020,male,29,i̇stanbul,silver,desktop,social,credit card,groceries,3,154.86,0.135,3.0,3.6,True
+2019,female,26,i̇zmir,gold,desktop,organic,credit card,electronics,1,927.79,0.0,3.0,5.0,True
+2022,male,24,bursa,bronze,mobile,organic,credit card,books & stationery,2,170.69,0.076,2.0,3.9,False
+2021,male,29,adana,bronze,mobile,paid search,digital wallet,groceries,2,60.25,0.099,3.0,3.4,False
+2020,female,27,i̇stanbul,bronze,mobile,email,credit card,fashion,3,783.7,0.171,2.0,3.8,False
+2019,female,34,i̇stanbul,silver,mobile,organic,credit card,sports,4,634.88,0.13,3.0,4.5,True
+2019,female,23,i̇zmir,guest,mobile,organic,credit card,fashion,2,819.84,0.117,3.0,4.2,False
+2021,male,45,bursa,bronze,mobile,organic,bank transfer,beauty,1,147.99,0.108,2.0,4.1,False
+2022,male,21,adana,guest,mobile,paid search,credit card,fashion,3,602.92,0.171,3.0,3.9,True
+2023,female,32,i̇stanbul,gold,mobile,paid search,credit card,electronics,3,665.71,0.108,3.0,4.4,False
+2024,male,39,i̇stanbul,guest,mobile,organic,credit card,electronics,1,397.81,0.033,2.0,3.5,False
+2024,female,47,i̇stanbul,bronze,mobile,email,credit card,groceries,3,171.8,0.24,1.0,4.1,False
+2021,male,35,i̇stanbul,bronze,mobile,organic,debit card,beauty,1,88.48,0.011,3.0,5.0,False
+2021,male,26,kayseri,bronze,mobile,organic,credit card,home & kitchen,3,685.82,0.147,4.0,4.2,False
+2020,male,46,ankara,gold,desktop,email,credit card,electronics,1,344.49,0.194,3.0,3.6,True
+2024,female,27,mersin,guest,mobile,paid search,credit card,fashion,3,720.69,0.263,2.0,4.9,True
+2020,male,30,adana,bronze,tablet,organic,credit card,beauty,3,169.43,0.143,4.0,3.5,False
+2020,male,38,adana,bronze,mobile,organic,credit card,electronics,2,785.13,0.065,2.74,3.8,True
+2019,male,33,eskişehir,bronze,mobile,organic,debit card,fashion,1,1347.05,0.159,3.0,4.3,False
+2021,female,40,i̇zmir,silver,desktop,social,credit card,fashion,2,238.35,0.28,2.0,3.3,False
+2018,male,26,konya,guest,mobile,organic,debit card,fashion,3,854.9,0.061,3.0,4.2,False
+2022,male,36,i̇stanbul,bronze,mobile,organic,credit card,sports,1,293.66,0.052,2.0,4.1,False
+2022,male,25,i̇zmir,silver,mobile,paid search,digital wallet,fashion,3,508.79,0.229,2.0,4.4,True
+2019,female,43,i̇stanbul,silver,desktop,referral,cash on delivery,electronics,1,932.69,0.198,2.0,4.1,False
+2024,female,40,konya,guest,mobile,organic,digital wallet,electronics,1,1128.93,0.082,3.0,4.6,True
+2023,female,27,kayseri,guest,mobile,organic,bank transfer,groceries,3,258.53,0.097,2.0,4.7,False
+2021,male,29,i̇stanbul,silver,mobile,paid search,cash on delivery,fashion,1,160.46,0.04,2.0,3.9,True
+2021,male,25,mersin,silver,mobile,email,cash on delivery,electronics,1,1460.11,0.16,4.0,3.0,False
+2020,male,30,i̇stanbul,bronze,mobile,organic,cash on delivery,sports,2,867.54,0.133,3.0,4.9,True
+2023,female,26,konya,silver,mobile,paid search,credit card,electronics,1,1591.94,0.243,3.0,4.2,True
+2021,male,18,i̇stanbul,guest,mobile,organic,credit card,groceries,3,120.46,0.101,2.0,3.7,True
+2023,male,30,i̇stanbul,silver,mobile,organic,digital wallet,groceries,3,296.37,0.098,2.0,4.0,False
+2018,male,24,bursa,silver,mobile,organic,credit card,electronics,1,426.11,0.028,1.0,5.0,False
+2018,male,41,antalya,guest,mobile,organic,credit card,fashion,5,411.76,0.079,2.0,3.7,False
+2019,female,18,bursa,bronze,mobile,email,credit card,beauty,4,586.86,0.218,1.0,5.0,True
+2019,female,18,mersin,guest,mobile,organic,cash on delivery,electronics,1,772.79,0.156,3.0,3.1,False
+2021,female,39,gaziantep,silver,mobile,organic,credit card,home & kitchen,4,783.01,0.034,3.0,4.1,False
+2020,male,27,bursa,bronze,mobile,paid search,credit card,home & kitchen,2,629.67,0.12,2.0,5.0,False
+2019,male,44,bursa,gold,mobile,organic,cash on delivery,fashion,1,248.58,0.104,1.0,4.7,True
+2021,female,43,antalya,bronze,mobile,paid search,debit card,groceries,6,275.73,0.138,3.0,4.0,False
+2018,female,32,i̇stanbul,guest,tablet,referral,credit card,fashion,3,679.23,0.115,1.0,4.8,False
+2022,female,36,i̇stanbul,bronze,desktop,paid search,cash on delivery,beauty,1,179.17,0.125,2.0,3.3,False
+2021,female,35,adana,bronze,mobile,organic,bank transfer,fashion,2,650.1,0.118,4.0,3.1,False
+2018,male,36,i̇stanbul,gold,mobile,social,digital wallet,home & kitchen,1,417.12,0.216,2.0,3.8,True
+2022,male,33,ankara,silver,mobile,paid search,credit card,beauty,2,414.64,0.106,2.0,3.2,False
+2023,male,29,i̇zmir,silver,mobile,organic,credit card,books & stationery,4,393.93,0.105,3.0,3.9,False
+2021,female,32,i̇stanbul,silver,mobile,organic,credit card,electronics,3,1621.2,0.134,1.0,4.4,False
+2022,female,29,kayseri,silver,desktop,organic,credit card,sports,1,312.05,0.216,4.0,3.8,False
+2023,female,40,konya,bronze,mobile,organic,credit card,groceries,3,202.46,0.07,3.0,4.2,False
+2018,male,49,bursa,bronze,mobile,organic,credit card,groceries,4,149.93,0.097,1.0,4.8,True
+2019,male,47,bursa,guest,mobile,social,debit card,electronics,3,1550.43,0.082,1.0,4.2,True
+2024,male,48,bursa,silver,mobile,paid search,credit card,electronics,1,905.58,0.196,3.0,4.2,True
+2023,female,30,i̇stanbul,bronze,mobile,organic,credit card,fashion,3,484.07,0.173,2.0,4.3,False
+2022,male,31,konya,gold,desktop,organic,credit card,sports,1,276.93,0.146,2.0,4.3,True
+2021,male,20,kayseri,silver,mobile,organic,digital wallet,sports,4,946.61,0.128,4.0,3.6,False
+2023,female,22,bursa,guest,mobile,organic,credit card,home & kitchen,2,446.1,0.023,1.0,4.5,False
+2023,male,27,i̇stanbul,bronze,mobile,social,credit card,fashion,3,169.14,0.259,3.0,4.6,False
+2021,male,41,antalya,guest,mobile,organic,credit card,sports,1,198.7,0.088,3.0,4.0,False
+2022,female,35,i̇stanbul,silver,desktop,social,credit card,sports,2,832.49,0.288,2.0,5.0,False
+2022,male,35,antalya,guest,desktop,social,credit card,home & kitchen,2,386.13,0.227,4.0,3.8,False
+2021,male,36,mersin,bronze,mobile,organic,credit card,fashion,1,109.58,0.093,4.0,4.2,True
+2021,female,25,kayseri,guest,desktop,organic,credit card,fashion,5,548.47,0.1,3.0,3.7,False
+2023,female,48,i̇stanbul,guest,desktop,paid search,cash on delivery,home & kitchen,1,306.07,0.177,1.0,5.0,True
+2020,female,26,bursa,bronze,mobile,paid search,credit card,books & stationery,6,774.32,0.103,2.0,3.7,False
+2024,male,28,adana,bronze,mobile,referral,credit card,fashion,1,189.29,0.202,2.74,4.7,False
+2020,female,23,i̇stanbul,guest,mobile,social,credit card,home & kitchen,2,1548.02,0.086,1.0,5.0,False
+2019,male,38,i̇stanbul,bronze,tablet,organic,cash on delivery,beauty,4,420.83,0.025,3.0,3.4,False
+2022,female,25,gaziantep,bronze,mobile,organic,credit card,fashion,1,152.47,0.065,2.74,3.5,False
+2020,female,32,i̇stanbul,bronze,mobile,organic,credit card,books & stationery,4,429.43,0.009,2.74,4.1,False
+2023,male,25,i̇stanbul,guest,mobile,email,bank transfer,books & stationery,3,215.73,0.166,2.0,4.8,False
+2021,male,30,i̇stanbul,guest,mobile,organic,cash on delivery,home & kitchen,1,577.05,0.157,2.0,3.2,False
+2021,male,32,i̇stanbul,silver,mobile,email,credit card,groceries,2,580.02,0.206,1.0,4.7,True
+2018,female,18,i̇stanbul,bronze,mobile,organic,credit card,fashion,3,468.72,0.106,2.0,4.7,False
+2023,male,43,i̇stanbul,gold,mobile,organic,credit card,books & stationery,2,168.41,0.105,4.0,4.1,True
+2020,female,28,adana,bronze,mobile,organic,credit card,fashion,1,395.37,0.067,2.0,3.6,True
+2024,male,36,kayseri,bronze,mobile,organic,credit card,electronics,1,476.03,0.097,4.0,4.1,False
+2020,male,43,i̇stanbul,silver,desktop,organic,credit card,sports,1,303.29,0.163,1.0,4.2,True
+2019,female,45,adana,guest,mobile,organic,credit card,beauty,1,205.66,0.133,4.0,4.0,True
+2022,female,29,antalya,bronze,mobile,organic,cash on delivery,fashion,5,539.62,0.15,3.0,3.6,False
+2024,male,31,i̇stanbul,silver,desktop,paid search,cash on delivery,electronics,1,610.58,0.076,2.0,3.8,False
+2024,female,27,gaziantep,bronze,mobile,paid search,credit card,books & stationery,3,162.7,0.186,4.0,3.4,False
+2024,male,43,i̇stanbul,guest,desktop,organic,cash on delivery,fashion,2,1658.04,0.079,2.0,3.2,False
+2021,male,23,antalya,guest,desktop,social,credit card,home & kitchen,2,665.71,0.195,2.74,3.2,False
+2019,female,26,gaziantep,gold,mobile,organic,credit card,electronics,1,692.76,0.048,2.0,4.9,True
+2021,female,18,i̇stanbul,bronze,mobile,organic,credit card,beauty,2,580.51,0.099,3.0,4.1,True
+2022,female,25,antalya,silver,mobile,social,cash on delivery,fashion,5,665.71,0.175,2.0,3.9,False
+2019,female,18,konya,bronze,desktop,paid search,credit card,sports,1,379.25,0.232,3.0,3.1,True
+2022,male,38,ankara,bronze,mobile,paid search,credit card,sports,4,1075.41,0.11,1.0,4.6,False
+2024,female,22,ankara,bronze,mobile,paid search,credit card,sports,1,264.1,0.183,3.0,5.0,True
+2023,male,47,i̇stanbul,guest,desktop,paid search,bank transfer,electronics,3,665.71,0.097,2.0,3.2,False
+2019,male,18,konya,bronze,mobile,paid search,digital wallet,books & stationery,1,86.71,0.114,3.0,4.0,True
+2020,female,25,i̇stanbul,bronze,desktop,organic,credit card,fashion,1,238.44,0.08,1.0,4.6,True
+2019,male,27,mersin,gold,desktop,social,credit card,fashion,5,1360.32,0.165,3.0,3.6,False
+2021,male,35,kayseri,bronze,desktop,social,debit card,home & kitchen,2,665.71,0.131,3.0,3.5,True
+2024,female,30,i̇stanbul,bronze,mobile,organic,debit card,home & kitchen,4,665.71,0.064,3.0,4.2,True
+2018,male,40,gaziantep,bronze,mobile,paid search,credit card,fashion,1,156.88,0.146,2.0,4.8,True
+2019,male,38,i̇stanbul,bronze,mobile,organic,digital wallet,fashion,2,542.31,0.165,4.0,3.9,True
+2022,female,37,mersin,bronze,tablet,paid search,debit card,fashion,5,203.26,0.211,3.0,4.4,False
+2023,female,21,i̇stanbul,silver,desktop,organic,credit card,beauty,4,403.02,0.021,3.0,4.2,False
+2020,male,48,bursa,silver,desktop,paid search,bank transfer,sports,2,539.86,0.134,4.0,4.8,False
+2021,female,26,ankara,guest,mobile,social,debit card,electronics,2,902.8,0.148,4.0,4.2,False
+2022,female,27,i̇zmir,guest,desktop,paid search,credit card,fashion,1,106.42,0.114,2.0,3.5,True
+2023,male,25,i̇stanbul,guest,mobile,organic,credit card,books & stationery,1,66.06,0.0,3.0,4.7,True
+2018,male,18,mersin,guest,mobile,organic,credit card,electronics,1,735.69,0.085,2.74,3.3,True
+2023,male,39,i̇stanbul,bronze,mobile,organic,credit card,electronics,3,665.71,0.048,2.0,4.5,True
+2024,female,18,antalya,guest,desktop,social,cash on delivery,fashion,3,793.56,0.097,3.0,3.9,False
+2020,female,32,i̇stanbul,guest,mobile,social,credit card,fashion,1,83.8,0.142,3.0,5.0,False
+2023,male,31,i̇stanbul,guest,mobile,paid search,digital wallet,beauty,3,543.9,0.222,1.0,4.1,False
+2024,female,35,ankara,gold,mobile,email,credit card,home & kitchen,4,955.9,0.096,3.0,3.9,False
+2024,male,35,ankara,guest,mobile,social,credit card,home & kitchen,2,859.41,0.132,4.0,3.7,True
+2019,male,47,kayseri,bronze,desktop,organic,credit card,fashion,1,149.92,0.104,3.0,3.8,False
+2021,male,26,i̇stanbul,bronze,desktop,organic,credit card,electronics,1,907.98,0.072,3.0,3.7,True
+2020,female,37,gaziantep,guest,mobile,paid search,credit card,electronics,2,1422.55,0.154,3.0,3.0,True
+2018,male,20,i̇zmir,silver,mobile,social,credit card,fashion,2,443.82,0.102,4.0,4.3,True
+2024,male,30,i̇stanbul,silver,desktop,email,credit card,sports,2,529.4,0.278,2.0,4.8,True
+2023,male,33,kayseri,bronze,mobile,organic,credit card,electronics,1,334.06,0.077,3.0,3.5,False
+2018,male,27,i̇stanbul,guest,desktop,paid search,credit card,electronics,1,562.03,0.195,1.0,3.8,False
+2020,female,26,i̇stanbul,guest,mobile,organic,bank transfer,electronics,1,855.68,0.05,3.0,3.7,False
+2019,male,18,i̇zmir,guest,mobile,paid search,credit card,books & stationery,1,47.67,0.044,3.0,3.7,False
+2023,male,48,gaziantep,gold,mobile,email,bank transfer,beauty,6,1010.42,0.303,4.0,3.9,True
+2022,female,18,i̇stanbul,bronze,mobile,organic,digital wallet,electronics,2,1634.22,0.065,2.0,3.8,True
+2022,male,32,i̇zmir,bronze,mobile,organic,debit card,home & kitchen,2,753.31,0.095,2.0,4.6,True
+2023,female,49,i̇stanbul,silver,mobile,paid search,cash on delivery,electronics,1,665.71,0.216,3.0,3.6,False
+2023,female,35,i̇stanbul,silver,mobile,paid search,credit card,fashion,1,356.69,0.048,3.0,4.8,False
+2024,male,35,i̇stanbul,guest,mobile,email,cash on delivery,electronics,1,297.65,0.211,2.0,4.2,False
+2022,female,22,ankara,guest,mobile,organic,credit card,beauty,4,452.08,0.158,3.0,3.9,False
+2018,female,49,i̇stanbul,silver,desktop,email,debit card,books & stationery,2,155.31,0.187,1.0,5.0,True
+2024,male,37,i̇stanbul,gold,mobile,paid search,digital wallet,books & stationery,1,55.14,0.184,3.0,4.3,False
+2020,female,25,i̇stanbul,bronze,desktop,paid search,cash on delivery,electronics,1,1148.5,0.151,3.0,4.7,True
+2020,male,23,i̇stanbul,silver,desktop,organic,cash on delivery,fashion,3,808.59,0.076,4.0,3.8,True
+2024,female,39,ankara,silver,mobile,paid search,credit card,home & kitchen,6,1000.77,0.13,3.0,3.2,False
+2019,female,44,ankara,bronze,tablet,paid search,digital wallet,books & stationery,1,92.58,0.211,3.0,3.8,False
+2019,male,34,i̇zmir,guest,mobile,paid search,credit card,sports,2,549.34,0.134,3.0,4.4,False
+2022,female,56,i̇stanbul,guest,mobile,organic,credit card,electronics,3,665.71,0.056,2.0,4.4,False
+2024,female,22,i̇stanbul,bronze,mobile,organic,credit card,groceries,2,593.85,0.038,2.68,4.2,True
+2018,male,29,adana,guest,mobile,social,bank transfer,books & stationery,3,366.68,0.101,4.0,4.2,False
+2018,male,22,konya,silver,mobile,social,cash on delivery,home & kitchen,2,1011.17,0.154,4.0,4.1,False
+2023,female,30,mersin,bronze,mobile,organic,cash on delivery,fashion,5,1296.99,0.048,2.0,4.1,False
+2024,female,19,i̇stanbul,bronze,tablet,email,credit card,books & stationery,1,93.19,0.301,3.0,4.0,False
+2021,male,47,trabzon,guest,desktop,social,credit card,sports,1,141.75,0.221,2.74,3.4,False
+2020,male,40,i̇zmir,bronze,mobile,referral,credit card,groceries,3,179.41,0.196,3.0,3.6,False
+2023,female,46,i̇zmir,gold,desktop,paid search,credit card,home & kitchen,3,665.71,0.098,2.0,3.8,True
+2022,male,33,kayseri,gold,mobile,paid search,credit card,electronics,1,279.94,0.111,3.0,4.8,False
+2023,male,30,i̇stanbul,silver,mobile,referral,digital wallet,electronics,1,994.48,0.082,2.0,4.4,False
+2024,female,54,i̇stanbul,bronze,mobile,referral,bank transfer,home & kitchen,1,506.23,0.13,3.0,3.2,False
+2019,female,36,i̇stanbul,gold,mobile,organic,credit card,sports,3,1377.98,0.113,4.0,4.1,True
+2019,female,37,eskişehir,gold,mobile,social,cash on delivery,fashion,4,559.84,0.293,4.0,4.5,True
+2022,male,39,ankara,silver,mobile,organic,credit card,sports,1,198.2,0.128,4.0,4.5,True
+2024,female,18,i̇stanbul,gold,mobile,organic,digital wallet,groceries,2,678.55,0.147,1.0,4.3,True
+2022,female,18,konya,bronze,mobile,paid search,credit card,home & kitchen,3,481.39,0.128,3.0,4.2,False
+2022,female,30,konya,guest,mobile,organic,credit card,fashion,2,877.89,0.0,3.0,3.6,False
+2022,male,46,i̇stanbul,silver,mobile,organic,credit card,beauty,3,511.46,0.17,4.0,4.1,False
+2022,female,36,ankara,bronze,desktop,organic,credit card,sports,1,278.44,0.107,3.0,4.3,False
+2018,female,35,gaziantep,guest,mobile,social,credit card,fashion,4,646.8,0.171,4.0,4.0,True
+2023,female,34,i̇stanbul,bronze,mobile,organic,credit card,books & stationery,3,454.27,0.051,2.0,4.9,False
+2021,male,25,konya,gold,mobile,organic,credit card,home & kitchen,3,527.52,0.087,4.0,4.2,True
+2024,male,25,mersin,guest,mobile,paid search,digital wallet,beauty,5,554.91,0.111,3.0,3.7,False
+2022,female,36,bursa,guest,mobile,paid search,bank transfer,groceries,6,301.89,0.18,2.0,4.6,False
+2024,male,18,bursa,bronze,mobile,paid search,credit card,fashion,3,978.58,0.155,2.0,3.8,False
+2023,male,35,i̇stanbul,bronze,mobile,email,credit card,fashion,2,1146.73,0.244,2.0,4.5,True
+2021,female,28,trabzon,silver,tablet,organic,credit card,fashion,1,169.75,0.05,4.0,3.7,False
+2019,male,28,konya,guest,desktop,organic,credit card,electronics,2,1539.1,0.059,4.0,4.1,False
+2021,male,29,eskişehir,guest,mobile,social,credit card,beauty,4,767.88,0.159,2.0,3.2,True
+2019,female,45,i̇zmir,guest,mobile,social,digital wallet,groceries,3,183.68,0.282,3.0,3.6,False
+2018,female,26,gaziantep,guest,mobile,social,credit card,beauty,1,172.67,0.202,4.0,3.4,False
+2024,female,49,i̇stanbul,bronze,mobile,email,credit card,fashion,1,268.23,0.172,2.0,4.8,True
+2018,female,30,i̇stanbul,bronze,mobile,organic,credit card,fashion,4,965.17,0.01,3.0,4.1,False
+2024,female,47,bursa,bronze,mobile,email,credit card,electronics,1,665.71,0.178,3.0,4.1,False
+2018,female,33,i̇zmir,bronze,mobile,paid search,credit card,electronics,1,366.01,0.235,4.0,3.1,False
+2023,male,18,ankara,silver,mobile,organic,credit card,sports,1,239.47,0.125,3.0,4.2,True
+2020,female,28,i̇stanbul,silver,mobile,organic,cash on delivery,fashion,3,776.84,0.069,4.0,3.4,False
+2022,male,32,i̇stanbul,silver,desktop,paid search,credit card,fashion,2,342.58,0.105,2.0,3.6,False
+2018,male,40,antalya,guest,mobile,paid search,cash on delivery,beauty,2,387.8,0.034,4.0,3.6,False
+2022,male,19,antalya,silver,mobile,paid search,cash on delivery,groceries,4,279.8,0.257,3.0,3.6,False
+2024,male,26,i̇stanbul,guest,mobile,organic,credit card,electronics,2,665.71,0.075,2.0,5.0,False
+2023,male,39,i̇stanbul,bronze,desktop,paid search,credit card,fashion,1,183.54,0.24,2.0,4.3,False
+2023,female,35,i̇stanbul,guest,mobile,organic,cash on delivery,books & stationery,3,202.85,0.144,2.0,5.0,False
+2022,female,33,gaziantep,silver,desktop,paid search,debit card,fashion,5,542.69,0.204,3.0,3.0,True
+2020,female,18,i̇stanbul,bronze,mobile,paid search,digital wallet,electronics,1,831.61,0.056,3.0,3.2,False
+2021,male,18,konya,gold,mobile,organic,digital wallet,fashion,4,525.28,0.084,3.0,4.2,True
+2021,male,30,ankara,silver,mobile,paid search,credit card,electronics,3,1544.08,0.108,3.0,4.6,True
+2023,male,32,gaziantep,bronze,desktop,organic,credit card,electronics,3,1572.52,0.0,3.0,4.1,True
+2023,female,21,kayseri,guest,mobile,paid search,credit card,sports,2,335.49,0.24,1.0,5.0,False
+2022,male,33,ankara,bronze,mobile,paid search,credit card,beauty,4,476.72,0.227,2.0,3.9,False
+2024,male,21,i̇stanbul,silver,tablet,organic,debit card,beauty,3,848.22,0.061,2.0,4.2,True
+2021,female,21,i̇zmir,bronze,mobile,organic,credit card,electronics,1,210.31,0.09,3.0,2.8,True
+2023,female,30,i̇stanbul,gold,tablet,organic,debit card,home & kitchen,4,605.61,0.092,2.0,4.1,False
+2021,male,45,ankara,guest,mobile,organic,cash on delivery,electronics,1,458.03,0.149,4.0,2.9,False
+2022,female,43,i̇stanbul,silver,desktop,organic,credit card,fashion,4,1034.28,0.001,2.0,4.4,True
+2024,male,33,ankara,guest,tablet,email,credit card,books & stationery,2,439.57,0.2,4.0,3.1,False
+2021,female,32,i̇stanbul,guest,desktop,organic,debit card,sports,1,198.26,0.122,3.0,4.0,False
+2024,female,18,ankara,guest,desktop,paid search,digital wallet,books & stationery,1,173.27,0.142,2.0,3.5,False
+2021,female,32,i̇stanbul,guest,desktop,paid search,debit card,fashion,3,506.5,0.2,3.0,4.1,True
+2020,female,34,konya,gold,mobile,organic,credit card,fashion,1,180.11,0.005,3.0,3.0,False
+2022,female,29,i̇stanbul,silver,mobile,paid search,credit card,home & kitchen,3,1296.32,0.141,1.0,4.2,False
+2022,female,30,adana,guest,mobile,paid search,credit card,electronics,1,833.87,0.024,4.0,3.6,False
+2020,male,33,i̇stanbul,bronze,mobile,social,credit card,beauty,2,216.39,0.12,3.0,4.7,True
+2021,female,28,gaziantep,silver,mobile,paid search,credit card,beauty,2,290.58,0.185,2.74,3.5,False
+2024,female,48,i̇stanbul,silver,mobile,social,credit card,sports,1,263.44,0.236,2.0,5.0,False
+2024,male,18,ankara,silver,desktop,paid search,credit card,fashion,5,665.71,0.229,3.0,4.7,True
+2020,male,30,i̇zmir,silver,mobile,email,credit card,sports,1,309.97,0.213,3.0,3.3,False
+2018,female,18,i̇stanbul,silver,mobile,paid search,digital wallet,fashion,3,718.96,0.174,3.0,3.3,False
+2021,male,45,i̇stanbul,guest,desktop,organic,digital wallet,fashion,1,236.88,0.101,2.0,4.0,False
+2024,female,23,i̇stanbul,silver,mobile,paid search,credit card,groceries,5,317.23,0.095,1.0,4.2,False
+2024,female,56,antalya,bronze,mobile,organic,credit card,fashion,1,138.42,0.022,3.0,4.1,True
+2023,female,18,trabzon,silver,mobile,email,bank transfer,groceries,3,404.2,0.127,3.0,3.5,False
+2024,male,18,i̇stanbul,silver,mobile,organic,cash on delivery,home & kitchen,3,1113.8,0.062,1.0,4.8,True
+2020,male,25,ankara,silver,mobile,social,credit card,fashion,5,1339.81,0.223,3.0,4.3,True
+2019,male,37,ankara,guest,mobile,organic,debit card,electronics,1,1317.84,0.05,3.0,3.9,False
+2019,female,43,gaziantep,silver,mobile,organic,cash on delivery,fashion,1,340.3,0.0,3.0,3.8,True
+2020,male,27,ankara,bronze,desktop,paid search,credit card,beauty,3,217.3,0.075,3.0,4.3,False
+2021,female,21,bursa,guest,mobile,email,cash on delivery,books & stationery,1,72.58,0.142,4.0,4.2,True
+2022,male,28,kayseri,bronze,mobile,social,credit card,groceries,5,434.02,0.226,3.0,3.6,True
+2023,female,19,antalya,guest,desktop,organic,credit card,home & kitchen,2,486.45,0.098,3.0,3.4,False
+2020,male,42,mersin,silver,tablet,organic,credit card,home & kitchen,4,1259.47,0.017,4.0,4.9,True
+2023,male,18,i̇zmir,silver,mobile,paid search,credit card,fashion,2,294.63,0.118,3.0,4.5,True
+2020,female,29,i̇stanbul,bronze,mobile,social,cash on delivery,beauty,1,87.87,0.167,2.0,3.9,True
+2022,female,52,i̇stanbul,bronze,mobile,paid search,debit card,fashion,4,523.86,0.167,3.0,4.1,False
+2023,female,36,i̇stanbul,bronze,mobile,organic,credit card,fashion,1,334.22,0.055,3.0,4.1,True
+2018,female,39,i̇stanbul,bronze,mobile,social,credit card,home & kitchen,2,768.86,0.228,2.0,4.9,True
+2019,male,30,i̇zmir,bronze,mobile,social,credit card,electronics,1,594.38,0.202,2.0,4.6,True
+2021,male,35,kayseri,silver,mobile,social,credit card,electronics,3,665.71,0.147,3.0,4.4,False
+2021,female,22,ankara,guest,desktop,social,credit card,electronics,2,665.71,0.154,2.0,4.4,True
+2024,male,49,bursa,guest,mobile,social,credit card,fashion,1,147.54,0.225,2.0,3.9,False
+2018,male,28,adana,silver,mobile,social,cash on delivery,beauty,1,75.35,0.129,2.74,3.9,True
+2021,female,43,ankara,bronze,mobile,organic,credit card,electronics,2,1084.17,0.238,2.0,4.4,False
+2021,male,42,kayseri,silver,desktop,organic,credit card,electronics,1,270.23,0.173,3.0,4.4,False
+2024,female,45,ankara,guest,mobile,social,credit card,electronics,1,999.59,0.128,1.0,4.8,False
+2023,male,18,konya,guest,mobile,organic,credit card,books & stationery,3,212.55,0.069,4.0,3.3,False
+2020,male,22,i̇zmir,guest,mobile,organic,credit card,books & stationery,2,108.03,0.079,1.0,4.2,False
+2024,female,18,i̇zmir,bronze,mobile,social,credit card,fashion,3,689.86,0.23,2.0,3.9,False
+2019,male,25,gaziantep,bronze,mobile,organic,credit card,beauty,2,582.07,0.125,3.0,4.6,True
+2023,male,33,bursa,gold,mobile,email,bank transfer,electronics,1,707.86,0.167,2.0,4.1,False
+2019,female,34,kayseri,bronze,mobile,organic,credit card,electronics,2,842.58,0.147,4.0,3.0,False
+2023,female,23,konya,silver,mobile,social,credit card,electronics,1,1552.82,0.296,2.0,4.0,False
+2024,male,44,ankara,guest,desktop,social,credit card,home & kitchen,2,858.94,0.24,3.0,4.2,True
+2024,female,32,bursa,bronze,mobile,organic,cash on delivery,groceries,1,63.96,0.187,2.0,3.0,False
+2024,female,19,adana,guest,mobile,organic,credit card,electronics,1,322.97,0.057,4.0,4.4,False
+2023,male,47,antalya,bronze,desktop,paid search,bank transfer,fashion,3,1220.28,0.179,3.0,4.02,False
+2020,male,35,antalya,guest,mobile,paid search,credit card,fashion,2,296.65,0.195,4.0,2.6,False
+2018,male,33,i̇stanbul,guest,mobile,organic,cash on delivery,home & kitchen,2,218.76,0.099,2.0,4.2,False
+2019,male,49,kayseri,gold,mobile,organic,credit card,electronics,1,1001.48,0.084,4.0,3.0,True
+2024,female,40,i̇stanbul,silver,mobile,paid search,credit card,fashion,1,148.86,0.134,3.0,3.5,True
+2020,female,32,kayseri,bronze,mobile,paid search,digital wallet,home & kitchen,2,1038.53,0.254,2.0,4.7,True
+2018,male,18,i̇zmir,guest,mobile,social,credit card,fashion,3,250.86,0.159,3.0,3.7,False
+2019,male,18,i̇zmir,bronze,mobile,paid search,debit card,fashion,3,297.3,0.173,2.0,4.3,False
+2024,male,38,i̇stanbul,guest,tablet,referral,credit card,books & stationery,3,583.6,0.083,3.0,3.7,False
+2023,male,46,i̇stanbul,silver,tablet,organic,debit card,fashion,4,932.13,0.132,2.0,4.7,False
+2023,male,44,ankara,guest,desktop,referral,debit card,home & kitchen,2,552.07,0.059,4.0,3.5,False
+2024,male,41,ankara,bronze,mobile,social,credit card,home & kitchen,4,732.61,0.034,2.0,4.2,False
+2019,male,46,i̇stanbul,gold,mobile,organic,digital wallet,sports,5,1324.88,0.21,2.0,4.1,False
+2020,female,43,i̇zmir,gold,mobile,social,digital wallet,fashion,2,511.32,0.241,3.0,3.9,True
+2023,male,45,gaziantep,guest,mobile,paid search,credit card,sports,1,190.27,0.157,4.0,3.3,True
+2023,female,33,i̇zmir,guest,mobile,organic,digital wallet,electronics,1,843.56,0.128,3.0,4.2,False
+2024,male,29,i̇zmir,guest,tablet,organic,debit card,electronics,1,458.4,0.106,2.0,3.5,False
+2018,female,32,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,1,247.96,0.125,3.0,4.5,False
+2021,male,20,i̇stanbul,guest,mobile,organic,credit card,groceries,3,208.11,0.097,2.0,4.6,False
+2018,female,45,i̇zmir,bronze,desktop,organic,credit card,fashion,4,483.72,0.06,3.0,3.9,False
+2023,male,18,trabzon,guest,mobile,paid search,credit card,sports,4,621.03,0.082,2.74,4.02,False
+2024,male,35,i̇stanbul,bronze,tablet,referral,credit card,fashion,2,369.47,0.122,3.0,3.7,False
+2021,female,44,konya,guest,mobile,organic,credit card,home & kitchen,3,599.99,0.039,3.0,3.9,True
+2022,male,21,konya,silver,mobile,organic,cash on delivery,books & stationery,1,61.65,0.105,3.0,4.3,False
+2019,male,43,konya,gold,mobile,organic,debit card,books & stationery,1,73.09,0.105,2.0,3.9,True
+2022,female,25,i̇zmir,silver,mobile,organic,credit card,home & kitchen,5,678.16,0.141,4.0,4.4,False
+2024,male,44,i̇stanbul,bronze,mobile,paid search,credit card,electronics,1,801.53,0.129,3.0,5.0,False
+2024,male,28,ankara,bronze,mobile,social,credit card,sports,1,178.6,0.141,4.0,3.7,True
+2023,male,23,i̇stanbul,silver,mobile,social,credit card,home & kitchen,5,513.64,0.149,1.0,4.6,True
+2019,female,18,mersin,gold,mobile,email,credit card,books & stationery,1,113.15,0.241,3.0,4.4,False
+2021,female,24,eskişehir,gold,mobile,referral,debit card,groceries,5,283.67,0.066,2.0,3.6,False
+2023,female,42,ankara,silver,mobile,social,credit card,fashion,1,181.94,0.2,2.0,4.7,True
+2020,male,28,ankara,bronze,mobile,email,cash on delivery,home & kitchen,1,442.38,0.178,3.0,4.0,True
+2019,male,26,i̇stanbul,silver,tablet,organic,debit card,home & kitchen,3,570.68,0.119,2.0,5.0,True
+2021,male,29,i̇stanbul,guest,mobile,paid search,credit card,beauty,1,104.37,0.185,2.0,4.3,False
+2024,male,29,konya,bronze,mobile,organic,debit card,fashion,2,385.48,0.132,4.0,3.2,False
+2019,male,32,i̇stanbul,guest,mobile,organic,bank transfer,books & stationery,1,61.37,0.121,3.0,3.7,False
+2020,male,45,i̇stanbul,guest,mobile,paid search,digital wallet,sports,3,419.81,0.103,2.0,3.6,False
+2019,female,33,i̇zmir,silver,mobile,organic,credit card,fashion,1,311.91,0.021,2.0,4.7,True
+2023,female,44,antalya,bronze,mobile,paid search,credit card,fashion,2,429.48,0.065,4.0,3.8,False
+2024,male,32,i̇stanbul,silver,mobile,organic,cash on delivery,sports,1,607.05,0.0,2.0,4.6,True
+2018,male,25,adana,guest,mobile,organic,credit card,fashion,3,1337.48,0.09,3.0,4.0,False
+2020,female,40,kayseri,bronze,desktop,organic,credit card,fashion,4,597.18,0.018,3.0,3.3,False
+2021,female,18,kayseri,silver,mobile,paid search,credit card,sports,1,219.95,0.08,2.0,4.3,True
+2018,male,41,ankara,bronze,desktop,email,cash on delivery,groceries,5,242.72,0.089,2.0,3.5,False
+2022,male,37,antalya,bronze,mobile,organic,credit card,fashion,3,839.27,0.04,3.0,2.8,True
+2023,male,42,bursa,silver,mobile,social,credit card,groceries,3,83.92,0.289,3.0,3.5,False
+2022,male,52,ankara,silver,mobile,organic,cash on delivery,books & stationery,2,118.43,0.07,4.0,4.0,True
+2023,female,38,i̇stanbul,bronze,mobile,social,cash on delivery,fashion,1,163.72,0.151,2.0,4.1,True
+2019,male,18,adana,silver,mobile,organic,credit card,sports,2,470.97,0.047,3.0,4.4,False
+2019,male,27,kayseri,bronze,desktop,organic,cash on delivery,electronics,1,462.36,0.126,3.0,2.9,True
+2024,female,46,i̇stanbul,bronze,mobile,email,digital wallet,electronics,3,665.71,0.179,3.0,5.0,True
+2020,male,50,i̇stanbul,bronze,mobile,paid search,digital wallet,fashion,1,77.94,0.127,2.0,3.5,False
+2018,male,18,i̇stanbul,bronze,mobile,social,credit card,electronics,2,1156.75,0.179,1.0,4.7,True
+2018,male,27,kayseri,gold,mobile,organic,credit card,home & kitchen,2,197.16,0.11,3.0,2.7,False
+2018,male,18,ankara,silver,mobile,organic,credit card,groceries,3,88.81,0.137,3.0,4.2,True
+2020,male,29,i̇stanbul,bronze,mobile,organic,credit card,electronics,1,849.53,0.116,2.0,4.1,False
+2021,male,22,bursa,silver,mobile,organic,digital wallet,fashion,1,435.56,0.091,2.0,3.9,True
+2024,male,25,konya,bronze,mobile,organic,credit card,books & stationery,1,65.11,0.124,3.0,3.7,False
+2019,male,25,ankara,gold,desktop,paid search,credit card,home & kitchen,3,1121.89,0.134,2.74,3.3,False
+2020,male,32,i̇stanbul,silver,desktop,referral,credit card,sports,2,410.82,0.151,3.0,4.2,True
+2019,male,31,i̇stanbul,bronze,mobile,organic,credit card,fashion,2,970.68,0.04,3.0,3.1,False
+2020,female,25,mersin,guest,mobile,social,debit card,fashion,2,205.0,0.134,3.0,5.0,False
+2022,female,25,ankara,silver,mobile,paid search,credit card,electronics,1,566.86,0.268,3.0,4.9,True
+2022,female,18,i̇stanbul,guest,mobile,organic,credit card,beauty,3,595.63,0.125,2.0,4.0,True
+2018,female,43,i̇zmir,silver,mobile,paid search,credit card,home & kitchen,1,196.65,0.204,3.0,3.3,False
+2023,female,32,eskişehir,guest,desktop,organic,credit card,electronics,3,665.71,0.088,3.0,3.9,True
+2024,male,44,i̇stanbul,bronze,desktop,referral,cash on delivery,fashion,3,257.87,0.111,3.0,3.9,True
+2023,male,18,i̇zmir,silver,mobile,social,digital wallet,electronics,2,714.73,0.218,3.0,4.1,False
+2024,female,52,i̇stanbul,guest,desktop,paid search,credit card,books & stationery,2,176.44,0.223,3.0,3.9,False
+2019,male,33,kayseri,silver,desktop,organic,credit card,sports,2,573.29,0.0,2.0,4.7,True
+2024,male,36,kayseri,gold,mobile,social,cash on delivery,books & stationery,2,132.37,0.269,3.0,4.8,True
+2019,male,23,gaziantep,bronze,mobile,organic,bank transfer,electronics,3,665.71,0.075,3.0,4.2,True
+2019,male,28,antalya,guest,mobile,paid search,credit card,beauty,2,743.26,0.117,2.0,4.9,False
+2024,female,38,ankara,bronze,mobile,organic,credit card,electronics,2,665.71,0.0,3.0,4.2,False
+2020,female,21,i̇zmir,silver,desktop,paid search,digital wallet,electronics,2,1141.59,0.085,3.0,4.1,False
+2020,male,40,konya,silver,mobile,organic,cash on delivery,groceries,4,149.48,0.033,2.0,4.0,True
+2018,male,41,bursa,bronze,desktop,paid search,credit card,electronics,2,1106.29,0.164,3.0,3.6,False
+2020,male,40,mersin,gold,mobile,organic,credit card,fashion,5,453.82,0.0,4.0,3.9,False
+2024,male,31,ankara,guest,mobile,organic,credit card,sports,2,244.63,0.139,3.0,3.4,False
+2022,female,29,i̇zmir,silver,desktop,organic,credit card,books & stationery,2,123.49,0.227,3.0,4.3,True
+2020,male,42,kayseri,bronze,desktop,organic,debit card,home & kitchen,1,513.64,0.14,2.0,4.7,True
+2024,male,34,i̇zmir,guest,mobile,paid search,bank transfer,fashion,3,921.01,0.157,1.0,4.4,False
+2023,female,34,i̇stanbul,guest,mobile,referral,credit card,sports,3,430.83,0.132,2.0,3.8,True
+2021,male,33,antalya,guest,mobile,referral,credit card,electronics,1,665.71,0.082,3.0,3.9,False
+2023,male,44,adana,silver,desktop,social,cash on delivery,fashion,1,158.74,0.192,2.0,3.0,False
+2023,female,25,i̇stanbul,silver,mobile,organic,bank transfer,books & stationery,2,223.7,0.049,3.0,4.3,False
+2021,male,42,gaziantep,gold,mobile,referral,credit card,groceries,3,169.04,0.183,2.74,3.6,False
+2024,female,36,i̇stanbul,bronze,mobile,social,credit card,groceries,6,341.05,0.218,2.0,4.5,False
+2021,female,20,gaziantep,bronze,mobile,organic,credit card,groceries,6,595.42,0.108,4.0,4.0,True
+2020,male,49,antalya,silver,desktop,organic,credit card,fashion,1,258.87,0.168,3.0,4.2,True
+2019,female,32,ankara,bronze,mobile,organic,credit card,groceries,4,398.9,0.009,3.0,3.7,False
+2021,female,18,i̇zmir,guest,mobile,social,cash on delivery,beauty,2,372.6,0.149,3.0,3.3,False
+2023,female,50,i̇stanbul,gold,desktop,paid search,credit card,fashion,2,556.56,0.168,2.0,4.1,False
+2018,male,37,i̇stanbul,silver,mobile,email,credit card,beauty,1,252.36,0.183,2.0,4.9,False
+2023,female,29,gaziantep,silver,mobile,organic,debit card,fashion,2,398.69,0.091,2.74,4.2,False
+2024,female,37,ankara,silver,mobile,social,credit card,sports,2,349.1,0.102,3.0,3.8,False
+2021,male,48,i̇stanbul,silver,mobile,referral,debit card,fashion,2,280.71,0.085,2.0,3.9,True
+2021,male,31,adana,gold,mobile,organic,credit card,groceries,2,863.25,0.027,2.0,4.6,False
+2024,female,27,i̇zmir,silver,mobile,organic,credit card,fashion,2,205.19,0.13,3.0,3.5,True
+2019,female,22,i̇stanbul,silver,tablet,paid search,cash on delivery,electronics,1,609.22,0.232,2.0,4.0,True
+2024,female,18,i̇zmir,bronze,mobile,email,credit card,books & stationery,3,321.86,0.211,3.0,4.0,True
+2023,male,44,trabzon,bronze,mobile,paid search,digital wallet,books & stationery,1,35.85,0.276,3.0,5.0,False
+2024,male,29,bursa,bronze,mobile,paid search,credit card,beauty,2,279.11,0.106,2.0,4.4,True
+2024,female,44,i̇stanbul,bronze,mobile,organic,credit card,home & kitchen,2,1636.25,0.016,3.0,3.6,True
+2023,female,18,ankara,guest,mobile,email,digital wallet,fashion,1,509.1,0.227,3.0,4.1,True
+2019,female,20,antalya,bronze,mobile,email,bank transfer,sports,1,179.66,0.222,3.0,3.3,True
+2018,male,20,mersin,bronze,mobile,paid search,credit card,electronics,1,474.87,0.218,3.0,3.7,False
+2024,male,38,bursa,guest,mobile,social,debit card,electronics,2,513.64,0.087,2.0,4.8,True
+2018,female,32,i̇zmir,silver,mobile,social,cash on delivery,home & kitchen,1,497.8,0.161,1.0,5.0,True
+2024,female,50,bursa,guest,mobile,organic,credit card,home & kitchen,1,486.6,0.039,2.0,4.9,True
+2021,female,44,konya,guest,mobile,social,credit card,home & kitchen,1,512.85,0.126,2.0,3.3,False
+2019,female,22,bursa,silver,mobile,organic,credit card,fashion,2,194.33,0.049,3.0,3.7,True
+2024,female,34,i̇stanbul,silver,tablet,social,debit card,sports,1,239.08,0.181,2.0,3.7,False
+2022,female,39,kayseri,guest,mobile,organic,bank transfer,home & kitchen,1,513.8,0.075,4.0,2.6,False
+2022,male,25,i̇stanbul,silver,mobile,social,credit card,books & stationery,1,57.7,0.206,2.0,3.6,False
+2020,female,34,i̇stanbul,gold,mobile,paid search,credit card,sports,3,259.41,0.144,3.0,4.2,False
+2022,male,49,bursa,guest,mobile,organic,credit card,fashion,2,505.08,0.0,3.0,4.1,False
+2020,female,23,ankara,guest,mobile,organic,credit card,beauty,2,286.61,0.014,4.0,4.1,False
+2024,female,31,i̇stanbul,bronze,mobile,organic,credit card,electronics,1,665.71,0.122,2.0,4.7,True
+2019,female,54,antalya,silver,mobile,referral,credit card,fashion,2,494.05,0.072,3.0,3.0,False
+2022,male,28,ankara,silver,desktop,social,credit card,home & kitchen,3,1131.59,0.107,4.0,3.5,False
+2021,female,32,i̇zmir,bronze,mobile,organic,credit card,groceries,5,212.4,0.157,2.0,5.0,True
+2021,male,37,eskişehir,silver,desktop,email,cash on delivery,electronics,1,309.03,0.178,2.0,4.1,False
+2018,male,38,i̇zmir,silver,desktop,organic,cash on delivery,fashion,2,178.15,0.075,2.0,4.4,False
+2021,male,48,bursa,bronze,desktop,organic,credit card,electronics,1,389.57,0.0,2.0,4.1,False
+2020,female,34,i̇stanbul,bronze,mobile,paid search,credit card,fashion,2,214.61,0.2,4.0,2.7,False
+2019,female,44,adana,silver,mobile,social,credit card,electronics,4,665.71,0.216,3.0,3.7,False
+2020,male,24,i̇stanbul,guest,mobile,organic,debit card,electronics,1,447.32,0.111,2.0,4.3,True
+2024,male,38,kayseri,bronze,desktop,organic,cash on delivery,electronics,2,665.71,0.018,2.0,4.6,False
+2020,male,42,i̇stanbul,bronze,mobile,referral,cash on delivery,books & stationery,3,275.64,0.179,3.0,3.5,False
+2024,male,40,bursa,bronze,mobile,social,cash on delivery,home & kitchen,3,854.75,0.279,2.0,4.6,False
+2020,male,18,ankara,guest,mobile,social,credit card,books & stationery,2,104.0,0.263,3.0,4.1,True
+2021,male,25,ankara,bronze,desktop,organic,debit card,electronics,2,665.71,0.157,4.0,3.8,True
+2024,female,48,adana,guest,mobile,social,credit card,books & stationery,2,215.57,0.18,3.0,4.4,False
+2024,female,42,bursa,guest,desktop,organic,credit card,fashion,6,752.6,0.041,2.0,3.9,False
+2018,male,36,bursa,guest,mobile,organic,cash on delivery,fashion,2,616.7,0.078,2.0,2.7,True
+2022,female,27,i̇stanbul,bronze,mobile,email,cash on delivery,books & stationery,1,75.55,0.188,2.0,3.9,False
+2021,female,39,kayseri,silver,mobile,organic,credit card,groceries,3,146.35,0.207,4.0,4.3,False
+2021,female,25,trabzon,guest,mobile,paid search,credit card,home & kitchen,1,278.64,0.218,3.0,3.9,True
+2020,male,19,kayseri,silver,desktop,paid search,credit card,home & kitchen,4,665.71,0.085,3.0,5.0,True
+2020,female,40,bursa,bronze,desktop,organic,credit card,home & kitchen,4,1278.11,0.115,3.0,4.2,False
+2018,female,26,i̇stanbul,bronze,desktop,social,debit card,fashion,1,526.31,0.0,1.0,4.5,False
+2022,male,36,antalya,gold,tablet,paid search,cash on delivery,home & kitchen,3,854.95,0.101,2.0,3.6,False
+2021,female,18,antalya,bronze,mobile,paid search,digital wallet,electronics,1,672.32,0.108,4.0,4.3,True
+2019,male,49,i̇stanbul,bronze,desktop,organic,credit card,fashion,3,1078.19,0.136,3.0,3.5,False
+2023,male,26,adana,silver,mobile,organic,cash on delivery,beauty,4,556.54,0.15,2.74,4.3,True
+2021,female,18,i̇stanbul,bronze,mobile,organic,credit card,home & kitchen,3,607.69,0.192,2.0,4.1,False
+2021,female,33,i̇stanbul,silver,mobile,paid search,credit card,beauty,1,299.55,0.219,3.0,4.5,True
+2023,male,46,ankara,guest,mobile,paid search,debit card,books & stationery,2,262.29,0.089,3.0,3.8,False
+2021,male,26,i̇stanbul,bronze,mobile,organic,bank transfer,home & kitchen,5,1052.43,0.11,3.0,3.4,False
+2020,male,46,i̇zmir,guest,mobile,organic,credit card,home & kitchen,4,1103.52,0.082,4.0,4.3,True
+2019,female,37,i̇stanbul,silver,desktop,social,cash on delivery,groceries,6,201.92,0.156,3.0,3.8,False
+2023,male,25,adana,gold,mobile,paid search,credit card,beauty,2,443.93,0.224,3.0,4.2,False
+2019,female,35,gaziantep,bronze,desktop,email,bank transfer,beauty,5,311.74,0.166,2.74,3.8,True
+2020,male,36,i̇zmir,bronze,desktop,paid search,credit card,home & kitchen,1,212.45,0.053,2.0,4.5,True
+2023,male,31,i̇stanbul,gold,mobile,organic,credit card,beauty,2,692.78,0.0,2.0,4.2,True
+2022,male,53,konya,bronze,desktop,organic,credit card,beauty,2,545.43,0.127,3.0,2.7,False
+2018,female,30,bursa,guest,tablet,referral,debit card,fashion,1,566.95,0.081,3.0,5.0,False
+2023,male,39,i̇stanbul,bronze,desktop,paid search,cash on delivery,electronics,1,490.67,0.285,3.0,4.1,False
+2023,male,39,i̇stanbul,bronze,desktop,organic,cash on delivery,electronics,1,411.42,0.086,2.0,4.9,False
+2024,male,42,i̇stanbul,bronze,mobile,paid search,digital wallet,fashion,2,1530.78,0.13,2.0,5.0,False
+2019,male,18,konya,bronze,mobile,paid search,bank transfer,groceries,2,607.58,0.134,3.0,4.4,False
+2018,male,28,antalya,bronze,mobile,email,debit card,sports,3,607.2,0.212,2.74,4.3,True
+2019,male,38,bursa,bronze,mobile,referral,debit card,fashion,1,277.08,0.043,1.0,5.0,False
+2018,female,45,ankara,guest,mobile,organic,credit card,fashion,4,784.94,0.049,4.0,3.2,False
+2023,female,36,bursa,bronze,mobile,social,credit card,beauty,2,444.89,0.136,3.0,4.2,True
+2024,female,18,gaziantep,guest,mobile,social,credit card,beauty,3,750.81,0.172,4.0,3.5,False
+2020,male,18,ankara,bronze,mobile,referral,cash on delivery,fashion,2,665.71,0.131,3.0,4.6,True
+2022,female,29,bursa,silver,desktop,organic,credit card,groceries,4,229.94,0.129,2.0,3.7,True
+2020,male,36,i̇zmir,bronze,mobile,email,cash on delivery,groceries,5,217.62,0.206,2.0,5.0,True
+2020,female,33,antalya,silver,desktop,paid search,debit card,beauty,2,281.91,0.145,3.0,4.5,True
+2021,female,20,bursa,guest,mobile,social,credit card,fashion,1,257.85,0.097,3.0,4.8,True
+2021,male,35,konya,silver,mobile,organic,credit card,fashion,1,234.63,0.071,3.0,3.7,False
+2019,female,31,i̇stanbul,silver,mobile,social,debit card,home & kitchen,1,145.81,0.169,1.0,4.8,True
+2024,female,41,bursa,gold,tablet,paid search,credit card,fashion,2,343.74,0.138,1.0,5.0,True
+2020,male,18,i̇zmir,guest,mobile,paid search,credit card,groceries,2,200.01,0.175,3.0,3.2,True
+2019,female,24,bursa,guest,mobile,email,debit card,fashion,2,278.72,0.174,1.0,5.0,False
+2024,male,27,gaziantep,guest,mobile,organic,credit card,groceries,2,159.76,0.158,3.0,3.9,False
+2021,female,38,i̇stanbul,bronze,mobile,organic,credit card,sports,1,145.77,0.126,3.0,4.3,True
+2019,male,26,konya,silver,mobile,organic,credit card,home & kitchen,1,509.97,0.131,4.0,4.9,True
+2021,male,33,i̇stanbul,silver,mobile,organic,debit card,electronics,1,1252.51,0.096,2.0,4.0,True
+2024,male,20,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,5,665.71,0.168,3.0,4.1,True
+2021,female,41,kayseri,silver,mobile,organic,credit card,groceries,3,93.56,0.159,3.0,4.1,False
+2020,female,34,i̇stanbul,guest,mobile,social,credit card,home & kitchen,1,198.36,0.164,2.0,4.0,False
+2024,male,47,i̇stanbul,guest,mobile,paid search,cash on delivery,electronics,1,873.84,0.151,2.0,3.6,False
+2024,male,30,i̇stanbul,guest,mobile,email,credit card,home & kitchen,3,951.92,0.118,2.0,4.6,False
+2023,male,18,i̇zmir,gold,mobile,organic,credit card,beauty,3,582.27,0.159,4.0,3.9,False
+2020,female,24,bursa,bronze,mobile,organic,debit card,books & stationery,3,513.64,0.097,1.0,4.7,False
+2024,male,28,ankara,gold,mobile,referral,cash on delivery,home & kitchen,1,258.65,0.211,3.0,4.9,True
+2022,female,32,i̇stanbul,gold,mobile,organic,digital wallet,electronics,1,867.52,0.23,2.0,4.3,False
+2020,male,18,konya,silver,desktop,social,credit card,fashion,2,1327.27,0.159,3.0,4.0,True
+2019,male,25,bursa,silver,mobile,organic,credit card,fashion,3,369.97,0.158,2.0,4.7,False
+2020,male,31,gaziantep,bronze,desktop,paid search,cash on delivery,groceries,5,537.27,0.064,3.0,3.8,False
+2021,male,31,konya,bronze,mobile,organic,credit card,electronics,1,396.17,0.035,3.0,4.6,False
+2023,male,39,kayseri,guest,mobile,paid search,credit card,electronics,1,665.71,0.144,4.0,4.0,False
+2022,female,55,i̇stanbul,bronze,desktop,organic,cash on delivery,groceries,4,207.73,0.05,3.0,4.8,False
+2020,male,24,bursa,bronze,mobile,paid search,cash on delivery,sports,1,234.52,0.192,2.0,3.4,True
+2023,male,23,i̇zmir,guest,desktop,email,debit card,electronics,1,764.58,0.208,3.0,5.0,True
+2024,female,26,gaziantep,guest,mobile,email,credit card,fashion,2,665.71,0.144,2.0,5.0,True
+2022,female,36,kayseri,bronze,mobile,referral,credit card,fashion,1,332.14,0.044,2.0,3.8,False
+2020,male,53,konya,silver,mobile,organic,credit card,home & kitchen,1,81.19,0.227,3.0,3.8,False
+2023,female,28,konya,guest,mobile,social,cash on delivery,electronics,3,665.71,0.287,3.0,3.9,True
+2023,male,35,bursa,bronze,mobile,social,digital wallet,fashion,6,738.45,0.212,2.0,4.9,False
+2024,male,24,i̇stanbul,guest,mobile,email,credit card,groceries,5,315.0,0.23,2.0,4.3,True
+2023,female,23,ankara,guest,mobile,social,credit card,sports,1,113.72,0.169,4.0,4.1,False
+2022,female,28,ankara,bronze,mobile,organic,cash on delivery,electronics,5,665.71,0.15,3.0,3.2,True
+2021,male,27,ankara,guest,mobile,paid search,credit card,home & kitchen,1,278.03,0.169,4.0,4.1,False
+2021,female,19,adana,bronze,mobile,organic,credit card,fashion,3,273.16,0.089,4.0,3.4,False
+2021,male,25,ankara,guest,mobile,referral,credit card,fashion,1,297.69,0.047,3.0,3.2,False
+2020,female,31,i̇zmir,gold,mobile,paid search,credit card,home & kitchen,3,858.99,0.111,2.0,4.2,True
+2021,female,42,gaziantep,silver,mobile,social,credit card,fashion,6,513.64,0.111,3.0,4.1,False
+2024,male,43,trabzon,gold,mobile,organic,credit card,fashion,3,700.41,0.155,3.0,4.1,True
+2024,female,18,i̇stanbul,bronze,mobile,paid search,debit card,electronics,1,874.55,0.116,2.0,4.8,False
+2024,male,24,i̇stanbul,bronze,mobile,social,credit card,electronics,2,1139.82,0.098,2.0,4.7,True
+2018,female,35,i̇stanbul,bronze,mobile,organic,cash on delivery,electronics,2,1125.52,0.106,3.0,3.7,False
+2021,male,32,i̇stanbul,gold,mobile,paid search,credit card,home & kitchen,3,611.58,0.117,3.0,4.1,False
+2019,male,31,antalya,bronze,mobile,organic,credit card,electronics,1,614.27,0.114,3.0,3.5,False
+2020,female,44,i̇stanbul,guest,mobile,paid search,debit card,sports,1,104.03,0.196,3.0,3.0,False
+2018,female,39,i̇stanbul,bronze,desktop,organic,cash on delivery,fashion,3,568.42,0.071,2.0,5.0,True
+2023,female,40,i̇stanbul,bronze,mobile,social,credit card,home & kitchen,4,749.39,0.134,4.0,3.7,True
+2018,male,33,i̇zmir,bronze,desktop,social,credit card,fashion,1,148.7,0.126,3.0,3.9,False
+2019,female,31,adana,silver,desktop,organic,debit card,fashion,4,456.52,0.158,4.0,2.9,False
+2024,male,46,i̇stanbul,bronze,mobile,social,bank transfer,electronics,4,665.71,0.19,2.0,4.2,False
+2018,male,40,adana,silver,mobile,paid search,debit card,home & kitchen,2,677.1,0.205,2.0,5.0,False
+2022,female,39,antalya,bronze,desktop,organic,credit card,home & kitchen,2,970.13,0.058,2.0,5.0,True
+2021,male,18,i̇stanbul,bronze,mobile,social,credit card,electronics,4,665.71,0.13,3.0,4.0,True
+2021,female,26,i̇zmir,guest,mobile,paid search,credit card,books & stationery,2,176.43,0.141,3.0,3.7,False
+2021,female,36,gaziantep,bronze,desktop,organic,credit card,beauty,1,216.78,0.115,4.0,4.2,False
+2019,male,41,bursa,silver,mobile,paid search,credit card,home & kitchen,3,883.85,0.072,2.0,3.9,True
+2024,female,32,trabzon,bronze,mobile,organic,credit card,fashion,4,763.06,0.139,3.0,3.6,True
+2024,male,19,i̇stanbul,bronze,desktop,paid search,credit card,electronics,1,290.42,0.155,3.0,4.3,True
+2020,female,29,i̇zmir,silver,mobile,organic,debit card,home & kitchen,3,811.09,0.062,3.0,3.3,False
+2019,female,40,antalya,guest,mobile,paid search,debit card,electronics,3,999.32,0.236,3.0,4.1,False
+2022,male,25,eskişehir,bronze,mobile,referral,credit card,fashion,1,243.14,0.048,3.0,4.6,False
+2024,female,31,mersin,guest,mobile,social,credit card,beauty,2,201.37,0.148,2.0,4.0,False
+2021,male,28,antalya,gold,mobile,social,credit card,fashion,4,1066.37,0.126,3.0,3.1,True
+2020,male,26,antalya,bronze,desktop,organic,credit card,beauty,2,409.17,0.0,3.0,4.4,True
+2022,male,32,antalya,bronze,mobile,organic,debit card,sports,2,273.09,0.124,2.0,4.2,False
+2023,female,24,mersin,gold,mobile,social,credit card,beauty,3,393.25,0.271,2.0,4.3,True
+2022,male,45,antalya,guest,mobile,organic,debit card,groceries,6,476.65,0.11,2.0,3.9,False
+2019,female,31,ankara,bronze,mobile,organic,credit card,beauty,1,128.27,0.0,3.0,5.0,True
+2019,female,37,mersin,guest,mobile,organic,bank transfer,fashion,3,492.01,0.056,4.0,3.6,False
+2019,female,40,i̇stanbul,guest,tablet,organic,debit card,fashion,1,239.67,0.152,4.0,4.0,True
+2022,female,35,ankara,guest,mobile,referral,credit card,fashion,4,1501.89,0.139,3.0,4.6,False
+2024,male,22,i̇stanbul,guest,desktop,email,credit card,fashion,2,264.2,0.176,2.0,5.0,True
+2019,female,50,i̇stanbul,silver,mobile,organic,credit card,fashion,1,154.05,0.128,1.0,4.1,False
+2022,female,37,i̇zmir,guest,tablet,social,credit card,fashion,3,296.59,0.267,4.0,4.4,False
+2023,male,39,i̇stanbul,silver,mobile,paid search,credit card,electronics,1,530.54,0.201,2.0,4.9,True
+2020,male,28,i̇stanbul,silver,desktop,organic,credit card,fashion,4,1633.68,0.087,2.0,3.5,True
+2022,male,39,i̇zmir,bronze,desktop,social,digital wallet,sports,1,217.86,0.066,3.0,4.2,False
+2024,male,34,i̇stanbul,bronze,mobile,organic,credit card,fashion,5,706.25,0.16,1.0,4.5,False
+2019,male,44,kayseri,guest,desktop,organic,credit card,groceries,3,101.39,0.138,2.0,3.5,False
+2023,female,32,bursa,gold,mobile,paid search,credit card,beauty,3,460.05,0.191,1.0,4.7,True
+2020,male,36,konya,gold,tablet,organic,credit card,groceries,3,100.37,0.168,3.0,4.9,True
+2018,male,32,trabzon,bronze,mobile,social,digital wallet,groceries,3,114.81,0.308,4.0,4.2,True
+2024,female,33,bursa,silver,mobile,social,bank transfer,fashion,3,392.53,0.154,2.0,4.3,False
+2024,male,42,i̇stanbul,silver,mobile,paid search,credit card,books & stationery,2,87.51,0.256,3.0,3.7,False
+2021,male,27,ankara,guest,mobile,social,credit card,sports,1,312.84,0.191,2.0,4.02,False
+2023,male,38,ankara,silver,desktop,organic,credit card,electronics,1,1504.24,0.162,3.0,4.1,True
+2021,female,33,antalya,silver,mobile,paid search,credit card,fashion,3,494.25,0.211,4.0,4.0,False
+2021,male,19,mersin,guest,mobile,organic,cash on delivery,home & kitchen,2,388.45,0.085,3.0,3.3,False
+2023,male,36,i̇stanbul,bronze,mobile,email,cash on delivery,groceries,4,270.05,0.127,4.0,4.1,False
+2020,male,41,i̇zmir,bronze,mobile,social,credit card,beauty,1,186.71,0.252,3.0,3.2,True
+2019,male,37,eskişehir,silver,mobile,social,credit card,fashion,1,191.82,0.145,4.0,4.3,False
+2022,male,39,antalya,guest,mobile,organic,cash on delivery,electronics,1,717.36,0.0,2.0,3.7,False
+2023,male,32,bursa,bronze,desktop,paid search,debit card,sports,1,218.61,0.176,2.0,4.2,True
+2021,male,34,ankara,bronze,mobile,paid search,credit card,fashion,2,401.49,0.197,4.0,4.2,False
+2018,male,30,bursa,silver,mobile,organic,cash on delivery,books & stationery,3,329.07,0.072,1.0,4.4,True
+2021,female,38,i̇stanbul,silver,mobile,organic,digital wallet,home & kitchen,2,378.64,0.098,1.0,4.4,True
+2024,female,24,ankara,guest,desktop,organic,credit card,groceries,3,150.51,0.165,3.0,3.2,False
+2022,female,41,bursa,silver,mobile,organic,debit card,home & kitchen,2,495.37,0.132,3.0,3.7,True
+2022,male,41,i̇stanbul,guest,mobile,paid search,digital wallet,books & stationery,1,95.63,0.11,2.0,4.9,True
+2021,male,24,i̇stanbul,guest,mobile,referral,credit card,groceries,2,71.76,0.005,3.0,4.6,False
+2021,male,34,i̇stanbul,silver,desktop,organic,credit card,groceries,6,567.92,0.132,3.0,3.6,False
+2019,male,24,i̇stanbul,bronze,mobile,referral,credit card,beauty,2,243.8,0.216,1.0,5.0,True
+2024,male,29,i̇stanbul,silver,mobile,organic,credit card,home & kitchen,5,665.71,0.107,2.0,4.8,True
+2023,male,18,mersin,guest,desktop,paid search,bank transfer,sports,1,312.49,0.084,2.0,4.2,False
+2021,female,32,i̇stanbul,bronze,mobile,organic,debit card,books & stationery,4,379.91,0.127,2.0,5.0,False
+2024,female,18,mersin,bronze,mobile,organic,credit card,books & stationery,5,474.48,0.11,3.0,4.2,False
+2018,female,18,i̇stanbul,guest,tablet,organic,cash on delivery,fashion,3,362.21,0.262,4.0,3.5,False
+2020,female,18,mersin,bronze,mobile,paid search,credit card,home & kitchen,2,329.25,0.217,3.0,4.6,True
+2023,female,32,kayseri,silver,mobile,social,credit card,books & stationery,1,89.35,0.133,2.0,5.0,False
+2019,male,36,i̇stanbul,guest,mobile,social,digital wallet,home & kitchen,1,401.78,0.148,3.0,4.5,False
+2018,male,30,ankara,bronze,mobile,organic,digital wallet,electronics,1,300.21,0.064,3.0,3.9,False
+2023,male,18,ankara,guest,mobile,organic,credit card,groceries,5,438.62,0.039,3.0,4.7,True
+2023,male,43,adana,bronze,mobile,organic,debit card,sports,2,485.66,0.0,4.0,4.3,False
+2020,male,27,eskişehir,guest,desktop,organic,digital wallet,groceries,2,536.03,0.146,4.0,3.5,False
+2021,male,26,adana,guest,mobile,paid search,credit card,home & kitchen,3,872.84,0.129,4.0,3.8,True
+2024,male,45,kayseri,guest,tablet,organic,cash on delivery,fashion,4,769.3,0.15,3.0,4.4,False
+2022,female,35,bursa,silver,mobile,organic,credit card,fashion,4,683.13,0.089,3.0,4.7,False
+2019,male,25,kayseri,silver,tablet,paid search,credit card,fashion,1,134.7,0.242,2.0,4.8,False
+2021,female,38,konya,gold,desktop,paid search,digital wallet,electronics,1,509.85,0.134,4.0,3.1,True
+2021,male,57,i̇zmir,silver,desktop,organic,digital wallet,fashion,4,1383.83,0.037,3.0,3.7,True
+2020,male,18,mersin,silver,mobile,paid search,digital wallet,electronics,1,521.96,0.143,4.0,2.8,False
+2020,male,25,antalya,guest,mobile,paid search,cash on delivery,electronics,1,1051.34,0.219,3.0,4.4,False
+2022,female,18,bursa,guest,mobile,social,credit card,books & stationery,5,498.23,0.138,3.0,4.7,False
+2019,female,32,bursa,silver,desktop,paid search,credit card,electronics,1,854.93,0.169,1.0,5.0,False
+2024,female,20,i̇stanbul,guest,mobile,organic,cash on delivery,electronics,5,665.71,0.029,2.0,4.7,True
+2022,female,41,gaziantep,bronze,desktop,social,credit card,sports,2,178.27,0.129,4.0,3.4,False
+2022,male,33,eskişehir,bronze,mobile,email,credit card,electronics,1,222.18,0.226,2.0,3.8,False
+2023,female,38,i̇stanbul,bronze,mobile,referral,cash on delivery,home & kitchen,2,632.91,0.072,3.0,4.5,False
+2018,female,24,bursa,silver,desktop,social,credit card,electronics,1,678.43,0.234,3.0,4.1,False
+2020,female,30,antalya,gold,mobile,social,credit card,fashion,2,442.55,0.2,2.0,3.8,False
+2023,male,35,i̇stanbul,bronze,mobile,social,credit card,electronics,1,470.81,0.16,4.0,3.8,False
+2023,male,18,konya,bronze,mobile,referral,cash on delivery,beauty,3,864.37,0.153,3.0,3.8,False
+2019,male,44,bursa,bronze,mobile,paid search,cash on delivery,groceries,3,157.5,0.087,1.0,4.9,False
+2019,female,21,i̇stanbul,guest,mobile,email,digital wallet,home & kitchen,2,1575.62,0.228,2.0,3.9,False
+2020,female,34,mersin,bronze,mobile,referral,debit card,fashion,1,300.38,0.086,2.0,3.8,False
+2022,male,28,trabzon,gold,desktop,organic,credit card,groceries,6,345.27,0.14,4.0,3.4,False
+2020,female,53,bursa,guest,desktop,social,cash on delivery,electronics,1,692.03,0.161,3.0,4.2,True
+2024,female,41,adana,silver,mobile,social,debit card,electronics,2,650.54,0.306,2.0,4.8,False
+2024,male,18,gaziantep,bronze,mobile,organic,digital wallet,home & kitchen,1,280.02,0.014,3.0,3.3,True
+2019,male,46,ankara,silver,mobile,social,debit card,electronics,4,665.71,0.161,3.0,4.2,False
+2024,female,31,adana,guest,mobile,organic,bank transfer,beauty,2,375.68,0.052,3.0,4.7,False
+2020,male,28,konya,gold,mobile,organic,credit card,fashion,2,342.19,0.074,3.0,3.8,True
+2019,male,33,kayseri,guest,mobile,organic,credit card,home & kitchen,1,126.25,0.064,2.0,4.2,True
+2021,male,22,i̇stanbul,bronze,desktop,social,debit card,home & kitchen,2,539.4,0.19,4.0,4.4,False
+2019,female,31,i̇stanbul,guest,mobile,organic,digital wallet,electronics,1,380.75,0.034,3.0,3.3,False
+2023,female,33,antalya,guest,mobile,organic,credit card,groceries,3,52.78,0.136,3.0,4.0,False
+2023,female,34,bursa,gold,desktop,organic,credit card,sports,1,158.11,0.163,3.0,3.1,False
+2022,male,43,antalya,silver,desktop,paid search,credit card,electronics,1,868.77,0.179,2.0,4.3,True
+2022,male,40,ankara,gold,mobile,paid search,credit card,electronics,1,193.16,0.173,2.0,5.0,False
+2021,female,41,adana,silver,mobile,organic,digital wallet,electronics,2,665.71,0.066,4.0,4.5,True
+2020,female,33,i̇stanbul,gold,mobile,organic,credit card,home & kitchen,2,353.19,0.105,2.0,4.5,True
+2018,male,32,ankara,guest,mobile,organic,digital wallet,sports,2,406.67,0.187,4.0,3.4,False
+2023,male,21,ankara,gold,mobile,email,debit card,groceries,2,267.86,0.251,3.0,3.7,True
+2018,female,22,i̇stanbul,silver,mobile,email,cash on delivery,groceries,4,305.93,0.277,1.0,4.2,True
+2019,female,18,bursa,bronze,mobile,organic,credit card,home & kitchen,1,746.63,0.066,2.0,3.7,False
+2021,male,35,i̇stanbul,bronze,mobile,organic,credit card,fashion,2,750.49,0.214,1.0,5.0,True
+2022,female,22,i̇zmir,bronze,mobile,paid search,credit card,sports,1,87.93,0.237,2.0,5.0,False
+2023,male,46,i̇stanbul,guest,desktop,paid search,debit card,fashion,2,1260.63,0.145,2.0,4.4,False
+2023,female,18,i̇stanbul,bronze,mobile,paid search,bank transfer,groceries,6,333.89,0.168,2.0,3.7,True
+2020,male,23,bursa,gold,mobile,organic,digital wallet,groceries,6,197.05,0.132,1.0,4.1,True
+2024,male,46,i̇stanbul,guest,mobile,email,credit card,groceries,3,244.14,0.225,2.0,4.3,False
+2023,female,23,ankara,bronze,mobile,paid search,credit card,books & stationery,1,104.56,0.107,2.0,4.2,True
+2023,male,55,gaziantep,bronze,mobile,social,credit card,books & stationery,1,120.93,0.21,4.0,3.0,False
+2022,female,21,ankara,bronze,mobile,social,credit card,sports,1,346.87,0.315,4.0,3.7,False
+2022,female,36,i̇stanbul,gold,tablet,paid search,debit card,electronics,3,665.71,0.216,3.0,4.2,False
+2023,female,41,mersin,guest,mobile,organic,cash on delivery,home & kitchen,3,1143.66,0.012,4.0,3.9,False
+2019,female,27,i̇zmir,bronze,mobile,paid search,credit card,home & kitchen,4,746.59,0.1,3.0,3.4,False
+2022,male,37,gaziantep,guest,desktop,social,cash on delivery,groceries,5,237.28,0.155,4.0,4.3,False
+2022,male,20,i̇stanbul,guest,mobile,organic,credit card,electronics,3,665.71,0.055,2.0,3.6,False
+2020,male,37,ankara,bronze,mobile,organic,credit card,home & kitchen,5,819.61,0.049,2.0,4.2,False
+2022,female,44,ankara,bronze,mobile,paid search,digital wallet,books & stationery,5,549.15,0.143,2.0,3.7,True
+2020,female,24,eskişehir,guest,mobile,social,credit card,books & stationery,2,831.87,0.168,4.0,3.8,False
+2022,male,18,antalya,bronze,mobile,organic,credit card,groceries,2,102.29,0.106,4.0,3.4,False
+2019,female,32,ankara,bronze,mobile,paid search,digital wallet,electronics,1,795.33,0.212,2.0,4.7,False
+2022,male,25,konya,bronze,mobile,organic,credit card,electronics,2,665.71,0.004,2.0,4.6,False
+2019,female,18,antalya,silver,mobile,organic,credit card,fashion,3,430.71,0.069,2.0,4.4,False
+2024,male,30,i̇stanbul,guest,mobile,social,credit card,books & stationery,4,326.84,0.186,3.0,4.8,False
+2021,male,27,i̇stanbul,bronze,mobile,social,debit card,electronics,1,743.06,0.13,2.0,4.0,False
+2018,female,30,i̇stanbul,bronze,mobile,organic,credit card,home & kitchen,2,367.5,0.0,3.0,3.8,False
+2023,female,28,i̇zmir,silver,mobile,social,credit card,electronics,2,1139.83,0.057,2.0,3.4,False
+2020,female,45,ankara,bronze,desktop,email,credit card,home & kitchen,5,1618.26,0.199,3.0,4.4,False
+2021,female,36,i̇stanbul,guest,mobile,email,credit card,groceries,5,342.04,0.3,1.0,4.5,False
+2024,female,29,antalya,guest,mobile,organic,credit card,home & kitchen,1,487.02,0.019,3.0,4.3,False
+2019,female,36,i̇stanbul,bronze,mobile,organic,credit card,groceries,3,72.38,0.13,1.0,3.4,True
+2024,male,24,i̇stanbul,bronze,mobile,referral,cash on delivery,fashion,5,682.66,0.158,3.0,4.1,False
+2024,male,33,eskişehir,bronze,desktop,social,debit card,beauty,3,264.96,0.13,3.0,3.7,True
+2024,female,32,i̇stanbul,bronze,mobile,organic,credit card,books & stationery,3,377.93,0.067,3.0,3.2,False
+2023,female,27,mersin,bronze,desktop,paid search,digital wallet,home & kitchen,1,271.73,0.111,3.0,3.8,False
+2022,female,27,i̇stanbul,gold,mobile,paid search,credit card,groceries,1,45.36,0.166,3.0,3.7,True
+2024,male,35,antalya,bronze,mobile,paid search,credit card,electronics,2,665.71,0.15,3.0,4.1,True
+2024,female,20,mersin,bronze,tablet,organic,credit card,electronics,1,512.85,0.146,4.0,3.2,True
+2022,male,33,bursa,guest,mobile,email,credit card,sports,1,372.28,0.214,2.0,3.7,False
+2022,female,41,ankara,silver,desktop,organic,credit card,beauty,4,744.92,0.04,4.0,4.5,False
+2022,female,37,i̇stanbul,guest,mobile,organic,credit card,groceries,3,123.42,0.143,3.0,3.8,False
+2023,male,23,antalya,bronze,desktop,organic,credit card,sports,1,446.38,0.0,3.0,4.1,True
+2018,male,18,konya,gold,desktop,social,credit card,home & kitchen,2,341.65,0.16,3.0,3.8,False
+2024,male,26,i̇zmir,bronze,mobile,organic,credit card,sports,2,598.36,0.045,2.0,3.3,True
+2024,male,26,ankara,silver,mobile,paid search,digital wallet,fashion,2,890.97,0.143,3.0,3.7,False
+2020,female,31,bursa,guest,mobile,email,credit card,home & kitchen,2,848.02,0.204,2.0,4.3,False
+2020,female,18,i̇stanbul,silver,mobile,organic,digital wallet,home & kitchen,1,130.51,0.069,1.0,4.5,False
+2019,female,37,adana,silver,mobile,organic,digital wallet,beauty,1,101.05,0.098,2.68,4.3,False
+2023,male,29,adana,guest,mobile,organic,credit card,electronics,2,1006.07,0.092,3.0,3.6,False
+2018,female,43,i̇stanbul,guest,mobile,email,credit card,books & stationery,1,109.51,0.077,2.0,4.3,True
+2020,female,29,i̇stanbul,silver,desktop,organic,credit card,sports,1,181.19,0.105,2.0,4.7,True
+2020,female,34,i̇zmir,guest,mobile,social,credit card,fashion,3,130.09,0.217,3.0,5.0,False
+2023,female,26,mersin,guest,mobile,social,credit card,electronics,1,820.03,0.169,3.0,4.1,True
+2020,female,22,i̇stanbul,silver,mobile,social,credit card,electronics,1,769.99,0.22,3.0,3.3,True
+2024,male,25,eskişehir,bronze,desktop,referral,credit card,sports,1,332.67,0.155,3.0,4.6,False
+2022,male,41,adana,guest,mobile,paid search,credit card,groceries,4,170.67,0.123,3.0,4.0,False
+2023,female,33,i̇stanbul,silver,mobile,paid search,credit card,groceries,1,46.11,0.235,2.0,4.0,False
+2024,female,44,ankara,guest,mobile,paid search,credit card,home & kitchen,1,163.62,0.129,4.0,4.3,False
+2023,female,29,trabzon,bronze,mobile,social,credit card,home & kitchen,2,306.05,0.116,3.0,4.02,True
+2021,female,18,i̇stanbul,bronze,mobile,paid search,debit card,fashion,5,665.71,0.15,1.0,4.4,False
+2019,male,40,bursa,bronze,mobile,social,cash on delivery,groceries,4,272.63,0.21,2.0,4.3,False
+2024,female,26,bursa,silver,mobile,organic,cash on delivery,electronics,2,665.71,0.126,2.0,4.2,True
+2023,female,39,i̇zmir,guest,desktop,paid search,credit card,electronics,3,1016.48,0.238,4.0,4.5,False
+2020,male,45,i̇zmir,gold,mobile,organic,credit card,beauty,3,516.88,0.1,3.0,4.5,False
+2020,female,30,konya,silver,mobile,paid search,debit card,electronics,1,375.5,0.184,4.0,3.2,True
+2020,male,40,i̇stanbul,bronze,desktop,paid search,credit card,electronics,2,908.05,0.098,3.0,4.3,False
+2019,female,40,i̇stanbul,silver,desktop,email,debit card,books & stationery,1,74.91,0.302,2.0,4.6,True
+2018,male,18,konya,silver,mobile,organic,bank transfer,home & kitchen,1,183.45,0.025,3.0,4.2,False
+2020,female,51,i̇stanbul,guest,mobile,organic,credit card,fashion,3,646.35,0.232,2.0,4.5,True
+2018,female,23,ankara,guest,mobile,organic,credit card,electronics,5,665.71,0.061,2.0,4.6,True
+2018,female,35,mersin,bronze,tablet,organic,digital wallet,groceries,2,51.89,0.209,3.0,3.8,False
+2020,male,20,antalya,guest,desktop,organic,credit card,fashion,1,235.3,0.0,3.0,3.1,False
+2023,male,18,kayseri,bronze,mobile,organic,bank transfer,fashion,2,232.14,0.0,3.0,3.4,False
+2024,female,50,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,3,1004.01,0.166,2.0,5.0,False
+2019,male,45,i̇stanbul,gold,desktop,social,digital wallet,electronics,2,1254.83,0.22,3.0,4.4,True
+2020,male,30,i̇stanbul,bronze,mobile,social,credit card,home & kitchen,1,264.09,0.197,3.0,4.0,False
+2019,female,34,i̇stanbul,guest,mobile,email,credit card,home & kitchen,1,181.06,0.122,2.0,4.02,True
+2020,female,29,ankara,guest,mobile,social,cash on delivery,fashion,2,744.04,0.174,3.0,4.1,False
+2023,male,58,ankara,guest,mobile,paid search,cash on delivery,home & kitchen,1,288.9,0.134,3.0,3.4,False
+2024,male,31,konya,guest,mobile,social,cash on delivery,electronics,1,864.42,0.164,2.0,4.2,False
+2018,male,39,i̇stanbul,guest,desktop,organic,digital wallet,beauty,1,357.61,0.157,3.0,2.5,False
+2020,male,34,bursa,bronze,mobile,organic,cash on delivery,home & kitchen,4,1307.2,0.076,1.0,3.6,False
+2020,male,31,ankara,gold,mobile,social,credit card,electronics,2,762.02,0.115,3.0,3.8,False
+2020,male,25,bursa,bronze,mobile,email,credit card,home & kitchen,2,541.87,0.144,2.0,4.6,False
+2021,male,18,i̇stanbul,bronze,mobile,paid search,credit card,electronics,1,822.89,0.166,2.74,4.5,True
+2018,male,39,ankara,gold,mobile,paid search,debit card,home & kitchen,2,665.71,0.225,4.0,4.5,True
+2024,male,49,i̇zmir,guest,mobile,organic,credit card,fashion,2,571.43,0.125,2.0,4.5,True
+2022,female,21,i̇stanbul,guest,desktop,email,digital wallet,electronics,2,665.71,0.202,2.0,4.2,True
+2018,female,38,adana,bronze,mobile,organic,credit card,fashion,1,264.57,0.132,3.0,4.0,False
+2023,female,25,i̇stanbul,silver,mobile,referral,debit card,fashion,5,1016.95,0.117,2.0,3.6,False
+2020,female,46,i̇stanbul,silver,desktop,referral,bank transfer,sports,1,193.39,0.013,3.0,4.1,True
+2022,male,38,gaziantep,guest,mobile,referral,credit card,fashion,1,41.38,0.194,4.0,3.9,False
+2023,female,24,kayseri,bronze,mobile,social,credit card,home & kitchen,1,264.81,0.131,2.0,4.7,True
+2022,male,52,i̇zmir,guest,mobile,paid search,credit card,home & kitchen,2,1362.61,0.051,4.0,3.7,False
+2021,female,20,konya,guest,mobile,paid search,credit card,beauty,3,399.91,0.184,3.0,4.4,True
+2018,female,18,adana,guest,mobile,paid search,credit card,sports,2,687.15,0.174,2.74,3.2,False
+2018,female,31,kayseri,bronze,mobile,email,debit card,electronics,1,345.53,0.269,3.0,3.8,True
+2024,female,32,ankara,silver,desktop,paid search,debit card,sports,6,1086.92,0.105,3.0,4.0,True
+2019,male,32,bursa,gold,mobile,organic,credit card,fashion,1,129.02,0.103,3.0,4.4,False
+2018,male,25,gaziantep,gold,mobile,paid search,debit card,fashion,2,1034.15,0.159,3.0,4.9,True
+2021,male,26,gaziantep,guest,mobile,organic,debit card,beauty,1,238.23,0.144,4.0,3.9,False
+2022,male,29,i̇stanbul,silver,mobile,organic,debit card,fashion,4,700.7,0.131,2.0,3.6,False
+2021,male,36,i̇stanbul,gold,mobile,paid search,credit card,fashion,2,432.88,0.277,3.0,3.5,True
+2022,female,40,i̇stanbul,gold,mobile,paid search,debit card,beauty,1,155.41,0.235,3.0,5.0,False
+2024,female,18,kayseri,guest,mobile,organic,credit card,books & stationery,2,166.96,0.18,3.0,4.8,False
+2022,female,27,konya,guest,desktop,email,credit card,electronics,1,689.57,0.193,3.0,4.02,False
+2023,male,31,i̇stanbul,silver,mobile,organic,cash on delivery,fashion,1,234.24,0.067,2.0,4.3,False
+2022,male,32,i̇stanbul,silver,mobile,organic,credit card,sports,3,630.68,0.018,2.0,4.1,False
+2022,female,32,i̇stanbul,guest,mobile,paid search,credit card,electronics,1,258.5,0.218,2.0,4.6,True
+2023,male,45,eskişehir,guest,desktop,paid search,digital wallet,fashion,3,337.5,0.19,4.0,4.0,False
+2019,female,25,i̇zmir,guest,mobile,organic,cash on delivery,books & stationery,2,167.15,0.076,3.0,2.7,False
+2021,male,18,bursa,bronze,mobile,email,digital wallet,home & kitchen,2,309.16,0.3,2.0,5.0,False
+2022,female,18,trabzon,guest,mobile,social,debit card,fashion,4,701.94,0.217,4.0,3.8,True
+2021,male,38,bursa,bronze,desktop,social,credit card,books & stationery,2,115.88,0.128,2.0,4.9,True
+2021,female,23,i̇zmir,bronze,mobile,social,cash on delivery,books & stationery,1,147.05,0.081,3.0,3.7,False
+2020,female,23,i̇stanbul,bronze,mobile,paid search,cash on delivery,home & kitchen,1,179.95,0.047,1.0,4.1,False
+2023,male,39,i̇stanbul,bronze,desktop,organic,credit card,books & stationery,2,338.17,0.047,3.0,4.8,True
+2021,male,33,i̇zmir,guest,desktop,paid search,credit card,sports,3,469.28,0.151,2.0,3.9,True
+2019,female,53,antalya,bronze,mobile,social,credit card,sports,1,236.8,0.237,3.0,3.7,False
+2021,male,29,antalya,bronze,mobile,organic,cash on delivery,electronics,2,665.71,0.064,3.0,4.3,False
+2021,male,37,ankara,bronze,desktop,paid search,credit card,home & kitchen,1,311.86,0.245,2.74,3.9,True
+2024,female,22,bursa,guest,mobile,social,credit card,beauty,4,665.71,0.12,3.0,4.0,True
+2020,male,34,antalya,guest,mobile,organic,cash on delivery,fashion,3,331.06,0.233,2.0,3.6,False
+2019,male,42,i̇stanbul,silver,desktop,referral,credit card,electronics,1,533.15,0.126,4.0,3.9,True
+2020,female,47,bursa,gold,mobile,organic,digital wallet,books & stationery,4,141.71,0.145,3.0,3.4,True
+2020,female,44,i̇stanbul,bronze,desktop,organic,cash on delivery,sports,1,191.78,0.0,1.0,4.8,True
+2024,male,33,ankara,silver,desktop,organic,bank transfer,beauty,1,65.16,0.123,4.0,3.7,False
+2023,male,38,konya,bronze,mobile,organic,credit card,electronics,1,695.29,0.226,3.0,5.0,True
+2020,male,27,i̇stanbul,silver,mobile,organic,credit card,home & kitchen,2,294.99,0.12,2.0,4.9,True
+2023,female,18,i̇stanbul,bronze,mobile,paid search,credit card,sports,2,488.4,0.184,1.0,3.9,False
+2023,female,32,i̇stanbul,bronze,mobile,organic,credit card,beauty,1,114.06,0.154,4.0,3.7,True
+2023,male,28,i̇zmir,guest,mobile,social,credit card,sports,1,154.81,0.077,4.0,3.3,False
+2018,male,33,ankara,silver,mobile,organic,cash on delivery,electronics,3,665.71,0.089,4.0,3.8,True
+2022,female,32,i̇stanbul,silver,mobile,paid search,debit card,home & kitchen,2,940.1,0.091,3.0,3.8,False
+2023,male,27,i̇stanbul,guest,desktop,paid search,credit card,beauty,3,221.43,0.096,1.0,3.6,False
+2021,male,50,i̇stanbul,silver,mobile,organic,credit card,groceries,2,363.18,0.122,2.0,4.5,False
+2021,female,25,i̇zmir,bronze,mobile,organic,credit card,books & stationery,3,261.17,0.053,3.0,4.7,True
+2020,female,34,i̇stanbul,bronze,mobile,social,debit card,beauty,3,593.59,0.185,2.0,4.4,True
+2023,male,35,antalya,guest,mobile,organic,credit card,groceries,6,338.07,0.136,3.0,4.4,False
+2019,male,25,konya,gold,mobile,organic,cash on delivery,fashion,3,462.51,0.096,3.0,4.4,True
+2024,female,22,i̇stanbul,guest,mobile,organic,credit card,sports,6,1387.66,0.053,2.0,3.7,True
+2024,female,30,gaziantep,bronze,mobile,paid search,digital wallet,sports,4,1086.08,0.141,4.0,3.4,True
+2021,female,33,ankara,bronze,desktop,paid search,credit card,electronics,2,665.71,0.169,3.0,4.0,False
+2023,male,23,ankara,bronze,desktop,paid search,cash on delivery,fashion,2,268.82,0.175,4.0,4.4,True
+2021,female,23,adana,bronze,mobile,email,credit card,electronics,1,665.71,0.182,2.0,3.4,True
+2021,male,32,bursa,bronze,mobile,organic,credit card,fashion,4,1563.02,0.045,3.0,4.4,True
+2021,female,35,i̇stanbul,bronze,desktop,paid search,credit card,fashion,2,196.71,0.192,4.0,2.9,False
+2023,male,40,i̇stanbul,guest,mobile,social,credit card,home & kitchen,4,720.07,0.178,2.0,4.7,True
+2021,male,22,ankara,guest,mobile,organic,credit card,sports,1,208.55,0.037,3.0,4.0,False
+2023,female,56,ankara,silver,mobile,email,credit card,home & kitchen,2,429.63,0.234,3.0,4.4,False
+2024,female,43,i̇stanbul,silver,mobile,organic,credit card,groceries,6,223.66,0.114,4.0,3.3,False
+2019,male,42,i̇stanbul,guest,desktop,organic,bank transfer,groceries,4,203.26,0.086,2.74,3.9,False
+2022,female,39,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,1,173.08,0.092,2.0,3.2,False
+2023,male,32,i̇stanbul,bronze,mobile,organic,cash on delivery,electronics,1,1642.29,0.083,2.0,4.0,False
+2018,female,23,ankara,bronze,mobile,organic,credit card,fashion,2,688.22,0.069,4.0,4.0,False
+2020,male,29,adana,guest,mobile,paid search,cash on delivery,home & kitchen,3,546.74,0.162,3.0,3.7,False
+2023,male,47,ankara,silver,mobile,referral,credit card,fashion,1,197.01,0.165,3.0,5.0,False
+2024,male,41,i̇stanbul,silver,mobile,paid search,debit card,electronics,1,761.69,0.136,4.0,3.9,False
+2024,male,30,i̇stanbul,bronze,mobile,paid search,digital wallet,sports,2,403.93,0.164,3.0,3.8,True
+2020,female,26,adana,bronze,mobile,email,digital wallet,fashion,1,205.24,0.042,4.0,3.7,False
+2022,female,23,i̇zmir,bronze,mobile,paid search,bank transfer,home & kitchen,4,528.63,0.155,3.0,3.1,False
+2024,male,31,bursa,guest,desktop,organic,credit card,beauty,2,465.96,0.036,3.0,4.2,True
+2022,male,28,i̇stanbul,guest,mobile,paid search,bank transfer,groceries,5,365.88,0.057,1.0,2.8,True
+2019,female,20,i̇zmir,guest,mobile,paid search,credit card,electronics,1,1404.5,0.072,2.0,4.3,False
+2024,male,27,ankara,guest,mobile,organic,digital wallet,home & kitchen,4,898.61,0.043,3.0,3.6,False
+2024,female,21,ankara,bronze,desktop,referral,credit card,home & kitchen,1,207.5,0.074,3.0,4.0,True
+2020,female,18,gaziantep,guest,mobile,organic,cash on delivery,books & stationery,1,78.72,0.077,4.0,3.8,False
+2019,male,36,antalya,gold,mobile,organic,credit card,groceries,6,262.6,0.042,3.0,4.3,True
+2024,male,34,i̇stanbul,bronze,mobile,paid search,credit card,fashion,6,1400.58,0.156,2.0,4.2,False
+2023,female,25,bursa,guest,mobile,social,credit card,groceries,6,922.72,0.124,2.0,4.9,False
+2020,female,20,antalya,bronze,mobile,organic,credit card,groceries,2,595.44,0.141,3.0,3.6,False
+2020,female,41,ankara,gold,mobile,social,digital wallet,electronics,1,513.64,0.153,2.0,4.2,False
+2018,male,31,ankara,guest,mobile,paid search,credit card,electronics,2,982.03,0.175,4.0,3.9,False
+2024,male,32,i̇stanbul,gold,mobile,organic,credit card,fashion,2,513.64,0.03,2.0,3.6,True
+2022,female,54,mersin,gold,mobile,organic,credit card,electronics,1,708.21,0.077,2.0,4.7,True
+2018,female,22,i̇stanbul,bronze,mobile,organic,bank transfer,fashion,6,601.89,0.052,1.0,4.1,False
+2022,male,37,kayseri,silver,mobile,paid search,credit card,electronics,1,1309.64,0.255,4.0,3.6,False
+2018,male,45,antalya,guest,mobile,organic,cash on delivery,beauty,1,108.75,0.105,2.74,2.6,False
+2018,male,39,kayseri,bronze,mobile,paid search,digital wallet,electronics,2,665.71,0.111,3.0,5.0,True
+2023,male,37,i̇stanbul,guest,desktop,social,credit card,beauty,2,986.96,0.137,3.0,5.0,False
+2023,female,45,bursa,silver,mobile,organic,credit card,groceries,2,107.29,0.114,1.0,4.5,True
+2024,male,25,antalya,silver,mobile,social,digital wallet,books & stationery,2,202.3,0.259,3.0,5.0,False
+2019,female,40,i̇stanbul,guest,mobile,paid search,credit card,fashion,4,492.95,0.055,2.0,3.5,False
+2021,female,33,mersin,bronze,mobile,email,credit card,electronics,3,665.71,0.206,2.0,4.8,True
+2021,male,30,i̇stanbul,bronze,mobile,paid search,credit card,beauty,2,201.45,0.176,2.0,2.7,False
+2019,male,18,i̇stanbul,silver,mobile,organic,credit card,fashion,5,1256.59,0.049,3.0,4.2,True
+2018,male,38,ankara,bronze,mobile,paid search,credit card,fashion,5,1332.79,0.156,3.0,3.4,False
+2022,female,34,bursa,guest,mobile,paid search,debit card,fashion,3,945.08,0.158,2.0,4.1,False
+2019,female,49,ankara,silver,mobile,organic,credit card,beauty,1,261.46,0.124,3.0,4.9,True
+2020,female,27,gaziantep,silver,mobile,email,cash on delivery,home & kitchen,1,431.91,0.115,2.68,3.7,False
+2020,female,41,i̇stanbul,silver,mobile,paid search,credit card,fashion,6,883.05,0.125,1.0,4.4,False
+2022,male,38,i̇stanbul,silver,mobile,organic,credit card,sports,2,246.7,0.147,3.0,4.4,True
+2021,female,35,i̇stanbul,guest,mobile,paid search,credit card,sports,2,287.55,0.203,2.0,4.4,False
+2021,female,33,bursa,gold,desktop,email,bank transfer,electronics,1,524.62,0.195,3.0,3.6,True
+2024,male,18,eskişehir,bronze,mobile,social,credit card,beauty,3,690.93,0.145,4.0,3.1,True
+2019,female,30,i̇zmir,guest,tablet,organic,credit card,fashion,6,387.17,0.097,1.0,5.0,False
+2021,female,28,ankara,bronze,mobile,organic,cash on delivery,fashion,1,778.47,0.0,2.0,4.2,False
+2022,female,33,i̇stanbul,silver,desktop,organic,credit card,home & kitchen,2,335.41,0.163,2.0,4.0,True
+2023,female,34,ankara,silver,mobile,paid search,credit card,fashion,4,1022.47,0.153,4.0,4.0,True
+2021,male,24,i̇zmir,bronze,mobile,organic,credit card,groceries,4,122.35,0.173,3.0,4.02,False
+2018,female,37,antalya,bronze,mobile,paid search,credit card,sports,2,289.84,0.132,2.0,4.4,True
+2021,male,36,kayseri,bronze,desktop,referral,credit card,electronics,2,1656.31,0.042,3.0,4.7,False
+2022,female,28,ankara,guest,mobile,social,bank transfer,fashion,2,899.93,0.192,1.0,4.8,False
+2023,male,30,ankara,gold,tablet,paid search,credit card,books & stationery,1,71.55,0.253,3.0,4.2,False
+2021,female,36,gaziantep,guest,mobile,paid search,credit card,books & stationery,1,71.67,0.119,2.0,3.8,False
+2020,male,39,bursa,silver,mobile,paid search,credit card,fashion,6,1439.25,0.152,2.0,4.3,False
+2021,female,27,konya,bronze,tablet,organic,digital wallet,groceries,5,298.45,0.16,4.0,4.2,True
+2023,male,44,bursa,bronze,mobile,social,credit card,home & kitchen,1,135.55,0.222,3.0,3.8,False
+2024,male,30,antalya,guest,mobile,referral,credit card,beauty,1,230.73,0.0,3.0,3.8,False
+2019,male,18,i̇stanbul,silver,mobile,organic,credit card,books & stationery,1,56.59,0.077,2.0,3.7,True
+2022,male,34,mersin,guest,mobile,organic,credit card,fashion,1,109.54,0.162,2.74,3.3,False
+2021,male,37,i̇zmir,guest,mobile,referral,digital wallet,home & kitchen,2,431.25,0.067,2.0,5.0,True
+2018,female,30,i̇zmir,guest,mobile,email,credit card,sports,1,167.25,0.17,3.0,3.9,False
+2024,male,40,ankara,bronze,mobile,social,cash on delivery,electronics,1,572.39,0.127,3.0,3.7,False
+2023,female,35,konya,bronze,mobile,organic,credit card,home & kitchen,3,1666.17,0.1,2.0,4.5,False
+2024,female,32,mersin,bronze,desktop,social,debit card,home & kitchen,4,1336.28,0.094,2.0,4.4,True
+2019,female,44,gaziantep,bronze,tablet,organic,cash on delivery,fashion,2,95.55,0.162,4.0,2.7,False
+2020,male,39,i̇stanbul,bronze,mobile,organic,debit card,fashion,4,1283.2,0.159,2.0,5.0,False
+2020,female,36,i̇zmir,gold,mobile,paid search,digital wallet,fashion,2,555.75,0.044,3.0,4.02,False
+2018,male,32,ankara,silver,tablet,organic,credit card,groceries,6,165.72,0.016,2.0,5.0,True
+2023,male,18,mersin,bronze,mobile,organic,bank transfer,electronics,1,1504.21,0.139,3.0,4.1,True
+2023,female,18,eskişehir,guest,mobile,paid search,digital wallet,fashion,1,509.43,0.212,4.0,4.0,False
+2024,male,36,i̇stanbul,guest,mobile,paid search,credit card,fashion,4,673.68,0.156,2.0,4.5,False
+2022,female,36,trabzon,guest,desktop,organic,cash on delivery,beauty,1,113.27,0.128,4.0,3.1,True
+2020,female,29,ankara,silver,mobile,email,cash on delivery,groceries,2,543.05,0.197,1.0,3.8,False
+2024,male,25,ankara,guest,desktop,paid search,credit card,groceries,5,266.43,0.175,3.0,3.2,False
+2021,male,37,bursa,silver,desktop,paid search,credit card,electronics,1,306.7,0.183,4.0,3.9,False
+2023,male,33,bursa,guest,tablet,organic,bank transfer,groceries,2,99.36,0.004,3.0,4.1,True
+2024,female,35,bursa,guest,mobile,paid search,credit card,home & kitchen,2,471.21,0.138,3.0,4.1,False
+2021,male,46,i̇stanbul,bronze,desktop,organic,digital wallet,fashion,3,473.25,0.019,3.0,4.0,False
+2019,female,29,i̇stanbul,guest,mobile,social,cash on delivery,books & stationery,3,232.37,0.123,2.0,4.6,True
+2021,female,18,mersin,guest,mobile,social,credit card,fashion,2,929.69,0.117,2.0,3.9,False
+2018,male,45,i̇stanbul,silver,desktop,paid search,credit card,sports,1,261.7,0.151,1.0,4.0,False
+2024,female,27,i̇stanbul,silver,mobile,organic,digital wallet,sports,1,177.09,0.121,2.0,4.1,False
+2021,female,25,i̇zmir,gold,mobile,paid search,debit card,home & kitchen,3,797.02,0.204,2.0,3.6,True
+2020,female,42,i̇stanbul,silver,desktop,paid search,credit card,beauty,1,258.54,0.117,3.0,4.2,True
+2023,male,26,ankara,silver,mobile,email,credit card,electronics,1,665.71,0.13,2.0,3.9,True
+2024,male,56,eskişehir,bronze,mobile,organic,credit card,beauty,1,298.41,0.124,4.0,3.6,True
+2024,male,36,i̇zmir,gold,tablet,organic,credit card,home & kitchen,1,122.75,0.179,2.0,4.2,False
+2022,female,38,i̇stanbul,silver,desktop,social,credit card,fashion,3,715.47,0.088,4.0,4.2,False
+2019,male,18,i̇stanbul,guest,mobile,paid search,credit card,sports,2,596.1,0.198,2.0,3.6,False
+2023,male,23,kayseri,bronze,mobile,social,credit card,home & kitchen,1,556.17,0.161,3.0,4.7,False
+2021,female,31,mersin,bronze,mobile,referral,credit card,books & stationery,1,34.86,0.044,3.0,3.0,False
+2023,female,44,i̇zmir,bronze,desktop,organic,credit card,electronics,1,664.99,0.071,4.0,3.8,False
+2024,male,38,i̇stanbul,silver,mobile,organic,credit card,sports,1,522.9,0.075,3.0,3.8,True
+2020,male,40,i̇stanbul,silver,tablet,email,debit card,electronics,1,867.16,0.266,1.0,4.3,False
+2021,female,27,mersin,bronze,mobile,organic,cash on delivery,electronics,1,347.52,0.124,3.0,4.0,False
+2018,male,23,i̇stanbul,guest,mobile,social,cash on delivery,fashion,5,611.17,0.219,3.0,3.8,True
+2022,female,33,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,3,844.34,0.105,3.0,3.9,False
+2023,male,34,antalya,bronze,mobile,paid search,credit card,electronics,1,706.24,0.226,1.0,3.5,True
+2020,male,27,bursa,silver,mobile,paid search,cash on delivery,electronics,1,584.96,0.163,2.0,4.0,False
+2018,male,21,konya,bronze,mobile,paid search,digital wallet,sports,2,445.35,0.15,4.0,3.6,False
+2019,female,50,i̇stanbul,guest,mobile,social,cash on delivery,fashion,1,169.31,0.089,3.0,4.0,False
+2018,female,18,i̇stanbul,bronze,mobile,social,credit card,electronics,1,359.38,0.191,3.0,4.1,False
+2022,female,31,i̇stanbul,guest,desktop,organic,credit card,fashion,1,289.45,0.0,3.0,3.8,False
+2021,male,19,antalya,guest,mobile,referral,cash on delivery,fashion,1,401.82,0.127,3.0,2.9,False
+2021,female,41,i̇stanbul,bronze,mobile,organic,credit card,electronics,1,841.45,0.123,1.0,4.5,False
+2021,male,19,gaziantep,guest,mobile,organic,credit card,groceries,3,112.4,0.22,4.0,3.9,True
+2019,female,18,i̇stanbul,silver,tablet,referral,debit card,books & stationery,2,184.59,0.051,2.0,3.6,False
+2019,male,25,gaziantep,bronze,desktop,email,credit card,groceries,3,93.48,0.2,2.74,3.1,False
+2020,female,25,i̇stanbul,bronze,mobile,organic,credit card,fashion,2,1385.32,0.082,4.0,4.3,False
+2024,male,41,i̇stanbul,guest,mobile,referral,credit card,electronics,1,779.95,0.121,1.0,4.6,True
+2019,female,32,bursa,guest,mobile,organic,bank transfer,home & kitchen,1,150.12,0.104,2.0,3.4,False
+2024,female,37,antalya,silver,mobile,paid search,credit card,home & kitchen,1,300.34,0.032,3.0,4.1,True
+2023,male,34,antalya,bronze,tablet,organic,cash on delivery,fashion,3,608.08,0.0,3.0,4.3,False
+2018,male,34,i̇zmir,bronze,mobile,organic,credit card,fashion,1,520.29,0.099,3.0,3.9,False
+2022,male,29,adana,gold,desktop,social,cash on delivery,fashion,1,283.16,0.167,2.0,3.6,True
+2023,male,30,i̇stanbul,guest,mobile,social,credit card,groceries,2,611.0,0.167,2.0,3.5,False
+2020,female,26,antalya,silver,mobile,paid search,credit card,home & kitchen,2,439.23,0.065,2.0,4.7,True
+2019,female,42,i̇stanbul,silver,mobile,email,cash on delivery,groceries,3,70.14,0.13,2.0,4.4,False
+2023,male,40,konya,guest,tablet,paid search,credit card,electronics,2,917.93,0.198,2.0,4.0,False
+2019,female,25,gaziantep,guest,desktop,social,debit card,sports,1,146.32,0.154,3.0,2.8,False
+2020,male,32,kayseri,silver,mobile,organic,credit card,sports,1,99.05,0.104,3.0,4.5,False
+2022,male,29,i̇stanbul,guest,mobile,paid search,cash on delivery,groceries,1,83.24,0.085,2.0,3.9,False
+2024,female,21,i̇zmir,guest,mobile,paid search,credit card,sports,1,221.86,0.069,3.0,3.8,True
+2020,male,19,trabzon,guest,mobile,organic,credit card,beauty,2,263.81,0.015,3.0,3.9,False
+2020,male,40,antalya,guest,desktop,organic,credit card,groceries,4,210.17,0.053,2.0,4.5,False
+2023,male,26,i̇stanbul,gold,tablet,paid search,credit card,fashion,2,386.38,0.282,3.0,3.8,True
+2024,male,53,i̇stanbul,silver,mobile,organic,credit card,groceries,5,372.18,0.09,1.0,4.1,False
+2019,female,21,adana,silver,mobile,organic,credit card,home & kitchen,1,182.64,0.161,3.0,3.7,False
+2023,female,45,i̇stanbul,gold,mobile,organic,cash on delivery,home & kitchen,4,1081.55,0.039,3.0,4.6,False
+2023,female,19,bursa,bronze,desktop,organic,digital wallet,fashion,4,1056.14,0.064,3.0,3.8,False
+2021,male,21,ankara,silver,mobile,organic,cash on delivery,groceries,4,198.28,0.096,3.0,3.7,False
+2023,female,38,i̇stanbul,bronze,tablet,organic,digital wallet,home & kitchen,4,871.81,0.106,3.0,4.7,True
+2018,male,31,bursa,bronze,desktop,social,credit card,home & kitchen,1,314.14,0.239,1.0,3.5,False
+2023,male,22,kayseri,bronze,mobile,paid search,credit card,sports,2,604.77,0.212,2.0,4.1,False
+2018,female,37,antalya,gold,mobile,organic,credit card,sports,1,213.04,0.095,4.0,3.6,True
+2019,male,32,i̇stanbul,guest,mobile,organic,credit card,electronics,4,665.71,0.081,1.0,4.8,False
+2023,male,46,gaziantep,bronze,mobile,paid search,credit card,home & kitchen,2,293.58,0.176,4.0,3.7,True
+2023,male,27,adana,bronze,mobile,organic,bank transfer,groceries,4,479.99,0.09,3.0,4.7,True
+2022,male,35,mersin,bronze,mobile,paid search,credit card,fashion,2,892.63,0.135,2.0,4.5,False
+2023,female,23,i̇zmir,guest,desktop,referral,credit card,electronics,1,332.96,0.144,2.0,3.9,False
+2022,male,50,i̇stanbul,silver,mobile,social,credit card,sports,1,424.08,0.222,3.0,4.9,True
+2024,female,26,i̇stanbul,guest,mobile,email,credit card,fashion,1,75.75,0.297,1.0,3.2,True
+2024,male,23,i̇stanbul,gold,mobile,organic,debit card,beauty,2,726.83,0.078,1.0,5.0,True
+2020,male,52,i̇zmir,silver,mobile,organic,credit card,fashion,3,341.48,0.179,2.0,3.6,False
+2022,female,26,bursa,guest,tablet,organic,debit card,home & kitchen,1,546.26,0.063,2.0,3.7,False
+2023,female,40,i̇stanbul,silver,mobile,organic,credit card,home & kitchen,1,225.93,0.148,2.0,2.8,False
+2021,male,21,trabzon,bronze,desktop,organic,credit card,beauty,2,496.12,0.157,3.0,3.1,False
+2019,female,49,trabzon,guest,mobile,organic,credit card,fashion,5,1236.9,0.0,4.0,3.8,False
+2023,male,39,ankara,bronze,mobile,organic,bank transfer,fashion,2,320.64,0.065,4.0,3.1,False
+2024,male,18,i̇stanbul,bronze,mobile,organic,credit card,books & stationery,2,247.42,0.147,1.0,5.0,True
+2023,female,29,ankara,silver,mobile,organic,cash on delivery,home & kitchen,4,996.87,0.1,3.0,3.8,False
+2023,male,24,konya,bronze,mobile,organic,cash on delivery,books & stationery,3,165.38,0.035,4.0,4.2,False
+2021,male,33,i̇stanbul,guest,desktop,referral,credit card,home & kitchen,5,1306.93,0.034,1.0,4.5,True
+2019,male,25,mersin,guest,desktop,organic,credit card,groceries,2,160.32,0.118,4.0,2.9,True
+2019,male,32,ankara,bronze,mobile,referral,credit card,fashion,2,381.35,0.103,4.0,3.3,True
+2023,male,18,i̇stanbul,guest,mobile,social,digital wallet,fashion,5,609.67,0.264,2.0,3.2,True
+2020,female,29,gaziantep,silver,desktop,social,credit card,groceries,5,147.39,0.084,2.74,3.8,True
+2023,male,35,i̇stanbul,guest,mobile,referral,credit card,electronics,1,730.56,0.043,4.0,3.7,False
+2024,male,29,bursa,guest,desktop,paid search,credit card,groceries,6,326.85,0.11,2.0,4.7,False
+2021,female,31,i̇stanbul,bronze,mobile,paid search,bank transfer,home & kitchen,2,790.14,0.132,3.0,4.8,True
+2022,female,22,i̇stanbul,bronze,desktop,organic,digital wallet,electronics,2,1146.64,0.021,2.68,3.8,True
+2021,female,27,i̇stanbul,gold,desktop,paid search,credit card,home & kitchen,2,367.09,0.257,2.0,4.4,True
+2018,female,26,kayseri,guest,tablet,social,credit card,home & kitchen,2,1207.32,0.161,3.0,4.4,True
+2023,male,45,i̇stanbul,silver,mobile,social,debit card,fashion,3,268.47,0.17,4.0,4.3,True
+2018,male,32,i̇stanbul,silver,mobile,organic,credit card,books & stationery,1,67.97,0.02,2.0,4.2,False
+2023,male,33,antalya,silver,mobile,organic,credit card,electronics,1,1003.74,0.067,3.0,5.0,False
+2020,male,25,adana,guest,mobile,organic,bank transfer,beauty,1,185.05,0.055,3.0,3.5,True
+2023,female,30,i̇stanbul,guest,mobile,social,credit card,sports,1,202.26,0.13,3.0,3.1,False
+2020,male,43,i̇zmir,guest,mobile,paid search,credit card,sports,1,160.1,0.002,3.0,3.1,False
+2023,male,18,bursa,silver,mobile,organic,credit card,electronics,1,1649.3,0.066,3.0,3.6,False
+2023,female,33,i̇zmir,guest,mobile,social,credit card,electronics,1,466.79,0.236,3.0,3.9,True
+2021,female,33,trabzon,guest,desktop,referral,credit card,home & kitchen,1,184.14,0.112,4.0,3.4,False
+2022,male,40,kayseri,guest,mobile,organic,credit card,fashion,2,771.97,0.063,3.0,4.4,False
+2024,male,39,i̇stanbul,silver,mobile,organic,credit card,fashion,4,665.71,0.103,3.0,4.5,True
+2023,female,42,i̇stanbul,guest,desktop,email,digital wallet,groceries,1,71.62,0.187,2.0,4.5,True
+2024,female,27,konya,bronze,desktop,organic,digital wallet,electronics,2,404.3,0.002,3.0,3.8,False
+2022,female,18,i̇stanbul,bronze,mobile,email,credit card,home & kitchen,3,1153.78,0.211,3.0,3.9,False
+2018,male,34,bursa,bronze,mobile,social,cash on delivery,fashion,4,362.02,0.175,3.0,3.2,False
+2022,male,18,i̇stanbul,guest,mobile,organic,credit card,electronics,3,1352.75,0.157,3.0,4.8,False
+2019,male,50,i̇stanbul,bronze,mobile,organic,cash on delivery,sports,1,193.63,0.18,3.0,3.6,True
+2022,male,22,konya,silver,desktop,organic,credit card,home & kitchen,3,340.67,0.047,3.0,3.6,False
+2018,male,41,i̇stanbul,bronze,mobile,email,debit card,books & stationery,1,69.53,0.121,2.0,4.9,True
+2019,female,26,gaziantep,bronze,mobile,organic,digital wallet,beauty,5,530.82,0.025,2.0,4.3,True
+2020,female,46,mersin,gold,tablet,paid search,bank transfer,electronics,1,335.39,0.145,2.68,3.8,True
+2023,male,42,konya,bronze,mobile,referral,credit card,beauty,2,122.5,0.07,4.0,4.1,False
+2022,female,26,antalya,guest,mobile,paid search,credit card,electronics,2,1115.21,0.217,3.0,4.8,False
+2024,female,18,bursa,silver,mobile,social,credit card,home & kitchen,2,223.26,0.168,2.0,4.3,False
+2018,male,45,i̇stanbul,bronze,mobile,social,digital wallet,home & kitchen,3,525.83,0.107,2.0,5.0,True
+2024,female,19,i̇stanbul,silver,desktop,paid search,credit card,fashion,6,665.71,0.206,2.0,4.0,True
+2024,male,23,kayseri,silver,mobile,paid search,digital wallet,beauty,1,171.48,0.14,2.0,5.0,True
+2021,male,42,bursa,guest,mobile,organic,credit card,fashion,5,870.96,0.102,3.0,4.0,False
+2021,male,32,bursa,silver,desktop,paid search,bank transfer,electronics,3,665.71,0.283,1.0,5.0,True
+2021,male,42,kayseri,bronze,desktop,paid search,credit card,electronics,2,1541.57,0.211,3.0,3.5,False
+2020,male,24,ankara,bronze,desktop,organic,credit card,fashion,5,874.93,0.051,3.0,4.1,False
+2021,male,18,konya,guest,mobile,organic,cash on delivery,electronics,2,1502.82,0.074,3.0,3.2,False
+2019,female,49,i̇stanbul,gold,tablet,organic,credit card,fashion,5,887.5,0.111,3.0,3.7,False
+2019,female,18,eskişehir,guest,mobile,paid search,credit card,fashion,1,266.47,0.173,3.0,4.2,False
+2018,male,23,gaziantep,bronze,mobile,email,bank transfer,fashion,3,731.75,0.16,3.0,3.6,False
+2023,male,33,trabzon,guest,desktop,organic,digital wallet,groceries,2,681.12,0.024,3.0,4.3,True
+2024,male,36,ankara,bronze,mobile,social,credit card,groceries,5,486.54,0.15,3.0,4.3,True
+2022,male,28,i̇stanbul,guest,desktop,paid search,credit card,groceries,4,336.12,0.083,2.0,5.0,False
+2022,female,40,i̇stanbul,silver,mobile,paid search,credit card,electronics,3,665.71,0.156,2.0,3.4,True
+2018,female,30,mersin,bronze,desktop,organic,credit card,fashion,3,252.22,0.054,4.0,4.3,True
+2021,female,48,kayseri,bronze,mobile,email,credit card,home & kitchen,1,319.32,0.22,4.0,3.2,True
+2019,female,22,adana,guest,mobile,referral,credit card,electronics,2,665.71,0.032,3.0,4.7,True
+2022,male,18,mersin,gold,mobile,social,cash on delivery,fashion,2,358.15,0.22,4.0,3.5,True
+2018,male,26,i̇stanbul,bronze,mobile,social,credit card,electronics,1,665.71,0.137,1.0,3.8,False
+2022,female,30,i̇stanbul,guest,mobile,paid search,digital wallet,sports,1,307.74,0.038,3.0,3.6,False
+2023,male,20,antalya,silver,desktop,organic,digital wallet,electronics,1,582.75,0.067,4.0,2.9,False
+2022,female,36,mersin,silver,tablet,paid search,digital wallet,fashion,3,1072.84,0.13,4.0,2.9,True
+2020,female,18,ankara,bronze,mobile,social,credit card,fashion,2,216.41,0.189,3.0,3.5,False
+2019,female,48,i̇stanbul,bronze,desktop,organic,credit card,beauty,1,86.15,0.112,2.0,4.2,False
+2023,female,25,ankara,guest,desktop,organic,credit card,beauty,1,199.56,0.141,3.0,3.1,False
+2020,male,34,ankara,bronze,mobile,referral,cash on delivery,sports,4,1024.01,0.068,2.0,4.2,False
+2020,female,18,i̇stanbul,silver,mobile,organic,credit card,groceries,1,42.34,0.039,2.0,4.7,False
+2019,female,32,mersin,silver,mobile,organic,credit card,home & kitchen,4,1164.95,0.118,2.0,4.4,False
+2023,female,40,kayseri,silver,mobile,paid search,credit card,electronics,3,665.71,0.13,2.0,4.1,True
+2021,female,33,ankara,bronze,mobile,paid search,credit card,books & stationery,2,356.38,0.149,3.0,3.6,True
+2022,male,26,adana,bronze,mobile,organic,credit card,electronics,2,864.18,0.105,4.0,3.4,True
+2020,male,36,i̇stanbul,silver,mobile,social,cash on delivery,fashion,5,520.78,0.215,3.0,3.6,False
+2020,male,36,trabzon,bronze,mobile,social,credit card,electronics,2,665.71,0.13,3.0,3.4,False
+2021,male,37,antalya,bronze,mobile,referral,digital wallet,groceries,4,159.08,0.052,3.0,3.9,False
+2022,female,29,i̇stanbul,gold,mobile,paid search,bank transfer,home & kitchen,4,408.28,0.141,2.0,4.5,True
+2023,male,28,i̇stanbul,guest,mobile,social,credit card,fashion,2,269.12,0.221,3.0,3.0,False
+2020,male,34,i̇zmir,guest,mobile,organic,cash on delivery,electronics,1,710.37,0.055,2.0,3.2,False
+2018,female,29,antalya,silver,desktop,organic,debit card,books & stationery,2,127.78,0.058,3.0,3.9,False
+2021,male,29,gaziantep,silver,mobile,social,credit card,sports,1,123.2,0.256,2.74,3.4,False
+2024,female,38,konya,guest,mobile,paid search,cash on delivery,electronics,2,597.11,0.175,4.0,2.7,False
+2022,female,26,i̇stanbul,bronze,mobile,organic,credit card,fashion,2,480.79,0.018,2.0,5.0,False
+2022,male,25,antalya,silver,mobile,social,digital wallet,sports,2,543.03,0.165,3.0,3.9,False
+2022,male,18,konya,bronze,tablet,social,credit card,fashion,4,428.2,0.126,2.0,4.1,False
+2023,female,42,adana,silver,desktop,paid search,credit card,electronics,1,314.66,0.238,2.0,4.3,False
+2020,female,34,ankara,silver,mobile,social,credit card,electronics,1,499.57,0.16,3.0,3.7,False
+2023,male,25,mersin,bronze,mobile,email,debit card,fashion,3,633.23,0.238,3.0,4.2,True
+2018,female,40,i̇stanbul,silver,desktop,organic,credit card,fashion,1,116.76,0.152,3.0,3.3,True
+2018,female,29,kayseri,guest,desktop,organic,credit card,fashion,2,195.08,0.029,4.0,3.6,False
+2024,male,44,i̇stanbul,guest,mobile,referral,bank transfer,home & kitchen,2,389.38,0.143,1.0,3.4,True
+2020,male,46,kayseri,guest,mobile,paid search,credit card,books & stationery,2,117.71,0.145,2.0,3.8,True
+2022,female,36,i̇stanbul,bronze,mobile,organic,credit card,fashion,2,214.54,0.119,1.0,4.8,True
+2023,female,36,adana,bronze,mobile,paid search,cash on delivery,groceries,3,125.78,0.235,1.0,4.0,False
+2024,male,42,i̇stanbul,bronze,desktop,referral,cash on delivery,electronics,1,665.71,0.059,2.0,4.7,True
+2020,male,18,i̇stanbul,guest,mobile,paid search,debit card,groceries,4,219.99,0.168,2.0,4.3,False
+2022,female,40,ankara,silver,mobile,email,credit card,electronics,3,665.71,0.101,3.0,4.0,True
+2021,male,30,trabzon,bronze,mobile,paid search,credit card,electronics,2,1288.12,0.168,3.0,3.2,False
+2018,male,34,konya,bronze,desktop,referral,bank transfer,home & kitchen,2,610.74,0.136,2.0,4.4,True
+2019,male,37,i̇stanbul,guest,mobile,organic,credit card,electronics,2,1532.53,0.186,2.0,4.4,False
+2022,female,43,ankara,guest,mobile,organic,credit card,electronics,2,851.09,0.016,3.0,3.3,True
+2020,male,43,ankara,guest,mobile,email,debit card,electronics,3,665.71,0.13,3.0,4.4,False
+2024,male,23,i̇stanbul,silver,mobile,social,digital wallet,fashion,1,112.0,0.226,1.0,5.0,True
+2023,male,34,bursa,guest,mobile,social,debit card,groceries,2,480.34,0.236,2.0,4.8,False
+2020,female,27,antalya,guest,mobile,email,credit card,fashion,3,819.16,0.149,3.0,3.8,True
+2021,male,44,antalya,gold,mobile,paid search,credit card,electronics,1,511.17,0.233,4.0,2.9,False
+2018,female,42,i̇stanbul,silver,tablet,organic,credit card,home & kitchen,1,134.5,0.256,2.0,4.4,False
+2020,female,37,i̇zmir,bronze,mobile,organic,credit card,sports,2,518.39,0.119,3.0,4.1,False
+2021,female,35,kayseri,bronze,desktop,referral,bank transfer,home & kitchen,1,582.22,0.117,2.0,4.2,False
+2024,male,20,i̇stanbul,gold,mobile,email,credit card,home & kitchen,2,370.73,0.227,3.0,4.2,True
+2019,male,29,adana,bronze,mobile,paid search,cash on delivery,groceries,2,256.48,0.188,4.0,4.5,False
+2019,female,35,i̇stanbul,guest,mobile,social,debit card,home & kitchen,2,412.35,0.102,3.0,2.6,False
+2024,female,23,trabzon,bronze,desktop,email,digital wallet,groceries,4,181.82,0.18,2.68,4.5,False
+2021,male,38,konya,guest,mobile,referral,credit card,home & kitchen,2,665.71,0.0,3.0,4.5,False
+2021,female,26,bursa,guest,mobile,organic,credit card,home & kitchen,4,1217.9,0.073,2.0,4.1,False
+2020,female,29,i̇stanbul,guest,desktop,organic,credit card,electronics,1,1324.99,0.081,1.0,4.2,True
+2023,female,42,ankara,gold,mobile,social,credit card,fashion,2,239.65,0.253,3.0,4.5,True
+2022,male,18,eskişehir,bronze,mobile,organic,credit card,fashion,2,352.61,0.081,3.0,3.8,False
+2023,female,18,ankara,guest,mobile,social,credit card,fashion,3,598.06,0.061,2.0,4.1,False
+2018,male,28,adana,guest,desktop,paid search,credit card,beauty,4,781.6,0.085,2.0,5.0,False
+2019,male,50,konya,guest,mobile,paid search,credit card,electronics,1,500.4,0.201,3.0,4.1,False
+2023,female,48,ankara,bronze,mobile,paid search,credit card,fashion,2,419.39,0.137,2.0,4.1,True
+2022,male,26,antalya,bronze,mobile,paid search,credit card,books & stationery,1,69.69,0.076,2.0,4.9,False
+2022,female,32,i̇stanbul,guest,mobile,organic,digital wallet,home & kitchen,1,317.35,0.099,3.0,4.0,True
+2022,male,19,antalya,bronze,mobile,paid search,cash on delivery,groceries,2,1005.73,0.034,2.0,4.0,True
+2022,male,21,ankara,guest,mobile,social,bank transfer,beauty,1,160.46,0.155,2.0,4.7,False
+2020,female,47,i̇zmir,bronze,desktop,organic,cash on delivery,beauty,1,158.18,0.0,4.0,2.9,False
+2023,male,37,i̇stanbul,bronze,mobile,organic,credit card,groceries,4,410.3,0.173,2.0,4.7,False
+2021,female,33,i̇stanbul,guest,mobile,referral,cash on delivery,groceries,2,209.58,0.178,2.0,4.5,True
+2024,female,52,kayseri,bronze,mobile,organic,credit card,home & kitchen,1,199.18,0.067,3.0,4.3,False
+2023,male,49,trabzon,gold,mobile,social,digital wallet,home & kitchen,1,169.85,0.132,2.74,4.0,False
+2024,female,34,ankara,silver,mobile,social,credit card,books & stationery,2,775.97,0.105,2.0,4.8,True
+2021,male,44,i̇zmir,silver,tablet,social,credit card,sports,1,191.42,0.266,2.0,3.9,False
+2019,male,43,kayseri,bronze,mobile,social,credit card,home & kitchen,2,362.33,0.148,2.0,2.9,True
+2024,female,19,konya,bronze,mobile,paid search,cash on delivery,beauty,2,293.45,0.126,3.0,3.3,False
+2024,female,44,i̇stanbul,gold,mobile,paid search,cash on delivery,fashion,4,589.23,0.181,2.0,4.0,True
+2018,male,18,gaziantep,guest,mobile,paid search,credit card,fashion,1,108.12,0.23,2.74,2.6,False
+2018,male,56,antalya,silver,mobile,social,credit card,sports,3,755.89,0.172,3.0,3.7,True
+2021,female,49,i̇stanbul,gold,desktop,organic,credit card,fashion,3,660.8,0.231,3.0,4.2,True
+2019,male,33,i̇stanbul,guest,mobile,organic,bank transfer,fashion,3,268.1,0.113,3.0,3.6,False
+2022,male,23,antalya,bronze,mobile,organic,digital wallet,fashion,5,1642.16,0.13,4.0,3.5,False
+2021,male,19,bursa,gold,mobile,social,credit card,home & kitchen,3,541.04,0.198,2.0,3.7,True
+2022,male,27,ankara,guest,mobile,organic,cash on delivery,electronics,1,671.94,0.111,2.0,4.7,False
+2020,male,32,antalya,bronze,mobile,organic,credit card,sports,5,650.55,0.176,4.0,3.5,False
+2020,male,18,antalya,guest,desktop,paid search,debit card,fashion,1,147.23,0.127,4.0,3.5,True
+2021,female,50,eskişehir,guest,desktop,organic,credit card,home & kitchen,2,1450.95,0.071,3.0,3.4,False
+2020,female,53,ankara,gold,desktop,social,digital wallet,home & kitchen,4,705.11,0.09,2.0,4.3,False
+2019,female,33,i̇stanbul,silver,mobile,social,credit card,electronics,1,729.79,0.109,3.0,3.8,False
+2023,female,34,ankara,silver,mobile,organic,credit card,sports,1,468.83,0.108,3.0,3.2,False
+2023,female,28,bursa,silver,desktop,social,cash on delivery,home & kitchen,3,1165.79,0.241,2.0,4.3,True
+2021,male,23,kayseri,silver,desktop,paid search,cash on delivery,fashion,2,665.71,0.152,2.0,5.0,True
+2023,male,32,bursa,guest,mobile,organic,credit card,beauty,3,511.04,0.004,2.0,4.1,True
+2020,male,38,i̇zmir,silver,mobile,organic,credit card,electronics,1,665.71,0.105,3.0,3.8,True
+2019,male,34,bursa,guest,mobile,paid search,bank transfer,sports,2,487.97,0.184,3.0,4.8,False
+2018,female,40,i̇stanbul,guest,mobile,paid search,bank transfer,fashion,1,94.74,0.136,2.0,4.1,True
+2020,female,42,ankara,bronze,mobile,organic,credit card,fashion,1,63.12,0.132,3.0,4.9,True
+2020,female,47,i̇stanbul,bronze,mobile,organic,credit card,fashion,4,665.71,0.065,2.0,4.0,False
+2021,male,45,ankara,guest,mobile,email,credit card,fashion,1,358.29,0.264,3.0,2.9,False
+2020,male,34,gaziantep,bronze,tablet,paid search,credit card,groceries,6,476.49,0.229,3.0,4.02,True
+2022,female,36,ankara,gold,mobile,organic,cash on delivery,groceries,1,47.72,0.104,3.0,5.0,True
+2023,female,55,i̇stanbul,bronze,desktop,organic,debit card,groceries,2,249.84,0.132,1.0,4.8,False
+2022,male,32,i̇stanbul,bronze,mobile,paid search,digital wallet,electronics,4,665.71,0.307,3.0,3.8,True
+2023,female,23,mersin,bronze,mobile,paid search,credit card,sports,1,369.43,0.13,4.0,3.7,False
+2019,female,38,i̇zmir,gold,mobile,paid search,credit card,groceries,2,58.19,0.175,2.0,4.1,True
+2021,male,35,ankara,silver,mobile,organic,cash on delivery,fashion,1,234.36,0.098,3.0,4.6,True
+2019,male,31,i̇stanbul,gold,mobile,social,credit card,sports,1,137.5,0.135,2.0,3.7,False
+2021,female,32,i̇zmir,silver,mobile,social,credit card,electronics,1,1307.45,0.116,3.0,3.1,False
+2018,male,32,adana,bronze,desktop,email,digital wallet,home & kitchen,2,481.02,0.204,1.0,3.5,True
+2023,male,18,i̇stanbul,bronze,mobile,organic,bank transfer,home & kitchen,3,1224.23,0.039,2.74,3.0,False
+2020,female,29,konya,guest,mobile,organic,credit card,books & stationery,3,308.88,0.0,2.0,3.8,True
+2022,female,36,i̇stanbul,bronze,mobile,organic,digital wallet,sports,3,654.11,0.015,3.0,3.5,True
+2020,male,30,ankara,silver,mobile,organic,credit card,home & kitchen,3,279.43,0.107,4.0,2.9,False
+2020,male,21,kayseri,bronze,mobile,paid search,debit card,sports,3,665.71,0.271,2.0,4.0,False
+2024,female,24,kayseri,guest,mobile,social,digital wallet,beauty,2,367.42,0.256,3.0,3.6,False
+2023,male,32,i̇stanbul,guest,tablet,social,cash on delivery,fashion,6,512.45,0.161,3.0,3.4,False
+2023,male,34,bursa,bronze,mobile,organic,credit card,groceries,1,69.88,0.0,1.0,4.1,False
+2020,male,28,i̇stanbul,silver,mobile,organic,credit card,electronics,1,665.71,0.049,2.0,3.8,False
+2024,male,18,eskişehir,bronze,mobile,organic,cash on delivery,electronics,2,665.71,0.096,3.0,3.8,False
+2023,male,43,gaziantep,bronze,mobile,social,digital wallet,electronics,4,665.71,0.035,3.0,3.5,True
+2022,male,35,antalya,silver,mobile,paid search,credit card,electronics,2,859.3,0.155,2.0,4.1,False
+2022,female,32,kayseri,guest,mobile,social,credit card,groceries,6,241.68,0.111,3.0,3.1,False
+2021,male,18,i̇stanbul,silver,mobile,organic,bank transfer,home & kitchen,2,665.71,0.054,4.0,3.9,False
+2024,male,32,i̇stanbul,guest,desktop,organic,credit card,fashion,3,552.09,0.077,2.0,4.5,True
+2021,male,33,i̇stanbul,silver,mobile,organic,credit card,books & stationery,3,307.62,0.0,3.0,3.3,True
+2020,female,21,ankara,guest,desktop,organic,digital wallet,fashion,1,540.99,0.0,3.0,4.1,False
+2024,male,30,ankara,guest,mobile,organic,debit card,home & kitchen,2,902.07,0.089,1.0,4.4,True
+2019,male,35,ankara,gold,mobile,paid search,credit card,books & stationery,1,66.66,0.179,3.0,4.7,True
+2024,male,18,ankara,bronze,mobile,organic,debit card,electronics,4,665.71,0.0,2.0,4.7,True
+2024,female,26,ankara,bronze,mobile,paid search,credit card,fashion,5,486.45,0.058,4.0,4.2,False
+2024,female,22,ankara,silver,mobile,social,credit card,fashion,1,832.05,0.136,4.0,3.2,False
+2019,male,35,bursa,bronze,desktop,social,bank transfer,books & stationery,2,145.24,0.182,2.0,3.9,True
+2023,male,43,adana,silver,mobile,referral,credit card,books & stationery,2,164.74,0.031,3.0,3.1,True
+2021,male,19,i̇zmir,guest,mobile,organic,credit card,beauty,4,723.95,0.02,2.0,3.7,False
+2019,female,24,bursa,bronze,mobile,organic,credit card,groceries,2,311.3,0.05,3.0,3.5,True
+2021,male,30,eskişehir,guest,desktop,paid search,credit card,electronics,1,1035.23,0.126,3.0,4.6,False
+2019,female,29,i̇zmir,guest,mobile,paid search,credit card,books & stationery,1,115.63,0.28,3.0,4.2,False
+2020,female,46,i̇stanbul,gold,mobile,paid search,credit card,groceries,4,91.27,0.314,2.0,3.7,False
+2020,female,20,eskişehir,bronze,mobile,organic,digital wallet,beauty,1,254.72,0.165,3.0,4.4,False
+2023,male,18,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,1,366.56,0.036,3.0,4.0,False
+2021,male,26,i̇zmir,bronze,mobile,paid search,cash on delivery,beauty,3,415.63,0.233,4.0,3.5,False
+2019,male,44,ankara,guest,desktop,organic,credit card,electronics,1,665.71,0.037,4.0,4.5,True
+2020,male,24,i̇stanbul,bronze,mobile,social,credit card,electronics,2,763.85,0.148,4.0,4.0,False
+2023,male,18,i̇zmir,bronze,mobile,organic,debit card,beauty,1,72.05,0.138,2.0,3.9,True
+2024,male,24,ankara,silver,mobile,paid search,digital wallet,fashion,5,1095.33,0.169,4.0,4.2,False
+2020,male,41,i̇stanbul,bronze,mobile,organic,credit card,sports,1,114.63,0.061,4.0,3.5,False
+2019,female,22,i̇zmir,bronze,mobile,social,credit card,sports,3,889.54,0.094,3.0,4.1,False
+2022,male,40,ankara,silver,mobile,email,credit card,home & kitchen,4,665.71,0.087,3.0,4.1,False
+2023,female,30,i̇stanbul,bronze,mobile,organic,debit card,home & kitchen,4,665.71,0.073,4.0,3.8,False
+2021,female,46,i̇stanbul,silver,tablet,organic,debit card,home & kitchen,1,236.95,0.126,2.0,3.6,False
+2018,female,49,i̇stanbul,silver,mobile,referral,bank transfer,beauty,1,73.03,0.028,3.0,4.4,False
+2024,female,27,i̇stanbul,gold,mobile,organic,credit card,fashion,2,240.66,0.149,2.0,4.2,True
+2022,male,18,ankara,guest,desktop,paid search,cash on delivery,home & kitchen,1,493.85,0.245,3.0,4.1,False
+2022,male,18,i̇stanbul,silver,mobile,referral,debit card,electronics,1,1213.97,0.093,1.0,3.7,True
+2021,female,18,i̇stanbul,silver,mobile,social,digital wallet,home & kitchen,2,452.42,0.147,1.0,3.3,True
+2018,male,24,i̇stanbul,guest,mobile,email,debit card,electronics,1,327.42,0.118,2.0,5.0,False
+2018,male,42,adana,guest,desktop,referral,credit card,electronics,1,530.36,0.066,3.0,3.5,False
+2018,female,44,i̇stanbul,guest,mobile,social,credit card,home & kitchen,3,963.57,0.151,1.0,4.9,True
+2019,male,32,antalya,bronze,desktop,organic,credit card,books & stationery,1,116.01,0.131,2.0,4.3,False
+2023,female,26,bursa,gold,mobile,organic,bank transfer,electronics,3,665.71,0.18,2.0,4.5,True
+2024,male,20,eskişehir,guest,mobile,organic,cash on delivery,home & kitchen,1,182.29,0.095,3.0,3.8,True
+2021,male,45,i̇stanbul,silver,mobile,organic,credit card,beauty,3,423.72,0.012,2.0,4.5,True
+2020,female,41,antalya,silver,mobile,organic,credit card,fashion,2,324.57,0.044,3.0,3.0,False
+2022,female,18,konya,silver,mobile,organic,credit card,groceries,5,255.94,0.214,4.0,3.1,False
+2023,male,34,antalya,bronze,desktop,social,credit card,fashion,4,665.71,0.208,3.0,4.6,False
+2023,female,29,ankara,guest,mobile,paid search,credit card,home & kitchen,1,236.5,0.168,2.0,3.8,True
+2019,male,36,mersin,guest,desktop,organic,credit card,electronics,1,665.71,0.0,2.0,4.2,False
+2022,female,38,bursa,guest,mobile,organic,credit card,fashion,5,1062.12,0.103,4.0,3.9,False
+2019,female,36,ankara,bronze,mobile,organic,credit card,groceries,4,166.49,0.097,3.0,3.5,True
+2019,male,26,gaziantep,guest,mobile,paid search,digital wallet,home & kitchen,1,239.62,0.112,3.0,3.8,False
+2022,male,39,i̇zmir,gold,mobile,social,credit card,home & kitchen,1,235.37,0.159,2.0,4.0,False
+2020,female,42,i̇stanbul,silver,mobile,social,credit card,home & kitchen,1,138.94,0.258,1.0,3.8,False
+2019,female,18,i̇zmir,guest,mobile,organic,cash on delivery,home & kitchen,2,431.37,0.092,4.0,4.5,True
+2022,female,39,trabzon,gold,mobile,email,credit card,fashion,1,130.13,0.251,3.0,3.9,False
+2018,female,35,i̇stanbul,guest,desktop,organic,bank transfer,groceries,3,235.35,0.106,2.0,4.5,True
+2022,female,47,i̇stanbul,silver,mobile,organic,cash on delivery,home & kitchen,2,1053.19,0.104,2.0,4.0,True
+2024,female,38,ankara,silver,mobile,social,credit card,groceries,2,61.61,0.214,3.0,4.3,False
+2021,male,33,ankara,silver,desktop,organic,credit card,electronics,1,1276.35,0.135,1.0,4.02,False
+2024,male,38,gaziantep,bronze,desktop,social,credit card,home & kitchen,2,718.81,0.205,4.0,4.02,True
+2019,female,31,antalya,bronze,mobile,social,credit card,home & kitchen,2,557.32,0.178,2.0,3.1,True
+2019,male,41,i̇stanbul,gold,mobile,paid search,credit card,electronics,2,1108.07,0.185,2.0,4.2,False
+2023,male,30,ankara,guest,mobile,social,credit card,groceries,1,74.85,0.149,3.0,4.6,True
+2022,male,21,ankara,guest,mobile,organic,credit card,fashion,4,488.51,0.001,3.0,3.7,False
+2018,male,28,mersin,silver,desktop,referral,credit card,electronics,1,543.34,0.115,2.0,4.2,False
+2024,female,18,i̇stanbul,guest,desktop,social,credit card,sports,2,275.82,0.145,3.0,4.3,False
+2024,female,36,gaziantep,bronze,mobile,paid search,credit card,electronics,1,608.14,0.124,2.74,3.1,False
+2019,male,45,ankara,gold,mobile,social,credit card,home & kitchen,1,128.82,0.2,4.0,3.4,False
+2024,male,47,i̇zmir,bronze,desktop,organic,digital wallet,sports,1,199.74,0.167,2.68,4.5,True
+2022,female,18,i̇stanbul,guest,mobile,referral,cash on delivery,fashion,3,840.32,0.166,2.0,3.6,False
+2024,female,32,kayseri,gold,mobile,email,cash on delivery,electronics,1,906.36,0.21,4.0,3.9,False
+2020,male,29,konya,bronze,mobile,organic,debit card,books & stationery,3,440.67,0.1,2.0,3.3,False
+2021,female,37,i̇zmir,bronze,mobile,organic,credit card,sports,5,835.4,0.188,2.0,3.7,False
+2018,female,20,ankara,bronze,mobile,social,credit card,groceries,4,330.41,0.097,2.0,4.2,False
+2018,male,42,mersin,gold,mobile,referral,credit card,electronics,1,249.35,0.123,4.0,4.1,True
+2023,female,31,adana,bronze,desktop,organic,credit card,beauty,1,148.5,0.096,4.0,3.4,False
+2022,female,43,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,1,491.16,0.061,2.0,4.5,False
+2024,female,26,i̇zmir,bronze,tablet,social,debit card,electronics,1,665.71,0.105,3.0,4.6,True
+2019,female,32,konya,bronze,mobile,email,debit card,beauty,1,98.43,0.192,3.0,4.0,True
+2021,female,34,trabzon,bronze,mobile,social,credit card,beauty,2,174.45,0.311,3.0,3.0,False
+2022,male,47,mersin,silver,desktop,organic,cash on delivery,home & kitchen,2,1092.48,0.047,2.0,4.3,True
+2019,male,34,ankara,guest,desktop,paid search,bank transfer,fashion,2,658.1,0.193,4.0,2.7,False
+2023,female,58,i̇zmir,silver,desktop,organic,cash on delivery,fashion,2,503.23,0.022,2.0,4.9,True
+2023,male,48,i̇stanbul,bronze,desktop,social,cash on delivery,home & kitchen,3,977.4,0.147,2.0,3.8,False
+2019,female,28,gaziantep,guest,mobile,organic,credit card,sports,4,665.71,0.107,2.0,4.5,False
+2023,male,44,i̇stanbul,bronze,mobile,organic,credit card,fashion,3,650.89,0.123,3.0,3.6,False
+2019,male,20,ankara,bronze,mobile,organic,credit card,books & stationery,6,678.89,0.041,4.0,4.1,False
+2019,male,47,konya,bronze,mobile,email,credit card,beauty,2,415.37,0.118,4.0,4.2,True
+2023,female,30,bursa,gold,mobile,paid search,digital wallet,fashion,1,115.32,0.184,2.0,3.6,True
+2023,male,27,antalya,guest,mobile,organic,credit card,home & kitchen,1,428.64,0.055,2.0,4.7,True
+2021,female,18,ankara,silver,mobile,organic,credit card,sports,3,796.72,0.157,2.0,3.2,True
+2023,female,36,adana,guest,mobile,social,credit card,groceries,3,131.22,0.228,3.0,3.5,False
+2024,female,18,i̇zmir,guest,mobile,organic,cash on delivery,electronics,1,726.37,0.14,3.0,4.6,True
+2024,male,22,i̇stanbul,bronze,mobile,organic,credit card,groceries,2,525.15,0.109,1.0,3.6,True
+2021,female,27,i̇zmir,silver,mobile,organic,bank transfer,beauty,1,221.9,0.149,4.0,3.7,False
+2022,male,39,gaziantep,silver,mobile,organic,credit card,home & kitchen,1,359.9,0.086,2.74,4.3,False
+2020,female,42,i̇zmir,silver,desktop,email,credit card,home & kitchen,3,867.32,0.251,2.0,3.4,True
+2019,female,30,mersin,silver,mobile,organic,credit card,fashion,2,420.48,0.0,1.0,4.0,False
+2020,male,33,i̇stanbul,guest,mobile,organic,credit card,fashion,2,372.46,0.085,3.0,3.8,True
+2020,male,20,adana,bronze,desktop,paid search,cash on delivery,groceries,3,146.1,0.134,2.0,4.9,False
+2021,female,18,i̇stanbul,gold,mobile,paid search,credit card,fashion,5,665.71,0.152,3.0,3.8,True
+2023,female,29,ankara,guest,desktop,organic,debit card,books & stationery,4,342.6,0.116,2.0,5.0,False
+2023,male,38,i̇stanbul,guest,desktop,paid search,credit card,sports,1,196.07,0.184,3.0,3.8,False
+2022,female,24,i̇stanbul,bronze,desktop,organic,cash on delivery,home & kitchen,2,1034.79,0.092,2.0,3.8,False
+2023,female,25,ankara,bronze,mobile,organic,debit card,home & kitchen,2,1303.79,0.116,4.0,4.0,True
+2020,male,34,ankara,silver,mobile,paid search,cash on delivery,fashion,3,339.34,0.171,3.0,4.1,True
+2018,male,21,ankara,silver,mobile,organic,debit card,electronics,1,278.23,0.063,2.0,5.0,True
+2023,female,18,i̇stanbul,gold,mobile,social,credit card,home & kitchen,1,186.82,0.215,2.0,3.5,False
+2018,female,44,konya,guest,desktop,organic,debit card,fashion,2,292.23,0.0,3.0,3.8,False
+2021,male,28,bursa,silver,mobile,paid search,credit card,fashion,1,149.11,0.213,2.0,2.9,True
+2024,female,33,bursa,bronze,mobile,paid search,digital wallet,electronics,3,893.58,0.16,4.0,4.1,False
+2020,male,18,i̇stanbul,gold,tablet,organic,debit card,fashion,2,509.22,0.088,3.0,4.1,True
+2019,male,23,i̇stanbul,guest,mobile,social,bank transfer,beauty,5,393.43,0.291,1.0,4.6,True
+2022,male,18,adana,guest,mobile,organic,credit card,home & kitchen,1,317.42,0.181,2.0,3.7,False
+2021,male,54,mersin,guest,mobile,email,digital wallet,fashion,1,336.01,0.105,3.0,3.9,False
+2019,female,30,adana,gold,mobile,email,credit card,fashion,2,642.77,0.232,2.0,4.3,True
+2019,female,27,bursa,bronze,mobile,paid search,cash on delivery,sports,1,147.68,0.044,2.0,3.5,False
+2021,male,30,i̇zmir,silver,desktop,paid search,credit card,beauty,1,203.69,0.119,2.0,4.6,False
+2020,male,19,i̇stanbul,gold,mobile,organic,credit card,fashion,2,321.42,0.148,2.0,4.2,True
+2021,male,60,i̇zmir,gold,mobile,organic,credit card,home & kitchen,2,838.64,0.093,3.0,4.5,True
+2024,male,39,i̇zmir,bronze,desktop,social,credit card,beauty,3,368.63,0.114,3.0,3.7,False
+2022,female,23,i̇stanbul,gold,desktop,paid search,cash on delivery,sports,3,522.6,0.207,3.0,4.4,True
+2020,male,18,antalya,bronze,mobile,paid search,cash on delivery,groceries,2,68.61,0.193,3.0,4.8,True
+2022,male,32,bursa,silver,tablet,paid search,credit card,fashion,3,806.84,0.13,2.0,3.6,False
+2023,female,35,i̇zmir,gold,mobile,social,credit card,electronics,1,576.55,0.249,2.0,4.4,True
+2021,female,28,i̇zmir,guest,mobile,social,credit card,home & kitchen,3,1603.47,0.233,2.0,4.1,True
+2024,female,37,i̇zmir,bronze,desktop,organic,credit card,electronics,5,665.71,0.13,4.0,4.3,True
+2019,female,34,konya,bronze,mobile,organic,credit card,groceries,3,160.04,0.0,2.0,3.0,False
+2020,female,35,i̇zmir,silver,mobile,organic,cash on delivery,fashion,2,294.47,0.028,3.0,4.1,True
+2024,male,31,ankara,silver,mobile,email,debit card,beauty,3,355.14,0.168,3.0,3.8,False
+2019,female,23,i̇stanbul,silver,mobile,social,credit card,fashion,1,169.62,0.14,1.0,4.0,False
+2023,male,37,bursa,bronze,mobile,paid search,credit card,sports,2,513.64,0.159,2.0,5.0,False
+2020,male,25,ankara,guest,mobile,paid search,bank transfer,beauty,2,222.46,0.1,2.0,3.6,False
+2023,female,32,konya,guest,mobile,organic,cash on delivery,sports,2,762.08,0.1,1.0,5.0,False
+2023,female,47,i̇zmir,guest,mobile,organic,debit card,fashion,5,1338.95,0.138,3.0,4.3,False
+2023,male,25,ankara,bronze,desktop,social,cash on delivery,sports,1,108.92,0.165,3.0,4.2,True
+2024,female,18,i̇stanbul,bronze,mobile,social,credit card,fashion,1,137.89,0.174,2.0,3.7,False
+2019,female,43,ankara,silver,desktop,organic,digital wallet,beauty,3,448.69,0.162,3.0,3.9,False
+2020,female,33,i̇stanbul,guest,mobile,organic,cash on delivery,electronics,2,513.64,0.167,2.0,4.2,False
+2018,female,29,gaziantep,silver,mobile,paid search,cash on delivery,fashion,1,262.69,0.106,3.0,3.8,False
+2022,male,27,i̇stanbul,bronze,mobile,organic,cash on delivery,fashion,6,1038.91,0.071,2.0,4.7,False
+2024,female,27,i̇stanbul,guest,desktop,organic,debit card,sports,2,297.26,0.176,2.0,4.9,False
+2024,male,24,antalya,silver,mobile,email,credit card,home & kitchen,3,907.8,0.264,3.0,4.3,False
+2024,female,31,antalya,guest,desktop,referral,credit card,electronics,1,586.26,0.189,3.0,4.4,True
+2021,female,33,kayseri,silver,mobile,email,credit card,electronics,1,1043.05,0.202,4.0,4.0,False
+2021,male,22,i̇stanbul,bronze,mobile,paid search,credit card,fashion,5,665.71,0.308,2.0,5.0,True
+2018,female,28,i̇stanbul,silver,mobile,organic,credit card,books & stationery,3,221.77,0.151,2.0,3.9,False
+2023,male,28,ankara,silver,desktop,paid search,credit card,books & stationery,2,98.98,0.275,3.0,3.6,False
+2018,female,42,bursa,guest,mobile,social,credit card,electronics,1,535.24,0.219,3.0,4.7,False
+2019,male,29,adana,silver,mobile,organic,debit card,sports,2,544.96,0.082,2.0,4.2,False
+2021,female,35,i̇zmir,bronze,tablet,social,credit card,books & stationery,2,331.03,0.107,1.0,5.0,False
+2020,male,41,eskişehir,guest,desktop,social,credit card,fashion,3,483.99,0.108,3.0,4.8,False
+2019,male,33,i̇stanbul,silver,mobile,paid search,cash on delivery,home & kitchen,4,657.87,0.056,1.0,3.3,True
+2022,female,27,eskişehir,guest,tablet,social,cash on delivery,fashion,6,800.05,0.214,4.0,3.6,False
+2021,male,38,antalya,guest,desktop,social,credit card,beauty,1,81.11,0.204,4.0,4.6,False
+2021,female,40,i̇zmir,guest,mobile,email,credit card,home & kitchen,1,280.69,0.18,3.0,4.1,False
+2024,female,21,mersin,gold,mobile,email,digital wallet,electronics,1,840.59,0.212,2.0,4.6,True
+2022,male,34,ankara,guest,mobile,email,bank transfer,home & kitchen,2,808.43,0.16,2.0,4.5,True
+2024,female,37,antalya,guest,mobile,email,credit card,electronics,2,665.71,0.199,3.0,4.4,False
+2021,male,18,i̇stanbul,guest,mobile,email,cash on delivery,electronics,1,665.71,0.146,3.0,3.9,True
+2019,male,28,eskişehir,guest,mobile,social,credit card,groceries,3,152.86,0.128,4.0,4.2,False
+2019,female,31,adana,guest,desktop,email,cash on delivery,home & kitchen,1,328.69,0.294,3.0,4.1,False
+2021,female,51,i̇zmir,guest,mobile,paid search,debit card,electronics,2,1254.06,0.185,2.0,4.5,False
+2022,male,30,i̇stanbul,silver,mobile,organic,debit card,books & stationery,2,938.17,0.149,1.0,5.0,True
+2019,male,33,i̇zmir,silver,mobile,referral,credit card,books & stationery,3,153.13,0.176,4.0,2.6,False
+2018,male,31,ankara,guest,tablet,organic,credit card,books & stationery,2,343.62,0.129,3.0,3.6,False
+2024,male,38,bursa,gold,mobile,email,credit card,beauty,2,126.54,0.163,2.0,4.0,False
+2024,female,22,trabzon,silver,mobile,paid search,credit card,electronics,2,617.55,0.165,2.74,3.7,True
+2024,female,32,i̇stanbul,guest,mobile,paid search,credit card,home & kitchen,1,446.23,0.084,1.0,4.3,True
+2024,male,28,i̇stanbul,silver,mobile,organic,cash on delivery,home & kitchen,4,979.2,0.149,2.0,4.5,True
+2020,female,30,i̇stanbul,bronze,mobile,organic,credit card,electronics,1,467.54,0.067,3.0,3.9,False
+2019,female,18,bursa,silver,desktop,paid search,cash on delivery,fashion,4,655.16,0.121,2.0,5.0,False
+2018,female,35,i̇stanbul,bronze,mobile,email,credit card,sports,3,770.83,0.219,2.0,4.8,False
+2024,female,29,i̇stanbul,bronze,mobile,organic,credit card,groceries,5,328.63,0.127,2.0,4.2,True
+2022,female,28,adana,silver,tablet,paid search,credit card,electronics,1,1141.97,0.113,3.0,3.5,False
+2019,female,26,bursa,silver,mobile,email,cash on delivery,fashion,2,420.16,0.154,3.0,4.2,False
+2021,female,45,bursa,bronze,desktop,social,credit card,home & kitchen,2,332.17,0.084,3.0,3.3,False
+2019,male,33,antalya,bronze,mobile,paid search,debit card,electronics,2,771.72,0.145,3.0,3.8,False
+2024,female,26,konya,guest,mobile,organic,cash on delivery,books & stationery,3,540.46,0.0,3.0,3.2,False
+2023,male,41,i̇stanbul,silver,mobile,organic,cash on delivery,home & kitchen,1,443.8,0.2,4.0,3.2,False
+2018,male,29,gaziantep,silver,mobile,referral,credit card,home & kitchen,4,637.84,0.244,2.74,3.2,True
+2020,male,23,antalya,bronze,mobile,organic,cash on delivery,fashion,6,489.54,0.089,3.0,3.2,False
+2022,female,43,ankara,guest,mobile,referral,credit card,beauty,2,207.96,0.182,2.0,4.7,False
+2018,female,18,mersin,silver,mobile,organic,credit card,groceries,5,593.04,0.05,3.0,3.6,True
+2019,male,35,i̇stanbul,guest,mobile,organic,credit card,beauty,4,296.08,0.19,2.0,4.9,True
+2021,female,18,bursa,bronze,mobile,organic,digital wallet,books & stationery,2,756.29,0.118,3.0,3.8,False
+2019,female,39,ankara,bronze,mobile,social,credit card,electronics,1,1465.63,0.203,2.0,4.5,False
+2023,male,30,adana,gold,tablet,social,bank transfer,groceries,3,188.06,0.195,4.0,3.0,False
+2024,female,28,ankara,silver,mobile,organic,digital wallet,sports,1,456.61,0.068,3.0,4.0,False
+2020,male,34,mersin,silver,desktop,organic,digital wallet,beauty,1,80.97,0.146,4.0,3.3,False
+2019,male,18,i̇stanbul,bronze,mobile,paid search,credit card,home & kitchen,3,618.5,0.147,2.0,3.8,False
+2018,female,18,antalya,bronze,desktop,organic,credit card,beauty,1,97.29,0.074,3.0,3.4,False
+2024,female,27,i̇stanbul,guest,mobile,paid search,credit card,fashion,5,759.62,0.242,2.0,3.9,False
+2020,female,50,i̇zmir,bronze,desktop,social,credit card,groceries,1,59.45,0.181,4.0,3.9,True
+2020,male,50,i̇stanbul,gold,mobile,paid search,cash on delivery,fashion,6,1169.08,0.233,2.0,3.7,True
+2018,female,26,i̇stanbul,bronze,mobile,paid search,debit card,groceries,3,222.72,0.155,2.0,4.7,False
+2020,male,34,i̇zmir,silver,desktop,social,credit card,home & kitchen,3,1067.1,0.185,2.0,4.6,True
+2021,male,39,eskişehir,bronze,mobile,paid search,credit card,fashion,2,498.1,0.096,4.0,3.5,True
+2024,male,35,i̇zmir,bronze,mobile,organic,debit card,fashion,1,157.91,0.07,2.0,4.3,False
+2019,male,32,bursa,guest,mobile,organic,credit card,electronics,2,665.71,0.135,3.0,4.0,False
+2023,male,46,ankara,gold,desktop,paid search,credit card,groceries,6,487.77,0.253,3.0,4.2,False
+2024,female,28,i̇stanbul,gold,mobile,paid search,credit card,fashion,1,263.57,0.136,2.0,3.5,True
+2019,male,40,bursa,bronze,desktop,paid search,cash on delivery,electronics,1,722.56,0.153,2.0,4.1,True
+2023,male,25,konya,silver,mobile,organic,credit card,home & kitchen,1,202.03,0.075,3.0,3.2,True
+2023,male,37,kayseri,silver,mobile,paid search,credit card,electronics,2,1646.31,0.146,2.0,4.7,False
+2018,female,35,ankara,silver,desktop,paid search,credit card,home & kitchen,2,243.42,0.193,3.0,4.0,False
+2023,male,21,i̇zmir,bronze,mobile,organic,credit card,electronics,1,888.19,0.132,3.0,3.6,True
+2023,male,32,ankara,guest,desktop,organic,credit card,home & kitchen,1,346.04,0.084,2.0,4.8,False
+2023,female,18,ankara,bronze,tablet,social,credit card,fashion,2,899.36,0.207,3.0,4.9,True
+2021,female,39,kayseri,silver,tablet,email,debit card,fashion,4,1002.91,0.077,3.0,5.0,True
+2024,female,28,ankara,silver,desktop,organic,credit card,sports,3,552.93,0.12,4.0,4.1,False
+2024,male,20,i̇stanbul,bronze,desktop,organic,cash on delivery,books & stationery,3,589.07,0.152,2.0,3.5,False
+2021,male,35,ankara,silver,mobile,paid search,digital wallet,fashion,3,707.06,0.131,3.0,4.3,False
+2023,male,37,i̇stanbul,silver,mobile,email,debit card,sports,3,600.81,0.13,3.0,3.8,False
+2020,male,35,bursa,bronze,mobile,social,cash on delivery,groceries,2,124.74,0.156,2.0,4.2,True
+2022,male,36,i̇stanbul,guest,mobile,social,credit card,sports,2,256.84,0.137,3.0,3.3,False
+2024,female,35,i̇stanbul,guest,desktop,email,credit card,fashion,2,237.75,0.167,2.0,3.5,True
+2024,female,25,i̇zmir,bronze,mobile,paid search,debit card,home & kitchen,3,1262.39,0.052,1.0,3.0,False
+2024,male,48,i̇stanbul,bronze,desktop,email,cash on delivery,fashion,2,595.58,0.155,1.0,5.0,False
+2021,male,31,mersin,silver,mobile,organic,credit card,books & stationery,1,83.12,0.199,3.0,4.5,False
+2018,male,21,i̇stanbul,bronze,mobile,social,credit card,beauty,2,633.79,0.144,2.0,5.0,False
+2021,male,29,i̇stanbul,bronze,desktop,paid search,cash on delivery,beauty,2,725.21,0.135,3.0,3.4,True
+2018,female,27,konya,silver,mobile,email,bank transfer,beauty,1,140.82,0.158,3.0,3.3,True
+2018,female,30,bursa,bronze,desktop,organic,credit card,fashion,1,117.17,0.113,2.0,4.0,True
+2024,male,32,ankara,bronze,mobile,organic,credit card,beauty,2,417.07,0.158,3.0,3.1,True
+2024,male,31,ankara,bronze,mobile,organic,bank transfer,fashion,5,1160.35,0.158,2.0,4.5,True
+2024,male,29,i̇stanbul,bronze,mobile,paid search,credit card,books & stationery,3,328.02,0.272,2.0,4.3,True
+2019,female,38,mersin,guest,desktop,paid search,credit card,sports,1,240.43,0.118,3.0,4.2,False
+2023,female,33,i̇stanbul,silver,mobile,organic,credit card,electronics,4,665.71,0.067,3.0,4.2,True
+2020,male,39,ankara,silver,desktop,organic,credit card,home & kitchen,2,370.2,0.023,2.0,4.8,True
+2021,female,18,ankara,bronze,mobile,email,bank transfer,fashion,3,447.53,0.149,2.0,4.6,True
+2023,male,35,kayseri,bronze,mobile,referral,bank transfer,books & stationery,4,246.09,0.175,3.0,2.8,False
+2024,male,21,mersin,bronze,mobile,email,credit card,fashion,3,475.5,0.233,3.0,2.8,True
+2021,male,18,i̇stanbul,silver,mobile,email,debit card,groceries,2,247.83,0.153,3.0,3.2,False
+2020,female,24,antalya,silver,mobile,email,credit card,fashion,3,593.38,0.302,3.0,3.3,True
+2024,female,52,ankara,bronze,desktop,paid search,debit card,sports,1,132.54,0.165,1.0,4.7,True
+2019,female,26,ankara,guest,mobile,paid search,credit card,beauty,4,487.64,0.22,2.0,4.0,False
+2019,male,46,antalya,bronze,desktop,social,credit card,home & kitchen,2,432.95,0.13,4.0,3.9,True
+2019,male,35,i̇zmir,bronze,desktop,paid search,credit card,home & kitchen,1,143.02,0.15,3.0,4.1,False
+2021,male,34,i̇zmir,bronze,mobile,paid search,bank transfer,home & kitchen,2,549.78,0.173,4.0,3.3,False
+2019,male,34,i̇stanbul,bronze,mobile,organic,cash on delivery,electronics,1,1242.28,0.121,3.0,4.1,False
+2024,female,18,i̇stanbul,guest,mobile,organic,credit card,beauty,1,244.77,0.13,1.0,4.9,True
+2022,male,18,i̇stanbul,guest,desktop,email,digital wallet,electronics,2,717.8,0.219,3.0,3.8,False
+2018,male,47,i̇zmir,bronze,desktop,referral,credit card,fashion,3,544.57,0.058,2.0,3.2,False
+2018,male,34,gaziantep,bronze,mobile,organic,debit card,beauty,1,143.47,0.061,3.0,4.1,True
+2024,male,41,i̇stanbul,gold,mobile,email,credit card,books & stationery,2,246.77,0.149,2.0,5.0,False
+2024,male,23,i̇stanbul,guest,mobile,email,credit card,fashion,2,665.71,0.079,2.0,5.0,False
+2018,female,18,i̇stanbul,silver,mobile,organic,credit card,home & kitchen,1,828.33,0.146,2.0,4.7,True
+2024,female,18,konya,bronze,desktop,email,credit card,fashion,1,1395.01,0.103,1.0,5.0,True
+2020,male,30,konya,guest,desktop,email,cash on delivery,books & stationery,1,79.84,0.166,3.0,4.3,True
+2023,male,24,i̇stanbul,guest,mobile,email,credit card,books & stationery,3,573.95,0.207,3.0,3.9,False
+2021,female,32,bursa,guest,mobile,paid search,credit card,fashion,2,346.27,0.125,2.0,4.5,False
+2022,male,33,kayseri,bronze,desktop,social,credit card,home & kitchen,1,137.96,0.131,2.74,2.9,True
+2018,female,34,konya,bronze,mobile,paid search,credit card,sports,2,573.37,0.13,2.0,4.5,True
+2024,male,51,antalya,silver,mobile,organic,bank transfer,groceries,4,225.66,0.06,3.0,3.0,True
+2023,female,32,adana,silver,mobile,referral,credit card,fashion,4,692.25,0.059,3.0,4.5,True
+2018,female,25,gaziantep,silver,mobile,organic,debit card,electronics,1,353.2,0.073,4.0,3.2,True
+2023,female,34,i̇zmir,bronze,desktop,social,credit card,fashion,2,657.0,0.216,3.0,4.0,False
+2022,female,34,i̇stanbul,bronze,mobile,organic,debit card,home & kitchen,6,723.9,0.091,3.0,3.7,True
+2019,male,21,adana,silver,mobile,social,credit card,sports,3,342.97,0.14,3.0,4.1,False
+2020,male,42,i̇stanbul,bronze,desktop,organic,credit card,electronics,2,1009.37,0.065,1.0,4.4,False
+2023,male,24,i̇stanbul,bronze,mobile,paid search,debit card,home & kitchen,1,400.27,0.202,2.0,4.0,True
+2024,male,21,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,3,737.2,0.069,1.0,3.9,False
+2023,female,34,bursa,guest,mobile,organic,debit card,groceries,3,176.67,0.232,3.0,4.02,True
+2023,female,18,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,2,236.09,0.081,2.0,4.8,False
+2024,male,40,i̇stanbul,silver,mobile,organic,credit card,home & kitchen,2,789.0,0.015,4.0,4.02,False
+2019,male,28,i̇zmir,bronze,mobile,organic,debit card,beauty,6,1121.26,0.158,3.0,4.1,False
+2024,female,26,i̇stanbul,guest,mobile,paid search,credit card,home & kitchen,1,120.35,0.115,2.0,4.0,False
+2022,female,40,konya,bronze,desktop,organic,cash on delivery,electronics,1,818.12,0.11,3.0,3.1,True
+2020,female,32,konya,silver,mobile,paid search,credit card,home & kitchen,1,240.88,0.185,4.0,3.6,True
+2020,male,19,i̇stanbul,gold,mobile,organic,debit card,groceries,2,310.95,0.106,3.0,4.2,False
+2022,female,18,trabzon,bronze,mobile,social,cash on delivery,groceries,4,232.39,0.206,2.0,4.3,True
+2018,male,33,antalya,silver,mobile,organic,credit card,groceries,5,412.24,0.179,2.0,4.4,False
+2021,male,35,ankara,bronze,mobile,referral,credit card,home & kitchen,2,930.79,0.142,3.0,4.1,False
+2023,female,22,i̇zmir,guest,mobile,paid search,credit card,sports,1,346.24,0.054,3.0,4.0,False
+2024,female,21,ankara,guest,mobile,organic,credit card,fashion,5,1447.25,0.177,4.0,4.1,False
+2021,female,20,bursa,guest,mobile,organic,bank transfer,books & stationery,1,103.91,0.066,2.0,4.1,True
+2023,male,38,konya,guest,mobile,paid search,credit card,groceries,6,482.02,0.186,4.0,3.4,False
+2022,female,43,i̇stanbul,bronze,mobile,organic,debit card,home & kitchen,3,579.13,0.164,2.0,2.4,False
+2023,male,31,trabzon,guest,desktop,social,credit card,sports,2,175.22,0.146,2.0,3.5,False
+2022,female,32,adana,guest,mobile,organic,digital wallet,electronics,1,565.69,0.0,3.0,3.9,False
+2023,male,32,i̇stanbul,bronze,mobile,organic,credit card,sports,2,725.71,0.089,1.0,3.6,True
+2021,female,19,i̇stanbul,guest,desktop,organic,credit card,groceries,4,140.33,0.137,1.0,3.8,False
+2020,female,33,antalya,bronze,mobile,email,credit card,sports,2,322.1,0.207,2.0,4.02,False
+2020,male,40,mersin,silver,mobile,email,debit card,beauty,3,203.46,0.215,3.0,3.6,False
+2021,female,32,trabzon,silver,desktop,organic,credit card,electronics,1,1401.71,0.046,4.0,4.1,False
+2022,male,54,bursa,bronze,mobile,paid search,credit card,home & kitchen,1,159.31,0.099,2.0,4.9,False
+2023,female,19,mersin,guest,desktop,paid search,credit card,sports,2,322.34,0.176,2.74,2.7,False
+2020,female,20,antalya,bronze,mobile,referral,credit card,groceries,2,64.14,0.168,4.0,4.02,True
+2022,male,50,konya,bronze,mobile,paid search,credit card,groceries,4,232.94,0.206,2.0,3.9,False
+2019,male,23,i̇stanbul,guest,mobile,social,credit card,groceries,3,178.9,0.193,1.0,4.0,False
+2024,female,39,i̇zmir,bronze,desktop,paid search,credit card,beauty,1,232.53,0.07,3.0,4.4,False
+2023,female,20,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,2,1494.93,0.0,2.74,4.3,True
+2022,female,18,i̇stanbul,bronze,mobile,organic,cash on delivery,electronics,1,486.04,0.058,4.0,3.3,False
+2024,male,46,i̇stanbul,bronze,mobile,social,bank transfer,electronics,1,280.07,0.209,4.0,3.6,False
+2024,male,27,i̇stanbul,gold,mobile,social,credit card,beauty,2,352.69,0.083,3.0,4.5,False
+2021,male,32,i̇stanbul,silver,desktop,paid search,credit card,groceries,2,62.77,0.211,1.0,4.0,False
+2023,female,27,ankara,guest,mobile,organic,cash on delivery,beauty,2,346.59,0.041,2.0,3.9,False
+2023,male,56,mersin,bronze,mobile,paid search,debit card,sports,4,526.79,0.113,4.0,4.1,True
+2022,male,43,mersin,silver,desktop,social,credit card,electronics,1,368.29,0.244,4.0,3.0,False
+2019,female,33,ankara,bronze,mobile,paid search,credit card,fashion,1,170.61,0.129,3.0,4.2,False
+2023,female,34,bursa,silver,desktop,social,digital wallet,fashion,4,404.0,0.224,1.0,4.2,False
+2021,male,24,i̇zmir,silver,tablet,email,credit card,fashion,4,518.27,0.219,2.0,4.7,True
+2022,female,19,antalya,bronze,mobile,social,bank transfer,electronics,1,422.76,0.172,3.0,3.5,False
+2024,male,37,ankara,guest,mobile,social,credit card,groceries,4,156.52,0.222,3.0,4.0,False
+2023,female,52,adana,gold,tablet,paid search,credit card,electronics,1,287.69,0.207,3.0,4.0,True
+2021,female,50,mersin,bronze,tablet,email,digital wallet,home & kitchen,2,266.49,0.173,3.0,4.0,False
+2024,male,46,mersin,bronze,mobile,email,digital wallet,electronics,2,513.64,0.188,3.0,3.6,False
+2024,female,40,i̇stanbul,silver,mobile,paid search,credit card,beauty,2,165.22,0.233,3.0,4.9,True
+2023,male,18,ankara,bronze,mobile,paid search,cash on delivery,electronics,1,200.37,0.124,2.74,3.9,False
+2024,female,38,i̇stanbul,bronze,tablet,email,credit card,fashion,6,1404.81,0.139,1.0,4.6,False
+2019,male,30,antalya,silver,mobile,social,cash on delivery,fashion,3,499.62,0.199,3.0,5.0,True
+2021,male,41,ankara,bronze,mobile,organic,debit card,beauty,4,207.59,0.13,3.0,4.2,False
+2020,male,23,konya,silver,mobile,referral,credit card,sports,3,344.21,0.046,3.0,4.0,False
+2022,male,39,antalya,silver,mobile,paid search,credit card,home & kitchen,1,192.44,0.323,3.0,4.0,True
+2022,female,28,gaziantep,guest,desktop,social,digital wallet,books & stationery,2,251.0,0.075,3.0,4.1,True
+2018,female,39,ankara,gold,desktop,email,digital wallet,groceries,6,208.41,0.21,3.0,3.0,False
+2018,male,18,ankara,silver,mobile,organic,credit card,fashion,3,368.74,0.101,3.0,3.9,True
+2018,female,40,antalya,gold,mobile,paid search,credit card,electronics,1,775.78,0.268,3.0,3.8,False
+2022,male,25,konya,bronze,desktop,paid search,cash on delivery,electronics,1,1192.76,0.128,4.0,3.3,True
+2018,female,31,mersin,guest,mobile,organic,cash on delivery,electronics,2,665.71,0.181,3.0,3.4,False
+2022,female,20,gaziantep,bronze,mobile,organic,digital wallet,groceries,5,213.53,0.164,4.0,3.9,False
+2022,male,18,i̇stanbul,guest,mobile,paid search,credit card,beauty,3,634.85,0.194,2.0,3.0,True
+2021,male,24,i̇stanbul,gold,tablet,social,cash on delivery,fashion,6,488.89,0.195,3.0,3.4,True
+2024,female,32,i̇stanbul,guest,desktop,paid search,digital wallet,fashion,5,443.81,0.212,3.0,4.2,False
+2020,male,27,antalya,silver,mobile,paid search,cash on delivery,home & kitchen,2,270.37,0.0,2.0,5.0,True
+2018,female,25,konya,guest,mobile,organic,cash on delivery,home & kitchen,2,310.11,0.096,2.0,3.9,False
+2019,male,41,trabzon,bronze,desktop,paid search,credit card,books & stationery,2,114.15,0.171,4.0,4.1,True
+2022,male,33,adana,guest,mobile,organic,credit card,books & stationery,1,95.73,0.141,3.0,4.02,False
+2023,male,42,i̇stanbul,silver,mobile,organic,bank transfer,sports,5,1639.37,0.0,2.0,3.4,False
+2021,male,36,i̇stanbul,bronze,desktop,email,cash on delivery,beauty,5,665.71,0.195,2.0,5.0,False
+2024,female,38,eskişehir,guest,mobile,paid search,digital wallet,fashion,2,1107.87,0.122,3.0,4.7,True
+2024,male,33,konya,silver,mobile,social,credit card,books & stationery,3,136.39,0.231,4.0,4.0,False
+2020,female,22,mersin,bronze,mobile,social,credit card,electronics,1,255.8,0.219,3.0,4.3,False
+2024,male,60,i̇stanbul,bronze,desktop,organic,credit card,sports,1,266.85,0.155,2.0,4.4,True
+2023,male,37,ankara,guest,mobile,organic,credit card,fashion,3,585.29,0.021,2.0,4.2,True
+2020,female,39,antalya,bronze,mobile,organic,digital wallet,electronics,1,921.17,0.068,4.0,4.2,True
+2019,male,32,i̇stanbul,bronze,desktop,referral,cash on delivery,home & kitchen,1,413.48,0.001,2.68,4.3,False
+2024,male,23,i̇zmir,bronze,mobile,organic,digital wallet,home & kitchen,3,471.85,0.11,3.0,2.9,True
+2023,male,29,ankara,bronze,desktop,organic,credit card,beauty,3,631.14,0.041,2.0,4.4,False
+2023,female,33,kayseri,gold,mobile,paid search,credit card,home & kitchen,3,1147.01,0.098,2.0,4.0,False
+2024,male,45,mersin,silver,mobile,email,debit card,beauty,2,406.96,0.26,3.0,4.0,False
+2020,male,23,ankara,bronze,mobile,email,cash on delivery,sports,3,467.52,0.245,3.0,4.0,False
+2018,male,38,gaziantep,bronze,mobile,organic,cash on delivery,home & kitchen,2,946.75,0.0,3.0,4.0,False
+2019,female,38,gaziantep,bronze,mobile,paid search,credit card,home & kitchen,1,416.87,0.095,2.0,3.5,False
+2019,female,18,i̇zmir,guest,mobile,social,digital wallet,sports,1,218.9,0.218,3.0,3.4,True
+2018,female,31,i̇stanbul,guest,desktop,paid search,credit card,home & kitchen,3,473.3,0.204,2.0,3.5,True
+2023,male,18,eskişehir,bronze,desktop,organic,digital wallet,fashion,5,723.16,0.13,2.0,4.7,True
+2018,male,32,ankara,silver,desktop,social,cash on delivery,groceries,3,85.61,0.191,1.0,4.5,True
+2022,male,38,antalya,bronze,desktop,organic,cash on delivery,electronics,1,593.14,0.188,3.0,3.7,False
+2024,female,18,konya,guest,mobile,organic,digital wallet,beauty,2,512.43,0.039,4.0,3.0,False
+2020,male,45,konya,silver,mobile,social,cash on delivery,electronics,3,665.71,0.193,3.0,5.0,True
+2018,male,32,i̇stanbul,gold,mobile,organic,bank transfer,electronics,2,665.71,0.0,1.0,4.6,True
+2024,male,33,ankara,gold,mobile,paid search,cash on delivery,beauty,1,209.35,0.2,3.0,4.3,False
+2022,female,43,gaziantep,bronze,mobile,paid search,digital wallet,beauty,2,260.03,0.251,4.0,3.9,True
+2023,female,27,gaziantep,gold,mobile,organic,credit card,groceries,2,773.99,0.172,4.0,4.2,True
+2020,female,42,i̇stanbul,silver,mobile,paid search,cash on delivery,groceries,2,76.2,0.142,3.0,3.8,False
+2023,male,51,bursa,silver,mobile,email,credit card,home & kitchen,1,228.88,0.177,3.0,4.1,False
+2023,female,31,i̇stanbul,gold,desktop,organic,debit card,home & kitchen,1,262.95,0.072,3.0,4.7,False
+2021,male,36,i̇stanbul,bronze,desktop,organic,credit card,home & kitchen,4,1273.46,0.138,2.0,3.5,True
+2020,female,23,ankara,bronze,mobile,email,credit card,fashion,1,124.31,0.245,4.0,3.9,True
+2020,female,42,ankara,guest,mobile,email,credit card,electronics,1,427.86,0.236,4.0,2.9,False
+2021,male,32,antalya,bronze,mobile,organic,cash on delivery,fashion,2,313.02,0.058,2.0,3.7,False
+2018,female,28,i̇zmir,bronze,desktop,organic,credit card,fashion,1,107.38,0.17,1.0,3.4,False
+2024,male,49,konya,bronze,mobile,paid search,credit card,fashion,4,961.41,0.131,2.0,4.5,False
+2019,female,45,konya,bronze,mobile,social,credit card,fashion,1,169.51,0.234,3.0,3.4,True
+2022,female,31,i̇stanbul,bronze,mobile,paid search,credit card,beauty,2,231.52,0.117,3.0,3.5,False
+2020,female,43,i̇stanbul,guest,mobile,organic,credit card,electronics,1,419.85,0.091,2.0,4.6,False
+2023,female,40,adana,guest,mobile,organic,credit card,home & kitchen,3,350.01,0.091,2.0,4.8,False
+2024,male,21,i̇stanbul,gold,mobile,social,credit card,fashion,2,665.71,0.072,2.0,4.0,True
+2024,male,21,ankara,guest,mobile,social,credit card,home & kitchen,3,1428.45,0.115,3.0,4.1,False
+2022,male,49,i̇stanbul,bronze,mobile,email,credit card,fashion,2,332.16,0.036,2.0,4.3,True
+2021,female,53,konya,gold,mobile,referral,credit card,home & kitchen,2,786.19,0.091,4.0,4.2,False
+2024,female,43,i̇stanbul,silver,mobile,organic,debit card,electronics,1,805.59,0.13,3.0,5.0,True
+2024,female,30,ankara,guest,mobile,organic,credit card,fashion,2,379.35,0.044,2.68,5.0,True
+2019,male,42,ankara,guest,mobile,organic,credit card,fashion,2,205.07,0.0,2.0,3.9,False
+2023,male,21,eskişehir,silver,mobile,email,credit card,electronics,2,1106.12,0.232,2.0,4.5,False
+2022,male,28,i̇stanbul,silver,mobile,paid search,digital wallet,books & stationery,1,330.32,0.154,2.74,3.3,True
+2021,male,35,antalya,guest,mobile,email,credit card,fashion,1,249.91,0.123,2.0,4.4,True
+2018,male,25,i̇stanbul,bronze,mobile,organic,credit card,groceries,5,290.86,0.147,1.0,3.7,False
+2023,female,27,kayseri,guest,mobile,organic,cash on delivery,electronics,3,1622.48,0.051,2.0,4.6,False
+2021,male,33,i̇zmir,bronze,mobile,social,credit card,fashion,3,213.48,0.185,3.0,3.8,False
+2020,male,27,i̇stanbul,silver,mobile,referral,digital wallet,home & kitchen,1,513.64,0.104,3.0,3.9,True
+2021,male,25,i̇stanbul,bronze,mobile,organic,credit card,beauty,2,191.9,0.145,3.0,3.4,True
+2019,male,29,i̇stanbul,gold,mobile,organic,credit card,electronics,1,1165.89,0.102,4.0,3.1,True
+2024,male,18,i̇stanbul,silver,mobile,email,bank transfer,home & kitchen,3,979.65,0.229,1.0,4.8,True
+2020,female,39,mersin,guest,desktop,email,credit card,electronics,1,975.5,0.218,4.0,4.1,False
+2023,male,53,i̇stanbul,silver,desktop,organic,credit card,books & stationery,3,238.55,0.137,1.0,3.8,True
+2020,female,18,bursa,bronze,mobile,social,credit card,groceries,4,186.7,0.089,2.0,4.5,False
+2024,female,29,i̇stanbul,guest,mobile,organic,debit card,fashion,4,665.71,0.098,4.0,3.9,False
+2024,male,28,antalya,bronze,desktop,social,credit card,fashion,4,665.71,0.086,4.0,4.6,False
+2021,female,27,ankara,guest,mobile,paid search,credit card,fashion,1,192.76,0.098,3.0,3.2,False
+2022,male,22,kayseri,silver,mobile,paid search,cash on delivery,books & stationery,1,41.99,0.209,3.0,3.6,False
+2024,female,23,ankara,bronze,mobile,social,cash on delivery,beauty,3,510.64,0.193,2.68,3.2,True
+2022,male,33,antalya,bronze,mobile,organic,credit card,fashion,3,161.92,0.283,3.0,4.0,True
+2019,male,40,i̇zmir,silver,desktop,email,digital wallet,beauty,2,519.76,0.19,1.0,4.5,False
+2023,female,31,ankara,bronze,desktop,social,cash on delivery,electronics,1,854.1,0.213,4.0,4.0,True
+2020,female,32,i̇stanbul,silver,tablet,organic,credit card,home & kitchen,4,1222.81,0.061,3.0,3.7,False
+2019,male,18,i̇stanbul,guest,desktop,organic,credit card,fashion,1,235.07,0.009,1.0,4.3,False
+2019,male,33,i̇zmir,silver,mobile,paid search,digital wallet,fashion,3,183.29,0.118,3.0,4.1,False
+2023,female,18,mersin,bronze,mobile,organic,cash on delivery,electronics,1,1132.21,0.234,2.0,3.7,False
+2024,female,21,bursa,guest,mobile,organic,credit card,fashion,4,544.95,0.068,3.0,3.9,False
+2023,female,37,eskişehir,gold,desktop,social,credit card,groceries,5,169.49,0.016,2.0,3.7,False
+2023,male,27,antalya,bronze,mobile,paid search,debit card,groceries,5,112.79,0.23,4.0,3.3,False
+2021,female,42,eskişehir,guest,desktop,paid search,credit card,groceries,1,52.79,0.141,3.0,5.0,False
+2020,female,27,ankara,silver,mobile,paid search,debit card,beauty,3,342.51,0.19,4.0,3.6,False
+2020,female,40,i̇zmir,gold,mobile,organic,credit card,sports,2,545.0,0.118,2.0,3.8,False
+2023,female,18,eskişehir,bronze,mobile,social,cash on delivery,home & kitchen,2,361.78,0.142,3.0,4.0,False
+2020,male,21,i̇zmir,guest,mobile,social,credit card,sports,2,408.33,0.159,3.0,4.1,True
+2023,male,35,ankara,bronze,mobile,organic,credit card,fashion,4,903.54,0.038,2.0,5.0,False
+2024,female,34,i̇stanbul,silver,mobile,organic,credit card,electronics,1,558.71,0.172,3.0,4.3,True
+2024,female,51,antalya,bronze,desktop,email,credit card,fashion,5,665.71,0.3,3.0,3.2,False
+2022,male,33,ankara,bronze,mobile,paid search,credit card,home & kitchen,1,164.48,0.102,3.0,3.9,False
+2022,male,22,antalya,silver,desktop,social,credit card,sports,2,636.97,0.203,3.0,3.9,False
+2023,female,39,i̇stanbul,gold,mobile,email,credit card,books & stationery,2,130.0,0.099,1.0,4.8,True
+2023,female,18,gaziantep,bronze,mobile,organic,bank transfer,books & stationery,2,107.83,0.079,2.74,4.8,False
+2024,female,44,trabzon,gold,desktop,email,cash on delivery,sports,3,470.26,0.268,4.0,4.2,False
+2019,male,26,i̇zmir,guest,tablet,organic,credit card,fashion,4,1094.64,0.087,2.0,4.1,False
+2022,male,32,antalya,silver,mobile,social,bank transfer,fashion,5,1459.51,0.23,4.0,5.0,True
+2019,female,47,i̇stanbul,silver,mobile,referral,credit card,sports,1,260.69,0.076,2.0,4.3,False
+2020,male,38,i̇zmir,silver,mobile,organic,credit card,fashion,3,635.52,0.06,3.0,3.6,False
+2019,male,21,bursa,guest,mobile,referral,digital wallet,sports,1,248.75,0.13,2.0,4.3,False
+2022,female,44,gaziantep,bronze,tablet,organic,cash on delivery,electronics,2,1337.99,0.14,3.0,3.6,True
+2019,female,21,i̇stanbul,bronze,mobile,organic,debit card,electronics,2,665.71,0.024,3.0,3.8,True
+2021,male,27,i̇stanbul,guest,mobile,social,digital wallet,sports,1,314.75,0.056,2.0,4.6,False
+2019,male,30,mersin,silver,mobile,organic,credit card,books & stationery,1,123.23,0.058,4.0,4.1,False
+2023,male,25,bursa,guest,mobile,organic,credit card,groceries,2,474.48,0.076,3.0,3.5,True
+2021,male,37,i̇stanbul,bronze,mobile,organic,credit card,groceries,4,175.23,0.0,2.0,4.6,False
+2024,male,33,ankara,silver,mobile,organic,credit card,books & stationery,4,333.14,0.086,3.0,4.0,False
+2022,male,34,konya,bronze,mobile,organic,digital wallet,groceries,5,243.13,0.077,4.0,3.9,False
+2021,male,56,i̇stanbul,silver,mobile,organic,credit card,home & kitchen,4,1555.24,0.093,1.0,4.8,False
+2020,male,45,i̇stanbul,bronze,mobile,organic,credit card,beauty,2,265.54,0.06,2.0,4.8,False
+2022,male,39,i̇zmir,guest,mobile,paid search,credit card,books & stationery,2,167.88,0.179,3.0,4.2,False
+2022,female,55,kayseri,guest,desktop,paid search,credit card,fashion,1,300.76,0.148,3.0,3.9,False
+2024,male,33,gaziantep,bronze,mobile,paid search,debit card,fashion,5,1336.61,0.182,3.0,4.0,False
+2022,male,49,ankara,gold,desktop,referral,credit card,beauty,1,74.03,0.128,3.0,3.3,False
+2022,female,43,trabzon,bronze,mobile,paid search,credit card,fashion,3,204.61,0.202,2.0,4.0,True
+2023,female,31,ankara,guest,mobile,organic,cash on delivery,fashion,4,285.83,0.041,1.0,2.8,True
+2024,female,32,adana,bronze,desktop,organic,credit card,fashion,3,788.38,0.086,2.0,3.4,False
+2024,male,18,mersin,silver,mobile,social,cash on delivery,fashion,2,1208.75,0.041,3.0,4.4,True
+2020,male,21,i̇zmir,bronze,mobile,social,debit card,electronics,1,462.79,0.19,4.0,3.2,False
+2021,female,41,eskişehir,silver,mobile,organic,credit card,home & kitchen,1,853.01,0.092,1.0,4.7,False
+2023,female,33,i̇stanbul,bronze,mobile,social,cash on delivery,beauty,1,146.59,0.049,4.0,3.9,False
+2019,female,29,mersin,silver,mobile,organic,credit card,home & kitchen,1,396.23,0.083,3.0,3.9,False
+2021,male,35,i̇zmir,guest,mobile,referral,credit card,beauty,2,160.98,0.035,2.0,4.1,False
+2023,female,48,kayseri,bronze,mobile,organic,credit card,sports,3,1113.28,0.101,4.0,3.4,False
+2023,male,44,konya,guest,mobile,organic,debit card,electronics,1,342.38,0.011,3.0,4.5,False
+2019,male,18,bursa,guest,desktop,organic,credit card,fashion,2,255.33,0.177,2.0,5.0,False
+2021,male,40,adana,gold,mobile,paid search,credit card,beauty,1,256.72,0.085,3.0,3.7,False
+2021,male,26,gaziantep,guest,mobile,social,digital wallet,sports,1,176.14,0.164,4.0,3.4,False
+2020,female,34,adana,bronze,tablet,email,credit card,home & kitchen,1,160.61,0.314,4.0,3.6,False
+2019,male,28,antalya,silver,mobile,organic,credit card,beauty,2,243.3,0.075,2.0,4.2,True
+2021,male,28,ankara,silver,mobile,organic,digital wallet,fashion,3,489.21,0.078,4.0,3.2,True
+2023,female,39,i̇stanbul,bronze,mobile,paid search,credit card,fashion,3,737.67,0.214,2.0,4.5,True
+2020,female,24,i̇zmir,guest,desktop,organic,credit card,fashion,2,971.36,0.022,4.0,3.1,False
+2023,female,42,mersin,silver,desktop,paid search,credit card,groceries,2,368.93,0.159,4.0,2.4,True
+2024,female,42,i̇zmir,gold,desktop,organic,credit card,home & kitchen,5,665.71,0.177,2.0,4.8,False
+2019,female,18,antalya,bronze,desktop,referral,debit card,fashion,1,330.38,0.082,3.0,3.0,True
+2022,male,28,antalya,guest,desktop,social,credit card,groceries,6,398.39,0.141,3.0,3.3,False
+2020,male,32,adana,bronze,mobile,social,cash on delivery,groceries,2,77.75,0.181,1.0,4.4,True
+2021,female,33,antalya,gold,mobile,organic,credit card,sports,5,665.71,0.115,4.0,3.1,False
+2023,female,27,i̇stanbul,silver,mobile,email,debit card,books & stationery,2,138.16,0.169,3.0,4.2,True
+2019,male,30,i̇stanbul,silver,tablet,email,digital wallet,beauty,1,159.8,0.282,1.0,4.7,True
+2022,male,36,i̇zmir,silver,mobile,social,credit card,fashion,3,1114.0,0.112,3.0,3.7,False
+2023,female,23,antalya,bronze,mobile,organic,credit card,home & kitchen,1,293.28,0.078,3.0,3.5,False
+2023,female,37,adana,silver,mobile,paid search,credit card,books & stationery,3,249.31,0.13,4.0,3.2,False
+2019,male,29,bursa,bronze,desktop,organic,credit card,electronics,1,423.37,0.033,2.0,4.1,False
+2021,female,33,mersin,bronze,mobile,social,credit card,groceries,2,46.11,0.165,4.0,4.1,False
+2024,female,38,adana,gold,mobile,organic,cash on delivery,groceries,6,339.73,0.109,3.0,3.3,False
+2022,male,33,i̇stanbul,bronze,mobile,organic,credit card,fashion,4,1597.55,0.046,2.0,4.1,False
+2021,female,44,i̇zmir,silver,desktop,organic,credit card,groceries,2,445.98,0.074,4.0,4.0,False
+2018,male,40,i̇stanbul,gold,mobile,paid search,credit card,home & kitchen,1,229.13,0.195,2.0,3.8,True
+2023,female,18,i̇stanbul,guest,mobile,organic,credit card,home & kitchen,2,236.09,0.081,2.0,4.8,False
+2023,female,18,antalya,bronze,mobile,paid search,debit card,electronics,1,975.38,0.134,1.0,4.3,True
+2022,male,38,kayseri,guest,mobile,organic,credit card,fashion,2,235.78,0.146,4.0,4.3,False
+2024,female,49,i̇stanbul,bronze,mobile,email,credit card,fashion,1,268.23,0.172,2.0,4.8,True
+2018,male,42,mersin,gold,mobile,referral,credit card,electronics,1,249.35,0.123,4.0,4.1,True
+2022,female,24,i̇stanbul,bronze,desktop,organic,cash on delivery,home & kitchen,3,1034.79,0.092,2.0,3.8,False
+2019,male,33,i̇zmir,silver,mobile,referral,credit card,books & stationery,3,153.13,0.176,4.0,2.6,False
+2019,female,36,i̇stanbul,gold,mobile,organic,credit card,sports,3,1377.98,0.113,4.0,4.1,True
+2020,male,28,i̇stanbul,silver,mobile,organic,credit card,electronics,1,665.71,0.049,2.0,3.8,False
+2020,male,23,i̇stanbul,silver,desktop,organic,cash on delivery,fashion,3,808.59,0.076,4.0,3.8,True
+2019,male,26,i̇zmir,guest,tablet,organic,credit card,fashion,4,1094.64,0.087,2.0,4.1,False
+2023,male,32,bursa,guest,mobile,organic,credit card,beauty,3,511.04,0.004,2.0,4.1,True
+2023,male,25,i̇stanbul,guest,mobile,organic,credit card,books & stationery,1,66.06,0.0,3.0,4.7,True
+2019,male,42,i̇stanbul,guest,desktop,organic,bank transfer,groceries,4,203.26,0.086,2.74,3.9,False
+2018,female,18,i̇stanbul,bronze,mobile,organic,credit card,fashion,3,468.72,0.106,2.0,4.7,False
+2023,male,25,konya,silver,mobile,organic,credit card,home & kitchen,1,202.03,0.075,3.0,3.2,True
+2023,female,27,kayseri,guest,mobile,organic,bank transfer,groceries,3,258.53,0.097,2.0,4.7,False
+2024,female,18,i̇zmir,guest,mobile,organic,cash on delivery,electronics,1,726.37,0.14,3.0,4.6,True
+2024,male,42,i̇stanbul,bronze,desktop,referral,cash on delivery,electronics,1,665.71,0.059,2.0,4.7,True
+2022,male,34,mersin,guest,mobile,organic,credit card,fashion,1,109.54,0.162,2.74,3.3,False
+2019,female,23,i̇stanbul,silver,mobile,social,credit card,fashion,1,169.62,0.14,1.0,4.0,False
+2023,female,44,ankara,bronze,mobile,organic,credit card,beauty,3,419.58,0.188,3.0,3.7,False
+2022,female,35,bursa,silver,mobile,organic,credit card,fashion,4,683.13,0.089,3.0,4.7,False
+2022,male,26,i̇stanbul,bronze,mobile,paid search,credit card,fashion,3,291.75,0.216,2.0,4.1,False
+2020,female,42,i̇stanbul,silver,mobile,social,credit card,home & kitchen,1,138.94,0.258,1.0,3.8,False
