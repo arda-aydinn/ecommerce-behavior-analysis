@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes customer behavior in a synthetic e-commerce dataset from Turkey, focusing on purchasing patterns, demographic differences, membership tiers, discount dynamics, and customer satisfaction.
+This project analyzes customer behavior using a synthetic e-commerce dataset focused on transactions across different cities in Turkey. The analysis explores purchasing patterns, demographic differences, membership tiers, discount dynamics, and customer satisfaction.
 
 The project follows an end-to-end data analysis workflow: raw data inspection, data cleaning, exploratory data analysis, visualization, insight extraction, and final technical reporting.
 
@@ -47,7 +47,7 @@ I served as the **Project Lead & Primary Contributor**. My main responsibilities
 - **Discount Dynamics:** Guest users showed higher variability in discount rates, while loyalty program members had more consistent discount distributions.
 - **Value-Satisfaction Matrix:** Groceries appeared as a risk category due to high spending but relatively low satisfaction, while Home & Kitchen emerged as a strong value-satisfaction category.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Methods Used
 
 - Python
 - Pandas
